@@ -1,0 +1,1455 @@
+1
+00:00:00,000 --> 00:00:07,240
+X ist 4.
+
+2
+00:00:07,700 --> 00:00:11,120
+Wenn wir diesen Wert in die Formel einsetzen, finden wir den Wert für Y.
+
+3
+00:00:11,780 --> 00:00:15,700
+Damit berechnen wir die Koordinaten des Scheitelpunkts und können den Graphen zeichnen.
+
+4
+00:00:30,000 --> 00:00:41,280
+So konzentriert sich nicht genug!
+
+5
+00:00:44,580 --> 00:00:46,100
+Ich mach doch schon!
+
+6
+00:00:46,160 --> 00:00:49,380
+Du hast gespielt, als findest du's furchtbar! Das waren geisteserbesende Töne!
+
+7
+00:00:51,460 --> 00:00:55,560
+Sag mal, muss es beim Galakonzert unbedingt dieses Stück sein?
+
+8
+00:00:55,900 --> 00:00:57,340
+Was denn? Gefällt's dir nicht?
+
+9
+00:01:00,000 --> 00:01:06,100
+Ich finde, wir sollten etwas Auffälligeres spielen. Nehmen wir was Berühmtes.
+
+10
+00:01:06,320 --> 00:01:08,700
+Nix da! Dieses Stück ist das Richtige!
+
+11
+00:01:09,780 --> 00:01:13,160
+Nur keine Sorge! Wenn wir zwei spielen, wird es auffällig.
+
+12
+00:01:20,600 --> 00:01:22,700
+Mann, warum wehrst du dich so gegen das Stück?
+
+13
+00:01:26,360 --> 00:01:29,880
+Dabei waren die Noten doch so sehr erfüllt von Liebe.
+
+14
+00:01:30,000 --> 00:01:36,240
+Kreisler
+
+15
+00:01:36,240 --> 00:01:37,780
+Liebesfreud
+
+16
+00:01:37,780 --> 00:01:48,180
+Liebesleid
+
+17
+00:03:18,320 --> 00:03:24,220
+Kreislas Liebesleid
+
+18
+00:03:24,220 --> 00:03:25,920
+Das Gegenstück zu Liebesfreud
+
+19
+00:03:25,920 --> 00:03:28,560
+Ist ein klassisches Stück für die Geige
+
+20
+00:03:28,560 --> 00:03:33,300
+Für dieses Stück gibt es eine von Rachmaninoff bearbeitete Klavierfassung
+
+21
+00:03:33,300 --> 00:03:37,520
+Nanu, hatte ich das etwa hier reingestellt?
+
+22
+00:03:45,560 --> 00:03:47,280
+Schläfst du wieder unter dem Klavier?
+
+23
+00:03:49,600 --> 00:03:51,140
+Du erkältest dich noch
+
+24
+00:03:51,140 --> 00:03:55,780
+Du bist größer geworden
+
+25
+00:03:55,780 --> 00:03:57,480
+Was, Cose?
+
+26
+00:04:01,700 --> 00:04:03,260
+Das ist deine Strafe
+
+27
+00:04:03,260 --> 00:04:06,640
+Das Klavier gibt dir keine Antwort, nicht wahr?
+
+28
+00:04:09,060 --> 00:04:10,540
+Jetzt wünsche ich mir
+
+29
+00:04:10,540 --> 00:04:12,740
+Du würdest einfach sterben
+
+30
+00:04:12,740 --> 00:04:14,940
+Ich höre sie nicht
+
+31
+00:04:14,940 --> 00:04:17,300
+Hilf mir, Mutter
+
+32
+00:04:17,300 --> 00:04:20,580
+Mann, warum wehrst du dich so gegen das Stück?
+
+33
+00:04:22,740 --> 00:04:24,000
+Tja, warum wohl?
+
+34
+00:04:24,520 --> 00:04:26,940
+Weil es mich immer wieder an meine Mutter erinnert
+
+35
+00:04:26,940 --> 00:04:46,920
+Joko, ich hab keine Zeit, ich muss doch üben
+
+36
+00:04:46,920 --> 00:04:47,760
+Schon gut
+
+37
+00:04:47,760 --> 00:04:49,500
+Du brauchst auch mal etwas Abwechslung
+
+38
+00:04:49,500 --> 00:04:50,840
+Gönn dir eine Pause, ja?
+
+39
+00:04:51,260 --> 00:04:52,760
+Zuck auf, Martian, Eis mit Nieren!
+
+40
+00:04:52,780 --> 00:04:54,460
+Geh mir aber nicht verloren, hörst du?
+
+41
+00:05:00,900 --> 00:05:03,560
+Ich erinnere mich an Rachmaninoffs Liebesleid
+
+42
+00:05:03,560 --> 00:05:06,900
+Saki hat das schon als Studentin ziemlich oft gespielt
+
+43
+00:05:06,900 --> 00:05:10,160
+Sie hat es mir immer als Wegenlied vorgespielt
+
+44
+00:05:10,160 --> 00:05:13,360
+Dieses Stück
+
+45
+00:05:13,360 --> 00:05:15,920
+klingt viel zu sehr nach Mutter
+
+46
+00:05:15,920 --> 00:05:19,720
+Die Erinnerung holt mich ein
+
+47
+00:05:19,720 --> 00:05:21,620
+Ganz lebendig und bunt
+
+48
+00:05:21,620 --> 00:05:25,140
+Kann es vielleicht sein
+
+49
+00:05:25,140 --> 00:05:28,760
+Dass meine Mutter mich gehasst hat?
+
+50
+00:05:30,600 --> 00:05:33,580
+Also ich glaube nicht, dass es Eltern gibt, die ihre Kinder hassen
+
+51
+00:05:33,580 --> 00:05:36,540
+Damals bist du
+
+52
+00:05:36,540 --> 00:05:39,040
+In jenem Moment
+
+53
+00:05:39,040 --> 00:05:41,740
+Als Mensch und Pianist erwachsen geworden
+
+54
+00:05:41,740 --> 00:05:44,720
+Bestimmt hat sich Saki darüber gefreut
+
+55
+00:05:44,720 --> 00:05:55,460
+Entschuldige, da bist du ja, mein Kleiner
+
+56
+00:05:55,460 --> 00:05:58,400
+Doch natürlich ist es auch ein wenig traurig
+
+57
+00:05:58,400 --> 00:06:00,880
+Wenn sich das eigene Kind von einem löst
+
+58
+00:06:00,880 --> 00:06:06,380
+Ich frage mich
+
+59
+00:06:06,380 --> 00:06:09,180
+Ob Mutter mir wohl verzeihen kann
+
+60
+00:06:09,180 --> 00:06:12,980
+Dass ich so verzweifelt versucht habe, sie zu vergessen
+
+61
+00:06:12,980 --> 00:06:18,480
+Ist es okay?
+
+62
+00:06:19,060 --> 00:06:21,400
+Darf ich denn überhaupt so sorglos Klavier spielen?
+
+63
+00:06:24,040 --> 00:06:26,380
+Es gibt nur einen Weg, das herauszufinden
+
+64
+00:06:26,380 --> 00:06:27,080
+Spiel
+
+65
+00:06:27,080 --> 00:06:28,400
+Wenn du ratlos bist
+
+66
+00:06:28,400 --> 00:06:29,780
+Spiel kräftig Klavier
+
+67
+00:06:29,780 --> 00:06:31,620
+Und erinnere dich an Sakis Stimme
+
+68
+00:06:31,620 --> 00:06:32,800
+Ihre Stimme?
+
+69
+00:06:33,860 --> 00:06:35,100
+Mach dich bitte nicht verrückt
+
+70
+00:06:35,100 --> 00:06:37,160
+Sorg dich nicht um dumme Sachen
+
+71
+00:06:37,160 --> 00:06:38,660
+Und werde schnell selbstständig
+
+72
+00:06:38,660 --> 00:06:40,580
+Na los
+
+73
+00:06:40,580 --> 00:06:42,320
+Spielen wir einfach
+
+74
+00:06:42,320 --> 00:06:43,760
+Denn wir sind Pianisten
+
+75
+00:06:43,760 --> 00:06:48,980
+Hier ein Liebesapfel
+
+76
+00:06:48,980 --> 00:06:54,320
+Magst du etwa keine Liebesapfel?
+
+77
+00:06:54,320 --> 00:06:56,860
+Nein, ich hab nur noch nie einen gegessen
+
+78
+00:06:56,860 --> 00:07:00,460
+Jetzt wein doch nicht, ich ess ihn ja schon
+
+79
+00:07:00,460 --> 00:07:01,600
+Danke
+
+80
+00:07:01,600 --> 00:07:04,520
+Ob ich etwas Verletzendes gesagt habe?
+
+81
+00:07:05,000 --> 00:07:07,000
+Aber Kosei muss einfach spielen
+
+82
+00:07:07,000 --> 00:07:09,120
+Um als Pianist zu wachsen
+
+83
+00:07:09,120 --> 00:07:11,440
+Ist das vielleicht lecker?
+
+84
+00:07:13,660 --> 00:07:15,660
+Und um sich zu verabschieden
+
+85
+00:07:15,660 --> 00:07:22,320
+Mann, es ist schon spät
+
+86
+00:07:22,320 --> 00:07:24,820
+Wer von uns wollte denn so lange üben?
+
+87
+00:07:25,040 --> 00:07:26,880
+Du hast doch ewig rumgenörgelt
+
+88
+00:07:26,880 --> 00:07:30,380
+Es ist wirklich verdammt spät geworden
+
+89
+00:07:30,380 --> 00:07:32,820
+Deine Eltern sind bestimmt sauer, oder?
+
+90
+00:07:33,240 --> 00:07:34,180
+Hey, sieh mal!
+
+91
+00:07:34,300 --> 00:07:34,900
+Da, der Himmel!
+
+92
+00:07:34,960 --> 00:07:35,560
+Hör mir zu!
+
+93
+00:07:35,700 --> 00:07:37,060
+Die Sterne sind so schön
+
+94
+00:07:37,060 --> 00:07:38,700
+Als würden sie mit uns sprechen
+
+95
+00:07:38,700 --> 00:07:40,280
+Der Regio hat gesagt,
+
+96
+00:07:40,280 --> 00:07:58,580
+So schön
+
+97
+00:07:58,580 --> 00:08:05,580
+Above the world so high, like a diamond in the sky.
+
+98
+00:08:06,240 --> 00:08:14,800
+Twinkle, twinkle, little star, how I wonder what you are.
+
+99
+00:08:17,320 --> 00:08:18,620
+Eine Konditorei.
+
+100
+00:08:19,320 --> 00:08:20,040
+Bin wieder da.
+
+101
+00:08:21,160 --> 00:08:22,260
+Warte bitte kurz, ja?
+
+102
+00:08:22,660 --> 00:08:24,600
+Kauri, ich fahr jetzt nach Hause.
+
+103
+00:08:24,600 --> 00:08:30,960
+Hey du Lümmel, wer bist du und was willst du von meiner Tochter, hä?
+
+104
+00:08:35,540 --> 00:08:36,660
+Kosei, du?
+
+105
+00:08:38,020 --> 00:08:39,400
+Was für eine Überraschung.
+
+106
+00:08:39,600 --> 00:08:41,460
+Junge, wie schön, dass du uns besuchst.
+
+107
+00:08:42,540 --> 00:08:44,820
+Es sind zwar nur Reste, aber lass es dir bitte schmecken.
+
+108
+00:08:45,520 --> 00:08:47,320
+Vielen Dank, sehr freundlich von Ihnen.
+
+109
+00:08:47,480 --> 00:08:48,760
+Hatten wir nicht noch Kostpum?
+
+110
+00:08:48,920 --> 00:08:50,640
+Nein, danke, das ist schon mehr als genug.
+
+111
+00:08:51,340 --> 00:08:53,420
+Meine Eltern sind große Fans von dir, weißt du?
+
+112
+00:08:53,420 --> 00:08:56,660
+Hm, als ich klein war, waren wir oft bei deinen Wettbewerben.
+
+113
+00:08:57,080 --> 00:08:59,020
+Ich hab's davon gehört, Kosei.
+
+114
+00:08:59,740 --> 00:09:04,220
+Du kannst nicht einfach deinen Auftritt abbrechen, dann war all deine Mühe umsonst, weißt du?
+
+115
+00:09:04,560 --> 00:09:05,380
+Mhm, mhm.
+
+116
+00:09:05,800 --> 00:09:10,800
+So als wäre ein Biskuit gut gelungen, aber die Creme total eklig geraten und darum ist dann leider alles verdorben, nicht wahr?
+
+117
+00:09:11,160 --> 00:09:11,960
+Mhm, mhm.
+
+118
+00:09:12,180 --> 00:09:12,980
+Tut mir leid.
+
+119
+00:09:13,420 --> 00:09:16,680
+Aber den Zuschauern hat's gefallen, ich mag deinen Kampfgeist.
+
+120
+00:09:17,000 --> 00:09:20,860
+Du trägst genau die richtigen Zutaten in dir, Hauptsache am Ende schmeckt es.
+
+121
+00:09:20,860 --> 00:09:22,960
+Oh, vielen Dank.
+
+122
+00:09:23,420 --> 00:09:25,440
+Willst du Fotos aus Karis Grundschulzeit sehen?
+
+123
+00:09:25,620 --> 00:09:26,980
+Sie war so niedlich.
+
+124
+00:09:27,040 --> 00:09:28,640
+Oder welche aus dem Kindergarten.
+
+125
+00:09:28,980 --> 00:09:29,340
+Nein!
+
+126
+00:09:31,160 --> 00:09:32,840
+Hier, für deine Familie.
+
+127
+00:09:33,260 --> 00:09:34,480
+Das ist sehr nett von Ihnen.
+
+128
+00:09:35,100 --> 00:09:36,360
+Danke, dass ich hier essen durfte.
+
+129
+00:09:36,920 --> 00:09:39,100
+Wir kommen zum Gala-Konzert und feuern euch an.
+
+130
+00:09:39,280 --> 00:09:40,280
+Gebt euer Bestes.
+
+131
+00:09:40,560 --> 00:09:42,220
+Ja, ich werde alles geben.
+
+132
+00:09:42,380 --> 00:09:43,720
+Ich begleite ihn noch ein Stück.
+
+133
+00:09:43,720 --> 00:09:55,880
+Das ist also Kosei Arima.
+
+134
+00:09:56,340 --> 00:09:58,660
+Was für ein höflicher und netter Junge.
+
+135
+00:09:59,860 --> 00:10:00,200
+Ja.
+
+136
+00:10:00,200 --> 00:10:01,900
+Mann!
+
+137
+00:10:02,680 --> 00:10:06,260
+Sie haben sogar Bilder von mir als Baby rausgekramt und auf den Weichnackt.
+
+138
+00:10:06,340 --> 00:10:07,940
+Oh, so will ich niemals einen Mann.
+
+139
+00:10:08,060 --> 00:10:09,860
+Deine Eltern machen einen fröhlichen Eindruck.
+
+140
+00:10:10,960 --> 00:10:14,100
+Mama wirft mich dem hungrigen Köter einfach zum Fraß vor.
+
+141
+00:10:14,540 --> 00:10:15,480
+Meinst du etwa mich?
+
+142
+00:10:17,480 --> 00:10:17,960
+Nanu?
+
+143
+00:10:17,960 --> 00:10:23,860
+Kann es sein, dass du gewachsen bist?
+
+144
+00:10:24,100 --> 00:10:25,640
+Am guten möglich.
+
+145
+00:10:26,480 --> 00:10:27,180
+Ah, ich weiß.
+
+146
+00:10:27,260 --> 00:10:29,340
+Es liegt daran, dass du den Kopf nicht mehr hängen lässt.
+
+147
+00:10:30,620 --> 00:10:33,160
+Oh Mann, der Sommer ist heiß dieses Jahr, was?
+
+148
+00:10:34,660 --> 00:10:35,720
+Harmlose Gespräche.
+
+149
+00:10:36,360 --> 00:10:37,940
+Eine Aussicht, die es oft gibt.
+
+150
+00:10:38,020 --> 00:10:39,460
+Die Luft ist total feucht.
+
+151
+00:10:40,080 --> 00:10:42,380
+Echt schade, wenn es so schwül ist, wird man antriebslos.
+
+152
+00:10:43,160 --> 00:10:46,780
+Dass ich mich trotzdem gut daran erinnere, liegt vielleicht...
+
+153
+00:10:46,780 --> 00:10:47,460
+Weißt du was?
+
+154
+00:10:47,960 --> 00:10:50,340
+Ich mag den Sommer trotzdem, wegen der Feuerwerke.
+
+155
+00:10:51,500 --> 00:10:52,960
+Liegt ganz bestimmt...
+
+156
+00:10:56,260 --> 00:10:59,640
+an der Sommernacht.
+
+157
+00:11:08,240 --> 00:11:10,440
+Ey, wie oft soll ich dir das noch sagen?
+
+158
+00:11:10,680 --> 00:11:12,200
+Es muss anmutiger klingen!
+
+159
+00:11:12,320 --> 00:11:16,100
+Aber Begleiter können die Anweisung nicht einfach ignorieren, sonst fällt das Geigenspiel gar nicht auf!
+
+160
+00:11:16,100 --> 00:11:17,620
+Ach, wie friedlich.
+
+161
+00:11:17,960 --> 00:11:18,920
+Du bist so arrogant!
+
+162
+00:11:18,920 --> 00:11:21,560
+Sag mal, wo ist mein Grüntee-Eis?
+
+163
+00:11:22,200 --> 00:11:23,520
+Ach, das esse ich gerade.
+
+164
+00:11:23,920 --> 00:11:24,840
+Du Monster!
+
+165
+00:11:25,740 --> 00:11:27,600
+Mein schönes Grüntee-Eis.
+
+166
+00:11:27,980 --> 00:11:28,680
+Ich hab's satt.
+
+167
+00:11:28,780 --> 00:11:30,920
+Ich will nicht mehr zum doofen Repetitorium.
+
+168
+00:11:31,060 --> 00:11:33,440
+Ich will zum Scheißes und Feuerwerk machen.
+
+169
+00:11:33,440 --> 00:11:35,280
+Boah, genau das machen wir!
+
+170
+00:11:35,280 --> 00:11:35,860
+Wir!
+
+171
+00:11:35,960 --> 00:11:36,780
+Hm?
+
+172
+00:11:36,780 --> 00:11:37,880
+Heh, heh, heh, heh.
+
+173
+00:11:37,880 --> 00:11:39,120
+Unser erstes Feuerwerk!
+
+174
+00:11:39,760 --> 00:11:40,840
+Ist das nicht schön?
+
+175
+00:11:40,840 --> 00:11:44,280
+Ob das nicht aufliegt, dass wir hier heimlich am Pool Feuerwerk machen?
+
+176
+00:11:44,380 --> 00:11:45,880
+Ach, nur keine Sorge.
+
+177
+00:11:45,880 --> 00:11:46,600
+Genau!
+
+178
+00:11:46,600 --> 00:11:47,860
+Alle Lehrer sind schon nach Hause gegangen.
+
+179
+00:11:47,860 --> 00:11:50,740
+Außerdem haben wir reichlich Wasser, da kann nichts schief gehen.
+
+180
+00:11:51,980 --> 00:11:54,020
+Raketen werden aber trotzdem nicht abgeschossen.
+
+181
+00:12:00,380 --> 00:12:01,960
+Was ist denn mit der los?
+
+182
+00:12:02,900 --> 00:12:05,720
+Ätzend. Morgen hab ich schon wieder Repetitorium.
+
+183
+00:12:05,880 --> 00:12:09,240
+Naja, gib's auf. Du bist nun mal nicht die hellste, Zubaki.
+
+184
+00:12:10,500 --> 00:12:12,440
+Halt die Klappe, du hast gut reden!
+
+185
+00:12:13,220 --> 00:12:14,760
+Und was habt ihr zwei für Pläne?
+
+186
+00:12:14,760 --> 00:12:19,020
+Nach der Mittelschule. Ihr geht ja nicht zum Repetitorium.
+
+187
+00:12:19,740 --> 00:12:21,260
+Wollt ihr beide auf eine musische Schule?
+
+188
+00:12:23,120 --> 00:12:23,760
+Naja, ich...
+
+189
+00:12:28,280 --> 00:12:33,760
+Ich denke nicht besonders viel über die Zukunft nach.
+
+190
+00:12:33,760 --> 00:12:45,880
+Erstmal bringen wir die Zuschauer beim Galakonzert zum Toben.
+
+191
+00:12:46,400 --> 00:12:48,240
+Denn dort sind wir immerhin die Hauptattraktion.
+
+192
+00:12:49,160 --> 00:12:51,220
+Das wird ein Kinderspiel. Wir sind doch die Besten.
+
+193
+00:12:52,360 --> 00:12:53,900
+Das ist die richtige Einstellung.
+
+194
+00:12:53,900 --> 00:13:09,100
+Ja, die beiden sehen aus wie gemalt.
+
+195
+00:13:14,740 --> 00:13:15,780
+Los mit dir!
+
+196
+00:13:15,780 --> 00:13:26,400
+Der düstere Grund.
+
+197
+00:13:27,220 --> 00:13:28,440
+Man hört keine Töne.
+
+198
+00:13:29,660 --> 00:13:30,600
+Genau wie in mir.
+
+199
+00:13:31,720 --> 00:13:32,340
+Hilft mir!
+
+200
+00:13:33,000 --> 00:13:33,800
+Hilft mir!
+
+201
+00:13:35,220 --> 00:13:36,580
+Ich kann gar nichts hören.
+
+202
+00:13:37,020 --> 00:13:37,920
+Es ist dunkel.
+
+203
+00:13:38,500 --> 00:13:39,340
+So dunkel!
+
+204
+00:13:39,340 --> 00:13:45,080
+Dass du die Töne nicht hören kannst, bedeutet vielleicht, dass du nicht an die hörbaren Töne gebunden bist.
+
+205
+00:13:45,960 --> 00:13:47,980
+Hörbare Töne? Wie meinst du das?
+
+206
+00:13:48,820 --> 00:13:50,460
+Ich spreche von deiner Fantasie.
+
+207
+00:13:52,040 --> 00:13:57,920
+Du gibst unbewusst den Tönen Vorrang, die ganz tief aus deinem Herzen aufsteigen, mein lieber Kosei.
+
+208
+00:13:58,060 --> 00:13:59,420
+Den Klängen in dir drin.
+
+209
+00:14:00,120 --> 00:14:01,500
+Du hast es doch gespürt, oder?
+
+210
+00:14:02,160 --> 00:14:03,740
+Das Bild in deinem Herzen.
+
+211
+00:14:03,740 --> 00:14:07,020
+Die Töne, voll mit Wünschen und Gefühlen.
+
+212
+00:14:07,700 --> 00:14:11,760
+Dass du die Töne nicht mehr hören kannst, ist bestimmt ein Geschenk.
+
+213
+00:14:13,120 --> 00:14:14,200
+Ein Geschenk?
+
+214
+00:14:15,240 --> 00:14:17,580
+Schließe deine Augen und halte dir die Ohren zu.
+
+215
+00:14:18,180 --> 00:14:20,320
+Lass alles raus. Spiel einfach nach Gefühl.
+
+216
+00:14:20,860 --> 00:14:23,060
+Die Theorie beherrschst du doch schon lange genug, oder?
+
+217
+00:14:24,100 --> 00:14:28,580
+Die Technik, um die Töne in dir drin, um deine Gefühle nachzeichnen zu können.
+
+218
+00:14:28,580 --> 00:14:33,920
+Bestimmt sind das die Erinnerungen, die Saki dir hinterlassen hat.
+
+219
+00:14:34,900 --> 00:14:36,680
+Kann es sein, dass du gewachsen bist?
+
+220
+00:14:37,740 --> 00:14:40,660
+Ah, ich weiß, es liegt daran, dass du den Kopf nicht mehr hängen lässt.
+
+221
+00:14:42,740 --> 00:14:44,280
+Weil du nach vorne blickst.
+
+222
+00:14:44,280 --> 00:15:14,260
+Ich weiß, es ist ein Geschenk.
+
+223
+00:15:14,280 --> 00:15:17,720
+Da-da-da-da-da-da-da-da
+
+224
+00:15:17,720 --> 00:15:26,500
+Kosei, wach auf!
+
+225
+00:15:27,660 --> 00:15:28,340
+Kosei!
+
+226
+00:15:30,420 --> 00:15:31,580
+Ihnen geht's gut.
+
+227
+00:15:31,720 --> 00:15:32,520
+Noch mal Glück gehabt.
+
+228
+00:15:33,000 --> 00:15:34,380
+Hab ich mich erschreckt.
+
+229
+00:15:34,800 --> 00:15:35,840
+Oh Mann!
+
+230
+00:15:36,780 --> 00:15:40,280
+Du wärst wegen mir fast in diesem blöden Schwimmbecken ersoffen.
+
+231
+00:15:40,400 --> 00:15:41,700
+Tut mir leid, Kosei.
+
+232
+00:15:41,700 --> 00:15:44,880
+Ich hab dir das Leben gerettet und so'n Dank krieg ich ne Kopfnuss.
+
+233
+00:15:45,060 --> 00:15:45,620
+Brechheit.
+
+234
+00:15:48,900 --> 00:15:50,240
+Liegt es am Schwimmbecken?
+
+235
+00:15:51,780 --> 00:15:53,300
+Oder an dem leuchtenden Mond?
+
+236
+00:15:56,020 --> 00:15:56,500
+Vielleicht
+
+237
+00:15:56,500 --> 00:15:59,200
+erreicht es Licht
+
+238
+00:15:59,200 --> 00:16:03,100
+sogar den tiefsten Meeresgrund.
+
+239
+00:16:03,100 --> 00:16:09,580
+Kaori tritt auch auf, oder?
+
+240
+00:16:10,160 --> 00:16:12,200
+Ach, die, die ihren Auftritt abgebrochen hat?
+
+241
+00:16:12,660 --> 00:16:14,320
+Ich versteh den Veranstalter nicht.
+
+242
+00:16:14,440 --> 00:16:15,540
+Gerade deswegen.
+
+243
+00:16:15,640 --> 00:16:16,540
+Das macht Eindruck.
+
+244
+00:16:17,600 --> 00:16:19,600
+Ich bin gespannt, ob sie heute ordentlich spielt.
+
+245
+00:16:19,760 --> 00:16:21,120
+Vielleicht randaliert sie ja wieder.
+
+246
+00:16:21,300 --> 00:16:22,680
+Ich bin nur ihretwegen hier.
+
+247
+00:16:22,680 --> 00:16:22,820
+Hm.
+
+248
+00:16:22,820 --> 00:16:23,820
+Hm.
+
+249
+00:16:30,140 --> 00:16:30,580
+Okay.
+
+250
+00:16:31,000 --> 00:16:31,960
+Keiner da, den ich kenne.
+
+251
+00:16:32,160 --> 00:16:32,700
+Hallo, Emi.
+
+252
+00:16:33,440 --> 00:16:33,840
+Ah!
+
+253
+00:16:36,500 --> 00:16:37,600
+Setzt du dich nicht rein?
+
+254
+00:16:37,700 --> 00:16:38,060
+Wow.
+
+255
+00:16:38,500 --> 00:16:39,760
+Uchi, ich...
+
+256
+00:16:39,760 --> 00:16:40,680
+Äh...
+
+257
+00:16:40,680 --> 00:16:41,360
+Emi?
+
+258
+00:16:41,600 --> 00:16:42,340
+Wer ist denn das?
+
+259
+00:16:42,440 --> 00:16:43,000
+Tu nicht so.
+
+260
+00:16:43,200 --> 00:16:45,600
+Ich hab dir doch erzählt, dass Kosei heute die Begleitung spielt.
+
+261
+00:16:45,780 --> 00:16:46,000
+Ah!
+
+262
+00:16:46,640 --> 00:16:47,940
+Aber so ist das gar nicht.
+
+263
+00:16:48,020 --> 00:16:49,260
+Ich bin doch nicht wegen Kosei.
+
+264
+00:16:49,340 --> 00:16:50,360
+Hier, so ein Blödsinn.
+
+265
+00:16:50,620 --> 00:16:52,340
+Also naja, ich will einfach nur die Geigen.
+
+266
+00:16:52,340 --> 00:16:53,900
+Hier, bitte, das Programmheft.
+
+267
+00:16:55,760 --> 00:16:56,320
+Gehen wir?
+
+268
+00:16:57,280 --> 00:16:58,380
+Es fängt jeden Moment an.
+
+269
+00:16:59,340 --> 00:17:00,260
+So eine Hexe.
+
+270
+00:17:04,600 --> 00:17:08,680
+Bei Galakonzerten muss ich nicht beurteilen und kann einfach die Musik genießen.
+
+271
+00:17:08,680 --> 00:17:12,020
+Auf diesem Level hört man natürlich ausschließlich talentierter Musiker.
+
+272
+00:17:12,640 --> 00:17:13,520
+Ich freue mich schon.
+
+273
+00:17:13,940 --> 00:17:15,440
+Bald ist meine Favoritin dran.
+
+274
+00:17:17,460 --> 00:17:19,200
+Was kalt sie denn nun, hä?
+
+275
+00:17:19,200 --> 00:17:22,180
+Das ist doch völlig absurd, dass die Geigerin nicht kommt.
+
+276
+00:17:22,420 --> 00:17:24,080
+Ist sie Michelangeli oder Pummel?
+
+277
+00:17:24,200 --> 00:17:25,660
+Bitte, Sie haben jetzt angefangen.
+
+278
+00:17:25,740 --> 00:17:27,240
+Ist Kaori erst mal immer noch nicht da?
+
+279
+00:17:28,700 --> 00:17:31,340
+Ist diese Kaori Mia-Sono so unzuverlässig?
+
+280
+00:17:31,400 --> 00:17:34,720
+Ich versuch schon die ganze Zeit, sie zu erreichen, aber sie geht einfach nicht an ihr Handy.
+
+281
+00:17:34,720 --> 00:17:53,160
+Jetzt stecke ich echt in Schwierigkeiten.
+
+282
+00:17:53,360 --> 00:17:55,500
+Na los, wir gehen schon mal rein und bereiten alles vor.
+
+283
+00:17:55,880 --> 00:17:57,920
+Wir müssen einfach hoffen, dass Kaori nachkommt.
+
+284
+00:17:58,420 --> 00:17:59,980
+Und du versuchst weiter, sie zu erreichen.
+
+285
+00:18:00,120 --> 00:18:01,120
+Kann ich mich darauf verlassen?
+
+286
+00:18:01,120 --> 00:18:02,620
+Verstanden, gut gemacht.
+
+287
+00:18:02,680 --> 00:18:03,320
+Super, danke.
+
+288
+00:18:03,880 --> 00:18:04,560
+Sehr gern.
+
+289
+00:18:05,100 --> 00:18:05,780
+Viel Glück.
+
+290
+00:18:12,840 --> 00:18:14,000
+Was machen wir jetzt?
+
+291
+00:18:14,000 --> 00:18:16,620
+Wir fragen, ob sie die Reihenfolge der Auftritte ändern können.
+
+292
+00:18:17,080 --> 00:18:19,720
+Bei einem Galakonzert sind sie unter Umständen ein wenig flexibel.
+
+293
+00:18:20,220 --> 00:18:24,500
+Wenn der andere Künstler auch reinverstanden ist, können wir bis zur letzten Sekunde auf Kaori warten.
+
+294
+00:18:25,720 --> 00:18:26,040
+Warum?
+
+295
+00:18:26,680 --> 00:18:28,620
+Wenn das nicht klappt, müssen wir absagen.
+
+296
+00:18:28,620 --> 00:18:31,460
+Ja, verstehe. Kann man nichts machen.
+
+297
+00:18:32,560 --> 00:18:33,300
+Wo steckst du?
+
+298
+00:18:33,660 --> 00:18:34,540
+Was sagst du dazu?
+
+299
+00:18:35,400 --> 00:18:36,760
+Dieses Stück ist das Richtige.
+
+300
+00:18:37,120 --> 00:18:39,280
+Du hast dich doch so darauf gefreut, oder etwa nicht?
+
+301
+00:18:40,920 --> 00:18:42,840
+Dumm von mir, dass ich mich hab mitreißen lassen.
+
+302
+00:18:46,740 --> 00:18:48,860
+Bald ist Kaori Mia-Sono an der Reihe.
+
+303
+00:18:49,180 --> 00:18:51,200
+Ja, welches Stück sie wohl diesmal spielt?
+
+304
+00:18:51,900 --> 00:18:54,540
+Es ist eine Ewigkeit her, dass ich so aufgeregt war.
+
+305
+00:18:55,540 --> 00:18:56,480
+Das wird schwierig.
+
+306
+00:18:56,480 --> 00:18:59,680
+Ich bitte sie. Sie ist noch im Bus auf dem Weg hierher.
+
+307
+00:18:59,960 --> 00:19:02,720
+Mag ja sein. Aber ich kann nicht nach eigenem Ermessen...
+
+308
+00:19:02,720 --> 00:19:04,040
+Hey, was ist denn hier los?
+
+309
+00:19:04,780 --> 00:19:05,500
+Hallo, Toshia.
+
+310
+00:19:06,000 --> 00:19:07,180
+Was? Toshia Mieke?
+
+311
+00:19:07,880 --> 00:19:10,000
+Der ist doch das Finale des Mittelschulteils, oder?
+
+312
+00:19:10,520 --> 00:19:13,160
+Ja, genau. Weil er den Wettbewerb gewonnen hat, ist er...
+
+313
+00:19:13,160 --> 00:19:14,120
+Super Timing!
+
+314
+00:19:14,120 --> 00:19:18,360
+Bitte entschuldige, aber ist es vielleicht möglich, dass wir erst nach dir auftreten?
+
+315
+00:19:18,580 --> 00:19:21,080
+Unsere Geigerin verspätet sich leider um ein paar Minuten.
+
+316
+00:19:21,280 --> 00:19:22,300
+Sie ist noch nicht da?
+
+317
+00:19:23,140 --> 00:19:24,460
+Sie heißt Kaori Mia-Sono.
+
+318
+00:19:25,120 --> 00:19:26,620
+Also könnten wir nach dir auftreten?
+
+319
+00:19:27,160 --> 00:19:28,440
+Sie wird bestimmt bald hier sein.
+
+320
+00:19:29,660 --> 00:19:31,020
+Kaori tritt auch auf, oder?
+
+321
+00:19:31,580 --> 00:19:33,080
+Ich bin nur ihretwegen hier.
+
+322
+00:19:33,500 --> 00:19:34,160
+Auf keinen Fall.
+
+323
+00:19:34,160 --> 00:19:41,220
+Beim Finale des Gala-Konzerts da bin ich nämlich die Hauptperson.
+
+324
+00:19:41,880 --> 00:19:43,880
+Natürlich. Klar, da hast du recht.
+
+325
+00:19:44,820 --> 00:19:46,380
+Es ist sein großer Auftritt.
+
+326
+00:19:47,260 --> 00:19:48,240
+Wir sind selbst schuld.
+
+327
+00:19:48,360 --> 00:19:49,400
+Es tut mir sehr leid.
+
+328
+00:19:49,740 --> 00:19:51,300
+Entschuldige, dass wir so unbedacht waren.
+
+329
+00:19:51,800 --> 00:19:53,920
+Komm mit. Den Auftritt müssen wir wohl absagen.
+
+330
+00:19:54,480 --> 00:19:54,780
+Ja.
+
+331
+00:19:55,500 --> 00:19:56,940
+Und, und überhaupt!
+
+332
+00:19:57,580 --> 00:19:59,680
+Wer an so einem Tag zu spät kommt, ist selbst schuld.
+
+333
+00:19:59,960 --> 00:20:01,240
+Was denkt die sich eigentlich?
+
+334
+00:20:01,240 --> 00:20:04,020
+So wie ihre Spielweise ist wohl auch ihre Lebenseinstellung.
+
+335
+00:20:04,580 --> 00:20:06,120
+Nur weil sie einmal gut angekommen ist,
+
+336
+00:20:06,180 --> 00:20:08,340
+denkt sie gleich, sie sei was Besonderes und trödelt herum.
+
+337
+00:20:08,480 --> 00:20:09,760
+Was fällt dir eigentlich ein, du?
+
+338
+00:20:09,780 --> 00:20:11,180
+Aber so ist es doch, oder?
+
+339
+00:20:12,440 --> 00:20:15,280
+Die Musik steht in den Notenblättern, doch das ist ihr egal.
+
+340
+00:20:16,080 --> 00:20:19,600
+So was Chaotisches wie ihr Spiel kann man auf keinen Fall als Musik bezeichnen.
+
+341
+00:20:23,560 --> 00:20:26,200
+Wie unverschämt. Was bist du denn für ein vorlauter Bengel?
+
+342
+00:20:26,500 --> 00:20:27,060
+Entschuldige bitte.
+
+343
+00:20:27,920 --> 00:20:30,700
+Tut mir leid, dass wir dich vor deinem Auftritt damit belästigt haben.
+
+344
+00:20:30,700 --> 00:20:31,600
+Warte mal, was soll das?
+
+345
+00:20:31,940 --> 00:20:33,160
+Bist du denn überhaupt nicht sauer?
+
+346
+00:20:33,400 --> 00:20:34,880
+Er hat deine Partnerin schlecht gemacht.
+
+347
+00:20:34,920 --> 00:20:35,800
+Natürlich bist du.
+
+348
+00:20:36,180 --> 00:20:39,320
+Wie fest im Programm geplant, das Finale des Mittelschultheits Toshia.
+
+349
+00:20:41,600 --> 00:20:42,200
+Aber...
+
+350
+00:20:42,200 --> 00:20:43,120
+Die Hauptperson.
+
+351
+00:20:44,860 --> 00:20:46,440
+Die heutigen Hauptperson.
+
+352
+00:20:47,200 --> 00:20:48,280
+Das werden wir sein.
+
+353
+00:20:48,280 --> 00:20:54,720
+Nun präsentieren wir ihn auf Vorschlag des Veranstalters Kaori Miya-Sono.
+
+354
+00:20:55,040 --> 00:20:55,720
+Sie ist dran.
+
+355
+00:20:55,920 --> 00:20:56,620
+Das wird toll.
+
+356
+00:20:56,920 --> 00:20:57,820
+Jetzt kommt Kaori.
+
+357
+00:20:57,960 --> 00:20:58,800
+Sie ist geschafft.
+
+358
+00:20:58,900 --> 00:20:59,680
+Kaori Miya-Sono.
+
+359
+00:21:04,160 --> 00:21:04,720
+Malo?
+
+360
+00:21:05,180 --> 00:21:06,520
+Das ist doch ihr Begleiter.
+
+361
+00:21:07,260 --> 00:21:08,420
+Wo bleibt die Geigerin?
+
+362
+00:21:08,660 --> 00:21:09,400
+Wo ist Kaori?
+
+363
+00:21:09,840 --> 00:21:11,820
+Will er etwa ohne sie spielen?
+
+364
+00:21:11,820 --> 00:21:13,840
+Das ist doch ohne Erhurt.
