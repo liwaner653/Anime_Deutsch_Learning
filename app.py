@@ -9,7 +9,7 @@ import re
 import streamlit.components.v1 as components
 
 # --- 1. 页面配置与 CSS/JS 注入 ---
-st.set_page_config(page_title="德语语境工作台", page_icon="🇩🇪", layout="wide")
+st.set_page_config(page_title="德语语境工作台", page_icon="🇩🇪", layout="wide", initial_sidebar_state="expanded")
 
 # CSS: 美化卡片和布局
 st.markdown("""
@@ -51,22 +51,42 @@ st.markdown("""
             color: #aaa;
         }
     }
+    /* --- 新增：侧边栏悬停滑出（非模态悬浮） --- */
+    [data-testid="stSidebar"] {
+        position: absolute !important;
+        height: 100vh !important;
+        z-index: 99999 !important;
+        transition: transform 0.3s ease-in-out !important;
+        /* 默认隐藏侧边栏主体，仅保留左侧 15px 的边缘用于感应鼠标 */
+        transform: translateX(calc(-100% + 15px)) !important; 
+        box-shadow: 2px 0 8px rgba(0,0,0,0.1);
+    }
+    
+    /* 鼠标移入时完全展开 */
+    [data-testid="stSidebar"]:hover {
+        transform: translateX(0) !important;
+    }
+
+    /* 隐藏顶部原生的展开/收起小箭头按钮，避免冲突 */
+    [data-testid="collapsedControl"] {
+        display: none !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
 # JS: 实现按 "/" 键聚焦输入框
-# 注意：这需要查找 Streamlit特定的 textarea DOM 元素
+# 替换原有的 components.html 代码块
 components.html("""
 <script>
-document.addEventListener('keydown', function(e) {
-    // 如果按下的是 "/" 且当前没有在输入框内
-    if (e.key === '/' && document.activeElement.tagName !== 'TEXTAREA' && document.activeElement.tagName !== 'INPUT') {
+const parentDoc = window.parent.document;
+parentDoc.addEventListener('keydown', function(e) {
+    // 如果按下的是 "/" 且焦点不在任何输入框内
+    if (e.key === '/' && parentDoc.activeElement.tagName !== 'TEXTAREA' && parentDoc.activeElement.tagName !== 'INPUT') {
         e.preventDefault();
         // 查找 Streamlit 的聊天输入框
-        const input = window.parent.document.querySelector('textarea[data-testid="stChatInputTextArea"]');
+        const input = parentDoc.querySelector('textarea[data-testid="stChatInputTextArea"]');
         if (input) {
             input.focus();
-            input.select();
         }
     }
 });
@@ -97,7 +117,7 @@ with st.sidebar:
         index=0,
         help="推荐 1.5b，速度最快。"
     )
-    n_results = st.slider("检索例句数", 1, 8, 4)
+    n_results = st.slider("检索例句数", 1, 8, 8)
     st.info("⌨️ **快捷键提示**：\n\n按下 `/` 键可直接聚焦输入框。")
     
     if st.button("🗑️ 清空历史"):
