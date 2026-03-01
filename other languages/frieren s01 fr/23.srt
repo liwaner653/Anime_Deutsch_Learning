@@ -1,0 +1,1188 @@
+1
+00:00:00,000 --> 00:00:09,360
+Vous êtes 18 à avoir réussi la première épreuve.
+
+2
+00:00:10,300 --> 00:00:12,780
+Et pour ça, je tiens à vous féliciter.
+
+3
+00:00:14,380 --> 00:00:18,480
+J'ai cru comprendre que les résultats des épreuves que j'ai supervisées par le passé
+
+4
+00:00:18,480 --> 00:00:21,840
+font l'objet de spéculations et de conjectures en tout genre.
+
+5
+00:00:23,700 --> 00:00:26,540
+Je suppose que ces rumeurs circulent aussi parmi vous,
+
+6
+00:00:27,300 --> 00:00:29,760
+mais je vous prie de ne pas y faire trop attention.
+
+7
+00:00:30,940 --> 00:00:33,060
+Ce test est en réalité très simple.
+
+8
+00:00:33,900 --> 00:00:38,320
+Il ne devrait pas poser problème à des mâches qui aspirent à décrocher leur diplôme de premier niveau.
+
+9
+00:00:39,960 --> 00:00:43,900
+Vous êtes prêts ? Je vais vous expliquer en quoi consiste mon épreuve.
+
+10
+00:00:43,900 --> 00:00:47,800
+Sous-titrage Société Radio-Canada
+
+11
+00:00:47,800 --> 00:00:51,700
+Sous-titrage Société Radio-Canada
+
+12
+00:00:51,700 --> 00:00:55,600
+Sous-titrage Société Radio-Canada
+
+13
+00:00:55,600 --> 00:01:25,600
+
+
+14
+00:01:25,600 --> 00:01:55,580
+Sous-titrage Société Radio-Canada
+
+15
+00:01:55,600 --> 00:01:59,500
+Sous-titrage Société Radio-Canada
+
+16
+00:01:59,500 --> 00:02:00,440
+Sous-titrage Société Radio-Canada
+
+17
+00:02:00,440 --> 00:02:01,380
+Sous-titrage Société Radio-Canada
+
+18
+00:02:01,380 --> 00:02:05,280
+Sous-titrage Société Radio-Canada
+
+19
+00:02:05,280 --> 00:02:06,220
+Sous-titrage Société Radio-Canada
+
+20
+00:02:06,220 --> 00:02:07,160
+Sous-titrage Société Radio-Canada
+
+21
+00:02:07,160 --> 00:02:08,100
+Sous-titrage Société Radio-Canada
+
+22
+00:02:08,100 --> 00:02:09,040
+Sous-titrage Société Radio-Canada
+
+23
+00:02:09,040 --> 00:02:09,980
+Sous-titrage Société Radio-Canada
+
+24
+00:02:09,980 --> 00:02:10,920
+Sous-titrage Société Radio-Canada
+
+25
+00:02:10,920 --> 00:02:14,920
+Sous-titrage Société Radio-Canada
+
+26
+00:02:14,920 --> 00:02:21,680
+Vous allez devoir partir à la conquête de ce donjon.
+
+27
+00:02:22,560 --> 00:02:25,900
+Il s'agit du tombeau du roi déchu dont vous avez sans doute entendu parler.
+
+28
+00:02:27,740 --> 00:02:33,780
+Pour réussir cette épreuve, vous devrez descendre au plus profond de la crypte et ouvrir la toute dernière salle.
+
+29
+00:02:35,600 --> 00:02:39,620
+Je suis pacifiste et je ne veux donc pas que vous vous affrontiez les uns les autres.
+
+30
+00:02:40,260 --> 00:02:43,380
+Tous les candidats qui atteindront le cœur du tombeau seront reçus.
+
+31
+00:02:43,380 --> 00:02:48,780
+Attendez, bon nombre d'aventuriers chevronnés n'en sont jamais ressortis.
+
+32
+00:02:49,160 --> 00:02:50,200
+Personne n'a pu l'explorer.
+
+33
+00:02:51,220 --> 00:02:53,340
+Vous voulez tous nous disqualifier, c'est ça ?
+
+34
+00:02:53,340 --> 00:02:55,560
+Mais qu'est-ce que tu racontes ?
+
+35
+00:02:55,560 --> 00:02:59,400
+Vous êtes ici pour nous convaincre que vous méritez de faire partie de l'élite des mages.
+
+36
+00:03:00,440 --> 00:03:03,480
+Rien ne devrait être impossible pour un mage de première catégorie.
+
+37
+00:03:04,540 --> 00:03:08,980
+Alors peu importe que personne avant vous ne réussit, c'est à vous qu'il revient d'ouvrir la voie.
+
+38
+00:03:08,980 --> 00:03:15,680
+Et comment allons-nous vous prouver que nous avons bel et bien atteint les tréfonds de ce vaste tombeau ?
+
+39
+00:03:15,680 --> 00:03:18,760
+Est-ce que nous devrons vous rapporter un objet spécifique ?
+
+40
+00:03:18,760 --> 00:03:20,380
+Aucune preuve ne sera nécessaire.
+
+41
+00:03:21,220 --> 00:03:23,360
+J'ai prévu de vous accompagner dans votre descente.
+
+42
+00:03:24,360 --> 00:03:26,760
+Mais ne comptez pas sur moi pour vous prêter main forte.
+
+43
+00:03:28,400 --> 00:03:32,080
+Avant d'y aller, vous allez tous recevoir une fiole comme celle-ci.
+
+44
+00:03:32,080 --> 00:03:37,200
+Il s'agit d'une invention de Lernen, l'un de mes confrères.
+
+45
+00:03:37,780 --> 00:03:39,360
+Ce sont des golems d'évacuation.
+
+46
+00:03:40,600 --> 00:03:42,560
+Brisez la fiole pour libérer votre golem.
+
+47
+00:03:43,140 --> 00:03:44,980
+Et il fera tout pour vous ramener à la surface.
+
+48
+00:03:46,540 --> 00:03:49,060
+Ce n'est qu'un prototype, mais il saura vous protéger.
+
+49
+00:03:50,060 --> 00:03:53,360
+Si vous utilisez votre golem, vous serez bien entendu disqualifié.
+
+50
+00:03:53,720 --> 00:03:57,100
+Mais je vous encourage à le faire malgré tout si vous n'êtes plus en état de continuer.
+
+51
+00:03:57,680 --> 00:04:01,080
+Je refuse que des mages aussi prometteurs meurent bêtement à cause d'un examen.
+
+52
+00:04:02,080 --> 00:04:03,280
+Ne soyez pas étonnés.
+
+53
+00:04:03,760 --> 00:04:06,120
+La fiole se brisera d'elle-même demain matin à l'aube.
+
+54
+00:04:06,960 --> 00:04:10,280
+Vous devrez donc atteindre votre objectif avant la fin du temps imparti.
+
+55
+00:04:12,320 --> 00:04:14,360
+Bien, l'épreuve va pouvoir commencer.
+
+56
+00:04:14,360 --> 00:04:38,040
+On doit choisir entre plusieurs entrées.
+
+57
+00:04:38,040 --> 00:04:41,200
+Ça, c'est typique d'un donjon de la dynastie unifiée.
+
+58
+00:04:42,000 --> 00:04:44,900
+Tous les donjons érigés à cette époque possèdent plusieurs entrées.
+
+59
+00:04:45,360 --> 00:04:47,820
+Mais pas d'inquiétude, elles mènent toutes au même endroit.
+
+60
+00:04:48,760 --> 00:04:53,620
+Si on explore chacune d'entre elles, on pourra plus facilement déterminer la structure interne du bâtiment.
+
+61
+00:04:54,520 --> 00:04:56,220
+On devrait se séparer en groupe.
+
+62
+00:04:56,760 --> 00:04:59,040
+À quoi ça servirait de coopérer pour cette épreuve ?
+
+63
+00:04:59,040 --> 00:05:07,500
+Ça n'aurait pas le moindre intérêt d'entrer en compétition.
+
+64
+00:05:08,100 --> 00:05:11,380
+On aura plus de chances de réussir si on décide d'unir nos forces.
+
+65
+00:05:12,300 --> 00:05:13,440
+Je pense que vous avez tort.
+
+66
+00:05:16,020 --> 00:05:19,760
+Cette fois-ci, notre réussite ne dépend pas de la survie d'un groupe qu'on nous aurait imposé.
+
+67
+00:05:20,600 --> 00:05:22,740
+Nous n'avons donc plus aucun intérêt à nous entraider.
+
+68
+00:05:22,740 --> 00:05:27,220
+Ne comptez pas sur moi pour prendre le risque d'être sacrifié par un traître.
+
+69
+00:05:29,060 --> 00:05:31,400
+Vous vous y connaissez assez en donjon pour nous piéger.
+
+70
+00:05:33,660 --> 00:05:35,220
+Alors je préfère y aller tout seul.
+
+71
+00:05:48,580 --> 00:05:51,660
+Moi, en tout cas, je ne me vois pas faire confiance à des inconnus.
+
+72
+00:05:51,660 --> 00:05:55,980
+Mais vous deux, ça passe, après ce qu'on a vécu pendant la première épreuve.
+
+73
+00:05:59,020 --> 00:06:00,080
+Allez, allons-y.
+
+74
+00:06:02,180 --> 00:06:04,020
+Hé, tu pourrais nous attendre au moins.
+
+75
+00:06:08,060 --> 00:06:09,480
+Quel banditio.
+
+76
+00:06:10,080 --> 00:06:14,660
+Quand est-ce qu'ils comprendront que l'union fera toujours la force ?
+
+77
+00:06:14,660 --> 00:06:15,500
+Allons-y, Fern.
+
+78
+00:06:16,900 --> 00:06:18,660
+Attends, Freiren, tu es sûr ?
+
+79
+00:06:19,180 --> 00:06:20,760
+Ils ne veulent pas coopérer.
+
+80
+00:06:20,760 --> 00:06:22,640
+Allez, ne perdons pas plus de temps.
+
+81
+00:06:28,300 --> 00:06:29,580
+Elles feront l'affaire.
+
+82
+00:06:31,460 --> 00:06:33,860
+Ne partez pas sans moi, je vais suivre votre groupe.
+
+83
+00:06:35,180 --> 00:06:39,740
+Je sens que vous êtes les plus susceptibles d'atteindre le dernier étage de ce donjon en toute sécurité.
+
+84
+00:06:40,680 --> 00:06:41,820
+Tant que vous ne nous gênez pas.
+
+85
+00:06:42,940 --> 00:06:43,520
+C'est promis.
+
+86
+00:06:43,520 --> 00:06:45,960
+Mais je ne compte pas vous aider non plus.
+
+87
+00:06:53,680 --> 00:06:55,120
+C'est le chemin le plus sûr.
+
+88
+00:06:55,620 --> 00:06:56,460
+J'en suis persuadée.
+
+89
+00:06:58,600 --> 00:07:01,540
+Mais restons prudentes et n'oublions pas de cartographier les lieux.
+
+90
+00:07:01,540 --> 00:07:14,640
+Attention.
+
+91
+00:07:16,420 --> 00:07:17,600
+Certaines dalles sont piégées.
+
+92
+00:07:23,600 --> 00:07:24,760
+Tu en sais des choses.
+
+93
+00:07:24,960 --> 00:07:26,960
+Ça se voit que t'as l'habitude d'explorer des donjons.
+
+94
+00:07:26,960 --> 00:07:28,900
+Ça n'a pas toujours été le cas.
+
+95
+00:07:29,380 --> 00:07:30,300
+C'est même plutôt récent.
+
+96
+00:07:31,780 --> 00:07:33,800
+J'en ai exploré un certain nombre avec Imel.
+
+97
+00:07:34,980 --> 00:07:37,440
+Il acceptait souvent d'éliminer des monstres dans des donjons.
+
+98
+00:07:37,660 --> 00:07:38,240
+Il adorait ça.
+
+99
+00:07:39,540 --> 00:07:40,840
+Comment ça, il adorait ça ?
+
+100
+00:07:40,840 --> 00:07:42,220
+J'ai pas bien compris.
+
+101
+00:07:43,520 --> 00:07:44,960
+C'était son truc, il en raffolait.
+
+102
+00:07:46,120 --> 00:07:47,420
+Il trouvait ça palpitant.
+
+103
+00:07:47,420 --> 00:07:49,940
+J'ai jamais trop compris pourquoi.
+
+104
+00:07:53,640 --> 00:07:57,160
+Ça y est, on a trouvé l'escalier qui mène aux étages inférieurs.
+
+105
+00:07:58,680 --> 00:07:59,060
+En effet.
+
+106
+00:07:59,780 --> 00:08:01,060
+On a donc choisi le mauvais chemin.
+
+107
+00:08:02,840 --> 00:08:04,000
+Retournons au dernier croisement.
+
+108
+00:08:04,920 --> 00:08:05,760
+Ouais, bonne idée.
+
+109
+00:08:07,720 --> 00:08:08,680
+Pourquoi ?
+
+110
+00:08:08,680 --> 00:08:12,060
+Je croyais qu'on devait éliminer le monstre qui se cache dans les profondeurs de ce donjon.
+
+111
+00:08:12,960 --> 00:08:14,860
+Tu n'apprendras donc jamais la leçon, Aizen.
+
+112
+00:08:14,860 --> 00:08:21,180
+On ne passe pas à l'étage inférieur d'un donjon tant qu'on n'a pas fini d'explorer celui dans lequel on se trouve.
+
+113
+00:08:22,060 --> 00:08:23,320
+Tous les aventuriers savent ça.
+
+114
+00:08:24,120 --> 00:08:25,000
+Tu te paies ma tête, ouais.
+
+115
+00:08:26,920 --> 00:08:28,860
+Tu trouves ça stupide, Free Ren ?
+
+116
+00:08:30,320 --> 00:08:36,000
+Si on peut sauver des tas de gens tout en s'amusant, pourquoi s'en priver ?
+
+117
+00:08:36,000 --> 00:08:37,860
+On ne va pas pouvoir le faire à chaque fois.
+
+118
+00:08:38,620 --> 00:08:41,240
+Plus on avancera vers le nord, plus les donjons seront dangereux.
+
+119
+00:08:41,480 --> 00:08:42,420
+Ah ouais, elle a raison.
+
+120
+00:08:42,420 --> 00:08:45,640
+Peu importe, moi je compte bien profiter jusqu'au bout.
+
+121
+00:08:46,320 --> 00:08:48,880
+Je veux voyager avec vous, explorer mille et un donjons,
+
+122
+00:08:49,440 --> 00:08:51,600
+terrasser des monstres, découvrir des trésors,
+
+123
+00:08:51,940 --> 00:08:54,720
+et un beau jour me rendre compte qu'on a sauvé le monde sans le faire exprès.
+
+124
+00:08:56,640 --> 00:08:58,080
+C'est ce dont j'ai toujours rêvé.
+
+125
+00:09:00,040 --> 00:09:00,880
+Mais c'est pas tout.
+
+126
+00:09:02,020 --> 00:09:06,140
+Qui sait, peut-être qu'on trouvera un grimoire rarissime en passant cet étage au pain de faim.
+
+127
+00:09:06,140 --> 00:09:09,760
+Qu'est-ce que vous attendez ? Revenons sur nos pas !
+
+128
+00:09:09,760 --> 00:09:10,560
+Trop facile.
+
+129
+00:09:11,940 --> 00:09:14,680
+J'ai très vite su que ce n'était pas la peine de chercher à comprendre.
+
+130
+00:09:28,240 --> 00:09:30,140
+Bon, on y va toutes les deux ?
+
+131
+00:09:30,140 --> 00:09:46,180
+Il semblerait qu'il ne reste plus que nous cinq.
+
+132
+00:09:46,180 --> 00:09:50,620
+Si tout le monde avait bien voulu coopérer, on aurait pu se répartir les tâches.
+
+133
+00:09:50,840 --> 00:09:53,340
+On serait facilement venu à bout de ce maudit donjon.
+
+134
+00:09:54,160 --> 00:09:55,280
+C'est regrettable.
+
+135
+00:09:55,720 --> 00:09:58,520
+Avec tous ces puissants mages, on aurait été sûr de triompher.
+
+136
+00:09:59,240 --> 00:09:59,780
+C'est la vie.
+
+137
+00:10:00,580 --> 00:10:02,180
+Tout le monde n'a pas ta sagesse et ton pragmatisme.
+
+138
+00:10:03,780 --> 00:10:07,280
+C'est comme ce que tu disais l'autre jour, ça leur resterait en travers de la gorge.
+
+139
+00:10:07,620 --> 00:10:08,180
+Hein ?
+
+140
+00:10:08,180 --> 00:10:12,680
+Ça ne s'explique pas, c'est comme ça.
+
+141
+00:10:13,900 --> 00:10:16,740
+Dis-toi que ce sont les plus intelligents du lot qui ont décidé de rester.
+
+142
+00:10:18,360 --> 00:10:19,780
+Il faut voir le bon côté des choses.
+
+143
+00:10:20,500 --> 00:10:24,420
+Au moins, aucun de nous ne sera assez idiot pour se faire avoir par le premier mimique venu.
+
+144
+00:10:25,640 --> 00:10:27,180
+C'est toujours ça de pris, non ?
+
+145
+00:10:27,900 --> 00:10:31,760
+Aucun candidat ne tomberait dans des pièges aussi grossiers, voyons.
+
+146
+00:10:33,020 --> 00:10:33,660
+Allons-y.
+
+147
+00:10:38,180 --> 00:10:45,020
+Ce coffre aimé du mana.
+
+148
+00:10:46,520 --> 00:10:47,860
+Ça sent le grimoire.
+
+149
+00:10:48,760 --> 00:10:49,720
+Non, c'est un mimique.
+
+150
+00:10:50,220 --> 00:10:52,420
+Le mikaït est formel, ce n'est pas la peine d'insister.
+
+151
+00:10:54,140 --> 00:10:54,880
+Allez, on y va.
+
+152
+00:10:56,740 --> 00:11:01,460
+Fern, ce sort n'est fiable qu'à 99%, tu confirmes ?
+
+153
+00:11:01,460 --> 00:11:03,060
+Oui, mais je ne vois pas ce que ça change.
+
+154
+00:11:04,060 --> 00:11:06,040
+Si tous les mages faisaient confiance au mikaït,
+
+155
+00:11:06,040 --> 00:11:08,520
+on serait passé à côté de beaucoup de découvertes historiques.
+
+156
+00:11:09,140 --> 00:11:11,220
+Ça fait une chance sur 100 de tomber sur une merveille.
+
+157
+00:11:16,720 --> 00:11:18,000
+C'est bien ce que je pensais.
+
+158
+00:11:20,080 --> 00:11:22,520
+Ce coffre doit renfermer un grimoire très précieux.
+
+159
+00:11:24,100 --> 00:11:26,440
+En tant que ma chevronnée, mon intuition ne me trompe jamais.
+
+160
+00:11:26,760 --> 00:11:27,460
+Je sais ce que je fais.
+
+161
+00:11:27,460 --> 00:11:35,440
+C'est tout noir là-dedans !
+
+162
+00:11:35,440 --> 00:11:37,360
+Aidez-moi, j'ai peur !
+
+163
+00:11:37,360 --> 00:11:38,640
+Ah, ah !
+
+164
+00:11:38,640 --> 00:11:40,240
+Alex, tu ne vois rien !
+
+165
+00:11:40,240 --> 00:11:41,740
+Oh, oh, oh !
+
+166
+00:11:41,740 --> 00:11:43,460
+L'idée de moi, c'est cauchemar !
+
+167
+00:11:43,460 --> 00:11:59,100
+J'aurais peut-être mieux fait de suivre un autre groupe, moi.
+
+168
+00:11:59,100 --> 00:12:10,900
+Ne marchez pas sur les dalles du milieu.
+
+169
+00:12:11,460 --> 00:12:13,200
+Le plafond s'effondrerait sur nous.
+
+170
+00:12:17,200 --> 00:12:19,640
+Cette trace dirait celle d'un être humain.
+
+171
+00:12:20,940 --> 00:12:22,120
+Il n'en reste plus rien.
+
+172
+00:12:22,580 --> 00:12:23,800
+Pas même un fragment d'os.
+
+173
+00:12:23,800 --> 00:12:45,800
+Des cartes !
+
+174
+00:12:45,800 --> 00:12:49,800
+Des cartes !
+
+175
+00:12:49,800 --> 00:13:19,780
+Des cartes !
+
+176
+00:13:19,800 --> 00:13:24,800
+Des cartes !
+
+177
+00:13:24,800 --> 00:13:35,300
+Des cartes !
+
+178
+00:13:35,300 --> 00:13:41,780
+Des cartes !
+
+179
+00:13:41,780 --> 00:13:42,500
+Des cartes !
+
+180
+00:13:42,500 --> 00:13:43,400
+Des cartes !
+
+181
+00:13:43,400 --> 00:13:45,020
+Des cartes !
+
+182
+00:13:45,020 --> 00:13:47,000
+Denkun, la gamine s'est fait enfermer.
+
+183
+00:13:47,100 --> 00:13:48,040
+Oui, j'ai vu ça.
+
+184
+00:13:48,040 --> 00:13:50,040
+Elle est de l'autre côté de vous.
+
+185
+00:13:52,040 --> 00:13:54,040
+Reculez un peu, s'il vous plaît.
+
+186
+00:14:00,040 --> 00:14:02,040
+Ça ne marchera pas.
+
+187
+00:14:02,040 --> 00:14:05,040
+Petite, tu n'as pas le choix. Libère ton golem !
+
+188
+00:14:18,040 --> 00:14:23,040
+Impressionnant.
+
+189
+00:14:23,040 --> 00:14:26,040
+On vient à peine d'arriver qu'on perd déjà quelqu'un.
+
+190
+00:14:30,040 --> 00:14:33,040
+Un simple moment d'inattention et c'est la mort assurée.
+
+191
+00:14:34,040 --> 00:14:37,040
+Ce tombeau n'a pas volé sa réputation.
+
+192
+00:14:48,040 --> 00:14:51,040
+Attends, Fern ! On n'arrivera à rien comme ça.
+
+193
+00:14:51,040 --> 00:14:54,040
+Si tu continues à tirer, tu vas finir par m'arracher les jambes.
+
+194
+00:14:55,040 --> 00:14:56,040
+D'accord.
+
+195
+00:14:57,040 --> 00:15:00,040
+Dans ce genre de situation, il vaut mieux pousser.
+
+196
+00:15:00,040 --> 00:15:05,040
+Si je m'enfonce assez profondément, le mimique aura envie de vomir et il sera forcé de me recracher.
+
+197
+00:15:06,040 --> 00:15:08,040
+On dirait que tu parles d'un chien.
+
+198
+00:15:11,040 --> 00:15:13,040
+Merci, Fern.
+
+199
+00:15:13,040 --> 00:15:15,040
+Sacré, Fern.
+
+200
+00:15:16,040 --> 00:15:18,040
+Comment tu te débrouillais quand tu voyageais seule ?
+
+201
+00:15:19,040 --> 00:15:22,040
+J'utilisais un de mes sorts pour les exploser de l'intérieur.
+
+202
+00:15:23,040 --> 00:15:26,040
+Mais je n'aime pas trop cette solution, ça me frise les cheveux et pas qu'un peu.
+
+203
+00:15:27,040 --> 00:15:28,040
+Oh, c'est moi !
+
+204
+00:15:29,040 --> 00:15:31,040
+Regarde un peu mes boucles, j'en peux plus.
+
+205
+00:15:32,040 --> 00:15:35,040
+Je comprends mieux pourquoi tu rentrais parfois avec de drôles de coiffures.
+
+206
+00:15:36,040 --> 00:15:37,040
+Qu'est-ce qui t'as pris ?
+
+207
+00:15:38,040 --> 00:15:40,040
+Allez, on se ressaisit.
+
+208
+00:15:41,040 --> 00:15:42,040
+On reprend notre exploration ?
+
+209
+00:15:43,040 --> 00:15:52,040
+Tiens, des gargouilles.
+
+210
+00:15:53,040 --> 00:15:54,040
+Brisons-les avant qu'elles ne se réveillent.
+
+211
+00:15:58,040 --> 00:15:59,040
+Encore un médaillon ?
+
+212
+00:16:00,040 --> 00:16:01,040
+Décidément, on en trouve partout.
+
+213
+00:16:02,040 --> 00:16:04,040
+On m'a dit que quelqu'un quelque part les collectionnait.
+
+214
+00:16:04,040 --> 00:16:12,040
+Je crois qu'on a trouvé la bonne route. Rebrousse en chemin.
+
+215
+00:16:13,040 --> 00:16:14,040
+Pourquoi ?
+
+216
+00:16:14,040 --> 00:16:20,040
+Je ne m'attendais pas à ce qu'on s'en sorte si bien.
+
+217
+00:16:21,040 --> 00:16:24,040
+Oui, c'est surprenant qu'un donjon inexploré nous pose si peu de problèmes.
+
+218
+00:16:25,040 --> 00:16:27,040
+Surtout qu'on a l'air de s'approcher du cœur du tombou.
+
+219
+00:16:28,040 --> 00:16:30,040
+Mais restons quand même sur nos gardes, d'accord ?
+
+220
+00:16:31,040 --> 00:16:34,040
+Qu'est-ce que vous diriez de faire une pause à la prochaine chambre mortuaire ?
+
+221
+00:16:34,040 --> 00:16:40,040
+Dis donc, ça nous fait un joli petit butin ?
+
+222
+00:16:41,040 --> 00:16:43,040
+Ce bric-à-brac, un joli butin ?
+
+223
+00:16:44,040 --> 00:16:49,040
+Là, ça m'échappe.
+
+224
+00:16:49,040 --> 00:16:50,040
+Ça m'échappe.
+
+225
+00:16:50,040 --> 00:16:51,040
+Oui, à moi aussi.
+
+226
+00:16:52,040 --> 00:16:55,040
+Je ne sais pas pourquoi elle aime autant ce genre de babiole.
+
+227
+00:16:56,040 --> 00:16:58,040
+Elle leur fait même des câlins.
+
+228
+00:16:59,040 --> 00:17:03,040
+Non, ce qui m'échappe, c'est ton comportement à toi.
+
+229
+00:17:04,040 --> 00:17:08,040
+Je ne pense pas avoir déjà rencontré une mage aussi jeune qui soit aussi bourrée de talent que toi.
+
+230
+00:17:09,040 --> 00:17:11,040
+Tu as dû t'entraîner dur pour en arriver là.
+
+231
+00:17:12,040 --> 00:17:16,040
+Et pourtant, je ne sens qu'une passion en toi, aucun engouement.
+
+232
+00:17:16,040 --> 00:17:17,040
+C'est étrange, non ?
+
+233
+00:17:19,040 --> 00:17:24,040
+Si j'ai voulu devenir mage, ce n'était pas par vocation.
+
+234
+00:17:25,040 --> 00:17:27,040
+Je voulais rembourser ma dette envers un proche.
+
+235
+00:17:30,040 --> 00:17:33,040
+Toute ma vie tournait autour de cet objectif que je m'étais fixé.
+
+236
+00:17:34,040 --> 00:17:35,040
+Je m'y suis vouée corps et âme.
+
+237
+00:17:36,040 --> 00:17:38,040
+Tout ça sans réfléchir une seule seconde à l'après.
+
+238
+00:17:41,040 --> 00:17:44,040
+Je pense qu'à cette époque, j'y suis peut-être allée un peu fort.
+
+239
+00:17:45,040 --> 00:17:47,040
+J'ai épuisé mes réserves d'enthousiasme.
+
+240
+00:17:47,040 --> 00:17:53,040
+Alors pourquoi tu continues ? Qu'est-ce qui te pousse à persévérer dans la magie ?
+
+241
+00:17:55,040 --> 00:17:58,040
+Regardez Free Ren, elle a l'air ravie.
+
+242
+00:17:59,040 --> 00:18:00,040
+Oui, c'est vrai.
+
+243
+00:18:00,040 --> 00:18:03,040
+La première fois que j'ai exploré un donjon avec elle,
+
+244
+00:18:04,040 --> 00:18:09,040
+Free Ren avait l'air de s'amuser comme jamais à ramasser toutes les bricoles magiques qui lui tombaient sous la main.
+
+245
+00:18:15,040 --> 00:18:17,040
+Sa joie a fini par me contaminer.
+
+246
+00:18:17,040 --> 00:18:26,040
+Je pense que si je suis restée son apprenti et que je la suis dans sa quête de nouveaux sorts, c'est parce que j'adore l'avoir de si bonne humeur à chaque découverte.
+
+247
+00:18:26,040 --> 00:18:32,040
+Bon, et si on se remettait en route ?
+
+248
+00:18:33,040 --> 00:18:39,040
+Finalement, je ne regrette pas de vous avoir suivi.
+
+249
+00:18:39,040 --> 00:18:45,040
+Au moins vous deux, vous êtes capables de passer un bon moment même dans le pire des donjons.
+
+250
+00:18:45,040 --> 00:19:00,040
+Tiens, l'atmosphère a changé tout d'un coup.
+
+251
+00:19:00,040 --> 00:19:12,040
+Tiens, l'atmosphère a changé tout d'un coup.
+
+252
+00:19:12,040 --> 00:19:15,040
+On ne doit plus être très loin du cœur du donjon.
+
+253
+00:19:18,040 --> 00:19:19,040
+Virbel ?
+
+254
+00:19:19,040 --> 00:19:21,040
+Quoi encore ? Me dis pas qu'il faut te porter ?
+
+255
+00:19:21,040 --> 00:19:23,040
+Je ne peux plus bouger.
+
+256
+00:19:23,040 --> 00:19:26,040
+On est pris en chasse par trois mages qui dissimulent leur mana.
+
+257
+00:19:26,040 --> 00:19:27,040
+C'est un guet-apens.
+
+258
+00:19:27,040 --> 00:19:33,040
+Charf, Blochler l'a vu. Ils ont immobilisé R avec un sorganyl.
+
+259
+00:19:33,040 --> 00:19:34,040
+Bien reçu.
+
+260
+00:19:34,040 --> 00:19:37,040
+Ça explique pourquoi personne n'est jamais venu à Boch.
+
+261
+00:19:37,040 --> 00:19:38,040
+C'est un guet-apens.
+
+262
+00:19:38,040 --> 00:19:40,040
+C'est un guet-apens.
+
+263
+00:19:40,040 --> 00:19:43,040
+Charf, Blochler l'a vu. Ils ont immobilisé R avec un sorganyl.
+
+264
+00:19:43,040 --> 00:19:45,040
+Bien reçu.
+
+265
+00:19:45,040 --> 00:19:58,040
+Ça explique pourquoi personne n'est jamais venu à Boch de ce maudit donjon.
+
+266
+00:20:00,040 --> 00:20:04,040
+Mais tout de même, je ne m'attendais pas à ce genre de comité d'accueil.
+
+267
+00:20:04,040 --> 00:20:07,040
+Charf, occupe-toi de mon double.
+
+268
+00:20:07,040 --> 00:20:09,040
+R, je te confie celui de Charf.
+
+269
+00:20:09,040 --> 00:20:12,040
+Moi, je vais faire la peau à celui d'R.
+
+270
+00:20:12,040 --> 00:20:14,040
+On va les exploser.
+
+271
+00:20:14,040 --> 00:20:15,040
+Exploser.
+
+272
+00:20:44,040 --> 00:20:59,040
+Je vois qu'on a affaire à des doubles créés par magie.
+
+273
+00:20:59,040 --> 00:21:02,040
+Ça, c'est l'œuvre d'un démon ou d'un monstre.
+
+274
+00:21:02,040 --> 00:21:07,040
+Je dois avouer que je n'avais encore jamais vu de réplique aussi parfaite que celle-ci.
+
+275
+00:21:07,040 --> 00:21:12,040
+Elle avait la même quantité de mana et les mêmes aptitudes que Laufen.
+
+276
+00:21:12,040 --> 00:21:15,040
+Et les mêmes mouvements aussi.
+
+277
+00:21:15,040 --> 00:21:19,040
+Il y a donc de fortes chances que notre ennemi exploite nos souvenirs.
+
+278
+00:21:19,040 --> 00:21:21,040
+Ça, ce serait une très mauvaise nouvelle.
+
+279
+00:21:22,040 --> 00:21:24,040
+Voyons le bon côté des choses.
+
+280
+00:21:24,040 --> 00:21:27,040
+Aucune chance qu'on confonde la réplique avec l'original.
+
+281
+00:21:28,040 --> 00:21:31,040
+Quoi qu'il arrive, on ne risque pas de se tromper de cible.
+
+282
+00:21:32,040 --> 00:21:34,040
+Mais ce sera peut-être la seule bonne nouvelle.
+
+283
+00:21:34,040 --> 00:21:37,040
+S'il peut façonner et prendre le contrôle de plusieurs répliques à la fois,
+
+284
+00:21:37,040 --> 00:21:40,040
+notre ennemi doit être d'une puissance redoutable.
+
+285
+00:21:42,040 --> 00:21:47,040
+Dans tous les cas, nous pouvons nous réjouir d'avoir décidé d'unir nos forces.
+
+286
+00:21:50,040 --> 00:21:53,040
+Ça nous laisse plus de chance d'en venir à bout.
+
+287
+00:21:53,040 --> 00:21:54,040
+Denken, tu penses toujours qu'on a une chance de s'en sortir ?
+
+288
+00:21:54,040 --> 00:21:58,040
+Tu penses toujours qu'on a une chance de s'en sortir ?
+
+289
+00:21:58,040 --> 00:22:16,040
+Bien sûr.
+
+290
+00:22:16,040 --> 00:22:23,000
+Denkhan, tu penses toujours qu'on a une chance de s'en sortir ?
+
+291
+00:22:27,940 --> 00:22:30,080
+Tout ce que je peux vous dire à ce stade,
+
+292
+00:22:30,880 --> 00:22:33,980
+c'est que si je n'étais pas en plein examen de mage de premier niveau,
+
+293
+00:22:34,160 --> 00:22:35,780
+j'aurais déjà brisé ma fiole.
+
+294
+00:22:46,040 --> 00:23:16,020
+Sous-titrage ST' 501
+
+295
+00:23:16,040 --> 00:23:46,020
+Sous-titrage ST' 501
+
+296
+00:23:46,040 --> 00:24:16,020
+Sous-titrage ST' 501
+
+297
+00:24:16,020 --> 00:24:46,000
+Sous-titrage ST' 501
+

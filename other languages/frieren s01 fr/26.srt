@@ -1,0 +1,1120 @@
+1
+00:00:00,000 --> 00:00:11,600
+Si quelqu'un arrive à te tuer un jour, ce sera soit le roi des démons, soit un mage humain parmi tant d'autres.
+
+2
+00:00:30,000 --> 00:00:59,980
+Sous-titrage ST' 501
+
+3
+00:01:00,000 --> 00:01:29,980
+Sous-titrage ST' 501
+
+4
+00:01:30,000 --> 00:01:59,980
+Sous-titrage ST' 501
+
+5
+00:02:00,000 --> 00:02:29,980
+Sous-titrage ST' 501
+
+6
+00:02:30,000 --> 00:02:56,620
+Elle apparaît mon sort.
+
+7
+00:02:56,620 --> 00:03:02,540
+On se doutait que ça pouvait arriver.
+
+8
+00:03:03,960 --> 00:03:07,700
+À partir de maintenant, c'est à qui résistera le plus longtemps.
+
+9
+00:03:07,700 --> 00:03:18,040
+Elles sont bien là, pile à l'emplacement prédit par méthode.
+
+10
+00:03:18,040 --> 00:03:21,500
+Surtout, ne me gêne pas.
+
+11
+00:03:21,500 --> 00:03:24,180
+C'est plutôt à moi de te dire ça.
+
+12
+00:03:24,180 --> 00:03:31,680
+Grâce aux observations de méthode, nous connaissons la position exacte des clones.
+
+13
+00:03:31,680 --> 00:03:35,080
+Mais les affronter tous d'un coup serait un fiasco.
+
+14
+00:03:35,760 --> 00:03:41,020
+Alors plutôt que d'attendre qu'ils nous tombent dessus, séparons-nous et interceptons-les par petits groupes.
+
+15
+00:03:41,020 --> 00:03:46,000
+L'avantage, c'est que maintenant que nous savons quelle réplique poserait le plus de problèmes à quel mage,
+
+16
+00:03:46,340 --> 00:03:49,740
+nous pouvons en déduire quel mage poserait le plus de problèmes à quelle réplique,
+
+17
+00:03:50,200 --> 00:03:52,720
+sans oublier que nos ennemis ne se sont pas concertés.
+
+18
+00:03:53,220 --> 00:03:55,300
+Nous avons donc une longueur d'avance.
+
+19
+00:03:55,300 --> 00:04:03,160
+Si nous avons bien choisi les adversaires que nous allons affronter,
+
+20
+00:04:03,820 --> 00:04:07,100
+alors nous devrions pouvoir nous imposer sans trop d'efforts.
+
+21
+00:04:15,380 --> 00:04:20,040
+Et contre les clones les plus redoutables, n'oubliez pas que l'union fait la force.
+
+22
+00:04:25,300 --> 00:04:39,240
+Je n'en reviens pas que ce soit si simple.
+
+23
+00:04:47,380 --> 00:04:49,980
+Si on continue comme ça, on devrait réussir à les repousser.
+
+24
+00:04:55,300 --> 00:05:00,180
+Bonne chance, on compte sur vous.
+
+25
+00:05:00,860 --> 00:05:03,220
+Merci. Bon courage à vous aussi.
+
+26
+00:05:06,020 --> 00:05:07,460
+Un dernier détail m'inquiète.
+
+27
+00:05:08,100 --> 00:05:10,800
+Je pensais avoir repéré toutes les répliques qui se promènent ici,
+
+28
+00:05:11,140 --> 00:05:13,420
+mais les chiffres ne concordent pas, nous sommes plus nombreux qu'elles.
+
+29
+00:05:14,020 --> 00:05:17,060
+Et l'ennui, c'est que la réplique de Zens est introuvable,
+
+30
+00:05:17,380 --> 00:05:19,460
+or c'est celle qui va nous donner le plus de fils à retordre.
+
+31
+00:05:20,800 --> 00:05:22,740
+Moi non plus, je ne détecte pas sa présence.
+
+32
+00:05:22,740 --> 00:05:26,040
+Malheureusement, on ne peut pas mettre ce problème-là sous le tapis.
+
+33
+00:05:26,940 --> 00:05:30,020
+Si elle parvient à entrer dans l'antichambre, je ne pourrais pas protéger Fern.
+
+34
+00:05:30,820 --> 00:05:32,780
+On risquerait même d'y rester toutes les deux.
+
+35
+00:05:33,720 --> 00:05:34,900
+Et ce n'est pas la seule à m'échapper.
+
+36
+00:05:35,740 --> 00:05:38,280
+Je n'ai pas non plus repéré les répliques de Denkun et de Fern.
+
+37
+00:05:38,780 --> 00:05:41,340
+Il faudrait que je lance un sort de détection plus puissant,
+
+38
+00:05:41,460 --> 00:05:42,580
+mais dont la portée est limitée.
+
+39
+00:05:44,100 --> 00:05:45,500
+Vous avez entendu ?
+
+40
+00:05:45,500 --> 00:05:47,260
+Si vous n'aviez pas insisté pour nous accompagner,
+
+41
+00:05:47,340 --> 00:05:48,520
+on s'en serait bien mieux sortis.
+
+42
+00:05:48,520 --> 00:05:52,880
+Un mage de première catégorie se doit de surmonter l'adversité,
+
+43
+00:05:53,200 --> 00:05:55,720
+même dans les situations les plus délicates et insensées.
+
+44
+00:05:56,440 --> 00:05:58,580
+Et la vôtre est loin d'être cauchemardesque.
+
+45
+00:06:00,100 --> 00:06:04,380
+Qui plus est, vous pouvez réussir même en ne faisant que soutenir vos camarades.
+
+46
+00:06:05,240 --> 00:06:06,560
+C'est un examen pacifique.
+
+47
+00:06:07,180 --> 00:06:08,400
+Vous devriez me remercier.
+
+48
+00:06:08,400 --> 00:06:18,580
+On les a vaincus.
+
+49
+00:06:19,820 --> 00:06:21,840
+C'était pas agréable comme expérience.
+
+50
+00:06:26,220 --> 00:06:27,400
+Une attaque surprise ?
+
+51
+00:06:27,400 --> 00:06:37,240
+D'où sort ce monstre ?
+
+52
+00:06:37,240 --> 00:06:40,200
+J'ai pas l'impression d'avoir négligé ma détection de mana pourtant.
+
+53
+00:06:42,500 --> 00:06:44,600
+Lavine, utilise ton collègue d'évacuation.
+
+54
+00:06:46,880 --> 00:06:47,960
+Ne fais pas l'enfant.
+
+55
+00:06:48,280 --> 00:06:49,460
+Il faut savoir lâcher l'affaire.
+
+56
+00:06:50,460 --> 00:06:51,700
+On réessayera dans trois ans.
+
+57
+00:06:51,700 --> 00:07:03,100
+J'arrive trop tard.
+
+58
+00:07:05,080 --> 00:07:09,120
+Mais même si j'étais intervenu à temps, ça n'aurait rien changé à l'issue de ce combat.
+
+59
+00:07:11,040 --> 00:07:15,360
+Et la boue me tourner le dos, je ne vois pas la moindre ouverture dans sa défense.
+
+60
+00:07:16,200 --> 00:07:20,720
+Mais peu importe que je perde, tout ce qui compte, c'est de gagner du temps.
+
+61
+00:07:21,700 --> 00:07:26,500
+Tiens donc, ce serait pas Denken, notre bon vieux mage à la cour ?
+
+62
+00:07:26,500 --> 00:07:30,000
+Alors, quelle est la situation ?
+
+63
+00:07:30,000 --> 00:07:32,200
+Me dis pas que tu comptes affronter cette réplique.
+
+64
+00:07:32,740 --> 00:07:34,180
+Tu n'arriveras jamais à la battre.
+
+65
+00:07:35,000 --> 00:07:36,740
+J'en ai conscience, jeune fille.
+
+66
+00:07:37,740 --> 00:07:39,060
+Pourquoi tu t'embêtes ?
+
+67
+00:07:39,060 --> 00:07:42,520
+Est-ce qu'il faut à tout prix la vaincre si on veut valider cette épreuve ?
+
+68
+00:07:42,520 --> 00:07:44,740
+En ce moment même, Free Ren est en train de...
+
+69
+00:07:44,740 --> 00:07:45,560
+Et parles-moi les détails.
+
+70
+00:07:46,160 --> 00:07:48,000
+Est-ce qu'il faut la vaincre ou pas ?
+
+71
+00:07:50,000 --> 00:07:51,560
+J'en ai bien peur.
+
+72
+00:07:51,700 --> 00:07:54,760
+Dans ce cas, laisse-moi m'en charger.
+
+73
+00:07:55,440 --> 00:07:57,000
+Parce que tu penses pouvoir la vaincre.
+
+74
+00:07:57,460 --> 00:07:59,760
+Tu sais très bien que de nous trois, c'est Denken le plus fort.
+
+75
+00:08:00,420 --> 00:08:02,820
+Et je te rappelle que tu n'as même pas gagné face à Virbelle.
+
+76
+00:08:04,820 --> 00:08:06,840
+Peut-être, mais c'est pas comme ça que ça fonctionne.
+
+77
+00:08:08,180 --> 00:08:11,460
+Même si je ne suis qu'une petite mage inexpérimentée de troisième catégorie
+
+78
+00:08:11,460 --> 00:08:14,440
+et que je ne fais pas le poids face à des mages comme Denken ou Virbelle,
+
+79
+00:08:14,440 --> 00:08:17,500
+je me vois quand même bien gagnée face à Zenz.
+
+80
+00:08:19,500 --> 00:08:21,700
+Parce que mon sort de prédilection, c'est ça.
+
+81
+00:08:23,180 --> 00:08:26,640
+Le réel Zayden, une magie capable de trancher tout et n'importe quoi.
+
+82
+00:08:27,040 --> 00:08:31,360
+Plus précisément, il suffit que je m'estime capable de trancher ma cible pour que le sort fonctionne.
+
+83
+00:08:31,640 --> 00:08:33,240
+Au moindre doute, il n'a plus aucun effet.
+
+84
+00:08:33,780 --> 00:08:35,860
+Oui, d'accord, mais je ne vois pas ce que ça change.
+
+85
+00:08:36,640 --> 00:08:38,860
+C'est le genre de sort qu'on peut parer sans difficulté.
+
+86
+00:08:39,720 --> 00:08:40,660
+C'est vrai, la binocle.
+
+87
+00:08:41,240 --> 00:08:43,820
+J'avais oublié que t'avais observé mon combat contre Virbelle.
+
+88
+00:08:45,140 --> 00:08:45,640
+Tu as raison.
+
+89
+00:08:46,220 --> 00:08:49,220
+La magie défensive permet effectivement de repousser ce type de sort.
+
+90
+00:08:49,680 --> 00:08:52,360
+Ce n'est pas si facile de s'imaginer trancher une barrière magique.
+
+91
+00:08:53,180 --> 00:08:53,540
+Exactement.
+
+92
+00:08:54,220 --> 00:08:56,760
+Tu vois bien que tu ne pourras pas t'en sortir face à Zenz.
+
+93
+00:08:57,720 --> 00:08:58,840
+Rends-toi à l'évidence.
+
+94
+00:08:58,840 --> 00:09:04,160
+Il suffit d'un coup d'œil pour comprendre que ses cheveux sont recouverts de plusieurs couches de sortilèges défensifs.
+
+95
+00:09:05,220 --> 00:09:07,740
+C'est bien beau la théorie, mais ça n'a aucune importance.
+
+96
+00:09:08,200 --> 00:09:09,840
+En magie, tout est affaire de visualisation.
+
+97
+00:09:11,700 --> 00:09:12,840
+Non, attends !
+
+98
+00:09:15,920 --> 00:09:19,920
+J'en étais sûre, le sorganyl ne fonctionnera pas.
+
+99
+00:09:21,240 --> 00:09:23,840
+Ses cheveux font belle et bien partie intégrante de son corps.
+
+100
+00:09:24,280 --> 00:09:26,620
+Je ne pourrais pas l'avoir en entier dans mon champ de vision.
+
+101
+00:09:28,840 --> 00:09:36,560
+J'en étais sûre, Hubel s'est porté volontaire pour affronter mon clone.
+
+102
+00:09:37,640 --> 00:09:39,700
+Je sais déjà qui sortira vainqueur de ce combat.
+
+103
+00:09:40,500 --> 00:09:42,520
+D'ailleurs, il ne risque pas de s'éterniser.
+
+104
+00:09:43,600 --> 00:09:47,500
+Jamais je n'oublierai l'examen de mage de niveau 2 qui s'est déroulé il y a deux ans.
+
+105
+00:09:48,460 --> 00:09:53,320
+La deuxième épreuve de sélection était supervisée par un mage de première catégorie qui s'appelait Borg.
+
+106
+00:09:53,320 --> 00:10:03,380
+Sa maîtrise de la magie défensive était telle que personne n'avait jamais réussi à lui faire la moindre égratignure depuis qu'il avait obtenu son diplôme de mage de première catégorie.
+
+107
+00:10:04,240 --> 00:10:13,180
+Il portait ce qu'il appelait son manteau de fer, une cape qu'il s'était fabriquée lui-même et dans laquelle il avait insufflé une magie défensive si puissante qu'elle déviait tous les sorts offensifs.
+
+108
+00:10:13,180 --> 00:10:20,040
+La deuxième épreuve consistait à attaquer l'examinateur alors qu'il portait son manteau de fer.
+
+109
+00:10:20,680 --> 00:10:25,640
+C'était simple, tout candidat qui parvenait à le faire reculer ne serait-ce que d'un pas était reçu.
+
+110
+00:10:26,400 --> 00:10:33,140
+Pour protéger les autres candidats, une seule règle avait été mise en place, interdiction de tuer qui que ce soit sous peine de disqualification.
+
+111
+00:10:33,680 --> 00:10:36,020
+Il fallait donc faire preuve d'un minimum de retenue.
+
+112
+00:10:36,500 --> 00:10:36,880
+Suivant.
+
+113
+00:10:36,880 --> 00:10:45,680
+Personne ne s'inquiétait pour Borg, puisqu'il était invulnérable.
+
+114
+00:10:55,300 --> 00:10:57,540
+Oh zut, j'y suis allée un peu fort.
+
+115
+00:10:57,540 --> 00:11:09,180
+Personne ne s'attendait à ce qu'une jeune mage inconnue au bataillon qui venait d'obtenir son diplôme de troisième catégorie le tranchant d'eux si facilement.
+
+116
+00:11:11,240 --> 00:11:14,800
+Allez-y, je sais très bien ce que vous allez m'annoncer. Je suis disqualifiée.
+
+117
+00:11:15,560 --> 00:11:17,540
+Je peux rentrer, c'est bon ?
+
+118
+00:11:17,540 --> 00:11:19,640
+J'aimerais simplement te poser une question.
+
+119
+00:11:20,280 --> 00:11:20,960
+Je vous en prie.
+
+120
+00:11:22,040 --> 00:11:25,540
+Comment as-tu fait pour trancher le manteau de fer de Borg ?
+
+121
+00:11:25,540 --> 00:11:29,420
+Comment dire ?
+
+122
+00:11:29,420 --> 00:11:32,140
+Vous avez déjà fait de la couture à tout hasard ?
+
+123
+00:11:32,140 --> 00:11:34,320
+Non, jamais. Je ne vois pas le rapport.
+
+124
+00:11:35,220 --> 00:11:37,980
+Ça ne m'étonne pas. Vous avez l'air de venir d'une bonne famille.
+
+125
+00:11:38,680 --> 00:11:41,280
+Soit ça, soit vous fabriquez vos vêtements à l'aide de la magie.
+
+126
+00:11:42,860 --> 00:11:45,960
+Enfin, je dis ça, mais techniquement, moi non plus, je n'ai jamais fait de couture.
+
+127
+00:11:46,600 --> 00:11:47,580
+J'étais trop maladroite.
+
+128
+00:11:52,220 --> 00:11:55,000
+Mes petites, j'ai souvent regardé ma grande sœur à l'œuvre.
+
+129
+00:11:55,540 --> 00:12:07,220
+Et quand elle coupait des bandes de tissu, ses ciseaux glissaient sur toute la longueur en produisant une sorte de doux crissement.
+
+130
+00:12:08,560 --> 00:12:10,700
+J'ai toujours trouvé ce bruit apaisant.
+
+131
+00:12:10,700 --> 00:12:17,140
+Si vous saviez comme j'adorais l'entendre.
+
+132
+00:12:18,420 --> 00:12:19,840
+Je ne vois pas où tu veux en venir.
+
+133
+00:12:20,600 --> 00:12:21,860
+Je n'ai eu qu'à l'imaginer.
+
+134
+00:12:22,740 --> 00:12:24,180
+Un manteau n'est qu'un bout de tissu.
+
+135
+00:12:24,600 --> 00:12:25,900
+Et le tissu, ça se coupe.
+
+136
+00:12:26,540 --> 00:12:28,420
+C'est une évidence pour vous comme pour moi.
+
+137
+00:12:30,420 --> 00:12:31,900
+Elle est complètement folle.
+
+138
+00:12:31,900 --> 00:12:36,280
+Bien sûr que tout le monde peut s'imaginer couper un morceau de tissu.
+
+139
+00:12:37,160 --> 00:12:38,440
+Même le dernier des abrutis.
+
+140
+00:12:39,920 --> 00:12:42,320
+Mais tout n'est pas si simple dans le monde de la magie.
+
+141
+00:12:44,000 --> 00:12:48,120
+Pour qu'un sort fonctionne, il faut que son lanceur s'imagine réussir.
+
+142
+00:12:48,120 --> 00:12:53,720
+Et tout comme une fourmi ne pourrait jamais s'imaginer écrabouiller un dragon.
+
+143
+00:12:54,920 --> 00:13:02,480
+Presque aucun mage en ce monde ne peut s'imaginer percer la défense d'un manteau aussi bien protégé que celui que s'était fabriqué Borg.
+
+144
+00:13:03,980 --> 00:13:07,160
+Surtout quand on le sait, complètement imperméable au sort offensif.
+
+145
+00:13:07,840 --> 00:13:10,240
+Ce qui ne risquait pas d'échapper à des mages de ce niveau.
+
+146
+00:13:10,920 --> 00:13:13,900
+N'importe quel idiot pourrait s'en rendre compte au premier coup d'œil.
+
+147
+00:13:13,900 --> 00:13:17,840
+Même en magie, l'imagination a ses limites.
+
+148
+00:13:18,540 --> 00:13:21,400
+Et personne d'un temps soit peu rationnel ne peut les franchir.
+
+149
+00:13:22,840 --> 00:13:26,240
+Mais cette jeune fille fonctionne au ressenti, pas à la logique.
+
+150
+00:13:27,260 --> 00:13:28,300
+Ce n'est pas une idiote.
+
+151
+00:13:29,160 --> 00:13:31,800
+Elle savait très bien que ce manteau était impossible à trancher.
+
+152
+00:13:32,340 --> 00:13:36,020
+Mais elle a quand même réussi à s'imaginer le détruire en se basant sur son ressenti.
+
+153
+00:13:37,200 --> 00:13:40,760
+Son cerveau n'a pas l'air de fonctionner comme celui d'une personne saine d'esprit.
+
+154
+00:13:40,760 --> 00:13:44,280
+Mais son talent est digne d'un prodige.
+
+155
+00:13:45,920 --> 00:13:48,060
+C'est bon, je peux rentrer maintenant ?
+
+156
+00:13:48,060 --> 00:13:48,260
+Oui.
+
+157
+00:13:50,680 --> 00:13:54,020
+Si je peux me permettre, vous avez de beaux cheveux.
+
+158
+00:13:54,760 --> 00:13:56,760
+Mais ça doit être une plaie à entretenir, non ?
+
+159
+00:13:59,440 --> 00:14:04,480
+J'avais déjà sans doute perdu mon combat contre elle dès la fin de notre entretien.
+
+160
+00:14:05,760 --> 00:14:07,840
+Je n'arrive pas à m'imaginer vaincre Rubel.
+
+161
+00:14:07,840 --> 00:14:10,540
+Elle a l'avantage sur moi.
+
+162
+00:14:17,320 --> 00:14:20,320
+Vous vous posez trop de questions, vous trouvez pas ?
+
+163
+00:14:20,320 --> 00:14:21,780
+Les cheveux, ça se coupe, regardez.
+
+164
+00:14:24,260 --> 00:14:26,740
+Mes cheveux, une plaie à entretenir ?
+
+165
+00:14:26,740 --> 00:14:27,720
+Oui, c'est un enfer.
+
+166
+00:14:28,700 --> 00:14:30,060
+J'aime autant ne pas y penser.
+
+167
+00:14:33,260 --> 00:14:35,000
+Vous devriez songer à les couper.
+
+168
+00:14:35,000 --> 00:14:40,360
+C'est bon, je crois que j'ai compris le topo.
+
+169
+00:14:41,020 --> 00:14:46,760
+Pour résumer, vous devez gagner du temps pendant que Free Ren tente de nous débarrasser de Spiegel, c'est bien ça ?
+
+170
+00:14:46,760 --> 00:14:47,840
+Oui, exactement.
+
+171
+00:14:48,700 --> 00:14:51,560
+On vous a bien aidé. On vient d'éliminer trois répliques.
+
+172
+00:14:52,280 --> 00:14:53,800
+Je ne vais pas vous retenir trop longtemps.
+
+173
+00:14:54,880 --> 00:14:56,000
+Si je suis là...
+
+174
+00:14:56,000 --> 00:14:59,600
+Oh, ça alors. La réplique de Zens vient d'être vaincue.
+
+175
+00:15:00,120 --> 00:15:01,560
+Je ne m'attendais pas à ça, mais tant mieux.
+
+176
+00:15:02,340 --> 00:15:07,260
+Si j'en crois le mana que je détecte, c'est l'œuvre d'Ubel, la jeune mage de troisième catégorie.
+
+177
+00:15:08,220 --> 00:15:09,380
+Ah oui ? J'aurais pas cru.
+
+178
+00:15:10,120 --> 00:15:13,200
+Moi, si. Zens n'avait pas la moindre chance face à elle.
+
+179
+00:15:14,160 --> 00:15:18,200
+Quand on y pense, un duel entre deux mages, c'est un peu comme une partie de pierre-feuille-ciseaux.
+
+180
+00:15:18,880 --> 00:15:23,920
+Mais contrairement aux jeux de base, les combinaisons sont infinies et le résultat trop complexe à anticiper.
+
+181
+00:15:24,580 --> 00:15:28,460
+Et qui dit plus de mages dans votre équipe, dit plus de combinaisons gagnantes.
+
+182
+00:15:30,620 --> 00:15:31,500
+C'est d'accord.
+
+183
+00:15:32,360 --> 00:15:34,600
+On va vous aider à barrer la route à tous ces clones.
+
+184
+00:15:35,740 --> 00:15:38,480
+Je n'ai pas l'habitude d'accorder ma confiance aux premiers venus,
+
+185
+00:15:39,000 --> 00:15:41,900
+mais je ne suis pas assez bête pour laisser passer une occasion en or.
+
+186
+00:15:43,840 --> 00:15:47,320
+À l'heure actuelle, deux des répliques les plus dangereuses n'ont pas encore été débusquées.
+
+187
+00:15:47,320 --> 00:15:49,600
+Elles sont à éliminer en priorité.
+
+188
+00:15:50,380 --> 00:15:53,300
+J'ai réussi à en localiser une en chemin grâce à mon sort de détection.
+
+189
+00:15:53,880 --> 00:15:54,660
+Celle de Denken.
+
+190
+00:15:55,280 --> 00:15:57,440
+Si ça ne vous dérange pas, j'aimerais vous la confier.
+
+191
+00:15:59,560 --> 00:16:02,680
+En revanche, celle de Fer n'échappe à ma détection pour l'instant
+
+192
+00:16:02,680 --> 00:16:04,840
+et je pense qu'il vaudrait mieux que je m'en occupe seule.
+
+193
+00:16:05,680 --> 00:16:06,540
+Ce ne sera pas simple.
+
+194
+00:16:06,880 --> 00:16:09,160
+Elle a l'air particulièrement douée pour dissimuler son mana.
+
+195
+00:16:09,940 --> 00:16:11,520
+Il faut que je la débusque au plus vite.
+
+196
+00:16:12,020 --> 00:16:13,840
+Sinon, ça risque de virer à l'hécatombe.
+
+197
+00:16:14,480 --> 00:16:17,300
+Tu penses être assez forte pour l'affronter toute seule ?
+
+198
+00:16:17,300 --> 00:16:20,000
+J'aurai plus de chances de la détecter si je n'ai personne autour.
+
+199
+00:16:20,620 --> 00:16:21,460
+En tout cas, méfie-toi.
+
+200
+00:16:21,880 --> 00:16:22,540
+Elle est redoutable.
+
+201
+00:16:23,200 --> 00:16:25,000
+Je sais, mais j'ai plus d'une corde à mon arc.
+
+202
+00:16:25,320 --> 00:16:27,080
+Je pense pouvoir la retenir sans trop de soucis.
+
+203
+00:16:28,940 --> 00:16:32,780
+Et l'avantage, c'est que j'ai pu tester mes sorts d'immobilisation sur la vraie Ferne
+
+204
+00:16:32,780 --> 00:16:35,180
+pour m'assurer qu'il fonctionnerait sur sa réplique.
+
+205
+00:16:35,180 --> 00:16:38,560
+Bon, allons-y.
+
+206
+00:16:38,780 --> 00:16:39,940
+On a un vieux mage à tuer.
+
+207
+00:16:42,420 --> 00:16:45,380
+Hubel, c'est bien ce que je crois ?
+
+208
+00:16:45,380 --> 00:16:47,840
+Ou j'aurais besoin de changer de lunettes ?
+
+209
+00:16:47,840 --> 00:16:49,020
+Désolée, c'est bien eux.
+
+210
+00:16:49,880 --> 00:16:52,880
+Tu ne peux plus faire le moindre mouvement, pas vrai ?
+
+211
+00:16:52,880 --> 00:16:57,820
+On dirait que mon clone est revenu d'entre les morts.
+
+212
+00:17:05,000 --> 00:17:06,700
+Même si on bat toutes les répliques,
+
+213
+00:17:07,060 --> 00:17:09,700
+elles reviendront sans cesse tant que Spiegel ne sera pas hors-jeu.
+
+214
+00:17:10,580 --> 00:17:13,700
+Savire en petite guerre d'usure, voilà qui promet d'être intéressant.
+
+215
+00:17:13,700 --> 00:17:16,200
+Il ne manquait plus que ça.
+
+216
+00:17:17,480 --> 00:17:19,700
+On ferait peut-être mieux de s'enfuir, non ?
+
+217
+00:17:19,700 --> 00:17:49,680
+Sous-titrage Société Radio-Canada
+
+218
+00:17:49,700 --> 00:17:59,760
+Encore une tentative ratée.
+
+219
+00:18:01,060 --> 00:18:02,340
+Ferne ne voit aucune ouverture.
+
+220
+00:18:05,520 --> 00:18:06,980
+On ne va pas pouvoir y couper.
+
+221
+00:18:08,480 --> 00:18:11,160
+La faille dans ma détection de mana ne sera pas suffisante
+
+222
+00:18:11,160 --> 00:18:12,820
+pour te laisser une chance de me tuer.
+
+223
+00:18:13,600 --> 00:18:14,440
+Oui, c'est vrai.
+
+224
+00:18:15,660 --> 00:18:17,700
+Mais si tu arrives à me créer une belle ouverture,
+
+225
+00:18:17,780 --> 00:18:18,580
+je pourrais y arriver.
+
+226
+00:18:18,580 --> 00:18:20,060
+Je n'en doute pas.
+
+227
+00:18:21,940 --> 00:18:23,160
+Tu peux compter sur moi.
+
+228
+00:18:24,280 --> 00:18:26,520
+Ah bon ? Tu as déjà un plan en tête ?
+
+229
+00:18:26,520 --> 00:18:28,000
+Si je baisse ma garde devant elle,
+
+230
+00:18:28,240 --> 00:18:30,440
+ça devrait la pousser à baisser encore plus la sienne.
+
+231
+00:18:32,540 --> 00:18:34,980
+Tu es sûre de vouloir risquer ta vie pour ça ?
+
+232
+00:18:34,980 --> 00:18:36,820
+Si je me concentre bien sur ma défense,
+
+233
+00:18:37,080 --> 00:18:37,840
+je n'en mourrai pas.
+
+234
+00:18:38,420 --> 00:18:38,580
+Oh ?
+
+235
+00:18:39,540 --> 00:18:40,100
+D'accord.
+
+236
+00:18:40,520 --> 00:18:42,160
+Mais dis-moi ce que je devrais faire ensuite.
+
+237
+00:18:42,160 --> 00:18:47,540
+Je te fais confiance.
+
+238
+00:18:48,000 --> 00:18:49,300
+Si tu penses pouvoir me battre,
+
+239
+00:18:49,400 --> 00:18:50,340
+c'est que tu en as les moyens.
+
+240
+00:18:51,360 --> 00:18:54,100
+Comment tu peux en être aussi sûre ?
+
+241
+00:18:54,100 --> 00:18:55,520
+Parce que je te sous-estime.
+
+242
+00:18:56,000 --> 00:18:57,960
+Ce qui veut sans doute dire que ma réplique aussi.
+
+243
+00:18:57,960 --> 00:19:03,680
+Ça, c'est une bonne nouvelle.
+
+244
+00:19:04,540 --> 00:19:06,560
+On a donc une vraie chance de vaincre ton clone.
+
+245
+00:19:06,560 --> 00:19:36,540
+Sous-titrage Société Radio-Canada
+
+246
+00:19:36,560 --> 00:20:06,540
+Sous-titrage Société Radio-Canada
+
+247
+00:20:06,560 --> 00:20:08,560
+Sous-titrage Société Radio-Canada
+
+248
+00:20:08,560 --> 00:20:10,560
+Sous-titrage Société Radio-Canada
+
+249
+00:20:10,560 --> 00:20:12,560
+Sous-titrage Société Radio-Canada
+
+250
+00:20:12,560 --> 00:20:14,560
+Sous-titrage Société Radio-Canada
+
+251
+00:20:14,560 --> 00:20:16,560
+Sous-titrage Société Radio-Canada
+
+252
+00:20:16,560 --> 00:20:18,560
+Sous-titrage Société Radio-Canada
+
+253
+00:20:18,560 --> 00:20:20,560
+Sous-titrage Société Radio-Canada
+
+254
+00:20:20,560 --> 00:20:22,560
+Sous-titrage Société Radio-Canada
+
+255
+00:20:22,560 --> 00:20:24,560
+Sous-titrage Société Radio-Canada
+
+256
+00:20:24,560 --> 00:20:26,560
+Sous-titrage Société Radio-Canada
+
+257
+00:20:26,560 --> 00:20:28,560
+Sous-titrage Société Radio-Canada
+
+258
+00:20:28,560 --> 00:20:30,560
+Sous-titrage Société Radio-Canada
+
+259
+00:20:30,560 --> 00:20:32,560
+Sous-titrage Société Radio-Canada
+
+260
+00:20:32,560 --> 00:20:34,560
+Sous-titrage Société Radio-Canada
+
+261
+00:20:34,560 --> 00:20:36,560
+Sous-titrage Société Radio-Canada
+
+262
+00:20:36,560 --> 00:20:38,560
+Sous-titrage Société Radio-Canada
+
+263
+00:20:38,560 --> 00:20:40,560
+Sous-titrage Société Radio-Canada
+
+264
+00:20:40,560 --> 00:20:42,560
+Sous-titrage Société Radio-Canada
+
+265
+00:20:42,560 --> 00:20:44,560
+Sous-titrage Société Radio-Canada
+
+266
+00:20:44,560 --> 00:21:14,540
+Sous-titrage Société Radio-Canada
+
+267
+00:21:14,560 --> 00:21:16,560
+Sous-titrage Société Radio-Canada
+
+268
+00:21:44,560 --> 00:21:46,560
+Sous-titrage Société Radio-Canada
+
+269
+00:21:46,560 --> 00:21:50,560
+Sous-titrage Société Radio-Canada
+
+270
+00:22:14,560 --> 00:22:16,560
+Sous-titrage Société Radio-Canada
+
+271
+00:22:16,560 --> 00:22:18,560
+Sous-titrage Société Radio-Canada
+
+272
+00:22:18,560 --> 00:22:20,560
+Sous-titrage Société Radio-Canada
+
+273
+00:22:20,560 --> 00:22:22,560
+Sous-titrage Société Radio-Canada
+
+274
+00:22:22,560 --> 00:22:24,560
+Sous-titrage Société Radio-Canada
+
+275
+00:22:24,560 --> 00:22:26,560
+Sous-titrage Société Radio-Canada
+
+276
+00:22:26,560 --> 00:22:56,540
+Sous-titrage Société Radio-Canada
+
+277
+00:22:56,560 --> 00:22:58,560
+Sous-titrage ST' 501
+
+278
+00:23:26,560 --> 00:23:28,560
+Sous-titrage Société Radio-Canada
+
+279
+00:23:56,560 --> 00:24:26,540
+Sous-titrage Société Radio-Canada
+
+280
+00:24:26,540 --> 00:24:56,520
+Sous-titrage Société Radio-Canada
+
