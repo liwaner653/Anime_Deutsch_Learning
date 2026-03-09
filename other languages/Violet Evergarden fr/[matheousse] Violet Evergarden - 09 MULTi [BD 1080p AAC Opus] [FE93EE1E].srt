@@ -1,0 +1,980 @@
+1
+00:00:00,000 --> 00:00:03,000
+Major ! Il faut partir !
+
+2
+00:00:05,000 --> 00:00:07,000
+Violette, je vais bien.
+
+3
+00:00:28,000 --> 00:00:29,000
+Major !
+
+4
+00:00:29,000 --> 00:00:33,000
+Sauvez-vous. Vous devez me laisser là. Tirez-vous.
+
+5
+00:00:35,000 --> 00:00:37,000
+Je refuse. Je vous emmène avec moi, chef.
+
+6
+00:00:37,000 --> 00:00:39,000
+Je n'irai nulle part. Fuyez.
+
+7
+00:00:39,000 --> 00:00:43,000
+N'insistez pas. Je ne vous laisserai pas derrière. Je vais rester et me battre.
+
+8
+00:00:43,000 --> 00:00:46,000
+Je ne partirai d'ici, qu'à condition que vous veniez aussi.
+
+9
+00:00:46,000 --> 00:00:56,000
+Non, Violette !
+
+10
+00:00:56,000 --> 00:00:58,000
+Non, Violette !
+
+11
+00:01:26,000 --> 00:01:38,000
+Je vous laisse mourir.
+
+12
+00:01:38,000 --> 00:01:40,000
+Je vous laisse mourir.
+
+13
+00:01:40,000 --> 00:01:42,000
+Je vous laisse mourir.
+
+14
+00:01:50,000 --> 00:01:51,000
+Arrêtez.
+
+15
+00:01:51,000 --> 00:01:54,000
+Il est hors de question que je vous laisse mourir.
+
+16
+00:01:59,000 --> 00:02:00,000
+Arrêtez.
+
+17
+00:02:00,000 --> 00:02:06,000
+Laissez tomber, je vous dis !
+
+18
+00:02:10,000 --> 00:02:12,000
+Sauvez votre peau.
+
+19
+00:02:16,000 --> 00:02:18,000
+Fuyez, ma chère Violette.
+
+20
+00:02:18,000 --> 00:02:21,000
+Aidez et soyez libre.
+
+21
+00:02:22,000 --> 00:02:23,000
+C'est tout ce que je vous souhaite.
+
+22
+00:02:23,000 --> 00:02:29,000
+Je suis sincère.
+
+23
+00:02:29,000 --> 00:02:33,000
+Je vous aime.
+
+24
+00:02:33,000 --> 00:02:34,000
+Je vous aime.
+
+25
+00:02:37,000 --> 00:02:38,000
+Je vous aime.
+
+26
+00:02:44,000 --> 00:02:46,000
+Vous... vous m'aimez ?
+
+27
+00:02:47,000 --> 00:02:49,000
+Je suis navrée, mais je ne comprends pas ce mot.
+
+28
+00:02:50,000 --> 00:02:52,000
+C'est quoi, aimer ?
+
+29
+00:02:53,000 --> 00:02:54,000
+Que voulez-vous dire ?
+
+30
+00:02:56,000 --> 00:02:58,000
+Je suis dans le flou. Aidez-moi.
+
+31
+00:02:58,000 --> 00:03:01,000
+Je ne comprends pas ce que signifie « je vous aime ».
+
+32
+00:03:01,000 --> 00:03:02,000
+Fais-moi !
+
+33
+00:03:02,000 --> 00:03:03,000
+Fais-moi !
+
+34
+00:03:31,000 --> 00:03:34,000
+C'est bon !
+
+35
+00:03:34,000 --> 00:03:35,000
+Est-ce que vous m'aimez ?
+
+36
+00:03:42,000 --> 00:03:43,000
+D'autres ?
+
+37
+00:03:52,000 --> 00:03:53,000
+Ok !
+
+38
+00:03:54,000 --> 00:03:55,000
+�-me !
+
+39
+00:03:55,000 --> 00:03:57,960
+Ça a été une rude bataille.
+
+40
+00:03:59,820 --> 00:04:04,160
+Après que votre bataillon a envoyé la fusée de signalisation, le reste de nos forces a attaqué.
+
+41
+00:04:04,780 --> 00:04:07,080
+L'armée de Gardarik a senti que la défaite était proche.
+
+42
+00:04:07,500 --> 00:04:10,820
+Elle a préféré sacrifier son quartier général en le bombardant avant de se retirer.
+
+43
+00:04:14,520 --> 00:04:16,820
+Quand on vous a retrouvé, vous étiez au pied de cet escalier.
+
+44
+00:04:18,260 --> 00:04:23,480
+On suppose que c'est lui qui vous a poussé là pour éviter que vous ne soyez blessés dans l'explosion.
+
+45
+00:04:25,000 --> 00:04:30,120
+Pendant mon séjour à l'hôpital, toutes les personnes que j'ai interrogées m'ont dit que le major se portait bien.
+
+46
+00:04:33,140 --> 00:04:34,520
+On ne pouvait rien vous dire.
+
+47
+00:04:36,100 --> 00:04:38,960
+Vous étiez plus inquiète pour lui que vous ne l'étiez pour votre propre santé.
+
+48
+00:04:47,760 --> 00:04:50,460
+Venez. Partons, Violette.
+
+49
+00:04:54,140 --> 00:04:54,540
+Partir.
+
+50
+00:04:55,000 --> 00:04:57,000
+Pour aller où ?
+
+51
+00:04:58,000 --> 00:05:01,040
+Il n'y a qu'un endroit où j'ai envie d'aller.
+
+52
+00:05:01,780 --> 00:05:03,080
+Je veux rejoindre le major.
+
+53
+00:05:04,600 --> 00:05:06,140
+J'avais l'intention de vous ramener au bureau.
+
+54
+00:05:07,100 --> 00:05:09,720
+Si je ne m'abuse, vous êtes notre poupée de souvenirs automatiques.
+
+55
+00:05:09,720 --> 00:05:20,300
+Tant que vous ne serez pas décidé à rentrer avec moi.
+
+56
+00:05:22,040 --> 00:05:25,380
+Après tout, Gilbert m'a demandé de prendre soin de vous.
+
+57
+00:05:25,380 --> 00:05:29,580
+Juste avant le début de la bataille, il est venu me voir.
+
+58
+00:05:30,420 --> 00:05:31,420
+Vous savez ce qu'il m'a dit ?
+
+59
+00:05:31,420 --> 00:05:37,980
+Oh, Jeans, s'il devait m'arriver malheur, je veux que tu prennes soin de Violette.
+
+60
+00:05:37,980 --> 00:05:42,720
+Quand la guerre sera terminée, emmène-la chez les Evergarden à Leyden.
+
+61
+00:05:43,260 --> 00:05:44,740
+Je te le demande comme un service personnel.
+
+62
+00:05:46,340 --> 00:05:47,980
+Tu me la confies ?
+
+63
+00:05:47,980 --> 00:05:50,860
+Je compte sur toi.
+
+64
+00:05:52,660 --> 00:05:57,520
+C'était votre supérieur, mais pour tout vous dire, il ne vous a jamais vu comme un outil de guerre.
+
+65
+00:05:59,220 --> 00:06:02,980
+Il veillait sur une jeune fille ordinaire et souhaitait qu'elle trouve sa place dans le monde.
+
+66
+00:06:02,980 --> 00:06:22,440
+Eh, pardon de vous avoir pressé.
+
+67
+00:06:23,980 --> 00:06:24,980
+Ça va aller ?
+
+68
+00:06:26,980 --> 00:06:29,980
+Eh oui, ça va, n'est-ce pas ?
+
+69
+00:06:32,980 --> 00:06:39,880
+Le jour où vous êtes sorti de l'hôpital, je ne savais pas trop comment ça se passerait pour vous.
+
+70
+00:06:40,140 --> 00:06:43,320
+Mais vous vous êtes adapté, vous êtes devenu poupée de souvenirs automatiques.
+
+71
+00:06:44,320 --> 00:06:46,280
+Pour y arriver, vous avez travaillé dur.
+
+72
+00:06:47,760 --> 00:06:52,060
+Je pense que vous êtes désormais capable de vivre votre vie sans plus avoir besoin de ces ordres.
+
+73
+00:06:55,220 --> 00:06:58,980
+Ne recevrai-je plus jamais d'ordre de votre part, Major ?
+
+74
+00:06:58,980 --> 00:07:03,120
+Vous n'avez rien fait de mal, rassurez-vous.
+
+75
+00:07:04,080 --> 00:07:05,840
+Nous aurons l'occasion d'en discuter plus tard.
+
+76
+00:07:15,680 --> 00:07:17,420
+Il y a un barrage qui bloque la route.
+
+77
+00:07:21,520 --> 00:07:22,920
+Mon lieutenant ?
+
+78
+00:07:22,920 --> 00:07:24,920
+En réalité, je ne suis...
+
+79
+00:07:24,920 --> 00:07:25,440
+Laissez tomber.
+
+80
+00:07:26,260 --> 00:07:26,980
+Repos !
+
+81
+00:07:26,980 --> 00:07:27,400
+Oui, monsieur.
+
+82
+00:07:28,580 --> 00:07:30,080
+Il s'est passé quelque chose ?
+
+83
+00:07:30,080 --> 00:07:33,980
+Une faction dissidente de Gardaric opposée à la corde de paix a attaqué la ville de Cascrell.
+
+84
+00:07:35,080 --> 00:07:37,660
+J'ai entendu dire que les sentiments anti-paix avaient pris de l'ampleur.
+
+85
+00:07:38,980 --> 00:07:39,960
+Quelle est la situation ?
+
+86
+00:07:39,960 --> 00:07:43,920
+On a arrêté les potifs, mais nous devons rester prudents au cas où d'autres insurgés se manifesteraient.
+
+87
+00:07:46,720 --> 00:07:48,220
+Prenons un chemin différent, alors.
+
+88
+00:07:48,220 --> 00:08:12,900
+Violette est de retour en ville, n'est-ce pas ?
+
+89
+00:08:12,900 --> 00:08:14,040
+Il semblerait, oui.
+
+90
+00:08:15,240 --> 00:08:17,220
+Tu crois qu'elle va reprendre son travail ici ?
+
+91
+00:08:18,220 --> 00:08:23,740
+Tu pourrais passer voir comment elle va ?
+
+92
+00:08:23,740 --> 00:08:25,600
+Pourquoi tu n'y vas pas toi-même ?
+
+93
+00:08:25,600 --> 00:08:27,380
+Elle a plus besoin de quelqu'un comme toi.
+
+94
+00:08:28,320 --> 00:08:30,100
+Je ne sais pas ce que je dois comprendre, mais qu'importe.
+
+95
+00:08:30,620 --> 00:08:31,780
+J'ai de toute façon mieux à faire.
+
+96
+00:08:34,140 --> 00:08:38,220
+Bénédicte, tu peux te charger du District 12 à ma place aujourd'hui ?
+
+97
+00:08:38,780 --> 00:08:41,400
+Je voudrais faire un saut au District 14 de mon côté.
+
+98
+00:08:41,760 --> 00:08:42,900
+Il y a un problème ?
+
+99
+00:08:42,900 --> 00:08:48,060
+Oui, à la fin de sa tournée, un de nos nouveaux facteurs s'est débarrassé des lettres qu'il n'avait pas eu le temps de distribuer.
+
+100
+00:08:48,380 --> 00:08:49,020
+Pardon ?
+
+101
+00:08:49,020 --> 00:08:51,140
+Justement, on était sur le point de partir les chercher.
+
+102
+00:08:51,460 --> 00:08:54,640
+Ne t'inquiète pas, on a une idée de l'endroit où il a pu les jeter.
+
+103
+00:08:54,640 --> 00:09:17,200
+Violette, vous êtes là, n'est-ce pas ?
+
+104
+00:09:17,200 --> 00:09:18,820
+Je venais juste voir comment vous alliez.
+
+105
+00:09:20,720 --> 00:09:24,320
+Si je vous ai causé du souci, j'en suis terriblement désolée.
+
+106
+00:09:28,000 --> 00:09:31,200
+Vous vous sentez comment aujourd'hui ? Vous mangez un peu ?
+
+107
+00:09:33,200 --> 00:09:38,140
+Je laisse sur le seuil le repas que je vous ai amené.
+
+108
+00:09:38,140 --> 00:09:42,820
+Pensez-vous que je pourrais vous voir demain ?
+
+109
+00:09:42,820 --> 00:09:44,260
+On est tous impatients de vous revoir.
+
+110
+00:09:44,820 --> 00:09:47,080
+Et il y a eu beaucoup de demandes pour vous en votre absence.
+
+111
+00:09:51,480 --> 00:09:52,140
+En vérité...
+
+112
+00:09:53,400 --> 00:09:56,520
+Le directeur Hodgins avait vu juste.
+
+113
+00:09:58,020 --> 00:09:58,860
+Je me consume.
+
+114
+00:10:00,000 --> 00:10:01,640
+À cause des actes que j'ai commis.
+
+115
+00:10:01,640 --> 00:10:05,600
+Un jour, vous comprendrez tout ce que je viens de vous dire.
+
+116
+00:10:06,500 --> 00:10:09,140
+Et à ce moment-là, pour la première fois de votre vie,
+
+117
+00:10:09,240 --> 00:10:11,280
+vous réaliserez que vous avez beaucoup de brûlures.
+
+118
+00:10:16,440 --> 00:10:18,780
+Qu'est-ce qui t'a pris de lui dire un truc pareil ?
+
+119
+00:10:18,780 --> 00:10:19,960
+Tu connais ses antécédents.
+
+120
+00:10:20,180 --> 00:10:21,920
+Tu sais aussi bien que moi qu'elle n'avait pas le choix.
+
+121
+00:10:22,320 --> 00:10:25,440
+Son vécu, ses motivations et autres détails n'ont guère d'importance.
+
+122
+00:10:26,040 --> 00:10:27,200
+Personne ne peut effacer le passé.
+
+123
+00:10:27,260 --> 00:10:29,060
+Mais on peut l'oublier et recommencer à zéro.
+
+124
+00:10:29,140 --> 00:10:30,780
+Non, on ne se défait pas de son histoire.
+
+125
+00:10:31,640 --> 00:10:37,240
+Elle traverse une épreuve, mais elle n'est pas la seule qui se consomme.
+
+126
+00:10:39,140 --> 00:10:39,860
+Toi aussi.
+
+127
+00:10:40,320 --> 00:10:40,920
+Et moi pareil.
+
+128
+00:10:41,900 --> 00:10:44,740
+On porte tous les deux les cicatrices invisibles laissées par les flammes.
+
+129
+00:10:45,640 --> 00:10:46,600
+Chacun a son fardeau.
+
+130
+00:10:48,700 --> 00:10:49,440
+Je le sais bien.
+
+131
+00:10:50,580 --> 00:10:53,080
+Mais maintenant, qu'est-elle censée faire de sa vie ?
+
+132
+00:10:53,080 --> 00:10:55,320
+Ce sera à elle de décider de la voie qu'elle veut suivre.
+
+133
+00:10:56,280 --> 00:10:58,460
+Mais elle devra d'abord regarder ses brûlures en face.
+
+134
+00:10:59,000 --> 00:10:59,840
+Et les accepter.
+
+135
+00:11:01,180 --> 00:11:01,620
+Comment ?
+
+136
+00:11:01,640 --> 00:11:04,580
+Elle a perdu son major.
+
+137
+00:11:05,720 --> 00:11:07,800
+Et tout ce qu'elle avait d'autre lui a été arraché.
+
+138
+00:11:09,180 --> 00:11:10,060
+Elle s'en sortira.
+
+139
+00:11:12,060 --> 00:11:13,520
+Elle n'a perdu ni ce qu'elle avait.
+
+140
+00:11:16,120 --> 00:11:16,700
+Ni lui.
+
+141
+00:11:19,160 --> 00:11:20,520
+Katleya n'est pas revenue non plus.
+
+142
+00:11:21,080 --> 00:11:24,120
+Demain, je ferai un crochet par chez elle afin de m'assurer qu'elle tient le coup.
+
+143
+00:11:24,120 --> 00:11:28,380
+Pendant un temps, il vaudrait peut-être mieux la laisser tranquille.
+
+144
+00:11:29,580 --> 00:11:30,280
+Tu crois ?
+
+145
+00:11:30,280 --> 00:11:35,440
+Mon vœu le plus cher est de découvrir ce que je vous aime signifie.
+
+146
+00:11:36,000 --> 00:11:41,780
+En ce qui me concerne, je fais ce travail pour comprendre ce qu'entendait le major quand il m'a dit je vous aime.
+
+147
+00:11:41,780 --> 00:11:46,320
+Je ne suis pas sûre.
+
+148
+00:11:46,800 --> 00:11:49,060
+N'y a-t-il vraiment rien qu'on puisse faire pour l'aider ?
+
+149
+00:11:49,060 --> 00:11:50,200
+Hein ?
+
+150
+00:11:50,200 --> 00:11:53,580
+Tu vas dire que je dramatise, mais si elle ne redevenait jamais une poupée.
+
+151
+00:11:53,580 --> 00:12:00,580
+Pour embaucher un scribe, c'est bien un subur aussi ?
+
+152
+00:12:23,580 --> 00:12:33,500
+Major.
+
+153
+00:12:39,500 --> 00:12:41,580
+Y a-t-il un problème ?
+
+154
+00:12:43,660 --> 00:12:48,220
+Parlez, Violette.
+
+155
+00:12:48,220 --> 00:12:53,780
+Major.
+
+156
+00:12:55,360 --> 00:12:55,960
+Major.
+
+157
+00:12:58,320 --> 00:13:00,140
+Quel bonheur, vous êtes en vie.
+
+158
+00:13:01,900 --> 00:13:04,500
+Quelle est cette tenue ?
+
+159
+00:13:04,500 --> 00:13:08,780
+C'est parce que je travaille actuellement comme poupée de souvenirs automatiques.
+
+160
+00:13:10,060 --> 00:13:11,560
+C'est vrai ?
+
+161
+00:13:11,560 --> 00:13:11,800
+Oui.
+
+162
+00:13:12,920 --> 00:13:14,500
+J'écris des lettres sur commande.
+
+163
+00:13:14,500 --> 00:13:20,500
+Des lettres, dites-vous ?
+
+164
+00:13:20,500 --> 00:13:23,420
+Avec ces mêmes mains qui ont pris tant de vies ?
+
+165
+00:13:23,420 --> 00:13:24,040
+Quelle ironie.
+
+166
+00:13:31,840 --> 00:13:33,240
+Comment ça ?
+
+167
+00:13:33,240 --> 00:13:36,240
+C'est drôle que vous tapiez des lettres destinées à rapprocher des gens.
+
+168
+00:13:36,240 --> 00:14:06,220
+C'est drôle, c'est drôle, c'est drôle, c'est drôle.
+
+169
+00:14:06,220 --> 00:14:07,400
+howre c'est drôle !
+
+170
+00:14:07,400 --> 00:14:08,440
+C'est drôle ?
+
+171
+00:14:08,440 --> 00:14:12,400
+Je m'en boulevingne, c'est drôle.
+
+172
+00:14:12,400 --> 00:14:12,440
+Ah !
+
+173
+00:14:12,440 --> 00:14:24,180
+Ah !
+
+174
+00:14:24,180 --> 00:14:54,160
+Non !
+
+175
+00:14:54,180 --> 00:15:24,160
+Je vous en conjure.
+
+176
+00:15:24,160 --> 00:15:25,920
+Je vous en conjure. Donnez-moi un ordre.
+
+177
+00:15:25,920 --> 00:15:46,360
+J'ai une lettre pour vous, Violette Evergarden.
+
+178
+00:15:46,360 --> 00:16:16,340
+Je vous en conjure.
+
+179
+00:16:16,340 --> 00:16:20,340
+Vous distribuez encore le courrier ?
+
+180
+00:16:20,340 --> 00:16:23,500
+Eh oui ! On a retrouvé les lettres que le nouveau facteur avait jetées.
+
+181
+00:16:24,380 --> 00:16:25,080
+Oui, Bénédicte.
+
+182
+00:16:25,080 --> 00:16:31,620
+Il est en arrêt, il s'est foulé la cheville, à cause des chaussures qu'il portait aujourd'hui.
+
+183
+00:16:32,620 --> 00:16:35,080
+Quelle idée de mettre des talons pour ta tournée ?
+
+184
+00:16:35,080 --> 00:16:39,460
+Aïe, tu fais mal !
+
+185
+00:16:39,460 --> 00:16:42,140
+Bon, je vais commencer la distribution dans Craft Street.
+
+186
+00:16:42,580 --> 00:16:45,080
+Vous ne voyez pas d'inconvénient à livrer la rue derrière ?
+
+187
+00:16:47,080 --> 00:16:54,340
+À l'intérieur de chacune de ces enveloppes, il y a un souvenir précieux aux yeux de quelqu'un.
+
+188
+00:16:54,340 --> 00:16:59,080
+C'est la raison pour laquelle chaque lettre mérite d'être livrée.
+
+189
+00:16:59,080 --> 00:17:11,080
+On a du courrier !
+
+190
+00:17:11,080 --> 00:17:14,080
+Maman, c'est une lettre de papa !
+
+191
+00:17:14,080 --> 00:17:30,080
+La distribution de cette rue est terminée ?
+
+192
+00:17:30,080 --> 00:17:32,160
+Merci du coup de main.
+
+193
+00:17:34,500 --> 00:17:37,040
+Magnifique ! Elles sont toutes arrivées à destination.
+
+194
+00:17:37,040 --> 00:17:58,040
+Chère Violette, vous allez bien ?
+
+195
+00:17:58,040 --> 00:18:03,700
+Je pensais venir vous voir, mais après discussion avec Iris, nous avons décidé de vous écrire une lettre à la place.
+
+196
+00:18:03,700 --> 00:18:08,480
+Je réalise qu'il peut paraître étrange qu'une poupée envoie un courrier à une consœur.
+
+197
+00:18:09,120 --> 00:18:12,860
+Cependant, nous tenions à ce que vous sachiez que nous nous faisons du souci pour vous.
+
+198
+00:18:14,120 --> 00:18:16,720
+Il y a par ailleurs une deuxième chose que nous souhaitions vous dire.
+
+199
+00:18:17,820 --> 00:18:19,660
+C'est que nous attendons votre retour.
+
+200
+00:18:21,600 --> 00:18:24,940
+Nous comprenons que pour l'heure, vous n'avez sans doute pas envie de revenir au bureau.
+
+201
+00:18:25,700 --> 00:18:26,960
+Prenez le temps qu'il vous faudra.
+
+202
+00:18:28,760 --> 00:18:32,660
+Toutefois, s'il devait vous arriver quoi que ce soit, n'hésitez pas à nous appeler.
+
+203
+00:18:32,660 --> 00:18:36,480
+Iris et moi avons confiance dans le fait que vous reviendrez parmi nous.
+
+204
+00:18:42,120 --> 00:18:45,260
+Sachez aussi qu'un certain Spencer est venu demander vos services.
+
+205
+00:18:45,720 --> 00:18:47,620
+Il désirait que vous tapiez une lettre pour lui.
+
+206
+00:18:49,380 --> 00:18:52,680
+Il voulait envoyer un message d'excuse et de remerciement à sa petite sœur.
+
+207
+00:18:54,600 --> 00:18:56,560
+Il souhaitait que ce soit vous qui l'écriviez.
+
+208
+00:18:58,040 --> 00:18:58,980
+Vous et vous seuls.
+
+209
+00:18:59,480 --> 00:19:00,860
+Il a bien insisté sur ce point.
+
+210
+00:19:00,860 --> 00:19:19,260
+Ce courrier vous satisfait-il ?
+
+211
+00:19:19,260 --> 00:19:19,540
+Oui.
+
+212
+00:19:21,280 --> 00:19:23,620
+C'est gênant d'envoyer une lettre à ma sœur cadette,
+
+213
+00:19:23,800 --> 00:19:25,620
+mais j'ai une dette immense envers elle, vous savez.
+
+214
+00:19:26,320 --> 00:19:28,800
+Je n'aurais jamais trouvé ce nouveau travail si elle n'avait pas été là.
+
+215
+00:19:28,800 --> 00:19:34,900
+C'est grâce à elle que j'ai eu la force de prendre un nouveau départ.
+
+216
+00:19:38,560 --> 00:19:40,980
+Je suis désolé de vous avoir fait déplacer.
+
+217
+00:19:42,100 --> 00:19:44,260
+On m'a dit que vous aviez pris un congé sabbatique.
+
+218
+00:19:44,940 --> 00:19:46,980
+Mes collègues m'ont instruite de votre volonté.
+
+219
+00:19:48,860 --> 00:19:49,480
+Par courrier.
+
+220
+00:19:49,480 --> 00:19:54,320
+Croyez-le ou non, c'était la toute première lettre que j'ai jamais reçue.
+
+221
+00:19:55,460 --> 00:19:57,880
+J'ai eu une révélation quand j'ai lu leur message.
+
+222
+00:19:58,980 --> 00:20:02,740
+Car j'ai réalisé le plaisir qu'on a à recevoir une lettre.
+
+223
+00:20:05,320 --> 00:20:07,560
+Je pense que Lukulia en sera très heureuse.
+
+224
+00:20:10,060 --> 00:20:11,000
+Je vous remercie.
+
+225
+00:20:11,000 --> 00:20:40,980
+Je vous remercie.
+
+226
+00:20:41,000 --> 00:21:10,980
+Je vous remercie.
+
+227
+00:21:11,000 --> 00:21:22,860
+Le prénom Violette me correspond.
+
+228
+00:21:29,000 --> 00:21:32,500
+Il est adéquat pour la personne que je suis.
+
+229
+00:21:32,500 --> 00:22:00,360
+Où est-ce que vous courez ?
+
+230
+00:22:00,360 --> 00:22:02,360
+Violette ?
+
+231
+00:22:02,360 --> 00:22:09,760
+Vous aviez raison à mon sujet.
+
+232
+00:22:10,640 --> 00:22:13,100
+Partout sur mon corps, je porte les brûlures du passé.
+
+233
+00:22:13,100 --> 00:22:19,100
+Est-ce un problème ?
+
+234
+00:22:19,100 --> 00:22:23,680
+Vous croyez que j'ai le droit d'exercer ce métier ?
+
+235
+00:22:23,680 --> 00:22:25,100
+D'être poupée ?
+
+236
+00:22:25,100 --> 00:22:35,100
+Et surtout, vous croyez que j'ai le droit de vivre ?
+
+237
+00:22:35,100 --> 00:22:45,100
+Vous croyez que j'ai le droit d'exercer ce métier ?
+
+238
+00:22:45,100 --> 00:22:47,100
+Vous croyez que j'ai le droit d'exercer ce métier ?
+
+239
+00:22:47,100 --> 00:22:57,100
+Vous croyez que j'ai le droit d'exercer ce métier ?
+
+240
+00:22:57,100 --> 00:22:59,100
+Vous croyez que j'ai le droit d'exercer ce métier ?
+
+241
+00:22:59,100 --> 00:23:07,100
+Vous croyez que j'ai le droit d'exercer ce métier ?
+
+242
+00:23:07,100 --> 00:23:17,100
+Vous croyez que j'ai le droit d'exercer ce métier ?
+
+243
+00:23:17,100 --> 00:23:23,100
+Vous croyez que j'ai le droit d'exercer ce métier ?
+
+244
+00:23:23,100 --> 00:23:31,100
+Seulement, tout ce que vous avez accompli en tant que poupée de souvenirs automatiques restera.
+
+245
+00:23:33,100 --> 00:23:37,100
+Ça ne disparaîtra jamais, Violette Evergarden.
+

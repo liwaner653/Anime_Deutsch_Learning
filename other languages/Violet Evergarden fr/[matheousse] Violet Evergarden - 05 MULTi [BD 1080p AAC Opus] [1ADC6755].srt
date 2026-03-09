@@ -1,0 +1,1916 @@
+1
+00:00:00,000 --> 00:00:01,920
+Excusez-moi.
+
+2
+00:00:03,100 --> 00:00:05,200
+Je vous sers à boire, lieutenant ?
+
+3
+00:00:05,200 --> 00:00:06,780
+Non, pas pour le moment, merci.
+
+4
+00:00:07,100 --> 00:00:07,500
+D'accord.
+
+5
+00:00:08,880 --> 00:00:11,780
+Dites-moi, comment ça se passe maintenant que vous n'êtes plus dans l'armée ?
+
+6
+00:00:11,780 --> 00:00:14,560
+Vous êtes devenu propriétaire d'une entreprise civile ?
+
+7
+00:00:14,560 --> 00:00:16,940
+J'ai entendu dire que les affaires prospèrent pour vous.
+
+8
+00:00:17,740 --> 00:00:18,780
+Ça va plutôt bien, en effet.
+
+9
+00:00:19,700 --> 00:00:24,000
+Mais avez-vous songé à ce qui arriverait si une autre guerre éclatait ?
+
+10
+00:00:24,840 --> 00:00:26,700
+Une autre guerre avec le Nord ?
+
+11
+00:00:26,700 --> 00:00:27,320
+Précisément.
+
+12
+00:00:27,320 --> 00:00:31,520
+Parmi les pays de l'Alliance du Nord dirigés en ce moment par l'Empire Gardaric,
+
+13
+00:00:31,860 --> 00:00:33,760
+il y a des forces qui s'opposent à l'accord de paix.
+
+14
+00:00:34,060 --> 00:00:35,000
+Ceci est la réalité.
+
+15
+00:00:39,800 --> 00:00:43,240
+Je suis sûr que vous connaissez les lettres publiques d'amour de Dressel.
+
+16
+00:00:43,720 --> 00:00:46,160
+Dressel était l'un des nôtres, un membre de l'Union du Sud.
+
+17
+00:00:47,820 --> 00:00:48,480
+C'est juste.
+
+18
+00:00:49,480 --> 00:00:50,520
+Dressel et Fugel.
+
+19
+00:00:51,720 --> 00:00:55,140
+Un mariage heureux entre deux forces qui étaient jadis ennemies.
+
+20
+00:00:55,140 --> 00:01:00,680
+C'est un signe clair à envoyer aux pays environnants pour dire que la guerre est finie.
+
+21
+00:01:00,680 --> 00:01:12,700
+Monsieur le directeur, je vais y aller maintenant.
+
+22
+00:01:14,800 --> 00:01:17,860
+Violette, je sais que cela va être un travail difficile,
+
+23
+00:01:18,140 --> 00:01:20,440
+mais vous avez acquis beaucoup d'expérience au cours des derniers mois.
+
+24
+00:01:21,800 --> 00:01:23,300
+Vous pouvez avoir confiance en vous.
+
+25
+00:01:23,300 --> 00:01:26,720
+C'est le palais royal.
+
+26
+00:01:30,760 --> 00:01:31,460
+Bonne chance.
+
+27
+00:01:32,840 --> 00:01:33,860
+Bonne lettre, mademoiselle.
+
+28
+00:01:33,860 --> 00:01:48,780
+Mademoiselle Violette Evergarden de la compagnie des postes CH est là pour vous demander audience.
+
+29
+00:01:50,860 --> 00:01:54,680
+Princesse Charlotte Héberfray à Dressel, auriez-vous l'obligeance d'ouvrir la porte ?
+
+30
+00:01:54,680 --> 00:01:57,240
+Votre Altesse, êtes-vous prête à la recevoir ?
+
+31
+00:01:57,240 --> 00:01:59,060
+Je suis heureuse de faire votre connaissance.
+
+32
+00:01:59,720 --> 00:02:02,440
+Si c'est là, votre souhait, je voyagerai n'importe où pour vous rencontrer.
+
+33
+00:02:03,180 --> 00:02:04,800
+Poupée de souvenirs automatique.
+
+34
+00:02:05,460 --> 00:02:07,200
+Violette Evergarden à votre service.
+
+35
+00:02:12,580 --> 00:02:13,100
+Princesse.
+
+36
+00:02:18,240 --> 00:02:22,060
+Princesse, je croyais vous avoir parlé de cette audience l'autre jour.
+
+37
+00:02:22,060 --> 00:02:26,060
+C'est... c'est la poupée ?
+
+38
+00:02:26,060 --> 00:02:27,600
+Je suis heureuse de vous rencontrer.
+
+39
+00:02:28,600 --> 00:02:32,240
+Poupée de souvenirs automatique, Violette Evergarden, à votre service.
+
+40
+00:02:33,760 --> 00:02:36,580
+Je suis la princesse Charlotte Héberfray à Dressel.
+
+41
+00:02:36,860 --> 00:02:42,520
+Je suis censée épouser le prince de Flügel, Damian Barodor Flügel, souverain du pays limitrophe.
+
+42
+00:02:43,760 --> 00:02:45,900
+Vous allez écrire la lettre publique d'amour pour moi.
+
+43
+00:02:47,840 --> 00:02:51,860
+Princesse, votre élégant discours est complètement gâché par votre apparence.
+
+44
+00:02:52,060 --> 00:03:00,360
+La lettre publique d'amour.
+
+45
+00:03:00,960 --> 00:03:05,160
+Son but est d'exprimer votre amour l'un pour l'autre aussi admirablement que possible
+
+46
+00:03:05,160 --> 00:03:08,340
+pour convaincre les gens du caractère merveilleux de votre mariage.
+
+47
+00:03:08,840 --> 00:03:12,500
+Poupée, Violette Evergarden, tout dépend de votre talent.
+
+48
+00:03:13,400 --> 00:03:14,900
+J'en suis consciente, votre Altesse.
+
+49
+00:03:15,060 --> 00:03:17,700
+Vous pouvez compter sur moi, je ne vais pas trahir vos attentes.
+
+50
+00:03:18,840 --> 00:03:21,400
+Veuillez m'excuser, j'ai l'impression de ne pas parler à un être humain.
+
+51
+00:03:22,060 --> 00:03:24,620
+En fait, vous ressemblez vraiment à une poupée.
+
+52
+00:03:26,960 --> 00:03:30,360
+Dites-moi, poupée, quel âge avez-vous ?
+
+53
+00:03:30,360 --> 00:03:31,700
+Pardonnez-moi, votre Altesse.
+
+54
+00:03:32,400 --> 00:03:34,900
+Comme je suis orpheline, je ne connais pas mon âge exact.
+
+55
+00:03:35,900 --> 00:03:38,040
+Mais on m'a dit que j'avais environ 14 ans.
+
+56
+00:03:38,040 --> 00:03:43,140
+Vous m'envoyez désolée.
+
+57
+00:03:44,040 --> 00:03:47,300
+Acceptez-vous mes excuses, Mademoiselle Violette Evergarden ?
+
+58
+00:03:47,300 --> 00:03:48,580
+S'il vous plaît, ne vous inquiétez pas.
+
+59
+00:03:49,440 --> 00:03:52,320
+Est-ce que... y a-t-il un problème avec mon âge ?
+
+60
+00:03:52,320 --> 00:03:55,680
+Non, j'étais curieuse de savoir ce que ressentaient les personnes de mon âge.
+
+61
+00:03:57,600 --> 00:03:58,040
+Euh...
+
+62
+00:03:58,040 --> 00:04:02,480
+Quelle différence d'âge est acceptable, pensez-vous ?
+
+63
+00:04:02,480 --> 00:04:03,740
+Acceptable ?
+
+64
+00:04:03,740 --> 00:04:08,020
+La princesse voudrait savoir si vous pourriez tomber amoureuse du prince Damian Barodor Flugel.
+
+65
+00:04:08,560 --> 00:04:10,340
+Je n'ai jamais connu l'amour auparavant,
+
+66
+00:04:10,700 --> 00:04:15,320
+mais j'ai analysé des statistiques basées sur la littérature de plusieurs lieux et époques différents.
+
+67
+00:04:16,460 --> 00:04:17,760
+Si l'on se base sur ces données,
+
+68
+00:04:18,160 --> 00:04:21,160
+il y a eu beaucoup de mariages et d'amants avec de grandes différences d'âge.
+
+69
+00:04:21,700 --> 00:04:24,940
+En règle générale, l'âge n'est pas un obstacle pour faire naître l'amour.
+
+70
+00:04:24,940 --> 00:04:28,420
+Même s'il a dix ans de plus que moi ?
+
+71
+00:04:28,420 --> 00:04:31,040
+Le prince Damian Barodor Flugel est âgé de 24 ans.
+
+72
+00:04:31,780 --> 00:04:33,400
+Cela ne devrait pas être un problème.
+
+73
+00:04:33,900 --> 00:04:35,940
+Même s'il n'y a pas d'amour ?
+
+74
+00:04:36,460 --> 00:04:39,940
+Qu'en pensez-vous ?
+
+75
+00:04:40,660 --> 00:04:41,180
+L'amour.
+
+76
+00:04:41,720 --> 00:04:44,060
+Je suis en train de réfléchir à ce sujet, votre majesté.
+
+77
+00:04:46,160 --> 00:04:48,660
+En ce qui concerne l'amour et les mariages sans amour,
+
+78
+00:04:48,820 --> 00:04:51,260
+pour le moment, je manque d'informations et de compréhension
+
+79
+00:04:51,260 --> 00:04:53,880
+pour vous apporter une réponse correcte, votre majesté.
+
+80
+00:04:53,880 --> 00:04:56,380
+Alors dites-moi, à quoi servez-vous enfin ?
+
+81
+00:04:56,380 --> 00:04:58,800
+Quel genre de vie avez-vous vécu pour parler de cette façon ?
+
+82
+00:04:58,800 --> 00:05:00,960
+Nous ne pouvons même pas avoir une conversation décente.
+
+83
+00:05:01,320 --> 00:05:03,920
+Sachez que je suis plus inquiète pour votre avenir que pour le mien.
+
+84
+00:05:04,400 --> 00:05:08,360
+Et puis, ne pouvez-vous pas changer vos expressions faciales quand vous parlez ?
+
+85
+00:05:08,360 --> 00:05:09,920
+Donnez-moi un instant, s'il vous plaît.
+
+86
+00:05:09,920 --> 00:05:21,660
+J'ai fini de l'écrire.
+
+87
+00:05:21,660 --> 00:05:31,940
+Lettre de la princesse Charlotte Héber Freya au prince Damian Flügel.
+
+88
+00:05:32,500 --> 00:05:36,300
+Comment vous sentiriez-vous si je vous disais que rien qu'en prononçant votre nom à haute voix
+
+89
+00:05:36,300 --> 00:05:39,640
+ou même en l'écrivant sur ce papier, mon cœur bat la chamade ?
+
+90
+00:05:39,640 --> 00:05:42,080
+J'aimerais trouver les mots justes pour exprimer mes sentiments.
+
+91
+00:05:42,760 --> 00:05:46,500
+Un simple « je vous aime » ne suffit plus pour vous faire part du bonheur que je ressens.
+
+92
+00:05:47,180 --> 00:05:50,580
+Dans ce royaume de fleurs, tout me fait penser à vous et chaque jour, je soupire.
+
+93
+00:05:51,320 --> 00:05:54,180
+Par exemple, quand je regarde la lune qui flotte dans le ciel nocturne,
+
+94
+00:05:54,480 --> 00:05:57,060
+la lune en déclin ressemble à un pétale de fleurs tombant seul.
+
+95
+00:05:57,300 --> 00:06:00,420
+Chaque jour, je prends conscience que mon amour pour vous est sincère et profond.
+
+96
+00:06:01,020 --> 00:06:04,860
+Et puis, je me dis, à quoi pensez-vous lorsque vous regardez cette même lune ?
+
+97
+00:06:04,860 --> 00:06:08,080
+Malgré notre différence d'âge, je ne pourrais en aucun cas imaginer ma vie sans vous.
+
+98
+00:06:08,860 --> 00:06:11,780
+Elle a incorporé la lune et la fleur conformément aux instructions.
+
+99
+00:06:13,120 --> 00:06:15,960
+Vous êtes douée pour écrire des lettres d'amour, Mademoiselle Violette.
+
+100
+00:06:16,500 --> 00:06:19,680
+Merci.
+
+101
+00:06:22,460 --> 00:06:24,800
+Impressionnant. Les deux pays seront bientôt unis.
+
+102
+00:06:26,300 --> 00:06:28,000
+Ça a l'air de bien se passer jusqu'ici.
+
+103
+00:06:29,180 --> 00:06:35,100
+Aussi blanc que les camélias, je loue votre beauté, princesse Charlotte Hébert Freya Drossel.
+
+104
+00:06:36,380 --> 00:06:37,900
+Vous êtes mon histoire d'amour.
+
+105
+00:06:39,040 --> 00:06:42,180
+Mes sentiments passionnés pour vous font déborder mon cœur.
+
+106
+00:06:42,180 --> 00:06:47,700
+J'espère et je désire que vous soyez mienne dès que possible.
+
+107
+00:06:49,580 --> 00:06:50,420
+Veuillez m'excuser.
+
+108
+00:06:52,200 --> 00:06:54,160
+Il y a une belle bague qui vous attend.
+
+109
+00:06:54,160 --> 00:07:11,300
+Est-ce qu'elles se sentent gênées par la lettre du prince ?
+
+110
+00:07:11,300 --> 00:07:11,580
+Non.
+
+111
+00:07:13,040 --> 00:07:14,600
+Ce ne sont pas des larmes d'embarras.
+
+112
+00:07:16,460 --> 00:07:18,100
+Ce sont des larmes de frustration.
+
+113
+00:07:18,100 --> 00:07:24,360
+Je connais la princesse Charlotte depuis qu'elle était dans le ventre de notre reine bien-aimée.
+
+114
+00:07:30,660 --> 00:07:34,260
+Princesse, vous savez que je pourrais vous trouver, quelle que soit votre cachette.
+
+115
+00:07:34,260 --> 00:07:48,060
+Princesse, si j'étais votre belle-mère, je vous retirerais des points et je vous punirais pour cela.
+
+116
+00:07:49,540 --> 00:07:52,580
+Quand vous devenez émotive, vous avez tendance à oublier qui vous êtes.
+
+117
+00:07:57,140 --> 00:08:00,400
+Quand vous vous marierez à la famille Flugel, votre Alberta ne sera pas là.
+
+118
+00:08:00,400 --> 00:08:04,860
+Pourquoi dites-vous cela ?
+
+119
+00:08:04,860 --> 00:08:07,060
+Je suis la dame de la cour du Palais-Royal.
+
+120
+00:08:07,420 --> 00:08:12,140
+À ce titre, j'appartiens au Palais-Royal, et non pas à vous, princesse Charlotte et Berfraya Drossel.
+
+121
+00:08:13,940 --> 00:08:16,860
+Vous m'appartenez, vous m'entendez ?
+
+122
+00:08:16,860 --> 00:08:20,820
+C'est vous !
+
+123
+00:08:20,820 --> 00:08:24,320
+C'est vous qui m'avez sortie du ventre de ma mère !
+
+124
+00:08:24,320 --> 00:08:27,820
+Vous comprenez ? C'est vous qui m'avez élevée, personne d'autre !
+
+125
+00:08:27,820 --> 00:08:38,280
+En tout cas, je vous appartiens, vous comprenez ?
+
+126
+00:08:38,280 --> 00:08:44,680
+J'aurai assez des lettres, et de vous, de tout.
+
+127
+00:08:46,760 --> 00:08:48,280
+Sortez !
+
+128
+00:08:48,280 --> 00:08:51,280
+Hors de ma vue !
+
+129
+00:08:51,280 --> 00:08:54,220
+Non, princesse, je resterai à vos côtés.
+
+130
+00:09:07,820 --> 00:09:12,280
+Princesse Charlotte, comment devrions-nous préparer la prochaine lettre ?
+
+131
+00:09:12,280 --> 00:09:18,440
+Je... je ne m'en soucie plus vraiment.
+
+132
+00:09:23,080 --> 00:09:24,860
+Vous n'avez qu'à écrire ce que vous voulez.
+
+133
+00:09:26,320 --> 00:09:28,880
+De toute façon, ces réponses sont aussi écrites par une poupée.
+
+134
+00:09:29,340 --> 00:09:31,200
+Le prince Damien est une personne très occupée.
+
+135
+00:09:31,920 --> 00:09:33,600
+Je suis sûre qu'il ne lit même pas mes lettres.
+
+136
+00:09:36,100 --> 00:09:37,960
+Peu importe donc ce qui est écrit dedans.
+
+137
+00:09:37,960 --> 00:09:43,840
+Princesse Charlotte, on dirait que vous n'êtes pas satisfaite de ces réponses.
+
+138
+00:09:45,940 --> 00:09:47,340
+Non, là n'est pas la cause.
+
+139
+00:09:48,420 --> 00:09:49,920
+C'est juste que...
+
+140
+00:09:49,920 --> 00:09:52,440
+Je me rends compte que je n'ai rencontré Damien qu'une seule fois.
+
+141
+00:09:52,840 --> 00:09:55,320
+Le Damien que j'ai rencontré n'utiliserait pas ce genre de mots.
+
+142
+00:09:55,320 --> 00:10:08,320
+Pourrais-je arrêter d'être la princesse de Drossel juste pour un instant ?
+
+143
+00:10:08,320 --> 00:10:12,740
+Mademoiselle Violette, s'il vous plaît, arrêtez d'être une poupée maintenant
+
+144
+00:10:12,740 --> 00:10:14,740
+et écoutez mon histoire en étant vous-même.
+
+145
+00:10:17,140 --> 00:10:18,320
+Écoutez, d'accord ?
+
+146
+00:10:18,320 --> 00:10:23,900
+D'accord.
+
+147
+00:10:28,160 --> 00:10:31,840
+Le jour où j'ai eu dix ans, un grand banquet a eu lieu à Drossel.
+
+148
+00:10:36,100 --> 00:10:40,140
+Pour les membres de la famille royale, dix ans est déjà un âge suffisant pour se marier.
+
+149
+00:10:41,240 --> 00:10:43,480
+Tous les hommes que j'ai rencontrés étaient des prétendants.
+
+150
+00:10:44,840 --> 00:10:47,340
+Je n'avais pas vraiment l'impression qu'on fêtait mon anniversaire.
+
+151
+00:10:48,320 --> 00:10:50,760
+Peu importe ce que je ressentais,
+
+152
+00:10:52,200 --> 00:10:53,500
+c'est comme ça qu'on me traitait.
+
+153
+00:11:13,740 --> 00:11:14,180
+Bonsoir.
+
+154
+00:11:15,180 --> 00:11:17,180
+Personne n'est venu vous chercher ?
+
+155
+00:11:17,180 --> 00:11:21,620
+Vous pouvez pleurer.
+
+156
+00:11:22,240 --> 00:11:23,460
+Allez-y, il n'y a pas de mal à pleurer.
+
+157
+00:11:25,960 --> 00:11:28,700
+Merci, mais je veux arrêter de pleurer.
+
+158
+00:11:30,300 --> 00:11:31,700
+Ne dis pas cela, s'il vous plaît.
+
+159
+00:11:31,700 --> 00:11:39,500
+Quand je vous ai vu au banquet, j'ai cru que vous n'étiez qu'une enfant gâtée comme toutes les autres.
+
+160
+00:11:40,520 --> 00:11:41,960
+Je suis content de vous voir pleurer comme cela.
+
+161
+00:11:43,080 --> 00:11:45,160
+C'était la pire fête d'anniversaire que j'ai jamais vue.
+
+162
+00:11:45,560 --> 00:11:47,360
+Même moi, je m'en suis échappé, je n'en pouvais plus.
+
+163
+00:11:48,220 --> 00:11:49,980
+Je comprends pourquoi vous avez eu envie de pleurer.
+
+164
+00:11:49,980 --> 00:11:54,680
+À plus tard.
+
+165
+00:11:59,680 --> 00:12:02,720
+Cet homme, il m'a parlé en étant lui-même.
+
+166
+00:12:04,420 --> 00:12:05,220
+C'était tout.
+
+167
+00:12:05,220 --> 00:12:10,240
+Mais pour moi, pour moi, c'était vraiment important.
+
+168
+00:12:12,240 --> 00:12:14,080
+Cela m'a rendu tellement heureuse.
+
+169
+00:12:15,780 --> 00:12:17,420
+Puis la guerre s'est intensifiée.
+
+170
+00:12:17,940 --> 00:12:20,000
+La question de mon mariage a été mise en suspens.
+
+171
+00:12:20,000 --> 00:12:24,880
+Mais dès que la guerre a pris fin, j'ai reçu une proposition de mariage.
+
+172
+00:12:25,360 --> 00:12:26,120
+Cela m'a surprise.
+
+173
+00:12:29,140 --> 00:12:30,780
+Je savais que c'était ma seule chance.
+
+174
+00:12:31,680 --> 00:12:34,060
+J'ai fait des recherches et j'ai rassemblé des informations
+
+175
+00:12:34,060 --> 00:12:37,100
+sur la façon dont notre union pouvait être bénéfique pour les deux parties.
+
+176
+00:12:38,000 --> 00:12:40,720
+Je me suis forcée d'obtenir l'accord de mon père et du régime.
+
+177
+00:12:41,900 --> 00:12:43,880
+Je ne sais pas si cela a pesé dans leur décision,
+
+178
+00:12:44,240 --> 00:12:45,960
+mais Drossol a fini par choisir Flougal.
+
+179
+00:12:45,960 --> 00:12:51,000
+Vous n'avez pas idée à quel point ce mariage me rend heureuse.
+
+180
+00:12:52,080 --> 00:12:54,780
+Mais je ne sais pas si lui partage le même sentiment que moi.
+
+181
+00:12:55,460 --> 00:12:57,400
+Si après tout, en fait, il aimait quelqu'un d'autre,
+
+182
+00:12:57,520 --> 00:12:59,140
+quelqu'un de son âge, plus mature que moi.
+
+183
+00:12:59,820 --> 00:13:01,680
+Comme vous le savez, nous avons dix ans d'écart.
+
+184
+00:13:02,440 --> 00:13:03,960
+Peut-être n'allons-nous pas nous comprendre.
+
+185
+00:13:05,160 --> 00:13:05,960
+Parce que...
+
+186
+00:13:06,780 --> 00:13:07,960
+je ne suis qu'une...
+
+187
+00:13:08,620 --> 00:13:10,640
+qu'une pleurnicharde de 14 ans.
+
+188
+00:13:13,100 --> 00:13:14,960
+Et s'il me haïssait là-bas...
+
+189
+00:13:15,960 --> 00:13:17,420
+Alberta ne sera pas là pour moi.
+
+190
+00:13:21,280 --> 00:13:23,440
+Tout ce qu'il y a dans la lettre est un mensonge.
+
+191
+00:13:24,340 --> 00:13:25,920
+Ses vrais sentiments n'y sont pas.
+
+192
+00:13:27,820 --> 00:13:28,880
+J'en suis certaine.
+
+193
+00:13:29,840 --> 00:13:31,180
+Je ne peux plus continuer comme cela.
+
+194
+00:13:31,300 --> 00:13:33,100
+Je veux savoir ce qu'il ressent vraiment pour moi.
+
+195
+00:13:35,140 --> 00:13:35,960
+Je veux savoir...
+
+196
+00:13:36,840 --> 00:13:37,880
+ce qu'il ressent vraiment.
+
+197
+00:13:37,880 --> 00:13:49,340
+Princesse Charlotte.
+
+198
+00:13:52,340 --> 00:13:53,700
+Mademoiselle Violette.
+
+199
+00:13:54,400 --> 00:13:56,520
+Nous, les poupées de souvenirs automatiques,
+
+200
+00:13:56,720 --> 00:13:58,320
+nous écrivons des lettres pour nos clients.
+
+201
+00:13:58,820 --> 00:14:01,400
+Nous ne pouvons pas accepter de demandes en dehors de nos fonctions.
+
+202
+00:14:02,060 --> 00:14:04,440
+Je suis consciente que je vais peut-être dépasser les limites
+
+203
+00:14:04,440 --> 00:14:05,700
+avec ce que je m'apprête à faire.
+
+204
+00:14:05,700 --> 00:14:09,100
+Veuillez comprendre que mes actions sont sans rapport
+
+205
+00:14:09,100 --> 00:14:10,860
+avec la compagnie des postes CH.
+
+206
+00:14:11,580 --> 00:14:13,180
+Qu'allez-vous donc faire, au juste ?
+
+207
+00:14:14,180 --> 00:14:17,380
+Je veux que vos larmes cessent.
+
+208
+00:14:17,800 --> 00:14:19,240
+Je ne veux plus vous voir souffrir.
+
+209
+00:14:21,020 --> 00:14:21,440
+En fait,
+
+210
+00:14:22,160 --> 00:14:24,720
+les mots qu'a écrit la poupée du prince Damien
+
+211
+00:14:24,720 --> 00:14:25,620
+me sont familiers.
+
+212
+00:14:28,020 --> 00:14:28,760
+Mademoiselle Violette.
+
+213
+00:14:28,760 --> 00:14:37,760
+Qu'a-t-elle donc prévu de faire, au juste ?
+
+214
+00:14:37,760 --> 00:14:39,820
+Princesse Charlotte.
+
+215
+00:14:42,300 --> 00:14:44,420
+Princesse Charlotte Eberfrayad Russell.
+
+216
+00:14:45,460 --> 00:14:46,480
+Vous souvenez-vous de moi
+
+217
+00:14:46,480 --> 00:14:47,940
+de cette nuit au clair de lune
+
+218
+00:14:47,940 --> 00:14:50,160
+dans le jardin au camélia blanc ?
+
+219
+00:14:50,160 --> 00:14:51,280
+C'est une lettre manuscrite.
+
+220
+00:14:51,640 --> 00:14:52,880
+C'est plutôt court comme lettre.
+
+221
+00:14:52,960 --> 00:14:53,860
+À quoi pense-t-il ?
+
+222
+00:14:53,860 --> 00:14:55,140
+C'est une première dans l'histoire.
+
+223
+00:14:55,760 --> 00:14:56,760
+Et que se passe-t-il ?
+
+224
+00:14:56,760 --> 00:15:02,760
+Violette !
+
+225
+00:15:02,760 --> 00:15:03,600
+J'ai eu une discussion
+
+226
+00:15:03,600 --> 00:15:05,460
+avec sa poupée de souvenirs automatiques
+
+227
+00:15:05,460 --> 00:15:06,900
+au sujet de nos futurs échanges.
+
+228
+00:15:07,640 --> 00:15:09,020
+Maintenant, c'est à votre tour
+
+229
+00:15:09,020 --> 00:15:09,840
+d'écrire une lettre.
+
+230
+00:15:10,780 --> 00:15:12,540
+En utilisant vos propres mots.
+
+231
+00:15:15,720 --> 00:15:17,660
+Prince Damien Barodor Flügel.
+
+232
+00:15:19,040 --> 00:15:20,140
+Oui, je me souviens.
+
+233
+00:15:20,880 --> 00:15:22,880
+Vous avez ri de mon visage couvert de larmes.
+
+234
+00:15:24,800 --> 00:15:26,180
+Cela m'avait vraiment offensée.
+
+235
+00:15:27,300 --> 00:15:28,380
+Mais je n'ai jamais oublié
+
+236
+00:15:28,380 --> 00:15:29,220
+le son de votre voix
+
+237
+00:15:29,220 --> 00:15:31,160
+qui me disait que ce n'était pas grave de pleurer.
+
+238
+00:15:31,960 --> 00:15:33,740
+Je n'ai jamais oublié votre gentillesse.
+
+239
+00:15:35,500 --> 00:15:37,100
+J'ai ri parce que vous étiez mignonne
+
+240
+00:15:37,100 --> 00:15:38,640
+en agissant comme une enfant de votre âge.
+
+241
+00:15:39,340 --> 00:15:40,360
+Je ne voulais pas vous offenser.
+
+242
+00:15:41,000 --> 00:15:41,660
+Veuillez m'excuser.
+
+243
+00:15:42,480 --> 00:15:43,640
+Bien que j'ai le titre de prince,
+
+244
+00:15:43,760 --> 00:15:44,880
+cela ne correspond pas exactement
+
+245
+00:15:44,880 --> 00:15:45,680
+à ma personnalité.
+
+246
+00:15:46,540 --> 00:15:47,220
+Ne vous attendez pas
+
+247
+00:15:47,220 --> 00:15:47,980
+à ce que je me comporte
+
+248
+00:15:47,980 --> 00:15:48,880
+comme un homme d'âge mûr.
+
+249
+00:15:49,520 --> 00:15:50,380
+Je ne vous ai rencontré
+
+250
+00:15:50,380 --> 00:15:51,540
+qu'une seule fois cette nuit-là.
+
+251
+00:15:51,940 --> 00:15:53,320
+Quel genre de fille êtes-vous ?
+
+252
+00:15:53,320 --> 00:15:54,420
+Comme c'est beau !
+
+253
+00:15:54,420 --> 00:15:55,320
+On dirait une lettre d'amour.
+
+254
+00:15:55,320 --> 00:15:57,700
+Je suis une fille
+
+255
+00:15:57,700 --> 00:15:59,380
+sensible et colérique.
+
+256
+00:16:00,440 --> 00:16:01,780
+Je ne suis probablement pas
+
+257
+00:16:01,780 --> 00:16:02,720
+la femme de vos rêves.
+
+258
+00:16:04,460 --> 00:16:06,280
+Ce n'est pas vrai !
+
+259
+00:16:06,280 --> 00:16:07,360
+Allez, prince Damian,
+
+260
+00:16:07,500 --> 00:16:09,780
+réconfortez la princesse !
+
+261
+00:16:09,780 --> 00:16:10,540
+J'ai une petite sœur,
+
+262
+00:16:10,620 --> 00:16:12,080
+donc je suis habitué au pleurnichard.
+
+263
+00:16:13,160 --> 00:16:14,440
+Mais sachez que moi non plus,
+
+264
+00:16:14,540 --> 00:16:15,240
+je ne suis pas un homme
+
+265
+00:16:15,240 --> 00:16:15,900
+si exceptionnel.
+
+266
+00:16:16,700 --> 00:16:17,820
+Peut-être ne suis-je pas non plus
+
+267
+00:16:17,820 --> 00:16:18,560
+l'homme de vos rêves.
+
+268
+00:16:18,560 --> 00:16:20,200
+C'est vraiment nul
+
+269
+00:16:20,200 --> 00:16:20,940
+ce qu'il a écrit !
+
+270
+00:16:20,940 --> 00:16:21,960
+Allez, sois un homme,
+
+271
+00:16:22,040 --> 00:16:24,680
+dis-lui, viens avec moi !
+
+272
+00:16:24,680 --> 00:16:25,360
+Ce n'est pas vrai
+
+273
+00:16:25,360 --> 00:16:26,260
+puisque je suis déjà
+
+274
+00:16:26,260 --> 00:16:27,220
+folle amoureuse de vous.
+
+275
+00:16:28,840 --> 00:16:30,940
+À cause de ma première lettre ?
+
+276
+00:16:30,940 --> 00:16:31,960
+C'était le travail
+
+277
+00:16:31,960 --> 00:16:33,060
+d'une poupée talentueuse.
+
+278
+00:16:34,260 --> 00:16:35,940
+Pas de l'homme de la lettre ?
+
+279
+00:16:35,940 --> 00:16:37,160
+De celui qui avait
+
+280
+00:16:37,160 --> 00:16:38,040
+caressé ma tête
+
+281
+00:16:38,040 --> 00:16:38,760
+il y a quatre ans
+
+282
+00:16:38,760 --> 00:16:39,620
+sur le clair de lune.
+
+283
+00:16:41,500 --> 00:16:42,380
+Je n'ai fait que vous
+
+284
+00:16:42,380 --> 00:16:43,600
+réconfortez une seule fois
+
+285
+00:16:43,600 --> 00:16:44,280
+quand vous pleuriez.
+
+286
+00:16:44,280 --> 00:16:49,660
+J'ai chéri ce moment
+
+287
+00:16:49,660 --> 00:16:50,700
+comme une pierre précieuse
+
+288
+00:16:50,700 --> 00:16:51,620
+durant toutes ces années.
+
+289
+00:16:52,440 --> 00:16:53,260
+Je n'oublierai jamais
+
+290
+00:16:53,260 --> 00:16:54,100
+ce moment unique
+
+291
+00:16:54,100 --> 00:16:54,980
+en votre présence.
+
+292
+00:16:55,880 --> 00:16:56,980
+Je suis devenu insensible
+
+293
+00:16:56,980 --> 00:16:57,600
+et je n'arrive pas
+
+294
+00:16:57,600 --> 00:16:58,380
+à comprendre le cœur
+
+295
+00:16:58,380 --> 00:16:58,800
+d'une femme.
+
+296
+00:17:00,180 --> 00:17:01,060
+Je pourrais vous délaisser
+
+297
+00:17:01,060 --> 00:17:01,900
+pour aller à la chasse.
+
+298
+00:17:03,480 --> 00:17:04,220
+Je vais probablement
+
+299
+00:17:04,220 --> 00:17:04,740
+vous décevoir.
+
+300
+00:17:07,080 --> 00:17:07,900
+En grandissant,
+
+301
+00:17:08,020 --> 00:17:08,880
+vous rencontrerez peut-être
+
+302
+00:17:08,880 --> 00:17:09,440
+un homme meilleur
+
+303
+00:17:09,440 --> 00:17:10,060
+qui vous mérite
+
+304
+00:17:10,060 --> 00:17:10,560
+plus que moi.
+
+305
+00:17:11,980 --> 00:17:12,500
+Excusez-moi,
+
+306
+00:17:12,660 --> 00:17:13,200
+qu'entendez-vous
+
+307
+00:17:13,200 --> 00:17:14,260
+par un homme meilleur ?
+
+308
+00:17:14,260 --> 00:17:17,140
+En termes d'apparence ?
+
+309
+00:17:17,140 --> 00:17:18,140
+De richesse ?
+
+310
+00:17:18,140 --> 00:17:19,040
+L'idée que je me fais
+
+311
+00:17:19,040 --> 00:17:19,860
+d'une bonne personne
+
+312
+00:17:19,860 --> 00:17:21,020
+c'est quelqu'un capable
+
+313
+00:17:21,020 --> 00:17:22,020
+d'agir sincèrement
+
+314
+00:17:22,020 --> 00:17:22,460
+avec moi.
+
+315
+00:17:23,860 --> 00:17:24,900
+De toutes les personnes
+
+316
+00:17:24,900 --> 00:17:25,700
+que j'ai rencontrées,
+
+317
+00:17:26,120 --> 00:17:26,800
+vous êtes le seul
+
+318
+00:17:26,800 --> 00:17:27,340
+qui admettent
+
+319
+00:17:27,340 --> 00:17:28,360
+ne pas être un homme bon.
+
+320
+00:17:28,980 --> 00:17:29,420
+À mes yeux,
+
+321
+00:17:29,500 --> 00:17:30,360
+cela a beaucoup de valeur.
+
+322
+00:17:30,700 --> 00:17:31,620
+C'est tout ce qui m'importe.
+
+323
+00:17:32,000 --> 00:17:32,740
+C'est tout ce que je veux.
+
+324
+00:17:33,320 --> 00:17:34,160
+Si vous partez chasser,
+
+325
+00:17:34,540 --> 00:17:35,140
+j'irai avec vous.
+
+326
+00:17:35,680 --> 00:17:36,600
+Ne sous-estimez pas
+
+327
+00:17:36,600 --> 00:17:37,600
+la princesse de Drossel.
+
+328
+00:17:38,120 --> 00:17:38,780
+J'étais éduquée
+
+329
+00:17:38,780 --> 00:17:39,700
+pour pouvoir me marier
+
+330
+00:17:39,700 --> 00:17:41,000
+avec n'importe quelle famille.
+
+331
+00:17:41,440 --> 00:17:42,220
+Je suis probablement
+
+332
+00:17:42,220 --> 00:17:42,920
+plus résistante
+
+333
+00:17:42,920 --> 00:17:43,720
+que vous ne le pensez
+
+334
+00:17:43,720 --> 00:17:44,400
+et je suis capable
+
+335
+00:17:44,400 --> 00:17:45,000
+de parcourir
+
+336
+00:17:45,000 --> 00:17:45,740
+une longue distance
+
+337
+00:17:45,740 --> 00:17:46,500
+pendant la chasse.
+
+338
+00:17:52,660 --> 00:17:54,360
+Je n'aurais pas dû écrire ça.
+
+339
+00:17:55,460 --> 00:17:55,900
+Maintenant,
+
+340
+00:17:55,980 --> 00:17:56,540
+il doit penser
+
+341
+00:17:56,540 --> 00:17:57,060
+que je ne suis
+
+342
+00:17:57,060 --> 00:17:58,240
+qu'une petite fille gâtée.
+
+343
+00:17:59,700 --> 00:18:01,100
+Oh non !
+
+344
+00:18:01,100 --> 00:18:01,880
+J'aurais dû vous laisser
+
+345
+00:18:01,880 --> 00:18:02,660
+écrire, Violette.
+
+346
+00:18:02,740 --> 00:18:03,080
+Dites-moi,
+
+347
+00:18:03,200 --> 00:18:04,960
+que dois-je faire maintenant ?
+
+348
+00:18:04,960 --> 00:18:05,720
+Pourquoi Alberta
+
+349
+00:18:05,720 --> 00:18:08,120
+ne m'a-t-elle pas arrêtée ?
+
+350
+00:18:08,120 --> 00:18:09,200
+Princesse Charlotte.
+
+351
+00:18:10,720 --> 00:18:11,900
+Voici votre réponse.
+
+352
+00:18:15,900 --> 00:18:16,960
+Qu'est-ce qu'il dit ?
+
+353
+00:18:18,960 --> 00:18:19,500
+Il dit,
+
+354
+00:18:19,840 --> 00:18:20,300
+ce soir,
+
+355
+00:18:20,380 --> 00:18:20,980
+je vous attendrai
+
+356
+00:18:20,980 --> 00:18:21,560
+dans le jardin
+
+357
+00:18:21,560 --> 00:18:22,060
+sous la lune.
+
+358
+00:18:22,060 --> 00:18:40,680
+Bonsoir,
+
+359
+00:18:40,760 --> 00:18:41,220
+princesse.
+
+360
+00:18:41,440 --> 00:18:42,740
+Prince Damien !
+
+361
+00:18:42,740 --> 00:18:45,240
+J'ai apporté ma réponse
+
+362
+00:18:45,240 --> 00:18:45,800
+à votre lettre.
+
+363
+00:18:46,920 --> 00:18:47,620
+Ma future femme
+
+364
+00:18:47,620 --> 00:18:48,540
+semble être une personne
+
+365
+00:18:48,540 --> 00:18:49,220
+intelligente,
+
+366
+00:18:49,440 --> 00:18:50,320
+déterminée et drôle.
+
+367
+00:18:50,320 --> 00:18:53,200
+elle ferait une bonne reine.
+
+368
+00:18:56,260 --> 00:18:57,180
+Marions-nous, Charlotte.
+
+369
+00:19:02,780 --> 00:19:03,740
+Est-ce que vous voulez
+
+370
+00:19:03,740 --> 00:19:05,320
+m'épouser, Charlotte ?
+
+371
+00:19:09,320 --> 00:19:14,320
+Oui.
+
+372
+00:19:20,320 --> 00:19:23,900
+Leur amour
+
+373
+00:19:23,900 --> 00:19:25,660
+a une fin heureuse.
+
+374
+00:19:36,260 --> 00:19:36,940
+Princesse,
+
+375
+00:19:37,200 --> 00:19:38,780
+il est temps
+
+376
+00:19:38,780 --> 00:19:39,560
+de vous préparer.
+
+377
+00:19:40,340 --> 00:19:40,880
+Réveillez-vous,
+
+378
+00:19:41,000 --> 00:19:41,440
+s'il vous plaît.
+
+379
+00:19:45,580 --> 00:19:46,320
+Princesse ?
+
+380
+00:19:46,320 --> 00:19:48,320
+Alberta ?
+
+381
+00:19:48,320 --> 00:19:51,300
+Je suis là, Alberta.
+
+382
+00:19:51,460 --> 00:19:52,280
+Je me suis déjà levée.
+
+383
+00:19:53,180 --> 00:19:53,580
+Bonjour.
+
+384
+00:19:56,580 --> 00:19:57,100
+Princesse,
+
+385
+00:19:57,300 --> 00:19:58,200
+vous ne devriez pas
+
+386
+00:19:58,200 --> 00:19:59,260
+taquiner les adultes.
+
+387
+00:20:00,320 --> 00:20:01,040
+Mais Alberta,
+
+388
+00:20:01,300 --> 00:20:01,700
+moi aussi,
+
+389
+00:20:01,780 --> 00:20:03,320
+je suis une adulte mature maintenant.
+
+390
+00:20:03,320 --> 00:20:08,420
+maintenant,
+
+391
+00:20:08,560 --> 00:20:09,300
+princesse Charlotte,
+
+392
+00:20:09,500 --> 00:20:09,940
+il est temps
+
+393
+00:20:09,940 --> 00:20:10,620
+de vous habiller.
+
+394
+00:20:14,500 --> 00:20:14,900
+Alberta,
+
+395
+00:20:16,240 --> 00:20:16,800
+à votre avis,
+
+396
+00:20:16,960 --> 00:20:17,780
+où se trouve Violette
+
+397
+00:20:17,780 --> 00:20:19,040
+en ce moment ?
+
+398
+00:20:19,040 --> 00:20:20,940
+Elle doit déjà
+
+399
+00:20:20,940 --> 00:20:21,980
+avoir quitté le pays.
+
+400
+00:20:21,980 --> 00:20:29,600
+Vous êtes magnifique,
+
+401
+00:20:29,760 --> 00:20:30,200
+princesse.
+
+402
+00:20:31,480 --> 00:20:32,400
+Mademoiselle Violette,
+
+403
+00:20:32,780 --> 00:20:33,320
+j'aurais aimé
+
+404
+00:20:33,320 --> 00:20:34,060
+que vous me voyiez
+
+405
+00:20:34,060 --> 00:20:35,220
+dans ma robe de mariée.
+
+406
+00:20:38,220 --> 00:20:38,660
+Princesse,
+
+407
+00:20:38,940 --> 00:20:39,900
+est-ce que vos soucis
+
+408
+00:20:39,900 --> 00:20:41,400
+ont disparu ?
+
+409
+00:20:41,400 --> 00:20:42,360
+Disparu ?
+
+410
+00:20:42,360 --> 00:20:43,280
+Bien sûr que non.
+
+411
+00:20:43,780 --> 00:20:44,580
+Je suis sur le point
+
+412
+00:20:44,580 --> 00:20:45,600
+de pleurer en ce moment.
+
+413
+00:20:46,220 --> 00:20:47,260
+Vous ne devez pas pleurer,
+
+414
+00:20:47,400 --> 00:20:47,840
+princesse.
+
+415
+00:20:48,320 --> 00:20:49,040
+Vous vous apprêtez
+
+416
+00:20:49,040 --> 00:20:49,500
+à partir
+
+417
+00:20:49,500 --> 00:20:50,600
+pour un nouveau voyage.
+
+418
+00:20:51,980 --> 00:20:53,900
+C'était mon rêve
+
+419
+00:20:53,900 --> 00:20:55,100
+d'épouser le prince Damien.
+
+420
+00:20:56,100 --> 00:20:56,580
+Je sais.
+
+421
+00:20:57,540 --> 00:20:58,380
+Mais je déteste
+
+422
+00:20:58,380 --> 00:20:58,720
+l'idée
+
+423
+00:20:58,720 --> 00:20:59,660
+de quitter ma maison.
+
+424
+00:21:00,940 --> 00:21:01,580
+Je comprends.
+
+425
+00:21:02,220 --> 00:21:02,420
+Mais,
+
+426
+00:21:02,860 --> 00:21:03,440
+ce que je crains
+
+427
+00:21:03,440 --> 00:21:04,320
+le plus en ce moment,
+
+428
+00:21:04,880 --> 00:21:05,720
+c'est d'être séparée
+
+429
+00:21:05,720 --> 00:21:06,340
+de vous, Alberta.
+
+430
+00:21:06,700 --> 00:21:07,940
+Plus que de n'importe qui,
+
+431
+00:21:08,000 --> 00:21:08,520
+vous comprenez.
+
+432
+00:21:09,520 --> 00:21:09,920
+Alberta.
+
+433
+00:21:12,140 --> 00:21:12,540
+Princesse.
+
+434
+00:21:21,980 --> 00:21:25,640
+Je vous souhaite
+
+435
+00:21:25,640 --> 00:21:26,340
+tout le bonheur
+
+436
+00:21:26,340 --> 00:21:26,800
+du monde,
+
+437
+00:21:27,900 --> 00:21:28,740
+princesse Charlotte.
+
+438
+00:21:31,100 --> 00:21:31,620
+Alberta.
+
+439
+00:21:31,620 --> 00:22:01,600
+Sous-titrage Société Radio-Canada
+
+440
+00:22:01,620 --> 00:22:04,420
+Mademoiselle Violette,
+
+441
+00:22:04,500 --> 00:22:05,440
+j'espère que vous comprenez
+
+442
+00:22:05,440 --> 00:22:06,780
+que vous m'êtes redevable maintenant.
+
+443
+00:22:07,620 --> 00:22:08,500
+Cela a été difficile
+
+444
+00:22:08,500 --> 00:22:09,120
+de convaincre
+
+445
+00:22:09,120 --> 00:22:09,840
+le prince Damien
+
+446
+00:22:09,840 --> 00:22:10,360
+de le faire.
+
+447
+00:22:11,080 --> 00:22:11,940
+Je vous remercie.
+
+448
+00:22:14,680 --> 00:22:15,380
+Ça y est,
+
+449
+00:22:15,580 --> 00:22:16,540
+je veux manger un steak.
+
+450
+00:22:17,520 --> 00:22:18,380
+C'est ce que je vous dois,
+
+451
+00:22:18,480 --> 00:22:20,580
+Mademoiselle Catleya ?
+
+452
+00:22:20,580 --> 00:22:21,020
+Eh oui.
+
+453
+00:22:23,420 --> 00:22:23,880
+Compris.
+
+454
+00:22:23,880 --> 00:22:32,360
+Violette,
+
+455
+00:22:32,760 --> 00:22:33,860
+c'est une si belle journée
+
+456
+00:22:33,860 --> 00:22:34,260
+aujourd'hui.
+
+457
+00:22:34,920 --> 00:22:36,760
+Ne trouvez-vous pas ?
+
+458
+00:22:36,760 --> 00:22:37,040
+Oui.
+
+459
+00:22:41,360 --> 00:22:42,500
+Une belle journée
+
+460
+00:22:42,500 --> 00:22:43,460
+pour un mariage.
+
+461
+00:22:43,460 --> 00:23:13,440
+Sous-titrage Société Radio-Canada
+
+462
+00:23:13,460 --> 00:23:43,440
+Sous-titrage Société Radio-Canada
+
+463
+00:23:43,460 --> 00:24:13,440
+Sous-titrage Société Radio-Canada
+
+464
+00:24:13,460 --> 00:24:14,460
+Sous-titrage Société Radio-Canada
+
+465
+00:24:14,460 --> 00:24:15,460
+Sous-titrage Société Radio-Canada
+
+466
+00:24:15,460 --> 00:24:16,340
+Sous-titrage Société Radio-Canada
+
+467
+00:24:16,340 --> 00:24:17,340
+Sous-titrage Société Radio-Canada
+
+468
+00:24:17,340 --> 00:24:19,340
+Sous-titrage Société Radio-Canada
+
+469
+00:24:19,340 --> 00:24:21,340
+Sous-titrage Société Radio-Canada
+
+470
+00:24:21,340 --> 00:24:24,340
+Sous-titrage Société Radio-Canada
+
+471
+00:24:24,340 --> 00:24:27,340
+Sous-titrage Société Radio-Canada
+
+472
+00:24:27,340 --> 00:24:28,340
+Sous-titrage Société Radio-Canada
+
+473
+00:24:28,340 --> 00:24:30,340
+Sous-titrage Société Radio-Canada
+
+474
+00:24:30,340 --> 00:25:00,340
+
+
+475
+00:25:00,340 --> 00:25:03,340
+Sous-titrage Société Radio-Canada
+
+476
+00:25:03,340 --> 00:25:05,340
+Sous-titrage Société Radio-Canada
+
+477
+00:25:05,340 --> 00:25:06,340
+...
+
+478
+00:25:06,340 --> 00:25:07,340
+...
+
+479
+00:25:07,340 --> 00:25:10,340
+...
+
