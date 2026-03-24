@@ -1,0 +1,856 @@
+1
+00:00:00,000 --> 00:00:29,980
+Sous-titrage ST' 501
+
+2
+00:00:30,000 --> 00:00:59,980
+Sous-titrage ST' 501
+
+3
+00:01:00,000 --> 00:01:29,980
+Sous-titrage ST' 501
+
+4
+00:01:29,980 --> 00:01:59,960
+Sous-titrage ST' 501
+
+5
+00:01:59,960 --> 00:02:29,940
+Sous-titrage ST' 501
+
+6
+00:02:29,940 --> 00:02:59,920
+Sous-titrage ST' 501
+
+7
+00:02:59,920 --> 00:03:29,900
+Sous-titrage ST' 501
+
+8
+00:03:29,900 --> 00:03:59,880
+Sous-titrage ST' 501
+
+9
+00:03:59,880 --> 00:04:29,860
+Sous-titrage ST' 501
+
+10
+00:04:29,860 --> 00:04:59,840
+Sous-titrage ST' 501
+
+11
+00:04:59,840 --> 00:05:29,820
+Sous-titrage ST' 501
+
+12
+00:05:29,820 --> 00:05:31,820
+Sous-titrage ST' 501
+
+13
+00:05:59,820 --> 00:06:29,820
+
+
+14
+00:06:29,820 --> 00:06:59,820
+
+
+15
+00:06:59,820 --> 00:07:29,820
+
+
+16
+00:07:29,820 --> 00:07:59,800
+Sous-titrage ST' 501
+
+17
+00:07:59,800 --> 00:08:01,800
+Sous-titrage ST' 501
+
+18
+00:08:01,800 --> 00:08:31,800
+
+
+19
+00:08:31,800 --> 00:09:01,800
+
+
+20
+00:09:01,800 --> 00:09:03,800
+Sous-titrage ST' 501
+
+21
+00:09:03,800 --> 00:09:33,800
+
+
+22
+00:09:33,800 --> 00:09:35,800
+Sous-titrage ST' 501
+
+23
+00:09:35,800 --> 00:09:37,800
+Sous-titrage ST' 501
+
+24
+00:09:37,800 --> 00:10:07,800
+
+
+25
+00:10:07,800 --> 00:10:09,800
+Sous-titrage ST' 501
+
+26
+00:10:09,800 --> 00:10:13,800
+Sous-titrage ST' 501
+
+27
+00:10:13,800 --> 00:10:17,800
+Sous-titrage ST' 501
+
+28
+00:10:17,800 --> 00:10:47,780
+Sous-titrage Société Radio-Canada
+
+29
+00:10:47,800 --> 00:11:17,780
+Sous-titrage Société Radio-Canada
+
+30
+00:11:17,800 --> 00:11:47,780
+Sous-titrage Société Radio-Canada
+
+31
+00:11:47,780 --> 00:12:17,760
+Sous-titrage Société Radio-Canada
+
+32
+00:12:17,760 --> 00:12:19,760
+Sous-titrage Société Radio-Canada
+
+33
+00:12:19,760 --> 00:12:21,760
+Sous-titrage Société Radio-Canada
+
+34
+00:12:21,760 --> 00:12:51,740
+Sous-titrage Société Radio
+
+35
+00:12:51,740 --> 00:12:53,740
+Sous-titrage Société Radio-Canada
+
+36
+00:12:53,740 --> 00:12:55,740
+Sous-titrage Société Radio-Canada
+
+37
+00:12:55,740 --> 00:13:25,720
+Sous-titrage Société Radio-Canada
+
+38
+00:13:25,720 --> 00:13:27,720
+Sous-titrage Société Radio-Canada
+
+39
+00:13:27,720 --> 00:13:29,720
+Sous-titrage Société Radio-Canada
+
+40
+00:13:29,720 --> 00:13:31,720
+Sous-titrage Société Radio-Canada
+
+41
+00:13:31,720 --> 00:13:33,720
+Sous-titrage Société Radio-Canada
+
+42
+00:13:33,720 --> 00:13:35,720
+Sous-titrage Société Radio-Canada
+
+43
+00:13:35,720 --> 00:13:37,720
+Sous-titrage Société Radio-Canada
+
+44
+00:13:37,720 --> 00:13:39,720
+Sous-titrage Société Radio-Canada
+
+45
+00:13:39,720 --> 00:13:41,720
+Sous-titrage Société Radio-Canada
+
+46
+00:13:41,720 --> 00:13:43,720
+Sous-titrage Société Radio-Canada
+
+47
+00:13:43,720 --> 00:13:47,720
+Sous-titrage Société Radio-Canada
+
+48
+00:13:47,720 --> 00:13:49,720
+Sous-titrage Société Radio-Canada
+
+49
+00:13:49,720 --> 00:13:51,720
+Sous-titrage Société Radio-Canada
+
+50
+00:13:51,720 --> 00:13:53,720
+Sous-titrage Société Radio-Canada
+
+51
+00:13:53,720 --> 00:13:55,720
+Sous-titrage Société Radio-Canada
+
+52
+00:13:55,720 --> 00:13:57,720
+Sous-titrage Société Radio-Canada
+
+53
+00:13:57,720 --> 00:13:59,720
+Sous-titrage Société Radio-Canada
+
+54
+00:13:59,720 --> 00:14:01,720
+Sous-titrage Société Radio-Canada
+
+55
+00:14:01,720 --> 00:14:03,220
+Sous-titrage Société Radio-Canada
+
+56
+00:14:03,720 --> 00:14:05,720
+Sous-titrage Société Radio-Canada
+
+57
+00:14:05,720 --> 00:14:07,720
+Sous-titrage Société Radio-Canada
+
+58
+00:14:07,720 --> 00:14:09,720
+Sous-titrage Société Radio-Canada
+
+59
+00:14:09,720 --> 00:14:11,720
+Sous-titrage Société Radio-Canada
+
+60
+00:14:11,720 --> 00:14:13,720
+Sous-titrage Société Radio-Canada
+
+61
+00:14:13,720 --> 00:14:27,660
+Sous-titrage Société Radio-Canada
+
+62
+00:14:27,660 --> 00:14:29,660
+C'est vrai, Kageyama ?
+
+63
+00:14:29,660 --> 00:14:31,660
+Tu es pleuré !
+
+64
+00:14:33,660 --> 00:14:35,660
+Alors ?
+
+65
+00:14:37,660 --> 00:14:40,660
+Tu es pleuré pour quelqu'un pour vous arrêter !
+
+66
+00:14:44,660 --> 00:14:46,660
+C'est vrai ?
+
+67
+00:14:46,660 --> 00:14:56,660
+C'est vrai, Kageyama !
+
+68
+00:14:56,660 --> 00:14:58,660
+Kageyama !
+
+69
+00:14:58,660 --> 00:15:00,660
+Kageyama !
+
+70
+00:15:00,660 --> 00:15:03,660
+Kageyama !
+
+71
+00:15:09,660 --> 00:15:11,660
+Qu'est-ce qui ?
+
+72
+00:15:11,660 --> 00:15:13,660
+Qu'est-ce qui ?
+
+73
+00:15:13,660 --> 00:15:15,660
+Qu'est-ce qui ?
+
+74
+00:15:19,660 --> 00:15:20,660
+Hanazawa !
+
+75
+00:15:22,660 --> 00:15:25,660
+Je sais, je peux le sentir.
+
+76
+00:15:25,660 --> 00:15:28,660
+Je suis le responsable pour tout ce qui est.
+
+77
+00:15:31,660 --> 00:15:33,660
+Le qui a entendu Hanazawa.
+
+78
+00:15:35,660 --> 00:15:37,660
+Il m'a essayé de me arrêter,
+
+79
+00:15:37,660 --> 00:15:39,660
+et il m'a arrêté comme ça ?
+
+80
+00:15:43,660 --> 00:15:46,660
+Si les choses n'ont toujours pas fonctionné dans la vie...
+
+81
+00:15:49,660 --> 00:15:51,660
+C'est pas grave si tu te rires, Père.
+
+82
+00:15:51,660 --> 00:15:52,660
+C'est pas grave, Père.
+
+83
+00:15:52,660 --> 00:15:53,660
+C'est pas grave.
+
+84
+00:15:53,660 --> 00:15:55,660
+J'ai aussi l'écouté, tu sais ?
+
+85
+00:15:56,660 --> 00:15:58,660
+Hanazawa, tu as fait assez.
+
+86
+00:16:00,660 --> 00:16:02,660
+Tu n'as pas besoin de penser que c'est moi.
+
+87
+00:16:02,660 --> 00:16:06,660
+Je ne peux pas arrêter, tu sais ?
+
+88
+00:16:06,660 --> 00:16:08,660
+Donc, c'est pas grave,
+
+89
+00:16:08,660 --> 00:16:09,660
+tu sais ?
+
+90
+00:16:09,660 --> 00:16:10,660
+C'est pas grave !
+
+91
+00:16:10,660 --> 00:16:11,660
+C'est pas grave !
+
+92
+00:16:11,660 --> 00:16:12,660
+Use tes pouvoirs contre moi !
+
+93
+00:16:12,660 --> 00:16:14,660
+Tu n'ont pas une demande touche,
+
+94
+00:16:14,660 --> 00:16:15,660
+ça aferle à mes novaurs.
+
+95
+00:16:16,660 --> 00:16:17,660
+Oh mam a la défense.
+
+96
+00:16:17,660 --> 00:16:18,660
+Tu ne poussèdes bien.
+
+97
+00:16:18,660 --> 00:16:22,660
+C'est pas grave !
+
+98
+00:16:22,660 --> 00:16:23,660
+C'est pas grave !
+
+99
+00:16:23,660 --> 00:16:24,660
+Justeens-tu pas encore !
+
+100
+00:16:24,660 --> 00:16:25,660
+A l'air s'vot epichelant !
+
+101
+00:16:25,660 --> 00:16:30,660
+Même maintenant, je suis encore là !
+
+102
+00:16:42,660 --> 00:16:44,660
+Tu es un rival !
+
+103
+00:16:49,660 --> 00:16:53,660
+Je pense que je suis allé cette route, n'est-ce pas ?
+
+104
+00:16:55,660 --> 00:16:57,660
+Tu es un rival !
+
+105
+00:17:25,660 --> 00:17:27,660
+Qu'est-ce pas ?
+
+106
+00:17:27,660 --> 00:17:29,660
+Qu'est-ce pas ?
+
+107
+00:17:29,660 --> 00:17:31,660
+Qu'est-ce pas ?
+
+108
+00:17:31,660 --> 00:17:33,660
+Qu'est-ce pas ?
+
+109
+00:17:33,660 --> 00:17:35,660
+Qu'est-ce pas ?
+
+110
+00:17:35,660 --> 00:17:37,660
+Qu'est-ce pas ?
+
+111
+00:17:37,660 --> 00:17:39,660
+Qu'est-ce pas ?
+
+112
+00:17:39,660 --> 00:17:41,660
+Qu'est-ce pas ?
+
+113
+00:17:41,660 --> 00:17:43,660
+Qu'est-ce pas ?
+
+114
+00:17:43,660 --> 00:17:45,660
+Qu'est-ce pas ?
+
+115
+00:17:45,660 --> 00:17:47,660
+Qu'est-ce pas ?
+
+116
+00:17:47,660 --> 00:17:49,660
+Qu'est-ce pas ?
+
+117
+00:17:49,660 --> 00:17:51,660
+Qu'est-ce pas ?
+
+118
+00:17:51,660 --> 00:17:53,660
+Qu'est-ce pas ?
+
+119
+00:17:53,660 --> 00:17:55,660
+Qu'est-ce pas ?
+
+120
+00:17:55,660 --> 00:17:57,660
+Qu'est-ce pas ?
+
+121
+00:17:57,660 --> 00:17:59,660
+Qu'est-ce pas ?
+
+122
+00:17:59,660 --> 00:18:01,660
+Qu'est-ce pas ?
+
+123
+00:18:01,660 --> 00:18:03,660
+Qu'est-ce pas ?
+
+124
+00:18:03,660 --> 00:18:05,660
+Qu'est-ce pas ?
+
+125
+00:18:05,660 --> 00:18:07,660
+Qu'est-ce pas ?
+
+126
+00:18:07,660 --> 00:18:08,660
+Qu'est-ce pas ?
+
+127
+00:18:08,660 --> 00:18:11,940
+Je ne peux pas vendre les gens vieux morceaux avec un sourire sur ma face.
+
+128
+00:18:12,200 --> 00:18:13,280
+C'est pas qui je suis.
+
+129
+00:18:13,320 --> 00:18:15,280
+Parfois, tu dois aller à l'aider pour aller à l'aider.
+
+130
+00:18:16,180 --> 00:18:19,360
+Fais-moi un pire et souviens-moi qui c'est qui est qui vous recommandait à l'équipe.
+
+131
+00:18:21,420 --> 00:18:23,540
+Je suis très reconnaissante, croyez-moi.
+
+132
+00:18:23,960 --> 00:18:28,760
+Et comme un déjeuner de ma grâce, je vais protéger cette place.
+
+133
+00:18:29,540 --> 00:18:32,640
+C'est sûr que tout ce qui a été fait de l'Espir.
+
+134
+00:18:33,140 --> 00:18:35,780
+Il semble qu'il est allé à l'intérieur de notre boutique de l'honneur.
+
+135
+00:18:35,780 --> 00:18:39,740
+Wow, c'est ce petit petit brat.
+
+136
+00:18:40,600 --> 00:18:41,480
+Tu es m'en foutu.
+
+137
+00:18:42,280 --> 00:18:43,160
+Je vois maintenant.
+
+138
+00:18:43,480 --> 00:18:44,520
+Tout ça fait sens.
+
+139
+00:18:46,100 --> 00:18:50,680
+Écoute, chien, je ne sais pas ce qui se passe, mais si tu es venu pour nous, ne pas attendre.
+
+140
+00:18:53,340 --> 00:18:54,660
+Il n'est pas arrêté.
+
+141
+00:18:55,340 --> 00:18:56,340
+Très bien, alors.
+
+142
+00:18:56,580 --> 00:18:57,120
+Faisons-nous.
+
+143
+00:19:02,880 --> 00:19:04,480
+Telekinetic Helix !
+
+144
+00:19:04,480 --> 00:19:10,180
+Chugan Odentons !
+
+145
+00:19:10,180 --> 00:19:19,240
+In the wake of what happened at the Seasoning Apartments, many other buildings in the area are collapsing as well.
+
+146
+00:19:19,900 --> 00:19:21,980
+I wish I'd thought to ask him for his phone number.
+
+147
+00:19:21,980 --> 00:19:25,600
+Oh well.
+
+148
+00:19:26,380 --> 00:19:27,200
+He'll show up.
+
+149
+00:19:27,200 --> 00:19:32,520
+Here, check this out.
+
+150
+00:19:32,900 --> 00:19:36,060
+A picture of the incident location I found online.
+
+151
+00:19:36,720 --> 00:19:36,900
+Huh ?
+
+152
+00:19:36,900 --> 00:19:38,900
+Isn't that...
+
+153
+00:19:38,900 --> 00:19:42,900
+Could that be Master Psycho Helmet ?
+
+154
+00:19:43,580 --> 00:19:43,900
+Incredible !
+
+155
+00:19:43,900 --> 00:19:44,700
+Of course.
+
+156
+00:19:44,700 --> 00:19:45,600
+What does it mean ?
+
+157
+00:19:45,600 --> 00:19:46,600
+Uh, Captain ?
+
+158
+00:19:46,600 --> 00:19:48,600
+Am I crazy or is this who I think it is ?
+
+159
+00:19:48,600 --> 00:19:52,300
+It's not tying down at all.
+
+160
+00:19:52,300 --> 00:19:54,300
+I suppose it's time we go ahead and evacuate.
+
+161
+00:19:54,300 --> 00:19:56,000
+And Shigeo ?
+
+162
+00:19:56,000 --> 00:19:57,000
+Whoa.
+
+163
+00:19:57,000 --> 00:19:58,000
+I can't get through to him.
+
+164
+00:19:58,000 --> 00:19:59,000
+Must have turned his phone off.
+
+165
+00:19:59,000 --> 00:20:00,000
+It's Mob.
+
+166
+00:20:00,000 --> 00:20:01,000
+I'm sure he'll be fine.
+
+167
+00:20:01,000 --> 00:20:02,000
+What now ?
+
+168
+00:20:02,000 --> 00:20:02,700
+Reigen, look at this !
+
+169
+00:20:02,700 --> 00:20:04,700
+Everyone's been evacuated. Elderly and children included.
+
+170
+00:20:04,700 --> 00:20:05,700
+We'll be able to get through to him.
+
+171
+00:20:05,700 --> 00:20:06,700
+I can't get through to him.
+
+172
+00:20:06,700 --> 00:20:07,700
+I can't get through to him.
+
+173
+00:20:07,700 --> 00:20:09,700
+He must have turned his phone off.
+
+174
+00:20:09,700 --> 00:20:11,700
+It's Mob. I'm sure he'll be fine.
+
+175
+00:20:11,700 --> 00:20:12,700
+What now ?
+
+176
+00:20:12,700 --> 00:20:14,700
+Reigen, look at this !
+
+177
+00:20:14,700 --> 00:20:27,400
+Mob ?
+
+178
+00:20:27,400 --> 00:20:31,400
+Everyone's been evacuated. Elderly and children included.
+
+179
+00:20:31,400 --> 00:20:33,400
+We'll be able to use our powers freely.
+
+180
+00:20:33,400 --> 00:20:36,400
+Electronics still aren't working in the area,
+
+181
+00:20:36,400 --> 00:20:39,400
+so vehicles like this one can't be controlled properly.
+
+182
+00:20:39,400 --> 00:20:43,400
+Long story short, we're going to have to parachute in.
+
+183
+00:20:43,400 --> 00:20:48,100
+Helping out with this situation could very well lead to a reduction in your sentence,
+
+184
+00:20:48,100 --> 00:20:50,100
+so give it your best shot.
+
+185
+00:20:50,100 --> 00:20:53,100
+And do keep in mind you're being monitored at all times.
+
+186
+00:20:53,100 --> 00:20:55,600
+We're talking one measly esper kid, right ?
+
+187
+00:20:55,600 --> 00:20:57,400
+Against the six of us ?
+
+188
+00:20:57,400 --> 00:20:58,900
+I think we got this.
+
+189
+00:20:58,900 --> 00:21:01,900
+Remember, that's only based on eyewitness accounts.
+
+190
+00:21:01,900 --> 00:21:02,900
+Yeah, whatever.
+
+191
+00:21:02,900 --> 00:21:06,900
+The important thing is for you newbies to follow our lead.
+
+192
+00:21:06,900 --> 00:21:09,900
+First of all, any loot goes to us !
+
+193
+00:21:09,900 --> 00:21:11,900
+This mission is no joke.
+
+194
+00:21:11,900 --> 00:21:13,600
+I'll have to go on my own.
+
+195
+00:21:13,600 --> 00:21:15,600
+Bastard !
+
+196
+00:21:15,600 --> 00:21:16,600
+Kill ! Kill !
+
+197
+00:21:16,600 --> 00:21:17,600
+Kill !
+
+198
+00:21:17,600 --> 00:21:19,600
+So I take it ?
+
+199
+00:21:19,600 --> 00:21:21,600
+The target's someone you know ?
+
+200
+00:21:21,600 --> 00:21:23,600
+I can feel his power.
+
+201
+00:21:23,600 --> 00:21:25,600
+And it keeps growing stronger.
+
+202
+00:21:25,600 --> 00:21:28,600
+Oh, boy.
+
+203
+00:21:28,600 --> 00:21:30,600
+We'd better hurry.
+
+204
+00:21:30,600 --> 00:21:32,600
+Open up the back.
+
+205
+00:21:32,600 --> 00:21:34,600
+You be careful.
+
+206
+00:21:34,600 --> 00:21:35,600
+Okay, boss ?
+
+207
+00:21:35,600 --> 00:21:39,300
+Hotter.
+
+208
+00:21:39,300 --> 00:21:43,300
+Hey, you forgot your parachute !
+
+209
+00:21:43,300 --> 00:21:45,000
+Hey, you forgot your parachute !
+
+210
+00:21:45,000 --> 00:21:59,000
+Hey, you forgot your parachute !
+
+211
+00:21:59,000 --> 00:22:28,980
+Sous-titrage ST' 501
+
+212
+00:22:29,000 --> 00:22:58,980
+Sous-titrage ST' 501
+
+213
+00:22:59,000 --> 00:23:28,980
+Sous-titrage ST' 501
+
+214
+00:23:28,980 --> 00:23:58,960
+Sous-titrage ST' 501
+
