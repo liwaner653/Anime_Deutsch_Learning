@@ -1,0 +1,476 @@
+1
+00:00:00,000 --> 00:00:29,980
+Sous-titrage ST' 501
+
+2
+00:00:30,000 --> 00:00:59,980
+Sous-titrage ST' 501
+
+3
+00:01:00,000 --> 00:01:29,980
+Sous-titrage ST' 501
+
+4
+00:01:30,000 --> 00:01:59,980
+Sous-titrage ST' 501
+
+5
+00:02:00,000 --> 00:02:29,980
+Sous-titrage ST' 501
+
+6
+00:02:29,980 --> 00:02:59,960
+Sous-titrage ST' 501
+
+7
+00:02:59,960 --> 00:03:29,940
+Sous-titrage ST' 501
+
+8
+00:03:29,940 --> 00:03:59,920
+Sous-titrage ST' 501
+
+9
+00:03:59,920 --> 00:04:29,900
+Sous-titrage ST' 501
+
+10
+00:04:29,900 --> 00:04:59,880
+Sous-titrage ST' 501
+
+11
+00:04:59,880 --> 00:05:29,860
+Sous-titrage ST' 501
+
+12
+00:05:29,860 --> 00:05:59,840
+Sous-titrage ST' 501
+
+13
+00:05:59,840 --> 00:06:01,840
+Sous-titrage ST' 501
+
+14
+00:06:29,840 --> 00:06:31,840
+Sous-titrage ST' 501
+
+15
+00:06:59,840 --> 00:07:01,840
+Sous-titrage ST' 501
+
+16
+00:07:01,840 --> 00:07:03,840
+Sous-titrage ST' 501
+
+17
+00:07:03,840 --> 00:07:05,840
+Sous-titrage ST' 501
+
+18
+00:07:05,840 --> 00:07:35,840
+
+
+19
+00:07:35,840 --> 00:07:37,840
+Sous-titrage ST' 501
+
+20
+00:08:05,840 --> 00:08:35,840
+
+
+21
+00:08:35,840 --> 00:08:37,840
+Sous-titrage ST' 501
+
+22
+00:08:37,840 --> 00:08:39,840
+Sous-titrage ST' 501
+
+23
+00:09:05,840 --> 00:09:35,840
+
+
+24
+00:09:35,840 --> 00:10:05,840
+
+
+25
+00:10:05,840 --> 00:10:35,840
+
+
+26
+00:10:35,840 --> 00:11:05,840
+
+
+27
+00:11:05,840 --> 00:11:07,840
+Sous-titrage ST' 501
+
+28
+00:11:35,840 --> 00:11:37,840
+Sous-titrage ST' 501
+
+29
+00:12:05,840 --> 00:12:07,840
+Sous-titrage ST' 501
+
+30
+00:12:35,840 --> 00:12:37,840
+Sous-titrage ST' 501
+
+31
+00:13:05,840 --> 00:13:07,840
+Sous-titrage ST' 501
+
+32
+00:13:35,840 --> 00:13:37,840
+Sous-titrage ST' 501
+
+33
+00:14:05,840 --> 00:14:07,840
+Sous-titrage ST' 501
+
+34
+00:14:35,840 --> 00:14:37,840
+Sous-titrage ST' 501
+
+35
+00:15:05,840 --> 00:15:07,840
+Sous-titrage ST' 501
+
+36
+00:15:07,840 --> 00:15:09,840
+Sous-titrage ST' 501
+
+37
+00:15:09,840 --> 00:15:11,840
+Sous-titrage ST' 501
+
+38
+00:15:11,840 --> 00:15:13,840
+Sous-titrage ST' 501
+
+39
+00:15:13,840 --> 00:15:15,840
+Sous-titrage ST' 501
+
+40
+00:15:43,840 --> 00:15:45,840
+Sous-titrage ST' 501
+
+41
+00:16:13,840 --> 00:16:15,840
+Sous-titrage ST' 501
+
+42
+00:16:43,840 --> 00:17:13,820
+Sous-titrage ST' 501
+
+43
+00:17:13,840 --> 00:17:15,840
+Sous-titrage ST' 501
+
+44
+00:17:43,840 --> 00:17:45,840
+Sous-titrage ST' 501
+
+45
+00:18:13,840 --> 00:18:15,840
+Sous-titrage ST' 501
+
+46
+00:18:15,840 --> 00:18:17,820
+Sous-titrage ST' 501
+
+47
+00:18:17,840 --> 00:18:19,840
+Sous-titrage ST' 501
+
+48
+00:18:19,840 --> 00:18:21,840
+Sous-titrage ST' 501
+
+49
+00:18:21,840 --> 00:18:23,840
+Sous-titrage ST' 501
+
+50
+00:18:23,840 --> 00:18:25,840
+Sous-titrage ST' 501
+
+51
+00:18:26,840 --> 00:18:27,840
+Suis-moi.
+
+52
+00:18:29,840 --> 00:18:31,840
+Nous nous trouvons dans l'ancien palais des femmes,
+
+53
+00:18:31,840 --> 00:18:34,840
+qui servait de harem avant que la cour intérieure soit construite.
+
+54
+00:18:34,840 --> 00:18:36,840
+C'est vraiment fascinant.
+
+55
+00:18:37,840 --> 00:18:40,840
+L'endroit est désert, mais extrêmement bien entretenu.
+
+56
+00:18:40,840 --> 00:18:42,840
+Le ménage continue d'être fait.
+
+57
+00:18:48,840 --> 00:18:51,840
+Et les pierres du jardin de rocailles sont parfaitement ratissées.
+
+58
+00:18:55,840 --> 00:18:57,840
+Nous y voilà.
+
+59
+00:18:57,840 --> 00:18:59,840
+Restons sur le pas de la porte.
+
+60
+00:18:59,840 --> 00:19:03,840
+Même les servantes préposées au ménage ne sont pas autorisées à pénétrer dans ce pavillon.
+
+61
+00:19:12,840 --> 00:19:14,840
+C'est quoi cette odeur ?
+
+62
+00:19:15,840 --> 00:19:16,840
+Quelle est cette pièce ?
+
+63
+00:19:18,840 --> 00:19:22,840
+Ce sont les appartements d'une ancienne servante, promue courtisane de Baran.
+
+64
+00:19:22,840 --> 00:19:25,840
+C'était il y a deux empereurs de cela.
+
+65
+00:19:26,840 --> 00:19:29,840
+Cette femme allait devenir feu l'impératrice.
+
+66
+00:19:29,840 --> 00:19:31,840
+C'est entre ces murs que l'ancien empereur a grandi.
+
+67
+00:19:32,840 --> 00:19:34,840
+C'est également ici qu'il est mort.
+
+68
+00:19:38,840 --> 00:19:39,840
+Bien, ne restons pas là.
+
+69
+00:19:52,840 --> 00:19:57,840
+Au crépuscule de sa vie, l'ancien empereur passait le plus clair de son temps dans ses appartements,
+
+70
+00:19:58,840 --> 00:20:00,840
+avec sa mère pour seule compagnie,
+
+71
+00:20:01,840 --> 00:20:03,840
+commentée par leurs souvenirs.
+
+72
+00:20:05,840 --> 00:20:06,840
+L'empereur était grandement diminué.
+
+73
+00:20:07,840 --> 00:20:10,840
+Lorsque sa mère décéda, il la suivit peu de temps après.
+
+74
+00:20:11,840 --> 00:20:12,840
+Il poussa son dernier soupir entre ses murs.
+
+75
+00:20:13,840 --> 00:20:14,840
+Une question, madame.
+
+76
+00:20:14,840 --> 00:20:16,840
+Si je ne m'abuse, l'empereur avait atteint un certain âge.
+
+77
+00:20:16,840 --> 00:20:19,840
+En effet, tous les médecins s'accordèrent à dire qu'il mourut de vieillesse.
+
+78
+00:20:20,840 --> 00:20:23,840
+Dans ce cas, pourquoi l'impératrice Douairière se sentait-elle si coupable ?
+
+79
+00:20:24,840 --> 00:20:27,840
+J'ai tenté de la détromper, de lui dire qu'elle n'y était pour rien.
+
+80
+00:20:28,840 --> 00:20:29,840
+Mais elle refuse d'en témoindre.
+
+81
+00:20:30,840 --> 00:20:31,840
+Je l'ai maudit, te dis-je.
+
+82
+00:20:32,840 --> 00:20:36,840
+J'ai ardemment souhaité sa mort, pendant tellement longtemps.
+
+83
+00:20:37,840 --> 00:20:40,840
+Chaque nuit, ou presque, je priais pour qu'il disparaisse.
+
+84
+00:20:41,840 --> 00:20:42,840
+Oui, je vois.
+
+85
+00:20:43,840 --> 00:20:46,840
+Mais cette idée d'une malédiction ne doit pas sortir de nulle part.
+
+86
+00:20:48,840 --> 00:20:50,840
+La dépouille fut conservée dans un mausolée.
+
+87
+00:20:51,840 --> 00:20:53,840
+Le corps y resta une année, comme le dicte la tradition.
+
+88
+00:20:54,840 --> 00:20:57,840
+Mais quand l'empereur Régnant et Damanshi se rendirent au mausolée
+
+89
+00:20:57,840 --> 00:20:59,840
+pour se recueillir avant l'inhumation,
+
+90
+00:21:00,840 --> 00:21:01,840
+un spectacle extraordinaire les attendait.
+
+91
+00:21:03,840 --> 00:21:05,840
+Le corps de l'empereur n'avait presque pas changé.
+
+92
+00:21:06,840 --> 00:21:08,840
+Il était comme au premier jour de sa mise en bière.
+
+93
+00:21:10,840 --> 00:21:13,840
+Vous voulez dire que le corps de l'ancien empereur ne s'est pas décomposé ?
+
+94
+00:21:14,840 --> 00:21:16,840
+En effet. Pour feu, l'impératrice, c'était tout l'inverse.
+
+95
+00:21:17,840 --> 00:21:20,840
+Sa propre dépouille, à peine plus ancienne, était dans un état innommable.
+
+96
+00:21:21,840 --> 00:21:22,840
+Je vois, tout s'explique.
+
+97
+00:21:23,840 --> 00:21:25,840
+C'est de là qu'est survenue l'idée d'une malédiction.
+
+98
+00:21:26,840 --> 00:21:27,840
+Oui.
+
+99
+00:21:28,840 --> 00:21:29,840
+Évidemment.
+
+100
+00:21:30,840 --> 00:21:32,840
+Un mausolée est conçu pour rester frais en toute saison,
+
+101
+00:21:33,840 --> 00:21:35,840
+mais pas au point de préserver une dépouille pendant un an.
+
+102
+00:21:35,840 --> 00:21:40,840
+À moins d'être conservée dans la glace, un corps va pourrir et sera rangé par la vermine.
+
+103
+00:21:41,840 --> 00:21:42,840
+Un cadavre intact au bout d'un an, c'est anormal.
+
+104
+00:21:43,840 --> 00:21:46,840
+Redevenir poussière, telle est la destinée humaine.
+
+105
+00:21:47,840 --> 00:21:49,840
+Noble, roturier, personne n'y échappe.
+
+106
+00:21:50,840 --> 00:21:51,840
+Les statues s'effacent.
+
+107
+00:21:52,840 --> 00:21:53,840
+Face à la mort, nous sommes tous égaux.
+
+108
+00:21:53,840 --> 00:21:56,840
+Jeune fille, ce bâtiment sera bientôt détruit.
+
+109
+00:21:57,840 --> 00:21:59,840
+Nous aimerions que tu mènes l'enquête tant qu'il est debout.
+
+110
+00:22:00,840 --> 00:22:01,840
+Je comprends tout à fait.
+
+111
+00:22:02,840 --> 00:22:03,840
+C'est d'accord.
+
+112
+00:22:04,840 --> 00:22:05,840
+J'ai cependant une demande à vous soumettre.
+
+113
+00:22:06,840 --> 00:22:07,840
+Une demande ?
+
+114
+00:22:23,840 --> 00:22:32,840
+Tout le monde ?
+
+115
+00:22:32,840 --> 00:22:37,840
+C'est regrette donc pourquoi.
+
+116
+00:22:38,840 --> 00:22:43,840
+On semble serrait ch medals.
+
+117
+00:22:43,840 --> 00:23:13,820
+Sous-titrage ST' 501
+
+118
+00:23:13,840 --> 00:23:43,820
+Sous-titrage ST' 501
+
+119
+00:23:43,840 --> 00:24:13,820
+Sous-titrage ST' 501
+

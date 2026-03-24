@@ -1,0 +1,704 @@
+1
+00:00:00,000 --> 00:00:29,980
+Sous-titrage ST' 501
+
+2
+00:00:30,000 --> 00:00:59,980
+Sous-titrage ST' 501
+
+3
+00:01:00,000 --> 00:01:29,980
+Sous-titrage ST' 501
+
+4
+00:01:30,000 --> 00:01:59,980
+Sous-titrage ST' 501
+
+5
+00:02:00,000 --> 00:02:29,980
+Sous-titrage ST' 501
+
+6
+00:02:30,000 --> 00:02:59,980
+Sous-titrage ST' 501
+
+7
+00:02:59,980 --> 00:03:29,960
+Sous-titrage ST' 501
+
+8
+00:03:29,960 --> 00:03:59,940
+Sous-titrage ST' 501
+
+9
+00:03:59,940 --> 00:04:01,940
+Sous-titrage ST' 501
+
+10
+00:04:29,940 --> 00:04:59,920
+Sous-titrage ST' 501
+
+11
+00:04:59,920 --> 00:05:29,900
+Sous-titrage ST' 501
+
+12
+00:05:29,900 --> 00:05:59,880
+Sous-titrage ST' 501
+
+13
+00:05:59,880 --> 00:06:29,860
+Sous-titrage ST' 501
+
+14
+00:06:29,860 --> 00:06:31,860
+Sous-titrage ST' 501
+
+15
+00:06:31,860 --> 00:07:01,860
+
+
+16
+00:07:01,860 --> 00:07:03,860
+Sous-titrage ST' 501
+
+17
+00:07:03,860 --> 00:07:07,860
+Sous-titrage ST' 501
+
+18
+00:07:07,860 --> 00:07:11,860
+Sous-titrage ST' 501
+
+19
+00:07:11,860 --> 00:07:13,860
+Sous-titrage ST' 501
+
+20
+00:07:41,860 --> 00:08:11,860
+
+
+21
+00:08:11,860 --> 00:08:41,860
+
+
+22
+00:08:41,860 --> 00:09:11,860
+
+
+23
+00:09:11,860 --> 00:09:41,860
+
+
+24
+00:09:41,860 --> 00:09:51,860
+Oui, je suis inquiet
+
+25
+00:09:51,860 --> 00:09:53,860
+Sous-titrage ST' 501
+
+26
+00:09:53,860 --> 00:10:23,860
+
+
+27
+00:10:23,860 --> 00:10:25,860
+Sous-titrage ST' 501
+
+28
+00:10:53,860 --> 00:11:03,860
+Sous-titrage ST' 501
+
+29
+00:11:03,860 --> 00:11:05,860
+Sous-titrage ST' 501
+
+30
+00:11:33,860 --> 00:11:35,860
+Sous-titrage ST' 501
+
+31
+00:11:35,860 --> 00:11:43,860
+Sous-titrage ST' 501
+
+32
+00:11:43,860 --> 00:11:45,860
+Sous-titrage ST' 501
+
+33
+00:12:13,860 --> 00:12:15,860
+Sous-titrage ST' 501
+
+34
+00:12:15,860 --> 00:12:17,860
+Sous-titrage ST' 501
+
+35
+00:12:17,860 --> 00:12:19,860
+Sous-titrage ST' 501
+
+36
+00:12:19,860 --> 00:12:21,860
+Sous-titrage ST' 501
+
+37
+00:12:21,860 --> 00:12:23,860
+Sous-titrage ST' 501
+
+38
+00:12:23,860 --> 00:12:25,860
+Sous-titrage ST' 501
+
+39
+00:12:25,860 --> 00:12:27,860
+Sous-titrage ST' 501
+
+40
+00:12:27,860 --> 00:12:57,840
+Sous-titrage ST' 501
+
+41
+00:12:57,860 --> 00:13:27,840
+Sous-titrage ST' 501
+
+42
+00:13:27,860 --> 00:13:29,860
+Sous-titrage ST' 501
+
+43
+00:13:29,860 --> 00:13:57,840
+Sous-titrage ST' 501
+
+44
+00:13:57,840 --> 00:13:59,840
+Sous-titrage ST' 501
+
+45
+00:13:59,840 --> 00:14:01,840
+Sous-titrage ST' 501
+
+46
+00:14:01,840 --> 00:14:03,840
+Sous-titrage ST' 501
+
+47
+00:14:03,840 --> 00:14:05,840
+Sous-titrage ST' 501
+
+48
+00:14:05,840 --> 00:14:07,840
+Sous-titrage ST' 501
+
+49
+00:14:07,840 --> 00:14:09,840
+Sous-titrage ST' 501
+
+50
+00:14:09,840 --> 00:14:11,840
+Sous-titrage ST' 501
+
+51
+00:14:11,840 --> 00:14:13,840
+Sous-titrage ST' 501
+
+52
+00:14:13,840 --> 00:14:15,840
+Sous-titrage ST' 501
+
+53
+00:14:15,840 --> 00:14:17,840
+Sous-titrage ST' 501
+
+54
+00:14:17,840 --> 00:14:19,840
+Sous-titrage ST' 501
+
+55
+00:14:19,840 --> 00:14:21,840
+Sous-titrage ST' 501
+
+56
+00:14:21,840 --> 00:14:23,840
+Sous-titrage ST' 501
+
+57
+00:14:23,840 --> 00:14:25,840
+Sous-titrage ST' 501
+
+58
+00:14:25,840 --> 00:14:27,840
+Sous-titrage ST' 501
+
+59
+00:14:27,840 --> 00:14:29,840
+Sous-titrage ST' 501
+
+60
+00:14:29,840 --> 00:14:31,840
+Sous-titrage ST' 501
+
+61
+00:14:31,840 --> 00:14:33,840
+Sous-titrage ST' 501
+
+62
+00:14:33,840 --> 00:14:35,840
+Sous-titrage ST' 501
+
+63
+00:14:35,840 --> 00:15:05,820
+Sous-titrage ST' 501
+
+64
+00:15:05,840 --> 00:15:35,820
+Sous-titrage ST' 501
+
+65
+00:15:35,820 --> 00:15:37,820
+Sous-titrage ST' 501
+
+66
+00:15:37,820 --> 00:15:39,820
+Sous-titrage ST' 501
+
+67
+00:15:39,820 --> 00:15:41,820
+Sous-titrage ST' 501
+
+68
+00:15:41,820 --> 00:15:43,820
+Sous-titrage ST' 501
+
+69
+00:15:43,820 --> 00:15:45,820
+Sous-titrage ST' 501
+
+70
+00:15:45,820 --> 00:15:47,820
+Sous-titrage ST' 501
+
+71
+00:15:47,820 --> 00:15:49,820
+Sous-titrage ST' 501
+
+72
+00:15:49,820 --> 00:15:51,820
+Sous-titrage ST' 501
+
+73
+00:15:51,820 --> 00:15:53,820
+Sous-titrage ST' 501
+
+74
+00:15:53,820 --> 00:15:55,820
+Sous-titrage ST' 501
+
+75
+00:15:55,820 --> 00:15:57,820
+Sous-titrage ST' 501
+
+76
+00:15:57,820 --> 00:15:59,820
+Sous-titrage ST' 501
+
+77
+00:15:59,820 --> 00:16:01,820
+Sous-titrage ST' 501
+
+78
+00:16:01,820 --> 00:16:31,800
+Sous-titrage ST' 501
+
+79
+00:16:31,800 --> 00:16:33,800
+Sous-titrage ST' 501
+
+80
+00:16:33,800 --> 00:16:35,800
+Sous-titrage ST' 501
+
+81
+00:16:35,800 --> 00:16:37,800
+Sous-titrage ST' 501
+
+82
+00:16:37,800 --> 00:16:39,800
+Sous-titrage ST' 501
+
+83
+00:16:39,800 --> 00:16:41,800
+Sous-titrage ST' 501
+
+84
+00:16:41,800 --> 00:17:11,780
+Sous-titrage ST' 501
+
+85
+00:17:11,780 --> 00:17:13,780
+Sous-titrage ST' 501
+
+86
+00:17:13,780 --> 00:17:15,780
+Sous-titrage ST' 501
+
+87
+00:17:15,780 --> 00:17:17,780
+Sous-titrage ST' 501
+
+88
+00:17:17,780 --> 00:17:19,780
+Sous-titrage ST' 501
+
+89
+00:17:19,780 --> 00:17:21,780
+Sous-titrage ST' 501
+
+90
+00:17:21,780 --> 00:17:23,780
+Sous-titrage ST' 501
+
+91
+00:17:23,780 --> 00:17:25,780
+Sous-titrage ST' 501
+
+92
+00:17:25,780 --> 00:17:27,780
+Sous-titrage ST' 501
+
+93
+00:17:27,780 --> 00:17:29,780
+Sous-titrage ST' 501
+
+94
+00:17:29,780 --> 00:17:31,780
+Sous-titrage ST' 501
+
+95
+00:17:31,780 --> 00:17:33,780
+Sous-titrage ST' 501
+
+96
+00:17:33,780 --> 00:18:03,760
+Sous-titrage ST' 501
+
+97
+00:18:03,760 --> 00:18:05,760
+Sous-titrage ST' 501
+
+98
+00:18:05,760 --> 00:18:07,760
+Sous-titrage ST' 501
+
+99
+00:18:07,760 --> 00:18:09,760
+Sous-titrage ST' 501
+
+100
+00:18:09,760 --> 00:18:11,760
+Sous-titrage ST' 501
+
+101
+00:18:11,760 --> 00:18:13,760
+Sous-titrage ST' 501
+
+102
+00:18:21,760 --> 00:18:23,760
+Sous-titrage ST' 501
+
+103
+00:18:23,760 --> 00:18:25,760
+Sous-titrage ST' 501
+
+104
+00:18:25,760 --> 00:18:28,100
+C'est un honneur de faire votre connaissance.
+
+105
+00:18:28,460 --> 00:18:30,260
+Je me présente La'an Khan.
+
+106
+00:18:31,140 --> 00:18:33,460
+Il n'y a que deux personnes dans toute la cour extérieure
+
+107
+00:18:33,460 --> 00:18:35,580
+dont le nom est composé avec le caractère La.
+
+108
+00:18:36,200 --> 00:18:37,640
+La'an et la Khan.
+
+109
+00:18:38,520 --> 00:18:41,880
+C'est un nom de clan formel conféré par l'empereur il y a des générations de cela.
+
+110
+00:18:42,220 --> 00:18:43,200
+Vous êtes du clan des La.
+
+111
+00:18:43,860 --> 00:18:45,840
+Vous devez être le fils adoptif du Grand Commandant.
+
+112
+00:18:46,640 --> 00:18:47,380
+Que puis-je pour vous ?
+
+113
+00:18:47,380 --> 00:18:50,980
+Je me disais que ceci pourrait peut-être vous intéresser.
+
+114
+00:18:55,760 --> 00:19:00,880
+Que suis-je en train de lire ?
+
+115
+00:19:00,880 --> 00:19:03,680
+Vous n'en avez aucune idée ?
+
+116
+00:19:03,680 --> 00:19:05,460
+On dirait un résumé comptable du trésor.
+
+117
+00:19:06,420 --> 00:19:06,940
+Tout à fait.
+
+118
+00:19:07,280 --> 00:19:10,160
+Mon père m'a demandé d'examiner en profondeur certains comptes.
+
+119
+00:19:10,480 --> 00:19:14,040
+Il est toujours contrarié de ne pas savoir d'où ont pu surgir les fameux feifas.
+
+120
+00:19:14,940 --> 00:19:16,940
+Pourquoi éplucher les comptes officiels ?
+
+121
+00:19:16,940 --> 00:19:20,180
+Je n'ai fait que remonter la trace des officiers condamnés dans cette histoire.
+
+122
+00:19:20,760 --> 00:19:21,700
+Rien de plus naturel.
+
+123
+00:19:23,000 --> 00:19:25,440
+J'aurais aimé vous apporter l'intégralité des comptes,
+
+124
+00:19:25,760 --> 00:19:27,960
+mais cela représente un certain volume de documents.
+
+125
+00:19:29,240 --> 00:19:31,440
+J'ai donc résumé l'essentiel pour aller droit au but.
+
+126
+00:19:32,800 --> 00:19:33,740
+D'après ce que je vois,
+
+127
+00:19:34,420 --> 00:19:37,520
+le cours des céréales ne cesse de grimper depuis plusieurs années ?
+
+128
+00:19:37,520 --> 00:19:38,820
+Fascinant, vous ne trouvez pas,
+
+129
+00:19:39,120 --> 00:19:41,680
+alors que nous n'avons connu ni sécheresse ni catastrophe naturelle.
+
+130
+00:19:42,800 --> 00:19:43,800
+Autre point notable,
+
+131
+00:19:44,260 --> 00:19:46,740
+je ne sais pourquoi le cours du fer a augmenté lui aussi,
+
+132
+00:19:47,580 --> 00:19:50,380
+ainsi que le prix de tous les métaux et ceux à travers tout l'Empire.
+
+133
+00:19:50,380 --> 00:19:56,760
+Y aurait-il un projet d'envergure qui nécessiterait tant de ressources venues de tout le pays ?
+
+134
+00:19:56,760 --> 00:19:58,320
+Pourtant, de ce que j'ai pu constater,
+
+135
+00:19:58,440 --> 00:20:01,100
+je n'ai trouvé aucun projet qui soit si gourmand en métaux.
+
+136
+00:20:02,060 --> 00:20:03,000
+Rien ne lui échappe.
+
+137
+00:20:03,640 --> 00:20:05,040
+Il tient bien de son père adoptif.
+
+138
+00:20:05,040 --> 00:20:07,660
+D'accord, je vois où vous voulez en venir.
+
+139
+00:20:08,340 --> 00:20:10,220
+L'augmentation du prix des céréales semble dérisoire,
+
+140
+00:20:10,300 --> 00:20:11,960
+mais à grande échelle, c'est une autre histoire.
+
+141
+00:20:12,480 --> 00:20:13,780
+Cela peut créer une marge assez grasse,
+
+142
+00:20:14,020 --> 00:20:15,700
+marge qui a atterri dans la poche d'on ne sait qui.
+
+143
+00:20:16,660 --> 00:20:19,320
+Quelqu'un a profité de ces augmentations a priori innocentes.
+
+144
+00:20:20,100 --> 00:20:21,840
+Et en ce qui concerne le prix des différents métaux,
+
+145
+00:20:22,480 --> 00:20:25,360
+lui aussi en hausse, cela indique des achats massifs de ressources.
+
+146
+00:20:26,500 --> 00:20:28,040
+C'est bien ce que vous sous-entendez ?
+
+147
+00:20:28,660 --> 00:20:28,900
+Oui.
+
+148
+00:20:29,900 --> 00:20:31,040
+Les deux phénomènes sont liés.
+
+149
+00:20:31,380 --> 00:20:33,720
+Je suis convaincu que ces ressources convergent en un même point.
+
+150
+00:20:33,720 --> 00:20:38,180
+Bien entendu, quiconque en mesure d'influer à ce point sur le cours des marchandises
+
+151
+00:20:38,180 --> 00:20:39,180
+n'est pas n'importe qui.
+
+152
+00:20:41,780 --> 00:20:42,760
+Heureusement, je suis là,
+
+153
+00:20:43,200 --> 00:20:45,500
+tout disposé à mener de plus amples investigations.
+
+154
+00:20:47,300 --> 00:20:50,560
+Où peuvent donc aller ces ressources et dans quel sombre dessin ?
+
+155
+00:20:50,560 --> 00:20:52,160
+Vous devez brûler d'envie de le savoir.
+
+156
+00:21:00,000 --> 00:21:02,560
+Fort bien. Qu'attendez-vous de moi en échange ?
+
+157
+00:21:02,560 --> 00:21:07,020
+Je serais surpris que vous soyez venu dans un but totalement désintéressé.
+
+158
+00:21:08,020 --> 00:21:11,020
+Seigneur Jinshi !
+
+159
+00:21:11,020 --> 00:21:16,860
+Auriez-vous l'obligence de jeter un œil sur cette modeste dépense que je me permets de vous soumettre ?
+
+160
+00:21:16,860 --> 00:21:18,280
+Dans quel but ?
+
+161
+00:21:18,280 --> 00:21:21,840
+Ce serait pour réparer les dégâts que mon père a causés à l'une des portes de la cour.
+
+162
+00:21:23,020 --> 00:21:25,260
+Il pourrait réparer ses bêtises lui-même.
+
+163
+00:21:26,080 --> 00:21:26,860
+Bon, c'est d'accord.
+
+164
+00:21:27,300 --> 00:21:28,700
+Vous êtes sûr, monseigneur ?
+
+165
+00:21:28,700 --> 00:21:33,460
+Tout à fait sûr, je veux que tu perses ce mystère.
+
+166
+00:21:33,920 --> 00:21:36,160
+Découvre où se dirigent tous ces fonds et ces métaux,
+
+167
+00:21:36,460 --> 00:21:37,500
+et ce qui peut bien se tramer.
+
+168
+00:21:42,300 --> 00:21:44,440
+Il en sera fait selon votre volonté.
+
+169
+00:21:46,160 --> 00:21:47,900
+L'heure n'est plus aux scrupules.
+
+170
+00:21:47,900 --> 00:21:50,500
+Je ferai tout ce qui est en mon pouvoir.
+
+171
+00:21:50,500 --> 00:22:20,480
+L'heure n'est plus aux scrupules.
+
+172
+00:22:20,500 --> 00:22:29,140
+L'heure n'est plus aux scrupules.
+
+173
+00:22:29,140 --> 00:22:59,120
+Sous-titrage ST' 501
+
+174
+00:22:59,140 --> 00:23:29,120
+Sous-titrage ST' 501
+
+175
+00:23:29,140 --> 00:23:59,120
+Sous-titrage ST' 501
+
+176
+00:23:59,120 --> 00:24:01,120
+...
+

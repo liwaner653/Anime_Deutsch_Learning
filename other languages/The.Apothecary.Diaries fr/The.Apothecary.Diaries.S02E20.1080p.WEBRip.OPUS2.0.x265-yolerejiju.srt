@@ -1,0 +1,800 @@
+1
+00:00:00,000 --> 00:00:29,980
+Sous-titrage ST' 501
+
+2
+00:00:30,000 --> 00:00:59,980
+Sous-titrage ST' 501
+
+3
+00:01:00,000 --> 00:01:29,980
+Sous-titrage ST' 501
+
+4
+00:01:30,000 --> 00:01:59,980
+Sous-titrage ST' 501
+
+5
+00:02:00,000 --> 00:02:29,980
+Sous-titrage ST' 501
+
+6
+00:02:29,980 --> 00:02:31,980
+Sous-titrage ST' 501
+
+7
+00:02:59,980 --> 00:03:01,980
+Sous-titrage ST' 501
+
+8
+00:03:01,980 --> 00:03:05,980
+Sous-titrage ST' 501
+
+9
+00:03:31,980 --> 00:04:01,980
+
+
+10
+00:04:01,980 --> 00:04:03,980
+Sous-titrage ST' 501
+
+11
+00:04:31,980 --> 00:04:33,980
+Sous-titrage ST' 501
+
+12
+00:04:33,980 --> 00:05:03,980
+
+
+13
+00:05:03,980 --> 00:05:33,980
+
+
+14
+00:05:33,980 --> 00:05:35,980
+Sous-titrage ST' 501
+
+15
+00:06:03,980 --> 00:06:33,980
+
+
+16
+00:06:33,980 --> 00:06:37,980
+Tu sais comment elle est ?
+
+17
+00:07:03,980 --> 00:07:05,980
+Sous-titrage ST' 501
+
+18
+00:07:33,980 --> 00:08:03,980
+
+
+19
+00:08:03,980 --> 00:08:05,980
+Sous-titrage ST' 501
+
+20
+00:08:33,980 --> 00:08:35,980
+Sous-titrage ST' 501
+
+21
+00:09:03,980 --> 00:09:05,980
+Sous-titrage ST' 501
+
+22
+00:09:05,980 --> 00:09:35,980
+
+
+23
+00:09:35,980 --> 00:09:37,980
+Sous-titrage ST' 501
+
+24
+00:10:05,980 --> 00:10:07,980
+Sous-titrage ST' 501
+
+25
+00:10:35,980 --> 00:11:05,980
+
+
+26
+00:11:05,980 --> 00:11:07,980
+Sous-titrage ST' 501
+
+27
+00:11:35,980 --> 00:11:37,980
+Sous-titrage ST' 501
+
+28
+00:11:37,980 --> 00:11:39,980
+Sous-titrage ST' 501
+
+29
+00:11:39,980 --> 00:11:41,980
+Sous-titrage ST' 501
+
+30
+00:11:41,980 --> 00:11:43,980
+Sous-titrage ST' 501
+
+31
+00:11:43,980 --> 00:11:45,980
+Sous-titrage ST' 501
+
+32
+00:11:45,980 --> 00:11:47,980
+Sous-titrage ST' 501
+
+33
+00:11:47,980 --> 00:11:49,980
+Sous-titrage ST' 501
+
+34
+00:11:49,980 --> 00:12:17,960
+Sous-titrage ST' 501
+
+35
+00:12:17,960 --> 00:12:19,960
+Sous-titrage ST' 501
+
+36
+00:12:47,960 --> 00:13:17,940
+Sous-titrage ST' 501
+
+37
+00:13:17,940 --> 00:13:19,940
+Sous-titrage ST' 501
+
+38
+00:13:19,940 --> 00:13:21,940
+Sous-titrage ST' 501
+
+39
+00:13:21,940 --> 00:13:23,940
+Sous-titrage ST' 501
+
+40
+00:13:23,960 --> 00:13:25,940
+Sous-titrage ST' 501
+
+41
+00:13:25,940 --> 00:13:27,940
+Sous-titrage ST' 501
+
+42
+00:13:27,940 --> 00:13:29,940
+Sous-titrage ST' 501
+
+43
+00:13:29,940 --> 00:13:31,940
+Sous-titrage ST' 501
+
+44
+00:13:31,940 --> 00:13:33,940
+Sous-titrage ST' 501
+
+45
+00:13:33,940 --> 00:13:35,940
+Sous-titrage ST' 501
+
+46
+00:13:35,940 --> 00:13:37,940
+Sous-titrage ST' 501
+
+47
+00:13:37,940 --> 00:13:46,080
+La potion de jeunesse éternelle est-elle prête ?
+
+48
+00:13:46,080 --> 00:13:47,320
+Il me faut encore un peu de temps.
+
+49
+00:13:48,140 --> 00:13:49,300
+C'était trop beau.
+
+50
+00:13:51,240 --> 00:13:53,200
+On dirait une maîtresse et sa servante.
+
+51
+00:13:54,200 --> 00:13:56,160
+Nulle trace de leur complicité habituelle.
+
+52
+00:13:56,640 --> 00:13:58,940
+Tu as intérêt à avoir fait quelques progrès demain.
+
+53
+00:14:00,400 --> 00:14:00,940
+Oui, madame.
+
+54
+00:14:04,280 --> 00:14:05,240
+On ne traîne pas.
+
+55
+00:14:05,240 --> 00:14:09,760
+Je ne suis autorisée à sortir de l'officine qu'une fois par jour,
+
+56
+00:14:10,140 --> 00:14:11,200
+quand Shen Mei me fait appeler.
+
+57
+00:14:11,900 --> 00:14:15,140
+La situation est loin d'être idéale, mais j'ai de quoi m'occuper la tête.
+
+58
+00:14:16,100 --> 00:14:17,760
+Les remèdes ne sont certes pas tout jeunes,
+
+59
+00:14:17,880 --> 00:14:21,060
+mais l'officine est au moins aussi bien achalandée que l'infirmerie de la cour.
+
+60
+00:14:22,100 --> 00:14:23,480
+Et je ne manque pas de lecture.
+
+61
+00:14:24,540 --> 00:14:27,820
+Tout ça me laisse penser que mon prédécesseur devait être plutôt doué.
+
+62
+00:14:28,620 --> 00:14:30,240
+Hé, l'apothicaire !
+
+63
+00:14:30,240 --> 00:14:36,200
+Seigneur Kiyohu, que puis-je pour vous ?
+
+64
+00:14:36,200 --> 00:14:37,880
+Mais ça va pas !
+
+65
+00:14:37,880 --> 00:14:39,840
+Il y a du tirage d'oreilles qui se perd !
+
+66
+00:14:39,840 --> 00:14:41,200
+C'est qui ?
+
+67
+00:14:41,200 --> 00:14:42,980
+La nouvelle apothicaire de la forteresse.
+
+68
+00:14:43,900 --> 00:14:46,340
+Au fait, tu reviens de chez Dame Shen Mei ?
+
+69
+00:14:46,340 --> 00:14:48,800
+T'aurais pas vu d'autres dames là-bas ?
+
+70
+00:14:48,800 --> 00:14:49,600
+Si, en effet.
+
+71
+00:14:50,280 --> 00:14:51,460
+Sérieux, c'est top !
+
+72
+00:14:51,460 --> 00:14:53,880
+T'as dû croiser ma mère, elle sert Dame Shen Mei !
+
+73
+00:14:53,880 --> 00:14:55,280
+Est-ce qu'elle va bien ?
+
+74
+00:14:55,280 --> 00:14:56,840
+La mère de Kiyohu était là-bas.
+
+75
+00:14:57,880 --> 00:14:59,000
+C'était une de ses femmes.
+
+76
+00:15:01,960 --> 00:15:04,180
+Désolée, mais je ne sais pas qui est ta mère, au juste.
+
+77
+00:15:04,940 --> 00:15:05,540
+Ah, oui.
+
+78
+00:15:06,660 --> 00:15:08,520
+C'est pas grave, merci quand même !
+
+79
+00:15:08,520 --> 00:15:11,440
+Elle m'a fait dire que son poste était très exigeant !
+
+80
+00:15:11,440 --> 00:15:13,340
+Je crois que j'aurais mieux fait d'attendre au village.
+
+81
+00:15:14,680 --> 00:15:15,540
+Ah, je vois.
+
+82
+00:15:16,320 --> 00:15:19,460
+Si on le laissait au village, c'était pour le garder loin de ce qui se passe ici.
+
+83
+00:15:20,360 --> 00:15:22,480
+C'est peut-être même sa mère qui a insisté.
+
+84
+00:15:22,480 --> 00:15:25,540
+Sur ce, je regagne l'officine.
+
+85
+00:15:28,720 --> 00:15:30,480
+Hé, attends, je voulais...
+
+86
+00:15:32,780 --> 00:15:37,480
+Rien, laisse tomber !
+
+87
+00:15:47,160 --> 00:15:50,760
+C'est donc ce qui se tramait, la hane.
+
+88
+00:15:50,760 --> 00:15:55,840
+En effet. En tout cas, c'est ce que j'ai pu déduire après une étude poussée des multiples registres.
+
+89
+00:15:56,540 --> 00:15:57,100
+Tu es formel.
+
+90
+00:15:57,760 --> 00:16:01,100
+La forteresse de Shisho, tout au nord, serait en pleine expansion ?
+
+91
+00:16:01,100 --> 00:16:01,320
+Oui.
+
+92
+00:16:02,100 --> 00:16:04,100
+Cette place forte tombait en ruine avant les travaux.
+
+93
+00:16:05,060 --> 00:16:07,820
+Travaux qui n'ont d'ailleurs pas été soumis à l'approbation de la cour.
+
+94
+00:16:08,400 --> 00:16:09,420
+Une telle préparation.
+
+95
+00:16:09,920 --> 00:16:11,100
+Ça ne peut indiquer qu'une chose.
+
+96
+00:16:11,400 --> 00:16:12,240
+Il compte se rebeller.
+
+97
+00:16:12,240 --> 00:16:16,140
+Le clan des Shi a toujours été loyal au trône, et ce depuis des générations.
+
+98
+00:16:16,640 --> 00:16:18,900
+Shisho était aussi le favori de feu l'impératrice.
+
+99
+00:16:19,320 --> 00:16:21,080
+Mais rien de tout ceci ne le sauvera.
+
+100
+00:16:21,620 --> 00:16:23,580
+Où en est l'avancement des travaux ?
+
+101
+00:16:23,580 --> 00:16:26,860
+Si on se bat sur le moment où le prix du fer s'est envolé,
+
+102
+00:16:27,300 --> 00:16:30,220
+d'après mes calculs, les rénovations devraient bientôt toucher à leur fin.
+
+103
+00:16:30,660 --> 00:16:32,320
+Il vaudrait mieux agir sans tarder...
+
+104
+00:16:32,320 --> 00:16:34,240
+Tu m'expliques ce que tu fiches ici ?
+
+105
+00:16:35,680 --> 00:16:37,440
+Hein, la hane ?
+
+106
+00:16:37,440 --> 00:16:39,940
+Mon père honoré !
+
+107
+00:16:39,940 --> 00:16:40,920
+Maître stratège.
+
+108
+00:16:41,740 --> 00:16:42,680
+Un conseil, mon fils.
+
+109
+00:16:42,820 --> 00:16:45,820
+Évite de passer ton temps fourré dans les jupes de ce précieux personnage.
+
+110
+00:16:46,660 --> 00:16:48,060
+Ça risquerait de porter à confusion.
+
+111
+00:16:50,800 --> 00:16:52,280
+C'est fort tendancieux.
+
+112
+00:16:52,740 --> 00:16:56,320
+On ne peut pas lui parler sans se demander si on s'adresse à un homme ou à une femme.
+
+113
+00:16:56,560 --> 00:16:57,360
+Qu'avez-vous dit ?
+
+114
+00:16:57,360 --> 00:16:57,780
+Basen.
+
+115
+00:16:58,340 --> 00:17:00,360
+Mais enfin, père !
+
+116
+00:17:00,360 --> 00:17:01,260
+Messire Kaohsiung.
+
+117
+00:17:05,340 --> 00:17:07,380
+Je sais ce qui vous amène ici, grand commandant.
+
+118
+00:17:08,440 --> 00:17:11,060
+Vous déplorez que je me montre aussi timoré ?
+
+119
+00:17:11,060 --> 00:17:12,160
+Ça, on peut le dire.
+
+120
+00:17:14,400 --> 00:17:18,000
+Connaissant l'amour qu'il porte à sa fille, je m'attendais à le voir arriver ici plus tôt.
+
+121
+00:17:19,340 --> 00:17:20,900
+L'existence du tunnel.
+
+122
+00:17:22,000 --> 00:17:23,340
+L'imbroglio avec le nuque.
+
+123
+00:17:24,300 --> 00:17:26,560
+Et cette servante nommée Shisui qui n'existait pas.
+
+124
+00:17:28,060 --> 00:17:29,300
+J'ai eu un temps de retard tout du long.
+
+125
+00:17:30,140 --> 00:17:32,220
+Résultat, Mahomao a été enlevé.
+
+126
+00:17:33,640 --> 00:17:34,760
+Et tout est de ma faute.
+
+127
+00:17:34,760 --> 00:17:40,080
+Dire qu'il y a pourtant ici quelqu'un qui peut aller y venir à sa guise entre les différentes cours.
+
+128
+00:17:41,220 --> 00:17:43,420
+Ma fille a été enlevée !
+
+129
+00:17:43,420 --> 00:17:45,820
+Et que fait cette noble personne au lieu d'agir ?
+
+130
+00:17:45,820 --> 00:17:48,900
+Elle reste assise sur son illustre postérieur à jouer au gratte-papier.
+
+131
+00:17:49,560 --> 00:17:54,720
+Je suppose que quand on a un tel rang, la vie d'une simple demoiselle ne pèse guère dans la balance.
+
+132
+00:17:54,720 --> 00:17:57,000
+Je comprends que vous soyez affectés.
+
+133
+00:17:57,640 --> 00:17:59,440
+Mais le véritable ennemi, ce n'est pas moi.
+
+134
+00:18:00,000 --> 00:18:00,500
+C'est Chichot.
+
+135
+00:18:01,460 --> 00:18:02,540
+Ah !
+
+136
+00:18:02,540 --> 00:18:05,060
+À la bonne heure, je vois que vous avez toutes les clés.
+
+137
+00:18:05,900 --> 00:18:09,540
+Pourquoi rester ici à vous tourner les pouces, dans ce cas ?
+
+138
+00:18:09,540 --> 00:18:14,920
+Le maître stratège a vu au travers de ma petite mascarade.
+
+139
+00:18:15,720 --> 00:18:18,880
+Il sait que je n'ai pas l'assurance nécessaire pour assumer ma véritable position.
+
+140
+00:18:19,380 --> 00:18:22,080
+Que je me cache ici, sous le masque de quelqu'un d'autre.
+
+141
+00:18:22,080 --> 00:18:28,200
+Vous restez ici à jouer le rôle d'un demi-homme, tout comme vous vous contentez de prendre des demi-mesures.
+
+142
+00:18:29,020 --> 00:18:31,080
+Et après, ça vous étonne que les choses tournent mal ?
+
+143
+00:18:32,860 --> 00:18:40,080
+Vous vous complaisez dans le rôle de nuque, une misérable moitié d'homme.
+
+144
+00:18:40,540 --> 00:18:43,080
+Rien d'étonnant, ce que vous restiez impuissant !
+
+145
+00:18:43,080 --> 00:18:52,220
+Je le sais bien.
+
+146
+00:18:53,300 --> 00:18:55,840
+Pardon de n'être qu'une misérable moitié d'homme ?
+
+147
+00:18:55,840 --> 00:19:00,080
+Mon oncle ? Mais que faites-vous ici ?
+
+148
+00:19:00,080 --> 00:19:08,980
+Je n'imaginais pas que c'est ce que tu pensais de moi.
+
+149
+00:19:09,260 --> 00:19:11,180
+Je suis quelque peu blessé d'entendre ça.
+
+150
+00:19:11,740 --> 00:19:16,200
+Dois-je te rappeler que je ne suis pas exactement devenu nuque par plaisir, mon neveu ?
+
+151
+00:19:16,200 --> 00:19:17,900
+Il y a méprise, je vous l'assure.
+
+152
+00:19:18,260 --> 00:19:20,200
+Je ne parlais pas de vous, c'était pour...
+
+153
+00:19:20,200 --> 00:19:22,400
+Si fait, je ne suis qu'une misérable moitié d'homme.
+
+154
+00:19:22,620 --> 00:19:25,040
+Et fortement boiteux pour ne rien arranger.
+
+155
+00:19:25,640 --> 00:19:29,040
+J'en suis rendu à me faire charrier en chaise à porteur, comme un noble.
+
+156
+00:19:30,000 --> 00:19:31,740
+Cesse de me mettre sur un piédestal.
+
+157
+00:19:32,100 --> 00:19:35,120
+J'étais moi aussi à la cour intérieure et je n'ai pas pu sauver Mao Mao.
+
+158
+00:19:35,440 --> 00:19:37,380
+Tu aurais tout loisir de me blâmer ?
+
+159
+00:19:37,380 --> 00:19:41,020
+Non, absolument pas, vous n'y êtes pour rien, mon cher oncle, absolument rien.
+
+160
+00:19:44,120 --> 00:19:45,520
+Oh, il est arrivé, juste à temps.
+
+161
+00:19:45,520 --> 00:19:49,240
+Quand tu perds ton sang-froid, il faut tout de suite que tu donnes dans l'agression.
+
+162
+00:19:50,180 --> 00:19:52,600
+Essaie de te calmer, de te mettre à la place des autres.
+
+163
+00:19:52,860 --> 00:19:54,480
+Chacun de nous fait ce qu'il peut.
+
+164
+00:19:55,140 --> 00:19:56,720
+Je sais tout cela, mon oncle.
+
+165
+00:19:57,300 --> 00:19:59,580
+On discutait, voyez-vous, on s'est un peu emportés.
+
+166
+00:20:00,000 --> 00:20:03,260
+C'était des paroles en l'air, je vous en prie, vous devez me croire.
+
+167
+00:20:04,220 --> 00:20:05,760
+C'est surtout lui qui s'est emporté.
+
+168
+00:20:07,220 --> 00:20:09,400
+Plutôt que de monter sur tes grands chevaux,
+
+169
+00:20:09,840 --> 00:20:13,960
+pourquoi ne te contentes-tu pas d'énoncer poliment la requête que tu es venu présenter ?
+
+170
+00:20:19,240 --> 00:20:47,880
+Je me permets de vous solliciter.
+
+171
+00:20:47,880 --> 00:20:51,040
+Jisho a trahi, il nous faut l'éliminer.
+
+172
+00:20:52,040 --> 00:20:53,620
+Je vous enjoins de mobiliser l'armée.
+
+173
+00:20:53,620 --> 00:21:05,080
+Le clan des Chi produit des armes depuis des années.
+
+174
+00:21:05,360 --> 00:21:07,780
+Nous savons que les derniers modèles de Feifa viennent de chez eux.
+
+175
+00:21:08,660 --> 00:21:10,700
+C'est avec ces armes qu'ils ont attenté à votre vie.
+
+176
+00:21:11,260 --> 00:21:13,740
+Ajoutons à cela la sournoise affaire de la disparition de Lolan.
+
+177
+00:21:14,400 --> 00:21:15,640
+Toutes les preuves sont rassemblées.
+
+178
+00:21:16,020 --> 00:21:16,600
+Il faut agir.
+
+179
+00:21:17,480 --> 00:21:19,740
+Le trône ne peut se permettre de tergiverser.
+
+180
+00:21:19,740 --> 00:21:22,680
+Quelle déférence.
+
+181
+00:21:23,780 --> 00:21:26,700
+Il ne s'adresse plus à Jin-Chi, le nuque de la cour intérieure.
+
+182
+00:21:27,960 --> 00:21:30,480
+Shisho a commis un crime de lèse-majesté en se rebellant.
+
+183
+00:21:31,760 --> 00:21:32,960
+Pour le châtier officiellement,
+
+184
+00:21:33,700 --> 00:21:35,880
+il n'y a d'autre choix que de mobiliser les troupes impériales,
+
+185
+00:21:36,200 --> 00:21:37,560
+à savoir l'armée interdite.
+
+186
+00:21:38,680 --> 00:21:40,560
+Seules deux personnes sont habilitées à le faire.
+
+187
+00:21:41,120 --> 00:21:43,480
+Tout grand commandant qu'il est, la canne n'a pas ce pouvoir.
+
+188
+00:21:43,480 --> 00:21:45,420
+Ce petit jeu a assez duré.
+
+189
+00:21:46,200 --> 00:21:49,480
+Ne pensez-vous pas que l'heure est venue de tomber le masque, Seigneur Jin-Chi ?
+
+190
+00:21:51,700 --> 00:21:52,480
+Ou devrais-je dire...
+
+191
+00:21:53,800 --> 00:21:58,480
+Votre Altesse, le Prince de la Lune ?
+
+192
+00:21:58,480 --> 00:22:00,520
+Je savais que ce jour arriverait.
+
+193
+00:22:01,420 --> 00:22:02,480
+Je ne peux plus reculer dorénavant.
+
+194
+00:22:02,480 --> 00:22:13,700
+Le moment est venu de prendre mes responsabilités.
+
+195
+00:22:32,480 --> 00:23:02,460
+Le moment est venu de prendre mes
+
+196
+00:23:02,480 --> 00:23:32,460
+Sous-titrage Société Radio-Canada
+
+197
+00:23:32,480 --> 00:23:36,300
+Peut-être aller court, court, court
+
+198
+00:23:36,300 --> 00:23:42,480
+C'est qu'il n'est plus détendant qu'un âme
+
+199
+00:23:42,480 --> 00:23:59,240
+Prochain épisode, la fosse à vermine.
+
+200
+00:23:59,240 --> 00:24:03,060
+Sous-titrage Société Radio-Canada
+
