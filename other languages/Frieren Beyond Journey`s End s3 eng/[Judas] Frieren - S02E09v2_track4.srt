@@ -1,0 +1,1634 @@
+1
+00:00:01,710 --> 00:00:04,760
+<font face="Trebuchet MS" size="24"><b>-[rapid hoofbeats]
+-[cart wheels rattling]</b></font>
+
+2
+00:00:04,800 --> 00:00:06,670
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+3
+00:00:23,400 --> 00:00:26,570
+<font face="Trebuchet MS" size="24"><b>[CAPTAIN] Are you sure, sir?
+This is far enough?</b></font>
+
+4
+00:00:27,070 --> 00:00:28,320
+<font face="Trebuchet MS" size="24"><b>[DENKEN] It will do.</b></font>
+
+5
+00:00:28,360 --> 00:00:31,450
+<font face="Trebuchet MS" size="24"><b>I can make it
+the rest of the way by myself.</b></font>
+
+6
+00:00:31,490 --> 00:00:33,830
+<font face="Trebuchet MS" size="24"><b>This is where
+our journey must end,</b></font>
+
+7
+00:00:33,870 --> 00:00:36,700
+<font face="Trebuchet MS" size="24"><b>for my journey
+continues on foot.</b></font>
+
+8
+00:00:36,750 --> 00:00:40,370
+<font face="Trebuchet MS" size="24"><b>If you're certain,
+travel safe, sir.</b></font>
+
+9
+00:00:40,420 --> 00:00:43,340
+<font face="Trebuchet MS" size="24"><b>-[hoofbeats]
+-[cart wheels rattling]</b></font>
+
+10
+00:00:43,380 --> 00:00:45,340
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+11
+00:01:01,400 --> 00:01:04,230
+<font face="Trebuchet MS" size="24"><b>[♪ opening theme song playing]</b></font>
+
+12
+00:02:48,840 --> 00:02:50,670
+<font face="Trebuchet MS" size="24"><b>It's in ruins.</b></font>
+
+13
+00:02:51,090 --> 00:02:54,090
+<font face="Trebuchet MS" size="24"><b>Well, it takes time to rebuild
+after a dragon attack.</b></font>
+
+14
+00:02:54,130 --> 00:02:55,260
+<font face="Trebuchet MS" size="24"><b>I didn't realize</b></font>
+
+15
+00:02:55,340 --> 00:02:57,300
+<font face="Trebuchet MS" size="24"><b>you guys had to deal
+with dragons up here.</b></font>
+
+16
+00:02:57,340 --> 00:02:59,760
+<font face="Trebuchet MS" size="24"><b>The Plateau's fun never ends.</b></font>
+
+17
+00:02:59,810 --> 00:03:01,060
+<font face="Trebuchet MS" size="24"><b>It could be much worse,</b></font>
+
+18
+00:03:01,100 --> 00:03:02,180
+<font face="Trebuchet MS" size="24"><b>-you know.
+-How.</b></font>
+
+19
+00:03:02,640 --> 00:03:04,600
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] When I traveled
+with Himmel and the others,</b></font>
+
+20
+00:03:04,640 --> 00:03:07,310
+<font face="Trebuchet MS" size="24"><b>we were attacked
+by a thunder of dragons.</b></font>
+
+21
+00:03:08,360 --> 00:03:10,860
+<font face="Trebuchet MS" size="24"><b>Can you even imagine
+that many in one place?</b></font>
+
+22
+00:03:10,900 --> 00:03:12,480
+<font face="Trebuchet MS" size="24"><b>I'd rather not.</b></font>
+
+23
+00:03:12,530 --> 00:03:15,030
+<font face="Trebuchet MS" size="24"><b>Uh, just to clarify,</b></font>
+
+24
+00:03:15,070 --> 00:03:17,280
+<font face="Trebuchet MS" size="24"><b>do they not usually move
+as a thunder?</b></font>
+
+25
+00:03:17,820 --> 00:03:20,200
+<font face="Trebuchet MS" size="24"><b>Was this village attacked
+by a thunder?</b></font>
+
+26
+00:03:20,240 --> 00:03:21,370
+<font face="Trebuchet MS" size="24"><b>[MAYOR] Yes.</b></font>
+
+27
+00:03:21,700 --> 00:03:24,160
+<font face="Trebuchet MS" size="24"><b>Seems the beasts have made
+a nearby forest their home.</b></font>
+
+28
+00:03:24,200 --> 00:03:26,670
+<font face="Trebuchet MS" size="24"><b>You three are our best shot
+at defeating them.</b></font>
+
+29
+00:03:27,210 --> 00:03:29,540
+<font face="Trebuchet MS" size="24"><b>"Normal" around here
+isn't very normal.</b></font>
+
+30
+00:03:29,580 --> 00:03:31,460
+<font face="Trebuchet MS" size="24"><b>Not normal at all.</b></font>
+
+31
+00:03:39,550 --> 00:03:41,220
+<font face="Trebuchet MS" size="24"><b>[men grunting]</b></font>
+
+32
+00:03:50,020 --> 00:03:52,820
+<font face="Trebuchet MS" size="24"><b>Your village is
+past the point of saving.</b></font>
+
+33
+00:03:52,860 --> 00:03:54,650
+<font face="Trebuchet MS" size="24"><b>You should rebuild
+somewhere new.</b></font>
+
+34
+00:03:56,440 --> 00:03:57,700
+<font face="Trebuchet MS" size="24"><b>How could we?</b></font>
+
+35
+00:03:57,740 --> 00:03:59,870
+<font face="Trebuchet MS" size="24"><b>As dangerous as it is,</b></font>
+
+36
+00:04:00,240 --> 00:04:01,620
+<font face="Trebuchet MS" size="24"><b>this is our home.</b></font>
+
+37
+00:04:02,200 --> 00:04:04,200
+<font face="Trebuchet MS" size="24"><b>-[MAN 1] Incoming.
+-[MAN 2] Let me help.</b></font>
+
+38
+00:04:04,240 --> 00:04:06,000
+<font face="Trebuchet MS" size="24"><b>[MAN 3] Need more hands?</b></font>
+
+39
+00:04:08,000 --> 00:04:10,420
+<font face="Trebuchet MS" size="24"><b>[FERN]
+He's right, Mistress Frieren.</b></font>
+
+40
+00:04:10,460 --> 00:04:13,050
+<font face="Trebuchet MS" size="24"><b>That was a cruel thing to say.</b></font>
+
+41
+00:04:13,090 --> 00:04:15,630
+<font face="Trebuchet MS" size="24"><b>[STARK] Somebody's gotta
+help these villagers.</b></font>
+
+42
+00:04:15,670 --> 00:04:17,840
+<font face="Trebuchet MS" size="24"><b>One dragon
+is a challenge enough.</b></font>
+
+43
+00:04:17,880 --> 00:04:19,510
+<font face="Trebuchet MS" size="24"><b>To face a horde...</b></font>
+
+44
+00:04:19,550 --> 00:04:21,680
+<font face="Trebuchet MS" size="24"><b>We will not come out unscathed.</b></font>
+
+45
+00:04:21,720 --> 00:04:25,060
+<font face="Trebuchet MS" size="24"><b>We protect other people's homes,
+don't we?</b></font>
+
+46
+00:04:26,230 --> 00:04:28,690
+<font face="Trebuchet MS" size="24"><b>It shall depend on the reward.</b></font>
+
+47
+00:04:28,730 --> 00:04:31,650
+<font face="Trebuchet MS" size="24"><b>Alas, our village
+is extremely poor.</b></font>
+
+48
+00:04:31,690 --> 00:04:33,900
+<font face="Trebuchet MS" size="24"><b>I fear we have
+nothing to pay you with.</b></font>
+
+49
+00:04:33,940 --> 00:04:35,900
+<font face="Trebuchet MS" size="24"><b>You don't have
+a single grimoire?</b></font>
+
+50
+00:04:35,940 --> 00:04:38,360
+<font face="Trebuchet MS" size="24"><b>There's one,
+but it's terribly useless</b></font>
+
+51
+00:04:38,400 --> 00:04:40,410
+<font face="Trebuchet MS" size="24"><b>and I doubt
+it's of any interest to you.</b></font>
+
+52
+00:04:40,450 --> 00:04:42,200
+<font face="Trebuchet MS" size="24"><b>It allows you to say
+tongue twisters</b></font>
+
+53
+00:04:42,240 --> 00:04:43,830
+<font face="Trebuchet MS" size="24"><b>without tripping
+over your words.</b></font>
+
+54
+00:04:43,870 --> 00:04:47,910
+<font face="Trebuchet MS" size="24"><b>[FERN] Goodness, that does sound
+terribly useless.</b></font>
+
+55
+00:04:52,460 --> 00:04:55,500
+<font face="Trebuchet MS" size="24"><b>At the end of the day,
+a spell is still a spell.</b></font>
+
+56
+00:04:55,550 --> 00:04:58,340
+<font face="Trebuchet MS" size="24"><b>You mentioned
+they live in a nearby wood?</b></font>
+
+57
+00:04:58,800 --> 00:05:01,840
+<font face="Trebuchet MS" size="24"><b>Yes, they're somewhere
+in that forest up ahead.</b></font>
+
+58
+00:05:02,590 --> 00:05:05,930
+<font face="Trebuchet MS" size="24"><b>If we can pick up
+even a trace of mana,</b></font>
+
+59
+00:05:06,270 --> 00:05:07,980
+<font face="Trebuchet MS" size="24"><b>we can track them down.</b></font>
+
+60
+00:05:08,350 --> 00:05:09,940
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+61
+00:05:32,210 --> 00:05:34,710
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+Looks like we continue straight.</b></font>
+
+62
+00:05:34,750 --> 00:05:37,170
+<font face="Trebuchet MS" size="24"><b>I'm impressed
+by your magic all the time.</b></font>
+
+63
+00:05:37,210 --> 00:05:39,630
+<font face="Trebuchet MS" size="24"><b>But when it's
+so applicable like this,</b></font>
+
+64
+00:05:39,670 --> 00:05:41,760
+<font face="Trebuchet MS" size="24"><b>I'm reminded how amazing it is.</b></font>
+
+65
+00:05:41,800 --> 00:05:44,640
+<font face="Trebuchet MS" size="24"><b>Do you have
+any more praise for me?</b></font>
+
+66
+00:05:44,680 --> 00:05:46,010
+<font face="Trebuchet MS" size="24"><b>You can't give in.</b></font>
+
+67
+00:05:46,050 --> 00:05:47,720
+<font face="Trebuchet MS" size="24"><b>No more careless praise.</b></font>
+
+68
+00:05:47,760 --> 00:05:50,180
+<font face="Trebuchet MS" size="24"><b>It's bad for Mistress Frieren's
+development.</b></font>
+
+69
+00:05:50,230 --> 00:05:52,230
+<font face="Trebuchet MS" size="24"><b>[STARK]
+Hm... I guess that's true.</b></font>
+
+70
+00:05:52,270 --> 00:05:55,610
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] What exactly
+do you two take me for?</b></font>
+
+71
+00:05:56,900 --> 00:05:59,940
+<font face="Trebuchet MS" size="24"><b>If anyone still cares,
+the dragons are this way.</b></font>
+
+72
+00:05:59,990 --> 00:06:01,200
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+73
+00:06:35,350 --> 00:06:36,940
+<font face="Trebuchet MS" size="24"><b>-[FRIEREN] There they are.
+-[dragons snoring softly]</b></font>
+
+74
+00:06:36,980 --> 00:06:38,570
+<font face="Trebuchet MS" size="24"><b>[STARK]
+That's a lot of dragons.</b></font>
+
+75
+00:06:38,610 --> 00:06:40,650
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+But luckily they're small.</b></font>
+
+76
+00:06:40,690 --> 00:06:43,780
+<font face="Trebuchet MS" size="24"><b>They won't be nearly as strong
+as that solar dragon.</b></font>
+
+77
+00:06:44,320 --> 00:06:46,870
+<font face="Trebuchet MS" size="24"><b>Regardless of size,
+dragons are smart.</b></font>
+
+78
+00:06:46,910 --> 00:06:48,530
+<font face="Trebuchet MS" size="24"><b>Don't let them surround you.</b></font>
+
+79
+00:06:49,280 --> 00:06:51,160
+<font face="Trebuchet MS" size="24"><b>I say we draw them
+to a single point</b></font>
+
+80
+00:06:51,200 --> 00:06:52,700
+<font face="Trebuchet MS" size="24"><b>and take them down at once.</b></font>
+
+81
+00:06:52,750 --> 00:06:54,040
+<font face="Trebuchet MS" size="24"><b>Well, Stark?</b></font>
+
+82
+00:06:54,080 --> 00:06:55,870
+<font face="Trebuchet MS" size="24"><b>Think that you're up
+for the job?</b></font>
+
+83
+00:06:56,250 --> 00:06:59,090
+<font face="Trebuchet MS" size="24"><b>You're an experienced
+dragon fighter these days.</b></font>
+
+84
+00:06:59,130 --> 00:07:00,550
+<font face="Trebuchet MS" size="24"><b>Tall order.</b></font>
+
+85
+00:07:00,590 --> 00:07:02,710
+<font face="Trebuchet MS" size="24"><b>More like experienced bait.</b></font>
+
+86
+00:07:04,220 --> 00:07:06,260
+<font face="Trebuchet MS" size="24"><b>[dragon growls]</b></font>
+
+87
+00:07:07,220 --> 00:07:08,350
+<font face="Trebuchet MS" size="24"><b>Shall we begin?</b></font>
+
+88
+00:07:08,510 --> 00:07:10,600
+<font face="Trebuchet MS" size="24"><b>You better actually fire
+some spells this time!</b></font>
+
+89
+00:07:10,640 --> 00:07:12,600
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+90
+00:07:14,230 --> 00:07:16,940
+<font face="Trebuchet MS" size="24"><b>If you slay them all first,
+I won't have to.</b></font>
+
+91
+00:07:18,810 --> 00:07:19,900
+<font face="Trebuchet MS" size="24"><b>[Stark grunts]</b></font>
+
+92
+00:07:20,690 --> 00:07:22,730
+<font face="Trebuchet MS" size="24"><b>[dragons growling]</b></font>
+
+93
+00:07:23,740 --> 00:07:24,950
+<font face="Trebuchet MS" size="24"><b>[Stark grunting]</b></font>
+
+94
+00:07:44,460 --> 00:07:45,510
+<font face="Trebuchet MS" size="24"><b>[Stark gasps]</b></font>
+
+95
+00:07:45,550 --> 00:07:46,590
+<font face="Trebuchet MS" size="24"><b>[dragon growling]</b></font>
+
+96
+00:07:48,720 --> 00:07:50,350
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+97
+00:07:54,270 --> 00:07:55,350
+<font face="Trebuchet MS" size="24"><b>[Stark grunting]</b></font>
+
+98
+00:08:10,320 --> 00:08:11,950
+<font face="Trebuchet MS" size="24"><b>[Stark grunts]</b></font>
+
+99
+00:08:14,910 --> 00:08:16,040
+<font face="Trebuchet MS" size="24"><b>[Stark groans]</b></font>
+
+100
+00:08:26,470 --> 00:08:29,470
+<font face="Trebuchet MS" size="24"><b>That job
+was ridiculously intense.</b></font>
+
+101
+00:08:29,510 --> 00:08:32,260
+<font face="Trebuchet MS" size="24"><b>At least the village's church
+wasn't destroyed.</b></font>
+
+102
+00:08:32,300 --> 00:08:35,180
+<font face="Trebuchet MS" size="24"><b>Mr. Stark, I watched
+an angry dragon</b></font>
+
+103
+00:08:35,220 --> 00:08:37,810
+<font face="Trebuchet MS" size="24"><b>-chew on your head.
+-[dragon grunting]</b></font>
+
+104
+00:08:39,020 --> 00:08:41,520
+<font face="Trebuchet MS" size="24"><b>[FERN] How are you
+not in worse shape?</b></font>
+
+105
+00:08:41,900 --> 00:08:43,360
+<font face="Trebuchet MS" size="24"><b>[STARK] Uh...</b></font>
+
+106
+00:08:44,940 --> 00:08:46,780
+<font face="Trebuchet MS" size="24"><b>I got no clue.</b></font>
+
+107
+00:08:46,820 --> 00:08:49,200
+<font face="Trebuchet MS" size="24"><b>Eisen's head
+was often chewed as well.</b></font>
+
+108
+00:08:49,240 --> 00:08:52,030
+<font face="Trebuchet MS" size="24"><b>Durable skulls must be
+a normal warrior trait.</b></font>
+
+109
+00:08:52,070 --> 00:08:55,870
+<font face="Trebuchet MS" size="24"><b>Mistress, nothing about
+Mister Eisen is normal.</b></font>
+
+110
+00:08:55,910 --> 00:08:57,660
+<font face="Trebuchet MS" size="24"><b>[MAYOR] It took some rummaging.</b></font>
+
+111
+00:08:59,410 --> 00:09:01,500
+<font face="Trebuchet MS" size="24"><b>But here's
+the promised grimoire.</b></font>
+
+112
+00:09:01,540 --> 00:09:04,210
+<font face="Trebuchet MS" size="24"><b>Thank you
+for protecting our village.</b></font>
+
+113
+00:09:13,850 --> 00:09:16,100
+<font face="Trebuchet MS" size="24"><b>I've noticed an odd tendency.</b></font>
+
+114
+00:09:16,140 --> 00:09:17,640
+<font face="Trebuchet MS" size="24"><b>Whenever we help someone out,</b></font>
+
+115
+00:09:17,680 --> 00:09:20,520
+<font face="Trebuchet MS" size="24"><b>you almost always
+blindly demand payment.</b></font>
+
+116
+00:09:20,890 --> 00:09:23,100
+<font face="Trebuchet MS" size="24"><b>Because Himmel the Hero
+did the same.</b></font>
+
+117
+00:09:23,150 --> 00:09:24,440
+<font face="Trebuchet MS" size="24"><b>That's surprising.</b></font>
+
+118
+00:09:24,520 --> 00:09:27,820
+<font face="Trebuchet MS" size="24"><b>Agreed. I imagined him
+as the sort that would want</b></font>
+
+119
+00:09:27,860 --> 00:09:29,490
+<font face="Trebuchet MS" size="24"><b>to help others for free.</b></font>
+
+120
+00:09:30,110 --> 00:09:31,820
+<font face="Trebuchet MS" size="24"><b>Curious, huh?</b></font>
+
+121
+00:09:31,860 --> 00:09:34,070
+<font face="Trebuchet MS" size="24"><b>Used to confound me, too.</b></font>
+
+122
+00:09:34,620 --> 00:09:37,040
+<font face="Trebuchet MS" size="24"><b>Thank you so much
+for your help, sir.</b></font>
+
+123
+00:09:37,080 --> 00:09:39,290
+<font face="Trebuchet MS" size="24"><b>[WOMAN] I only wish
+that there was some way</b></font>
+
+124
+00:09:39,330 --> 00:09:41,290
+<font face="Trebuchet MS" size="24"><b>for us to properly repay you.</b></font>
+
+125
+00:09:41,330 --> 00:09:44,210
+<font face="Trebuchet MS" size="24"><b>But as you can see,
+our village is poor.</b></font>
+
+126
+00:09:44,250 --> 00:09:46,000
+<font face="Trebuchet MS" size="24"><b>Though we can't offer much,</b></font>
+
+127
+00:09:46,040 --> 00:09:48,380
+<font face="Trebuchet MS" size="24"><b>I do hope you'll take this.</b></font>
+
+128
+00:09:49,170 --> 00:09:50,970
+<font face="Trebuchet MS" size="24"><b>[EISEN]
+I won't allow it, Himmel.</b></font>
+
+129
+00:09:51,010 --> 00:09:53,390
+<font face="Trebuchet MS" size="24"><b>We cannot accept their food.</b></font>
+
+130
+00:09:56,600 --> 00:09:58,430
+<font face="Trebuchet MS" size="24"><b>Is that a grimoire?</b></font>
+
+131
+00:10:00,310 --> 00:10:01,980
+<font face="Trebuchet MS" size="24"><b>[MAN] Uh, unfortunately not.</b></font>
+
+132
+00:10:02,020 --> 00:10:04,400
+<font face="Trebuchet MS" size="24"><b>It's a notebook we received
+from a traveling merchant</b></font>
+
+133
+00:10:04,440 --> 00:10:05,730
+<font face="Trebuchet MS" size="24"><b>some time ago.</b></font>
+
+134
+00:10:05,770 --> 00:10:07,650
+<font face="Trebuchet MS" size="24"><b>We have no use for it.</b></font>
+
+135
+00:10:07,690 --> 00:10:09,280
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+136
+00:10:14,740 --> 00:10:16,320
+<font face="Trebuchet MS" size="24"><b>[scribbling]</b></font>
+
+137
+00:10:17,530 --> 00:10:18,990
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+I have a question, Himmel.</b></font>
+
+138
+00:10:19,950 --> 00:10:22,250
+<font face="Trebuchet MS" size="24"><b>Why demand payment
+in exchange for our aid,</b></font>
+
+139
+00:10:22,290 --> 00:10:24,540
+<font face="Trebuchet MS" size="24"><b>when you don't care
+what we receive?</b></font>
+
+140
+00:10:24,920 --> 00:10:27,250
+<font face="Trebuchet MS" size="24"><b>If they pay us,
+they don't owe us anything.</b></font>
+
+141
+00:10:27,290 --> 00:10:29,340
+<font face="Trebuchet MS" size="24"><b>No favors and no praise.</b></font>
+
+142
+00:10:30,170 --> 00:10:32,670
+<font face="Trebuchet MS" size="24"><b>After all, we are
+the party of heroes.</b></font>
+
+143
+00:10:37,390 --> 00:10:39,760
+<font face="Trebuchet MS" size="24"><b>We're meant to be
+protectors of the people,</b></font>
+
+144
+00:10:39,810 --> 00:10:42,430
+<font face="Trebuchet MS" size="24"><b>not collectors
+of gratitude and debt.</b></font>
+
+145
+00:10:42,480 --> 00:10:44,350
+<font face="Trebuchet MS" size="24"><b>We should give, not take.</b></font>
+
+146
+00:10:44,390 --> 00:10:45,560
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+147
+00:10:48,570 --> 00:10:51,490
+<font face="Trebuchet MS" size="24"><b>If the people we help
+are indebted to us,</b></font>
+
+148
+00:10:52,150 --> 00:10:55,570
+<font face="Trebuchet MS" size="24"><b>then the only people that we're
+truly serving are ourselves.</b></font>
+
+149
+00:10:57,030 --> 00:10:58,160
+<font face="Trebuchet MS" size="24"><b>You see?</b></font>
+
+150
+00:10:58,200 --> 00:11:00,290
+<font face="Trebuchet MS" size="24"><b>That's why even
+the most ridiculous spells</b></font>
+
+151
+00:11:00,330 --> 00:11:02,750
+<font face="Trebuchet MS" size="24"><b>suffice as payment in my eyes.</b></font>
+
+152
+00:11:03,540 --> 00:11:04,870
+<font face="Trebuchet MS" size="24"><b>Noble.</b></font>
+
+153
+00:11:06,540 --> 00:11:09,380
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] Now start thinking
+of a good tongue twister.</b></font>
+
+154
+00:11:09,880 --> 00:11:12,960
+<font face="Trebuchet MS" size="24"><b>[FERN] I still think
+you just want more grimoires.</b></font>
+
+155
+00:11:13,010 --> 00:11:15,300
+<font face="Trebuchet MS" size="24"><b>[STARK] Next time,
+maybe you can ask for one</b></font>
+
+156
+00:11:15,340 --> 00:11:17,930
+<font face="Trebuchet MS" size="24"><b>that prevents dragons
+from biting your head.</b></font>
+
+157
+00:11:22,850 --> 00:11:24,020
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+158
+00:11:24,730 --> 00:11:27,270
+<font face="Trebuchet MS" size="24"><b>[EISEN]
+What's your analysis, Frieren?</b></font>
+
+159
+00:11:27,310 --> 00:11:28,810
+<font face="Trebuchet MS" size="24"><b>Is it letting up?</b></font>
+
+160
+00:11:29,770 --> 00:11:30,980
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] It still looks like</b></font>
+
+161
+00:11:31,020 --> 00:11:33,280
+<font face="Trebuchet MS" size="24"><b>we won't be able
+to head out for a while.</b></font>
+
+162
+00:11:33,320 --> 00:11:35,740
+<font face="Trebuchet MS" size="24"><b>[EISEN]
+That's some terrible luck.</b></font>
+
+163
+00:11:35,780 --> 00:11:38,200
+<font face="Trebuchet MS" size="24"><b>I can't believe
+we're stuck here.</b></font>
+
+164
+00:11:38,240 --> 00:11:40,450
+<font face="Trebuchet MS" size="24"><b>I'm so bored, I could die.</b></font>
+
+165
+00:11:40,490 --> 00:11:42,620
+<font face="Trebuchet MS" size="24"><b>Blame the bottle ache,
+not the boredom.</b></font>
+
+166
+00:11:42,660 --> 00:11:43,870
+<font face="Trebuchet MS" size="24"><b>[Himmel chuckles]</b></font>
+
+167
+00:11:44,290 --> 00:11:45,830
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+168
+00:11:49,250 --> 00:11:51,750
+<font face="Trebuchet MS" size="24"><b>Keep your spirits high,
+my brave friends!</b></font>
+
+169
+00:11:51,790 --> 00:11:53,460
+<font face="Trebuchet MS" size="24"><b>We're on
+a life-changing adventure</b></font>
+
+170
+00:11:53,510 --> 00:11:55,220
+<font face="Trebuchet MS" size="24"><b>to slay the Demon King.</b></font>
+
+171
+00:11:55,260 --> 00:11:58,970
+<font face="Trebuchet MS" size="24"><b>[EISEN] Yet we haven't been
+able to adventure for days now.</b></font>
+
+172
+00:11:59,010 --> 00:12:01,470
+<font face="Trebuchet MS" size="24"><b>Adventures are about
+more than fighting</b></font>
+
+173
+00:12:01,510 --> 00:12:03,560
+<font face="Trebuchet MS" size="24"><b>and wandering pebbled roads.</b></font>
+
+174
+00:12:04,100 --> 00:12:06,020
+<font face="Trebuchet MS" size="24"><b>Sometimes, an adventure
+can be enduring</b></font>
+
+175
+00:12:06,060 --> 00:12:08,230
+<font face="Trebuchet MS" size="24"><b>a series
+of dreadful days indoors.</b></font>
+
+176
+00:12:08,270 --> 00:12:11,110
+<font face="Trebuchet MS" size="24"><b>[EISEN] Dreadful is your word,
+not ours.</b></font>
+
+177
+00:12:11,360 --> 00:12:12,480
+<font face="Trebuchet MS" size="24"><b>[Himmel gasps]</b></font>
+
+178
+00:12:12,520 --> 00:12:15,320
+<font face="Trebuchet MS" size="24"><b>[EISEN] What are you
+thrashing about for?</b></font>
+
+179
+00:12:15,360 --> 00:12:17,570
+<font face="Trebuchet MS" size="24"><b>Has death come
+to catch you, too?</b></font>
+
+180
+00:12:17,610 --> 00:12:18,660
+<font face="Trebuchet MS" size="24"><b>[HIMMEL] Uh...</b></font>
+
+181
+00:12:18,700 --> 00:12:20,280
+<font face="Trebuchet MS" size="24"><b>[thunder rumbling]</b></font>
+
+182
+00:12:20,320 --> 00:12:22,240
+<font face="Trebuchet MS" size="24"><b>[HIMMEL] It's nothing.</b></font>
+
+183
+00:12:27,790 --> 00:12:30,210
+<font face="Trebuchet MS" size="24"><b>We've been waiting
+around this city for a week</b></font>
+
+184
+00:12:30,250 --> 00:12:32,750
+<font face="Trebuchet MS" size="24"><b>and the weather still
+hasn't gotten better.</b></font>
+
+185
+00:12:40,680 --> 00:12:43,510
+<font face="Trebuchet MS" size="24"><b>Will you be able
+to ferry us across today?</b></font>
+
+186
+00:12:43,560 --> 00:12:45,760
+<font face="Trebuchet MS" size="24"><b>You must know the answer.</b></font>
+
+187
+00:12:53,810 --> 00:12:56,980
+<font face="Trebuchet MS" size="24"><b>Though made of wood,
+my boat is not a coffin.</b></font>
+
+188
+00:12:58,610 --> 00:13:00,450
+<font face="Trebuchet MS" size="24"><b>I suppose not.</b></font>
+
+189
+00:13:02,780 --> 00:13:04,580
+<font face="Trebuchet MS" size="24"><b>I've heard of storms
+over oceans,</b></font>
+
+190
+00:13:04,620 --> 00:13:07,410
+<font face="Trebuchet MS" size="24"><b>but I didn't know
+they can form over lakes, too.</b></font>
+
+191
+00:13:07,450 --> 00:13:10,040
+<font face="Trebuchet MS" size="24"><b>Lake Korridor
+is the largest body of water</b></font>
+
+192
+00:13:10,080 --> 00:13:11,670
+<font face="Trebuchet MS" size="24"><b>in all the northern lands.</b></font>
+
+193
+00:13:12,040 --> 00:13:14,630
+<font face="Trebuchet MS" size="24"><b>It's larger than
+some inland seas.</b></font>
+
+194
+00:13:14,670 --> 00:13:15,750
+<font face="Trebuchet MS" size="24"><b>[STARK] I believe it.</b></font>
+
+195
+00:13:15,790 --> 00:13:17,710
+<font face="Trebuchet MS" size="24"><b>You can hardly make out
+the far shore.</b></font>
+
+196
+00:13:20,130 --> 00:13:21,550
+<font face="Trebuchet MS" size="24"><b>Immense mountain ranges</b></font>
+
+197
+00:13:21,590 --> 00:13:24,600
+<font face="Trebuchet MS" size="24"><b>to both the east and the west
+disrupt air currents,</b></font>
+
+198
+00:13:24,640 --> 00:13:27,180
+<font face="Trebuchet MS" size="24"><b>making this time of year
+brutally stormy.</b></font>
+
+199
+00:13:28,020 --> 00:13:30,440
+<font face="Trebuchet MS" size="24"><b>It's not uncommon
+for large, established ships</b></font>
+
+200
+00:13:30,480 --> 00:13:32,150
+<font face="Trebuchet MS" size="24"><b>to sink in this season.</b></font>
+
+201
+00:13:32,190 --> 00:13:33,770
+<font face="Trebuchet MS" size="24"><b>[FERN]
+And because of the wind,</b></font>
+
+202
+00:13:33,810 --> 00:13:36,190
+<font face="Trebuchet MS" size="24"><b>there's no chance we can cross
+with flying magic.</b></font>
+
+203
+00:13:36,230 --> 00:13:37,690
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+It would be difficult to fly</b></font>
+
+204
+00:13:37,730 --> 00:13:39,610
+<font face="Trebuchet MS" size="24"><b>to the other side
+on a clear day.</b></font>
+
+205
+00:13:39,650 --> 00:13:43,110
+<font face="Trebuchet MS" size="24"><b>The distance to shore
+is vaster than you think.</b></font>
+
+206
+00:13:43,160 --> 00:13:45,200
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+I might be able to make it.</b></font>
+
+207
+00:13:45,580 --> 00:13:48,240
+<font face="Trebuchet MS" size="24"><b>But skilled as you are,
+you lack the mana.</b></font>
+
+208
+00:13:48,620 --> 00:13:51,870
+<font face="Trebuchet MS" size="24"><b>Perhaps we would be better off
+venturing around the lake.</b></font>
+
+209
+00:13:51,910 --> 00:13:54,670
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] We most certainly
+would not be.</b></font>
+
+210
+00:13:54,710 --> 00:13:56,250
+<font face="Trebuchet MS" size="24"><b>Wait, why?</b></font>
+
+211
+00:13:56,290 --> 00:13:59,710
+<font face="Trebuchet MS" size="24"><b>I told you about the mountains
+to the east and the west.</b></font>
+
+212
+00:13:59,760 --> 00:14:01,050
+<font face="Trebuchet MS" size="24"><b>[muffled] Mmm.</b></font>
+
+213
+00:14:01,090 --> 00:14:03,180
+<font face="Trebuchet MS" size="24"><b>They're as mighty as the lake.</b></font>
+
+214
+00:14:03,220 --> 00:14:04,590
+<font face="Trebuchet MS" size="24"><b>Trying to barrel
+our way through</b></font>
+
+215
+00:14:04,640 --> 00:14:06,180
+<font face="Trebuchet MS" size="24"><b>without so much
+as a mountain pass</b></font>
+
+216
+00:14:06,220 --> 00:14:07,510
+<font face="Trebuchet MS" size="24"><b>to hang our hats on...</b></font>
+
+217
+00:14:07,560 --> 00:14:08,640
+<font face="Trebuchet MS" size="24"><b>[muffled] Mmm.</b></font>
+
+218
+00:14:09,060 --> 00:14:10,640
+<font face="Trebuchet MS" size="24"><b>...would be suicide.</b></font>
+
+219
+00:14:10,680 --> 00:14:13,690
+<font face="Trebuchet MS" size="24"><b>We should stay put and wait
+for a few months.</b></font>
+
+220
+00:14:13,730 --> 00:14:15,650
+<font face="Trebuchet MS" size="24"><b>It'll be leagues safer
+and timelier</b></font>
+
+221
+00:14:15,690 --> 00:14:18,360
+<font face="Trebuchet MS" size="24"><b>than challenging the elements
+head on with no plan.</b></font>
+
+222
+00:14:19,110 --> 00:14:21,650
+<font face="Trebuchet MS" size="24"><b>Fortunately, this is
+a fairly large port city</b></font>
+
+223
+00:14:21,700 --> 00:14:23,030
+<font face="Trebuchet MS" size="24"><b>and trading hub.</b></font>
+
+224
+00:14:23,070 --> 00:14:25,860
+<font face="Trebuchet MS" size="24"><b>It's the perfect place
+to pass the time.</b></font>
+
+225
+00:14:28,660 --> 00:14:30,450
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+226
+00:15:08,200 --> 00:15:10,580
+<font face="Trebuchet MS" size="24"><b>[STARK] One winter later
+and here we are.</b></font>
+
+227
+00:15:11,240 --> 00:15:12,580
+<font face="Trebuchet MS" size="24"><b>Can you take us?</b></font>
+
+228
+00:15:12,620 --> 00:15:13,830
+<font face="Trebuchet MS" size="24"><b>Yes.</b></font>
+
+229
+00:15:14,540 --> 00:15:17,080
+<font face="Trebuchet MS" size="24"><b>But only if you're able to pay.</b></font>
+
+230
+00:15:17,290 --> 00:15:19,380
+<font face="Trebuchet MS" size="24"><b>Even though
+the storms have passed,</b></font>
+
+231
+00:15:19,420 --> 00:15:21,710
+<font face="Trebuchet MS" size="24"><b>this voyage is not a safe one.</b></font>
+
+232
+00:15:22,300 --> 00:15:24,420
+<font face="Trebuchet MS" size="24"><b>The risk will need to be
+worth it.</b></font>
+
+233
+00:15:27,340 --> 00:15:29,260
+<font face="Trebuchet MS" size="24"><b>That's almost offensive.</b></font>
+
+234
+00:15:29,300 --> 00:15:33,100
+<font face="Trebuchet MS" size="24"><b>We'd have the funds if someone
+hadn't bought so many grimoires.</b></font>
+
+235
+00:15:33,140 --> 00:15:35,180
+<font face="Trebuchet MS" size="24"><b>Boredom took control.</b></font>
+
+236
+00:15:35,930 --> 00:15:39,270
+<font face="Trebuchet MS" size="24"><b>Fine. If you can't pay,
+we'll exchange favors.</b></font>
+
+237
+00:15:39,310 --> 00:15:41,980
+<font face="Trebuchet MS" size="24"><b>On an island just offshore,</b></font>
+
+238
+00:15:42,020 --> 00:15:44,070
+<font face="Trebuchet MS" size="24"><b>there's an abandoned monastery.</b></font>
+
+239
+00:15:44,110 --> 00:15:46,360
+<font face="Trebuchet MS" size="24"><b>It's protected by a barrier.</b></font>
+
+240
+00:15:46,700 --> 00:15:48,990
+<font face="Trebuchet MS" size="24"><b>According to legend,
+if you can get through,</b></font>
+
+241
+00:15:49,030 --> 00:15:51,620
+<font face="Trebuchet MS" size="24"><b>you'll find the memoirs
+of Himmel the Hero.</b></font>
+
+242
+00:15:52,240 --> 00:15:53,830
+<font face="Trebuchet MS" size="24"><b>In my grandfather's time,</b></font>
+
+243
+00:15:53,870 --> 00:15:57,080
+<font face="Trebuchet MS" size="24"><b>Himmel the Hero saved our city
+and its people.</b></font>
+
+244
+00:15:57,710 --> 00:16:00,710
+<font face="Trebuchet MS" size="24"><b>I've looked up to him
+ever since I was a child.</b></font>
+
+245
+00:16:01,460 --> 00:16:04,550
+<font face="Trebuchet MS" size="24"><b>We've been starving
+for those memoirs for ages.</b></font>
+
+246
+00:16:04,590 --> 00:16:07,170
+<font face="Trebuchet MS" size="24"><b>I'd like you
+to find them for me.</b></font>
+
+247
+00:16:07,720 --> 00:16:09,760
+<font face="Trebuchet MS" size="24"><b>Himmel's memoirs, huh?</b></font>
+
+248
+00:16:10,050 --> 00:16:11,720
+<font face="Trebuchet MS" size="24"><b>Poor Himmel.</b></font>
+
+249
+00:16:11,760 --> 00:16:13,810
+<font face="Trebuchet MS" size="24"><b>All that work to record
+your travels</b></font>
+
+250
+00:16:13,850 --> 00:16:15,930
+<font face="Trebuchet MS" size="24"><b>just for the pages to slip away.</b></font>
+
+251
+00:16:15,970 --> 00:16:17,890
+<font face="Trebuchet MS" size="24"><b>Must have been
+very disappointing.</b></font>
+
+252
+00:16:21,940 --> 00:16:25,190
+<font face="Trebuchet MS" size="24"><b>I can't believe they've been
+hiding there this whole while.</b></font>
+
+253
+00:16:25,740 --> 00:16:26,950
+<font face="Trebuchet MS" size="24"><b>Sure.</b></font>
+
+254
+00:16:26,990 --> 00:16:29,110
+<font face="Trebuchet MS" size="24"><b>You've got yourself
+a favor.</b></font>
+
+255
+00:16:31,280 --> 00:16:32,410
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+256
+00:16:52,090 --> 00:16:54,310
+<font face="Trebuchet MS" size="24"><b>It feels like
+we're on the ocean.</b></font>
+
+257
+00:16:54,350 --> 00:16:56,180
+<font face="Trebuchet MS" size="24"><b>Is that a whole fleet of ships?</b></font>
+
+258
+00:16:56,220 --> 00:16:57,220
+<font face="Trebuchet MS" size="24"><b>Indeed.</b></font>
+
+259
+00:16:57,390 --> 00:16:59,440
+<font face="Trebuchet MS" size="24"><b>If you want to move people
+or goods north,</b></font>
+
+260
+00:16:59,480 --> 00:17:01,400
+<font face="Trebuchet MS" size="24"><b>now is the best time to do it.</b></font>
+
+261
+00:17:02,060 --> 00:17:04,650
+<font face="Trebuchet MS" size="24"><b>And the recent rumors
+are playing a role.</b></font>
+
+262
+00:17:04,690 --> 00:17:06,230
+<font face="Trebuchet MS" size="24"><b>They say there's a Golden Land</b></font>
+
+263
+00:17:06,280 --> 00:17:08,030
+<font face="Trebuchet MS" size="24"><b>where things from streets
+to rooftops</b></font>
+
+264
+00:17:08,070 --> 00:17:09,700
+<font face="Trebuchet MS" size="24"><b>are made of pure gold.</b></font>
+
+265
+00:17:09,740 --> 00:17:11,030
+<font face="Trebuchet MS" size="24"><b>More people are interested</b></font>
+
+266
+00:17:11,070 --> 00:17:13,120
+<font face="Trebuchet MS" size="24"><b>in crossing the lake
+than normal.</b></font>
+
+267
+00:17:13,160 --> 00:17:14,870
+<font face="Trebuchet MS" size="24"><b>A Golden Land?</b></font>
+
+268
+00:17:14,910 --> 00:17:16,790
+<font face="Trebuchet MS" size="24"><b>You think it really exists?</b></font>
+
+269
+00:17:16,830 --> 00:17:18,660
+<font face="Trebuchet MS" size="24"><b>[sailor chuckles] Who can say?</b></font>
+
+270
+00:17:18,710 --> 00:17:20,620
+<font face="Trebuchet MS" size="24"><b>All I know is
+I've never met anyone</b></font>
+
+271
+00:17:20,670 --> 00:17:22,580
+<font face="Trebuchet MS" size="24"><b>who's actually been there.</b></font>
+
+272
+00:17:22,630 --> 00:17:24,840
+<font face="Trebuchet MS" size="24"><b>Probably just another tall tale.</b></font>
+
+273
+00:17:28,590 --> 00:17:30,090
+<font face="Trebuchet MS" size="24"><b>[SAILOR] There's the island.</b></font>
+
+274
+00:17:42,900 --> 00:17:46,020
+<font face="Trebuchet MS" size="24"><b>I was expecting the barrier
+to be much stronger.</b></font>
+
+275
+00:17:46,060 --> 00:17:48,900
+<font face="Trebuchet MS" size="24"><b>In its defense,
+it must be several decades old.</b></font>
+
+276
+00:17:48,940 --> 00:17:51,070
+<font face="Trebuchet MS" size="24"><b>I bet this monastery was nice.</b></font>
+
+277
+00:17:51,110 --> 00:17:53,490
+<font face="Trebuchet MS" size="24"><b>Why would anybody abandon it?</b></font>
+
+278
+00:17:53,950 --> 00:17:55,120
+<font face="Trebuchet MS" size="24"><b>A monster attacked</b></font>
+
+279
+00:17:55,240 --> 00:17:57,540
+<font face="Trebuchet MS" size="24"><b>and the old roof couldn't
+weather the damage.</b></font>
+
+280
+00:17:57,580 --> 00:17:59,910
+<font face="Trebuchet MS" size="24"><b>This place has been around
+for a long while.</b></font>
+
+281
+00:18:00,200 --> 00:18:01,620
+<font face="Trebuchet MS" size="24"><b>That makes sense.</b></font>
+
+282
+00:18:01,660 --> 00:18:04,670
+<font face="Trebuchet MS" size="24"><b>And explains why they erected
+the barrier in a hurry.</b></font>
+
+283
+00:18:04,710 --> 00:18:05,920
+<font face="Trebuchet MS" size="24"><b>Mm, and why was that?</b></font>
+
+284
+00:18:05,960 --> 00:18:08,420
+<font face="Trebuchet MS" size="24"><b>Monasteries are known
+to house books.</b></font>
+
+285
+00:18:08,460 --> 00:18:11,880
+<font face="Trebuchet MS" size="24"><b>Especially ones that are old,
+valuable, and irreplaceable.</b></font>
+
+286
+00:18:11,930 --> 00:18:13,550
+<font face="Trebuchet MS" size="24"><b>[STARK] So, uh...</b></font>
+
+287
+00:18:13,890 --> 00:18:15,550
+<font face="Trebuchet MS" size="24"><b>[FERN]
+So they put up the barrier</b></font>
+
+288
+00:18:15,600 --> 00:18:18,350
+<font face="Trebuchet MS" size="24"><b>to protect the books
+they couldn't take with them.</b></font>
+
+289
+00:18:21,640 --> 00:18:22,940
+<font face="Trebuchet MS" size="24"><b>That should do it.</b></font>
+
+290
+00:18:22,980 --> 00:18:25,190
+<font face="Trebuchet MS" size="24"><b>Now, let's see what we can find.</b></font>
+
+291
+00:18:27,690 --> 00:18:29,570
+<font face="Trebuchet MS" size="24"><b>[FERN]
+What happened to the monks?</b></font>
+
+292
+00:18:29,610 --> 00:18:30,780
+<font face="Trebuchet MS" size="24"><b>Where did they go?</b></font>
+
+293
+00:18:31,530 --> 00:18:32,950
+<font face="Trebuchet MS" size="24"><b>[SAILOR] Who knows?</b></font>
+
+294
+00:18:32,990 --> 00:18:35,240
+<font face="Trebuchet MS" size="24"><b>It was abandoned ages ago.</b></font>
+
+295
+00:18:35,280 --> 00:18:37,530
+<font face="Trebuchet MS" size="24"><b>The only knowledge that remains
+about this place</b></font>
+
+296
+00:18:37,580 --> 00:18:40,580
+<font face="Trebuchet MS" size="24"><b>is the legend
+of Himmel the Hero's memoirs.</b></font>
+
+297
+00:18:40,620 --> 00:18:42,000
+<font face="Trebuchet MS" size="24"><b>[footsteps]</b></font>
+
+298
+00:18:44,710 --> 00:18:46,420
+<font face="Trebuchet MS" size="24"><b>[door creaks open]</b></font>
+
+299
+00:18:50,710 --> 00:18:53,010
+<font face="Trebuchet MS" size="24"><b>[STARK] This library is massive.</b></font>
+
+300
+00:18:53,380 --> 00:18:55,890
+<font face="Trebuchet MS" size="24"><b>[FERN] There's a statue
+of Mr. Himmel.</b></font>
+
+301
+00:18:56,220 --> 00:18:58,510
+<font face="Trebuchet MS" size="24"><b>He nailed the pose
+for that one.</b></font>
+
+302
+00:18:59,680 --> 00:19:00,720
+<font face="Trebuchet MS" size="24"><b>[Fern gasps softly]</b></font>
+
+303
+00:19:00,770 --> 00:19:02,060
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+304
+00:19:06,520 --> 00:19:08,230
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] Hello, book.</b></font>
+
+305
+00:19:08,270 --> 00:19:09,770
+<font face="Trebuchet MS" size="24"><b>Is it you?</b></font>
+
+306
+00:19:09,820 --> 00:19:11,280
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+307
+00:19:13,740 --> 00:19:15,030
+<font face="Trebuchet MS" size="24"><b>Yes.</b></font>
+
+308
+00:19:15,070 --> 00:19:16,240
+<font face="Trebuchet MS" size="24"><b>This is it.</b></font>
+
+309
+00:19:16,280 --> 00:19:18,030
+<font face="Trebuchet MS" size="24"><b>It's Himmel's handwriting.</b></font>
+
+310
+00:19:19,280 --> 00:19:20,580
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+311
+00:20:17,630 --> 00:20:19,890
+<font face="Trebuchet MS" size="24"><b>[FERN] What does it say?</b></font>
+
+312
+00:20:21,390 --> 00:20:24,020
+<font face="Trebuchet MS" size="24"><b>It's the tale
+of a ridiculous journey.</b></font>
+
+313
+00:20:27,190 --> 00:20:29,230
+<font face="Trebuchet MS" size="24"><b>Just everyday minutiae.</b></font>
+
+314
+00:20:31,310 --> 00:20:34,150
+<font face="Trebuchet MS" size="24"><b>Here. I hope that you enjoy it.</b></font>
+
+315
+00:20:34,190 --> 00:20:36,690
+<font face="Trebuchet MS" size="24"><b>At last, our fare
+is paid in full.</b></font>
+
+316
+00:20:39,570 --> 00:20:42,160
+<font face="Trebuchet MS" size="24"><b>I've heard plenty of stories
+about the elven mage</b></font>
+
+317
+00:20:42,200 --> 00:20:44,620
+<font face="Trebuchet MS" size="24"><b>who traveled
+with the party of heroes,</b></font>
+
+318
+00:20:44,660 --> 00:20:46,660
+<font face="Trebuchet MS" size="24"><b>but I never dreamed
+I'd meet her.</b></font>
+
+319
+00:20:47,500 --> 00:20:49,370
+<font face="Trebuchet MS" size="24"><b>So, what gave it away?</b></font>
+
+320
+00:20:49,670 --> 00:20:51,750
+<font face="Trebuchet MS" size="24"><b>The wistful look
+that came to your face</b></font>
+
+321
+00:20:51,790 --> 00:20:53,670
+<font face="Trebuchet MS" size="24"><b>when you skimmed over the book.</b></font>
+
+322
+00:20:53,960 --> 00:20:56,300
+<font face="Trebuchet MS" size="24"><b>I can tell that
+it's important to you.</b></font>
+
+323
+00:20:56,340 --> 00:20:58,010
+<font face="Trebuchet MS" size="24"><b>You should keep it.</b></font>
+
+324
+00:21:00,220 --> 00:21:02,260
+<font face="Trebuchet MS" size="24"><b>There are plenty
+of other valuable books</b></font>
+
+325
+00:21:02,300 --> 00:21:03,760
+<font face="Trebuchet MS" size="24"><b>tucked away in here.</b></font>
+
+326
+00:21:04,470 --> 00:21:06,520
+<font face="Trebuchet MS" size="24"><b>That's payment enough for me.</b></font>
+
+327
+00:21:07,980 --> 00:21:10,350
+<font face="Trebuchet MS" size="24"><b>Did it actually
+show on my face?</b></font>
+
+328
+00:21:10,640 --> 00:21:12,350
+<font face="Trebuchet MS" size="24"><b>Only a little.</b></font>
+
+329
+00:21:12,860 --> 00:21:14,110
+<font face="Trebuchet MS" size="24"><b>[SAILOR] Let's be off.</b></font>
+
+330
+00:21:14,150 --> 00:21:16,820
+<font face="Trebuchet MS" size="24"><b>We'll reach the far shore
+before sunset.</b></font>
+
+331
+00:21:21,610 --> 00:21:22,870
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] Mm...</b></font>
+
+332
+00:21:22,910 --> 00:21:25,370
+<font face="Trebuchet MS" size="24"><b>A collection of catchphrases.
+[sighs]</b></font>
+
+333
+00:21:25,410 --> 00:21:28,200
+<font face="Trebuchet MS" size="24"><b>My! What a waste
+of good pages.</b></font>
+
+334
+00:21:28,250 --> 00:21:29,870
+<font face="Trebuchet MS" size="24"><b>Hang on, I wanna try!</b></font>
+
+335
+00:21:29,910 --> 00:21:32,130
+<font face="Trebuchet MS" size="24"><b>"I hope you brought
+your coin purse, beast.</b></font>
+
+336
+00:21:32,170 --> 00:21:35,880
+<font face="Trebuchet MS" size="24"><b>For I, Stark the Warrior,
+shall make you pay!"</b></font>
+
+337
+00:21:38,340 --> 00:21:39,590
+<font face="Trebuchet MS" size="24"><b>[STARK] Uh...</b></font>
+
+338
+00:21:40,090 --> 00:21:42,010
+<font face="Trebuchet MS" size="24"><b>[SAILOR] It's a kraken!</b></font>
+
+339
+00:21:42,050 --> 00:21:44,640
+<font face="Trebuchet MS" size="24"><b>[STARK] There are
+sea monsters in a lake?</b></font>
+
+340
+00:21:44,680 --> 00:21:46,510
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+Your yelling provoked it.</b></font>
+
+341
+00:21:46,560 --> 00:21:48,180
+<font face="Trebuchet MS" size="24"><b>You're kidding!</b></font>
+
+342
+00:21:48,220 --> 00:21:50,980
+<font face="Trebuchet MS" size="24"><b>Think fast.
+If we don't defeat it quickly,</b></font>
+
+343
+00:21:51,020 --> 00:21:53,150
+<font face="Trebuchet MS" size="24"><b>we shall all meet
+a watery grave.</b></font>
+
+344
+00:21:53,980 --> 00:21:56,400
+<font face="Trebuchet MS" size="24"><b>-[FERN] Mistress Frieren!
+-[STARK] Frieren!</b></font>
+
+345
+00:21:58,230 --> 00:22:00,240
+<font face="Trebuchet MS" size="24"><b>They're weak to well-placed
+welts with...</b></font>
+
+346
+00:22:00,280 --> 00:22:02,360
+<font face="Trebuchet MS" size="24"><b>Hey! Huh?</b></font>
+
+347
+00:22:02,400 --> 00:22:05,700
+<font face="Trebuchet MS" size="24"><b>So, slaying a serpent is
+as simple as it seems, sonny.</b></font>
+
+348
+00:22:06,240 --> 00:22:07,660
+<font face="Trebuchet MS" size="24"><b>I get it.</b></font>
+
+349
+00:22:07,700 --> 00:22:09,290
+<font face="Trebuchet MS" size="24"><b>She's picked now
+to test her spell</b></font>
+
+350
+00:22:09,330 --> 00:22:10,830
+<font face="Trebuchet MS" size="24"><b>that allows you
+to say tongue twisters</b></font>
+
+351
+00:22:10,870 --> 00:22:12,370
+<font face="Trebuchet MS" size="24"><b>without tripping
+over your words.</b></font>
+
+352
+00:22:12,410 --> 00:22:13,710
+<font face="Trebuchet MS" size="24"><b>[STARK] Huh?</b></font>
+
+353
+00:22:13,790 --> 00:22:16,090
+<font face="Trebuchet MS" size="24"><b>Our lives are on the line
+and you two are worried</b></font>
+
+354
+00:22:16,130 --> 00:22:17,540
+<font face="Trebuchet MS" size="24"><b>about tongue twisters?</b></font>
+
+355
+00:22:17,590 --> 00:22:18,920
+<font face="Trebuchet MS" size="24"><b>Creepy.</b></font>
+
+356
+00:22:19,880 --> 00:22:22,470
+<font face="Trebuchet MS" size="24"><b>[♪ closing theme song playing]</b></font>
+
+357
+00:23:49,930 --> 00:23:52,140
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+It's 3,000 - meter drop.</b></font>
+
+358
+00:23:52,180 --> 00:23:54,020
+<font face="Trebuchet MS" size="24"><b>[FERN] Mistress,
+it's reacting to our mana.</b></font>
+
+359
+00:23:54,060 --> 00:23:56,020
+<font face="Trebuchet MS" size="24"><b>[HIMMEL] If we defeat
+the Demon King,</b></font>
+
+360
+00:23:56,060 --> 00:23:58,650
+<font face="Trebuchet MS" size="24"><b>a time will come when anyone
+can enjoy this beautiful sight.</b></font>
+

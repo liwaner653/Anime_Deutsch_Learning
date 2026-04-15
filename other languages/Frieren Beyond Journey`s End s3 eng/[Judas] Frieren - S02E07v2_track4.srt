@@ -1,0 +1,1804 @@
+1
+00:00:01,040 --> 00:00:03,300
+<font face="Trebuchet MS" size="24"><b>[♪ opening theme song playing]</b></font>
+
+2
+00:01:32,890 --> 00:01:34,720
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+3
+00:01:37,720 --> 00:01:41,810
+<font face="Trebuchet MS" size="24"><b>As of late, Genau here
+has been without a companion.</b></font>
+
+4
+00:01:41,940 --> 00:01:44,020
+<font face="Trebuchet MS" size="24"><b>His partner was killed
+in battle.</b></font>
+
+5
+00:01:44,060 --> 00:01:45,230
+<font face="Trebuchet MS" size="24"><b>You shall replace him,</b></font>
+
+6
+00:01:45,270 --> 00:01:47,900
+<font face="Trebuchet MS" size="24"><b>and slay demons
+with Genau up north.</b></font>
+
+7
+00:01:49,320 --> 00:01:52,150
+<font face="Trebuchet MS" size="24"><b>I'm eager to work with you.
+It's an honor.</b></font>
+
+8
+00:01:54,030 --> 00:01:55,820
+<font face="Trebuchet MS" size="24"><b>The north is deadly.</b></font>
+
+9
+00:01:55,870 --> 00:01:59,330
+<font face="Trebuchet MS" size="24"><b>As illustrated by my partner,
+loss of life is common.</b></font>
+
+10
+00:01:59,370 --> 00:02:01,000
+<font face="Trebuchet MS" size="24"><b>Do not cost me mine.</b></font>
+
+11
+00:02:05,710 --> 00:02:07,170
+<font face="Trebuchet MS" size="24"><b>Shake her hand.</b></font>
+
+12
+00:02:15,550 --> 00:02:17,100
+<font face="Trebuchet MS" size="24"><b>[pigeons cooing]</b></font>
+
+13
+00:02:20,680 --> 00:02:22,640
+<font face="Trebuchet MS" size="24"><b>[GENAU]
+Methode, do you believe</b></font>
+
+14
+00:02:22,680 --> 00:02:25,140
+<font face="Trebuchet MS" size="24"><b>that you're a good person
+at your core?</b></font>
+
+15
+00:02:26,520 --> 00:02:29,440
+<font face="Trebuchet MS" size="24"><b>[METHODE] I'm not sure
+that I understand what you mean.</b></font>
+
+16
+00:02:30,820 --> 00:02:33,400
+<font face="Trebuchet MS" size="24"><b>My previous partner
+was a good person,</b></font>
+
+17
+00:02:34,030 --> 00:02:36,070
+<font face="Trebuchet MS" size="24"><b>and the exact opposite of me.</b></font>
+
+18
+00:02:37,030 --> 00:02:40,120
+<font face="Trebuchet MS" size="24"><b>He would risk body and mind
+for complete strangers</b></font>
+
+19
+00:02:40,160 --> 00:02:41,540
+<font face="Trebuchet MS" size="24"><b>without a second thought.</b></font>
+
+20
+00:02:41,620 --> 00:02:43,120
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+21
+00:02:46,330 --> 00:02:49,250
+<font face="Trebuchet MS" size="24"><b>He was so boisterous,
+so full of smiles.</b></font>
+
+22
+00:02:49,960 --> 00:02:52,760
+<font face="Trebuchet MS" size="24"><b>He treated me as you would
+an old friend.</b></font>
+
+23
+00:02:54,220 --> 00:02:55,720
+<font face="Trebuchet MS" size="24"><b>Wherever we went,</b></font>
+
+24
+00:02:56,260 --> 00:02:59,510
+<font face="Trebuchet MS" size="24"><b>people were drawn
+to his magnetic personality.</b></font>
+
+25
+00:03:06,100 --> 00:03:07,560
+<font face="Trebuchet MS" size="24"><b>He was a fool.</b></font>
+
+26
+00:03:07,600 --> 00:03:08,980
+<font face="Trebuchet MS" size="24"><b>[exclaims softly]</b></font>
+
+27
+00:03:09,310 --> 00:03:11,400
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+28
+00:03:20,410 --> 00:03:23,240
+<font face="Trebuchet MS" size="24"><b>He rescued a child
+at the cost of his life.</b></font>
+
+29
+00:03:25,460 --> 00:03:28,130
+<font face="Trebuchet MS" size="24"><b>And at the cost
+of slaying the demon.</b></font>
+
+30
+00:03:30,590 --> 00:03:32,550
+<font face="Trebuchet MS" size="24"><b>His decision was foolish
+and reckless,</b></font>
+
+31
+00:03:32,590 --> 00:03:34,590
+<font face="Trebuchet MS" size="24"><b>and I would never have done
+the same.</b></font>
+
+32
+00:03:36,590 --> 00:03:38,890
+<font face="Trebuchet MS" size="24"><b>What is one more life forsaken?</b></font>
+
+33
+00:03:40,300 --> 00:03:42,600
+<font face="Trebuchet MS" size="24"><b>All I can think to say is,
+"Why me?"</b></font>
+
+34
+00:03:43,970 --> 00:03:45,100
+<font face="Trebuchet MS" size="24"><b>What do you mean?</b></font>
+
+35
+00:03:45,600 --> 00:03:47,730
+<font face="Trebuchet MS" size="24"><b>Why was I chosen
+to work with you?</b></font>
+
+36
+00:03:48,810 --> 00:03:50,270
+<font face="Trebuchet MS" size="24"><b>I have no idea.</b></font>
+
+37
+00:03:50,310 --> 00:03:52,770
+<font face="Trebuchet MS" size="24"><b>That was
+Mistress Serie's ruling.</b></font>
+
+38
+00:03:55,900 --> 00:03:57,450
+<font face="Trebuchet MS" size="24"><b>I've noticed a key similarity</b></font>
+
+39
+00:03:57,490 --> 00:03:59,820
+<font face="Trebuchet MS" size="24"><b>in the first-class mages
+who get dispatched</b></font>
+
+40
+00:03:59,870 --> 00:04:01,450
+<font face="Trebuchet MS" size="24"><b>to the Northern Plateau.</b></font>
+
+41
+00:04:02,370 --> 00:04:05,450
+<font face="Trebuchet MS" size="24"><b>Most crave violence
+like water or air.</b></font>
+
+42
+00:04:08,080 --> 00:04:10,170
+<font face="Trebuchet MS" size="24"><b>I agree, you're an odd choice.</b></font>
+
+43
+00:04:10,670 --> 00:04:13,800
+<font face="Trebuchet MS" size="24"><b>Übel would've been a better fit
+for the typical mold.</b></font>
+
+44
+00:04:15,210 --> 00:04:16,630
+<font face="Trebuchet MS" size="24"><b>It doesn't matter.</b></font>
+
+45
+00:04:16,670 --> 00:04:19,720
+<font face="Trebuchet MS" size="24"><b>No decent person
+harbors desire for bloodshed.</b></font>
+
+46
+00:04:21,050 --> 00:04:24,220
+<font face="Trebuchet MS" size="24"><b>Whatever you do,
+do not end up like me.</b></font>
+
+47
+00:04:24,390 --> 00:04:27,730
+<font face="Trebuchet MS" size="24"><b>[fire crackling]</b></font>
+
+48
+00:04:30,650 --> 00:04:33,110
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] Let's go over
+the information we've compiled</b></font>
+
+49
+00:04:33,150 --> 00:04:35,030
+<font face="Trebuchet MS" size="24"><b>before we begin our search.</b></font>
+
+50
+00:04:35,650 --> 00:04:36,780
+<font face="Trebuchet MS" size="24"><b>[METHODE] Very well.</b></font>
+
+51
+00:04:37,150 --> 00:04:39,990
+<font face="Trebuchet MS" size="24"><b>Based on traces of mana
+and the variety of damage dealt,</b></font>
+
+52
+00:04:40,030 --> 00:04:41,200
+<font face="Trebuchet MS" size="24"><b>we can conclude</b></font>
+
+53
+00:04:41,240 --> 00:04:43,410
+<font face="Trebuchet MS" size="24"><b>four primary demons
+led the attack.</b></font>
+
+54
+00:04:43,450 --> 00:04:46,290
+<font face="Trebuchet MS" size="24"><b>All four of them have vanished
+from the area.</b></font>
+
+55
+00:04:46,330 --> 00:04:48,540
+<font face="Trebuchet MS" size="24"><b>That's almost one
+for each of us.</b></font>
+
+56
+00:04:49,410 --> 00:04:52,670
+<font face="Trebuchet MS" size="24"><b>And the strongest of the unit
+is a demon general.</b></font>
+
+57
+00:04:52,710 --> 00:04:54,170
+<font face="Trebuchet MS" size="24"><b>It wields four swords.</b></font>
+
+58
+00:04:54,210 --> 00:04:55,880
+<font face="Trebuchet MS" size="24"><b>That's how
+it killed the knights.</b></font>
+
+59
+00:05:00,180 --> 00:05:02,300
+<font face="Trebuchet MS" size="24"><b>What makes
+a demon general special?</b></font>
+
+60
+00:05:02,340 --> 00:05:05,060
+<font face="Trebuchet MS" size="24"><b>They are demon warriors
+of the highest caliber.</b></font>
+
+61
+00:05:05,430 --> 00:05:06,680
+<font face="Trebuchet MS" size="24"><b>Their fighting style involves</b></font>
+
+62
+00:05:06,720 --> 00:05:08,480
+<font face="Trebuchet MS" size="24"><b>enhancing their
+physical capabilities</b></font>
+
+63
+00:05:08,520 --> 00:05:09,890
+<font face="Trebuchet MS" size="24"><b>with powerful magic.</b></font>
+
+64
+00:05:10,270 --> 00:05:12,400
+<font face="Trebuchet MS" size="24"><b>They can be quite devoted
+to their craft,</b></font>
+
+65
+00:05:12,440 --> 00:05:15,690
+<font face="Trebuchet MS" size="24"><b>unafraid to spend centuries
+mastering their martial skills.</b></font>
+
+66
+00:05:15,730 --> 00:05:18,070
+<font face="Trebuchet MS" size="24"><b>There were generals
+in the Demon King's army</b></font>
+
+67
+00:05:18,110 --> 00:05:19,950
+<font face="Trebuchet MS" size="24"><b>that made Eisen
+look like a beginner.</b></font>
+
+68
+00:05:19,990 --> 00:05:21,570
+<font face="Trebuchet MS" size="24"><b>You're kidding me.</b></font>
+
+69
+00:05:21,910 --> 00:05:24,410
+<font face="Trebuchet MS" size="24"><b>This is hardly a joking matter.
+Keep in mind,</b></font>
+
+70
+00:05:24,450 --> 00:05:27,620
+<font face="Trebuchet MS" size="24"><b>it is likely the beast's
+appearance is far from human.</b></font>
+
+71
+00:05:27,660 --> 00:05:30,080
+<font face="Trebuchet MS" size="24"><b>You say that like it's gonna
+make things even worse.</b></font>
+
+72
+00:05:30,790 --> 00:05:32,290
+<font face="Trebuchet MS" size="24"><b>Have you ever fought a swordsman</b></font>
+
+73
+00:05:32,370 --> 00:05:35,380
+<font face="Trebuchet MS" size="24"><b>who's trained for lifetimes
+and wields four swords at once?</b></font>
+
+74
+00:05:35,920 --> 00:05:37,460
+<font face="Trebuchet MS" size="24"><b>I can't say that I have.</b></font>
+
+75
+00:05:37,500 --> 00:05:39,460
+<font face="Trebuchet MS" size="24"><b>The same is true for me.</b></font>
+
+76
+00:05:39,510 --> 00:05:40,920
+<font face="Trebuchet MS" size="24"><b>And it was true
+for those knights</b></font>
+
+77
+00:05:40,970 --> 00:05:42,550
+<font face="Trebuchet MS" size="24"><b>until they met their end.</b></font>
+
+78
+00:05:42,840 --> 00:05:44,640
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+79
+00:05:49,810 --> 00:05:51,770
+<font face="Trebuchet MS" size="24"><b>[JUNG] Lord Revolte.</b></font>
+
+80
+00:05:52,770 --> 00:05:55,310
+<font face="Trebuchet MS" size="24"><b>Fresh prey
+is squirming around in our net.</b></font>
+
+81
+00:05:55,350 --> 00:05:57,570
+<font face="Trebuchet MS" size="24"><b>A tasty meal rich in mana.</b></font>
+
+82
+00:05:58,070 --> 00:06:00,570
+<font face="Trebuchet MS" size="24"><b>We've got one warrior
+and four mages,</b></font>
+
+83
+00:06:00,610 --> 00:06:02,700
+<font face="Trebuchet MS" size="24"><b>and three of them
+are first-class.</b></font>
+
+84
+00:06:04,410 --> 00:06:07,280
+<font face="Trebuchet MS" size="24"><b>I have no doubt
+we can handle that many.</b></font>
+
+85
+00:06:07,330 --> 00:06:08,950
+<font face="Trebuchet MS" size="24"><b>Shall we make a move?</b></font>
+
+86
+00:06:09,490 --> 00:06:10,450
+<font face="Trebuchet MS" size="24"><b>[REVOLTE] No.</b></font>
+
+87
+00:06:10,910 --> 00:06:13,250
+<font face="Trebuchet MS" size="24"><b>They are stronger
+than you suggest.</b></font>
+
+88
+00:06:13,580 --> 00:06:15,830
+<font face="Trebuchet MS" size="24"><b>We will wait for them
+to split up.</b></font>
+
+89
+00:06:15,880 --> 00:06:18,920
+<font face="Trebuchet MS" size="24"><b>[JUNG] Do you think they would
+do that, Lord Revolte?</b></font>
+
+90
+00:06:18,960 --> 00:06:21,300
+<font face="Trebuchet MS" size="24"><b>From what I can tell,
+they seem rather guarded.</b></font>
+
+91
+00:06:23,590 --> 00:06:25,590
+<font face="Trebuchet MS" size="24"><b>[REVOLTE]
+I am certain of it.</b></font>
+
+92
+00:06:30,470 --> 00:06:32,770
+<font face="Trebuchet MS" size="24"><b>The time we spent
+slaughtering the villagers</b></font>
+
+93
+00:06:32,810 --> 00:06:34,390
+<font face="Trebuchet MS" size="24"><b>is about to pay off.</b></font>
+
+94
+00:06:35,480 --> 00:06:37,150
+<font face="Trebuchet MS" size="24"><b>There is a common theme.</b></font>
+
+95
+00:06:37,190 --> 00:06:39,320
+<font face="Trebuchet MS" size="24"><b>A fatal flaw shared by many men</b></font>
+
+96
+00:06:39,360 --> 00:06:41,990
+<font face="Trebuchet MS" size="24"><b>we have encountered
+on our path of destruction.</b></font>
+
+97
+00:06:42,030 --> 00:06:43,280
+<font face="Trebuchet MS" size="24"><b>Know what it is?</b></font>
+
+98
+00:06:43,320 --> 00:06:45,490
+<font face="Trebuchet MS" size="24"><b>Well, now you have to tell me,
+my lord.</b></font>
+
+99
+00:06:45,780 --> 00:06:46,950
+<font face="Trebuchet MS" size="24"><b>[chuckles]</b></font>
+
+100
+00:06:49,330 --> 00:06:52,450
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] Let the hunt begin.
+We're as ready as we'll ever be.</b></font>
+
+101
+00:06:53,040 --> 00:06:55,250
+<font face="Trebuchet MS" size="24"><b>Our first stop should be
+the abandoned fort</b></font>
+
+102
+00:06:55,290 --> 00:06:57,040
+<font face="Trebuchet MS" size="24"><b>you told us about up north.</b></font>
+
+103
+00:06:57,330 --> 00:06:58,380
+<font face="Trebuchet MS" size="24"><b>It's a strong lead.</b></font>
+
+104
+00:06:58,420 --> 00:06:59,460
+<font face="Trebuchet MS" size="24"><b>In my experience,</b></font>
+
+105
+00:06:59,590 --> 00:07:02,170
+<font face="Trebuchet MS" size="24"><b>demons often hole up
+in places like that.</b></font>
+
+106
+00:07:04,220 --> 00:07:05,470
+<font face="Trebuchet MS" size="24"><b>[GENAU] Wait.</b></font>
+
+107
+00:07:06,470 --> 00:07:09,180
+<font face="Trebuchet MS" size="24"><b>The Chivalric Order of Norm
+will come for the bodies.</b></font>
+
+108
+00:07:09,220 --> 00:07:11,390
+<font face="Trebuchet MS" size="24"><b>Someone should see
+to their safety.</b></font>
+
+109
+00:07:13,680 --> 00:07:15,020
+<font face="Trebuchet MS" size="24"><b>I'll remain behind.</b></font>
+
+110
+00:07:15,560 --> 00:07:18,360
+<font face="Trebuchet MS" size="24"><b>Humans have a curious habit
+of remaining in villages</b></font>
+
+111
+00:07:18,400 --> 00:07:20,360
+<font face="Trebuchet MS" size="24"><b>to protect the corpses
+of their fallen.</b></font>
+
+112
+00:07:20,400 --> 00:07:21,610
+<font face="Trebuchet MS" size="24"><b>[gasps]</b></font>
+
+113
+00:07:21,650 --> 00:07:24,650
+<font face="Trebuchet MS" size="24"><b>That's curious indeed.
+So why do they do it?</b></font>
+
+114
+00:07:25,360 --> 00:07:27,360
+<font face="Trebuchet MS" size="24"><b>[REVOLTE] We don't need
+to know the reason.</b></font>
+
+115
+00:07:27,410 --> 00:07:29,870
+<font face="Trebuchet MS" size="24"><b>[JUNG]
+Huh. But it's so interesting.</b></font>
+
+116
+00:07:29,910 --> 00:07:32,290
+<font face="Trebuchet MS" size="24"><b>I'd love to spend just a moment
+in their minds.</b></font>
+
+117
+00:07:32,910 --> 00:07:35,540
+<font face="Trebuchet MS" size="24"><b>[REVOLTE] Sounds like
+a rather dull place to me.</b></font>
+
+118
+00:07:36,040 --> 00:07:37,710
+<font face="Trebuchet MS" size="24"><b>You are very strange.</b></font>
+
+119
+00:07:38,460 --> 00:07:40,250
+<font face="Trebuchet MS" size="24"><b>Humans are so volatile.</b></font>
+
+120
+00:07:40,290 --> 00:07:41,630
+<font face="Trebuchet MS" size="24"><b>They'll behave
+with perfect reason</b></font>
+
+121
+00:07:41,670 --> 00:07:43,090
+<font face="Trebuchet MS" size="24"><b>and then toss it all
+to the wind.</b></font>
+
+122
+00:07:43,130 --> 00:07:45,760
+<font face="Trebuchet MS" size="24"><b>Don't you want to know why
+they can be so irrational?</b></font>
+
+123
+00:07:46,220 --> 00:07:48,140
+<font face="Trebuchet MS" size="24"><b>[REVOLTE]
+That is simply how they are.</b></font>
+
+124
+00:07:48,180 --> 00:07:49,930
+<font face="Trebuchet MS" size="24"><b>There's nothing more to it.</b></font>
+
+125
+00:07:49,970 --> 00:07:52,640
+<font face="Trebuchet MS" size="24"><b>I am not interested
+in questions of "why."</b></font>
+
+126
+00:07:54,560 --> 00:07:56,270
+<font face="Trebuchet MS" size="24"><b>Though, there is one.</b></font>
+
+127
+00:07:56,310 --> 00:07:58,850
+<font face="Trebuchet MS" size="24"><b>An eccentric demon
+who has made it his life's work</b></font>
+
+128
+00:07:58,900 --> 00:08:01,230
+<font face="Trebuchet MS" size="24"><b>to study the whims of mankind.</b></font>
+
+129
+00:08:01,520 --> 00:08:03,360
+<font face="Trebuchet MS" size="24"><b>There's really
+someone like that?</b></font>
+
+130
+00:08:03,400 --> 00:08:06,450
+<font face="Trebuchet MS" size="24"><b>That's amazing! You have
+to tell me more about them.</b></font>
+
+131
+00:08:07,150 --> 00:08:09,820
+<font face="Trebuchet MS" size="24"><b>Only if you
+make yourself useful.</b></font>
+
+132
+00:08:10,620 --> 00:08:11,830
+<font face="Trebuchet MS" size="24"><b>[JUNG] Is that a yes?</b></font>
+
+133
+00:08:11,910 --> 00:08:14,830
+<font face="Trebuchet MS" size="24"><b>You owe me now, Lord Revolte.
+I won't forget!</b></font>
+
+134
+00:08:16,120 --> 00:08:18,080
+<font face="Trebuchet MS" size="24"><b>[METHODE]
+You'll stay here by yourself?</b></font>
+
+135
+00:08:18,120 --> 00:08:19,670
+<font face="Trebuchet MS" size="24"><b>[GENAU]
+It shouldn't be much longer</b></font>
+
+136
+00:08:19,710 --> 00:08:20,960
+<font face="Trebuchet MS" size="24"><b>before they arrive.</b></font>
+
+137
+00:08:21,710 --> 00:08:22,750
+<font face="Trebuchet MS" size="24"><b>I'll meet up with you</b></font>
+
+138
+00:08:22,790 --> 00:08:24,340
+<font face="Trebuchet MS" size="24"><b>once the bodies
+have been collected</b></font>
+
+139
+00:08:24,380 --> 00:08:26,090
+<font face="Trebuchet MS" size="24"><b>and the Order is on their way.</b></font>
+
+140
+00:08:26,880 --> 00:08:28,130
+<font face="Trebuchet MS" size="24"><b>Until then.</b></font>
+
+141
+00:08:35,180 --> 00:08:36,930
+<font face="Trebuchet MS" size="24"><b>I should hang back with you.</b></font>
+
+142
+00:08:37,430 --> 00:08:39,230
+<font face="Trebuchet MS" size="24"><b>Do you know
+how foolish you sound?</b></font>
+
+143
+00:08:39,730 --> 00:08:42,730
+<font face="Trebuchet MS" size="24"><b>Your party is on the path
+to challenge a skilled foe.</b></font>
+
+144
+00:08:42,770 --> 00:08:44,570
+<font face="Trebuchet MS" size="24"><b>They will require a frontliner.</b></font>
+
+145
+00:08:44,610 --> 00:08:46,570
+<font face="Trebuchet MS" size="24"><b>Maybe, but you'll need one too.</b></font>
+
+146
+00:08:46,610 --> 00:08:49,360
+<font face="Trebuchet MS" size="24"><b>What if the demons use this
+as their chance to return?</b></font>
+
+147
+00:08:49,740 --> 00:08:50,910
+<font face="Trebuchet MS" size="24"><b>Not an issue.</b></font>
+
+148
+00:08:50,950 --> 00:08:53,200
+<font face="Trebuchet MS" size="24"><b>I am perfectly capable
+of defending myself</b></font>
+
+149
+00:08:53,240 --> 00:08:54,580
+<font face="Trebuchet MS" size="24"><b>without help from you.</b></font>
+
+150
+00:08:54,620 --> 00:08:57,040
+<font face="Trebuchet MS" size="24"><b>[STARK] Trust me.
+So are Frieren than the others.</b></font>
+
+151
+00:08:57,410 --> 00:08:59,120
+<font face="Trebuchet MS" size="24"><b>Perhaps, but only to a point.</b></font>
+
+152
+00:08:59,160 --> 00:09:00,170
+<font face="Trebuchet MS" size="24"><b>[STARK] Yeah, I hear you.</b></font>
+
+153
+00:09:00,460 --> 00:09:02,380
+<font face="Trebuchet MS" size="24"><b>But if things get bad,
+can't you just run away?</b></font>
+
+154
+00:09:02,420 --> 00:09:03,750
+<font face="Trebuchet MS" size="24"><b>I suppose so.</b></font>
+
+155
+00:09:04,380 --> 00:09:05,670
+<font face="Trebuchet MS" size="24"><b>You don't have that choice.</b></font>
+
+156
+00:09:05,710 --> 00:09:07,960
+<font face="Trebuchet MS" size="24"><b>There's no shot
+you abandon the village.</b></font>
+
+157
+00:09:08,010 --> 00:09:09,340
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+158
+00:09:10,220 --> 00:09:13,680
+<font face="Trebuchet MS" size="24"><b>They are dead.
+There's no one left to abandon.</b></font>
+
+159
+00:09:13,720 --> 00:09:15,060
+<font face="Trebuchet MS" size="24"><b>If you felt that way,</b></font>
+
+160
+00:09:15,140 --> 00:09:17,220
+<font face="Trebuchet MS" size="24"><b>then you wouldn't stay here
+to protect their bodies.</b></font>
+
+161
+00:09:19,140 --> 00:09:21,560
+<font face="Trebuchet MS" size="24"><b>[Genau sighs] Suit yourself.</b></font>
+
+162
+00:09:22,270 --> 00:09:24,270
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+163
+00:09:24,310 --> 00:09:26,070
+<font face="Trebuchet MS" size="24"><b>[footsteps]</b></font>
+
+164
+00:09:36,200 --> 00:09:39,250
+<font face="Trebuchet MS" size="24"><b>You're a fool,
+but you're a good person, Stark.</b></font>
+
+165
+00:09:39,290 --> 00:09:40,210
+<font face="Trebuchet MS" size="24"><b>Uh...</b></font>
+
+166
+00:09:40,750 --> 00:09:42,870
+<font face="Trebuchet MS" size="24"><b>[GENAU] I've known
+several people like you.</b></font>
+
+167
+00:09:43,330 --> 00:09:45,380
+<font face="Trebuchet MS" size="24"><b>They tend to lead short lives.</b></font>
+
+168
+00:09:47,840 --> 00:09:49,510
+<font face="Trebuchet MS" size="24"><b>[STARK] For what it's worth,</b></font>
+
+169
+00:09:49,550 --> 00:09:51,930
+<font face="Trebuchet MS" size="24"><b>you seem like a good person
+to me, too.</b></font>
+
+170
+00:09:52,010 --> 00:09:53,470
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+171
+00:09:54,220 --> 00:09:56,180
+<font face="Trebuchet MS" size="24"><b>You're still trying
+to defend the village</b></font>
+
+172
+00:09:56,220 --> 00:09:58,180
+<font face="Trebuchet MS" size="24"><b>even after it's been destroyed.</b></font>
+
+173
+00:09:59,100 --> 00:10:00,600
+<font face="Trebuchet MS" size="24"><b>I couldn't do that.</b></font>
+
+174
+00:10:07,360 --> 00:10:09,860
+<font face="Trebuchet MS" size="24"><b>[GENAU] I assure you,
+I'm not a good person.</b></font>
+
+175
+00:10:10,320 --> 00:10:12,030
+<font face="Trebuchet MS" size="24"><b>Quite the opposite, really.</b></font>
+
+176
+00:10:14,070 --> 00:10:15,820
+<font face="Trebuchet MS" size="24"><b>My sole priority for some time</b></font>
+
+177
+00:10:15,870 --> 00:10:18,410
+<font face="Trebuchet MS" size="24"><b>has been bringing peace
+to the northern lands.</b></font>
+
+178
+00:10:18,910 --> 00:10:21,540
+<font face="Trebuchet MS" size="24"><b>I've killed and forsaken many
+in my pursuit,</b></font>
+
+179
+00:10:21,580 --> 00:10:23,710
+<font face="Trebuchet MS" size="24"><b>all with a resounding numbness.</b></font>
+
+180
+00:10:24,790 --> 00:10:27,000
+<font face="Trebuchet MS" size="24"><b>Perhaps this is what I deserve.</b></font>
+
+181
+00:10:27,460 --> 00:10:30,210
+<font face="Trebuchet MS" size="24"><b>Death has become
+a regular part of my day.</b></font>
+
+182
+00:10:32,510 --> 00:10:35,090
+<font face="Trebuchet MS" size="24"><b>I feel no tinge of sadness.</b></font>
+
+183
+00:10:35,680 --> 00:10:38,680
+<font face="Trebuchet MS" size="24"><b>My hometown is in ruins,
+yet I cannot shed a tear.</b></font>
+
+184
+00:10:39,560 --> 00:10:42,350
+<font face="Trebuchet MS" size="24"><b>There was no tug on my soul
+to protect the village.</b></font>
+
+185
+00:10:42,390 --> 00:10:44,980
+<font face="Trebuchet MS" size="24"><b>Staying back seemed
+the proper thing to do.</b></font>
+
+186
+00:10:46,480 --> 00:10:48,980
+<font face="Trebuchet MS" size="24"><b>There's no undoing the hurt
+I've caused,</b></font>
+
+187
+00:10:49,730 --> 00:10:53,070
+<font face="Trebuchet MS" size="24"><b>yet I am wasting energy
+in some desperate attempt.</b></font>
+
+188
+00:10:57,870 --> 00:10:59,490
+<font face="Trebuchet MS" size="24"><b>Listen, Stark,</b></font>
+
+189
+00:10:59,990 --> 00:11:01,240
+<font face="Trebuchet MS" size="24"><b>dangerous as it is,</b></font>
+
+190
+00:11:01,290 --> 00:11:03,960
+<font face="Trebuchet MS" size="24"><b>there are many who call
+this plateau their home.</b></font>
+
+191
+00:11:13,760 --> 00:11:14,880
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] Going forward,</b></font>
+
+192
+00:11:15,010 --> 00:11:17,640
+<font face="Trebuchet MS" size="24"><b>we should avoid
+using long-range detection.</b></font>
+
+193
+00:11:17,840 --> 00:11:18,850
+<font face="Trebuchet MS" size="24"><b>If they're skilled,</b></font>
+
+194
+00:11:18,890 --> 00:11:20,600
+<font face="Trebuchet MS" size="24"><b>they'll quickly trace it
+back to us.</b></font>
+
+195
+00:11:20,640 --> 00:11:21,810
+<font face="Trebuchet MS" size="24"><b>[FERN] Right.</b></font>
+
+196
+00:11:22,350 --> 00:11:23,680
+<font face="Trebuchet MS" size="24"><b>Though caution's key,</b></font>
+
+197
+00:11:23,810 --> 00:11:26,350
+<font face="Trebuchet MS" size="24"><b>we still have a while to go
+before we reach the fort.</b></font>
+
+198
+00:11:26,390 --> 00:11:28,480
+<font face="Trebuchet MS" size="24"><b>The demons won't notice
+a little chat.</b></font>
+
+199
+00:11:28,520 --> 00:11:29,770
+<font face="Trebuchet MS" size="24"><b>[Methode chuckles]</b></font>
+
+200
+00:11:29,810 --> 00:11:31,230
+<font face="Trebuchet MS" size="24"><b>You're sure it's worth the risk?</b></font>
+
+201
+00:11:31,270 --> 00:11:34,490
+<font face="Trebuchet MS" size="24"><b>We'll be more fluid in battle
+if tensions are low.</b></font>
+
+202
+00:11:36,950 --> 00:11:38,950
+<font face="Trebuchet MS" size="24"><b>Not a solitary care.</b></font>
+
+203
+00:11:41,410 --> 00:11:43,660
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] Good communication
+is the foundation</b></font>
+
+204
+00:11:43,700 --> 00:11:45,830
+<font face="Trebuchet MS" size="24"><b>upon which one can build a team.</b></font>
+
+205
+00:11:45,870 --> 00:11:47,460
+<font face="Trebuchet MS" size="24"><b>Ponder that, young lady.</b></font>
+
+206
+00:11:47,500 --> 00:11:48,580
+<font face="Trebuchet MS" size="24"><b>[FERN] Uh-huh.</b></font>
+
+207
+00:11:49,210 --> 00:11:51,090
+<font face="Trebuchet MS" size="24"><b>Then, in the spirit of openness,</b></font>
+
+208
+00:11:51,130 --> 00:11:53,460
+<font face="Trebuchet MS" size="24"><b>may I inquire about
+a quick head pat?</b></font>
+
+209
+00:11:53,510 --> 00:11:56,340
+<font face="Trebuchet MS" size="24"><b>[FERN] I can't believe you
+said that with a straight face.</b></font>
+
+210
+00:11:56,380 --> 00:11:58,720
+<font face="Trebuchet MS" size="24"><b>My trouble is,
+I have an innate desire</b></font>
+
+211
+00:11:58,760 --> 00:12:01,260
+<font face="Trebuchet MS" size="24"><b>to coddle and cuddle
+adorable creatures.</b></font>
+
+212
+00:12:01,300 --> 00:12:04,850
+<font face="Trebuchet MS" size="24"><b>But dear Mistress Serie
+is scarcely one to capitulate.</b></font>
+
+213
+00:12:05,390 --> 00:12:07,190
+<font face="Trebuchet MS" size="24"><b>And in the rare instance
+she agrees,</b></font>
+
+214
+00:12:07,230 --> 00:12:09,060
+<font face="Trebuchet MS" size="24"><b>she looks horribly displeased.</b></font>
+
+215
+00:12:09,100 --> 00:12:11,190
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+I fear I would look the same.</b></font>
+
+216
+00:12:12,480 --> 00:12:13,820
+<font face="Trebuchet MS" size="24"><b>If age plays into this,</b></font>
+
+217
+00:12:13,860 --> 00:12:16,360
+<font face="Trebuchet MS" size="24"><b>know that I am your elder
+by many a century.</b></font>
+
+218
+00:12:16,400 --> 00:12:18,410
+<font face="Trebuchet MS" size="24"><b>Besides, my head
+is not for patting.</b></font>
+
+219
+00:12:18,450 --> 00:12:21,620
+<font face="Trebuchet MS" size="24"><b>That's right. She may be cute,
+but she's a mature adult.</b></font>
+
+220
+00:12:21,660 --> 00:12:23,450
+<font face="Trebuchet MS" size="24"><b>Petting is out of the question.</b></font>
+
+221
+00:12:25,080 --> 00:12:26,500
+<font face="Trebuchet MS" size="24"><b>Miss Frieren.</b></font>
+
+222
+00:12:29,000 --> 00:12:30,830
+<font face="Trebuchet MS" size="24"><b>This grimoire contains a spell</b></font>
+
+223
+00:12:30,880 --> 00:12:33,250
+<font face="Trebuchet MS" size="24"><b>that prevents any shell
+from falling in the bowl</b></font>
+
+224
+00:12:33,290 --> 00:12:34,880
+<font face="Trebuchet MS" size="24"><b>when you're cracking eggs.</b></font>
+
+225
+00:12:35,590 --> 00:12:37,470
+<font face="Trebuchet MS" size="24"><b>Pet me to your heart's content.</b></font>
+
+226
+00:12:37,510 --> 00:12:38,930
+<font face="Trebuchet MS" size="24"><b>Mistress Frieren!</b></font>
+
+227
+00:12:38,970 --> 00:12:40,300
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+228
+00:12:41,430 --> 00:12:44,180
+<font face="Trebuchet MS" size="24"><b>[Methode chuckles, hums]</b></font>
+
+229
+00:12:45,850 --> 00:12:47,310
+<font face="Trebuchet MS" size="24"><b>Thank you
+for being a good sport.</b></font>
+
+230
+00:12:47,350 --> 00:12:49,730
+<font face="Trebuchet MS" size="24"><b>I rarely get to indulge
+for long stretches.</b></font>
+
+231
+00:12:50,020 --> 00:12:52,940
+<font face="Trebuchet MS" size="24"><b>You're allowed ten minutes a day
+and not a second more.</b></font>
+
+232
+00:12:52,980 --> 00:12:54,150
+<font face="Trebuchet MS" size="24"><b>That's all?</b></font>
+
+233
+00:12:54,440 --> 00:12:55,860
+<font face="Trebuchet MS" size="24"><b>[chuckles]</b></font>
+
+234
+00:13:01,950 --> 00:13:03,950
+<font face="Trebuchet MS" size="24"><b>Final question, Miss Frieren.</b></font>
+
+235
+00:13:03,990 --> 00:13:07,040
+<font face="Trebuchet MS" size="24"><b>Before we locate the enemy,
+may I please give you a hug?</b></font>
+
+236
+00:13:07,080 --> 00:13:10,250
+<font face="Trebuchet MS" size="24"><b>Mistress Serie
+has always denied my requests.</b></font>
+
+237
+00:13:10,290 --> 00:13:11,750
+<font face="Trebuchet MS" size="24"><b>You can do whatever you want.</b></font>
+
+238
+00:13:11,790 --> 00:13:13,380
+<font face="Trebuchet MS" size="24"><b>[METHODE]
+Adorable and generous.</b></font>
+
+239
+00:13:16,210 --> 00:13:17,800
+<font face="Trebuchet MS" size="24"><b>[Fern groans softly]</b></font>
+
+240
+00:13:21,510 --> 00:13:22,550
+<font face="Trebuchet MS" size="24"><b>[Fern grunts softly]</b></font>
+
+241
+00:13:22,590 --> 00:13:25,310
+<font face="Trebuchet MS" size="24"><b>[FRIEREN] Fern. Stand down.</b></font>
+
+242
+00:13:26,810 --> 00:13:29,430
+<font face="Trebuchet MS" size="24"><b>Hey! Stop that!</b></font>
+
+243
+00:13:30,850 --> 00:13:33,520
+<font face="Trebuchet MS" size="24"><b>I'm of no use to you
+split in two.</b></font>
+
+244
+00:13:39,070 --> 00:13:40,400
+<font face="Trebuchet MS" size="24"><b>Was that them?</b></font>
+
+245
+00:13:40,490 --> 00:13:42,780
+<font face="Trebuchet MS" size="24"><b>They've picked out
+exactly where we are.</b></font>
+
+246
+00:13:42,820 --> 00:13:45,530
+<font face="Trebuchet MS" size="24"><b>This battle's begun
+whether we're ready or not.</b></font>
+
+247
+00:13:45,620 --> 00:13:47,410
+<font face="Trebuchet MS" size="24"><b>Typical demons.</b></font>
+
+248
+00:13:47,830 --> 00:13:50,080
+<font face="Trebuchet MS" size="24"><b>They're bloodthirsty
+and unafraid.</b></font>
+
+249
+00:13:50,500 --> 00:13:51,790
+<font face="Trebuchet MS" size="24"><b>If they can tell where we are,</b></font>
+
+250
+00:13:51,830 --> 00:13:54,040
+<font face="Trebuchet MS" size="24"><b>they can also tell
+that we're powerful mages.</b></font>
+
+251
+00:13:54,080 --> 00:13:56,000
+<font face="Trebuchet MS" size="24"><b>And they're wholly unfazed.</b></font>
+
+252
+00:13:59,090 --> 00:14:00,880
+<font face="Trebuchet MS" size="24"><b>They have noticed us.</b></font>
+
+253
+00:14:01,420 --> 00:14:03,840
+<font face="Trebuchet MS" size="24"><b>Right. Shall we begin?</b></font>
+
+254
+00:14:07,560 --> 00:14:09,060
+<font face="Trebuchet MS" size="24"><b>Nebeladora.</b></font>
+
+255
+00:14:14,730 --> 00:14:16,730
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+It's a fog made of mana.</b></font>
+
+256
+00:14:16,770 --> 00:14:19,610
+<font face="Trebuchet MS" size="24"><b>They're blocking our vision
+and our mana detection.</b></font>
+
+257
+00:14:33,370 --> 00:14:35,870
+<font face="Trebuchet MS" size="24"><b>Our separation
+was surely intentional.</b></font>
+
+258
+00:14:36,170 --> 00:14:37,420
+<font face="Trebuchet MS" size="24"><b>They're quite skilled.</b></font>
+
+259
+00:14:42,260 --> 00:14:43,340
+<font face="Trebuchet MS" size="24"><b>Choose your foe.</b></font>
+
+260
+00:14:43,380 --> 00:14:45,510
+<font face="Trebuchet MS" size="24"><b>I would like the tallest one.</b></font>
+
+261
+00:14:45,550 --> 00:14:47,890
+<font face="Trebuchet MS" size="24"><b>There's a peculiar aura
+about her.</b></font>
+
+262
+00:14:47,930 --> 00:14:49,890
+<font face="Trebuchet MS" size="24"><b>She should be fun.</b></font>
+
+263
+00:14:51,600 --> 00:14:54,060
+<font face="Trebuchet MS" size="24"><b>And that leaves the other two
+to me.</b></font>
+
+264
+00:14:56,520 --> 00:14:59,270
+<font face="Trebuchet MS" size="24"><b>Remain on high alert
+for attacks from above.</b></font>
+
+265
+00:14:59,520 --> 00:15:02,150
+<font face="Trebuchet MS" size="24"><b>-Mistress Frieren?
+-Yes, Fern.</b></font>
+
+266
+00:15:02,860 --> 00:15:05,240
+<font face="Trebuchet MS" size="24"><b>Both of those demons
+were flying.</b></font>
+
+267
+00:15:05,860 --> 00:15:08,370
+<font face="Trebuchet MS" size="24"><b>The demons we've fought before
+could fly, too.</b></font>
+
+268
+00:15:08,870 --> 00:15:10,660
+<font face="Trebuchet MS" size="24"><b>They're using flying magic,
+right?</b></font>
+
+269
+00:15:11,160 --> 00:15:12,790
+<font face="Trebuchet MS" size="24"><b>I have explained this.</b></font>
+
+270
+00:15:13,330 --> 00:15:17,460
+<font face="Trebuchet MS" size="24"><b>Until just forty years ago,
+demons ruled the skies.</b></font>
+
+271
+00:15:17,960 --> 00:15:20,040
+<font face="Trebuchet MS" size="24"><b>Those talents have not dwindled.</b></font>
+
+272
+00:15:20,630 --> 00:15:24,840
+<font face="Trebuchet MS" size="24"><b>Sure, but you also said demons
+only study one type of magic.</b></font>
+
+273
+00:15:25,840 --> 00:15:26,970
+<font face="Trebuchet MS" size="24"><b>Do you think of walking</b></font>
+
+274
+00:15:27,010 --> 00:15:29,470
+<font face="Trebuchet MS" size="24"><b>as a special,
+attention-demanding ability?</b></font>
+
+275
+00:15:30,600 --> 00:15:32,270
+<font face="Trebuchet MS" size="24"><b>It's the same principle.</b></font>
+
+276
+00:15:32,720 --> 00:15:34,890
+<font face="Trebuchet MS" size="24"><b>Flying is so second nature
+to them.</b></font>
+
+277
+00:15:34,930 --> 00:15:36,560
+<font face="Trebuchet MS" size="24"><b>It isn't magic anymore.</b></font>
+
+278
+00:15:37,270 --> 00:15:38,480
+<font face="Trebuchet MS" size="24"><b>When fighting a demon,</b></font>
+
+279
+00:15:38,520 --> 00:15:41,020
+<font face="Trebuchet MS" size="24"><b>it's safe to assume
+they will use the skies.</b></font>
+
+280
+00:15:42,780 --> 00:15:43,820
+<font face="Trebuchet MS" size="24"><b>I had a feeling</b></font>
+
+281
+00:15:44,030 --> 00:15:46,110
+<font face="Trebuchet MS" size="24"><b>our opponents would be
+accustomed to battle.</b></font>
+
+282
+00:15:46,150 --> 00:15:47,150
+<font face="Trebuchet MS" size="24"><b>They're as comfortable</b></font>
+
+283
+00:15:47,240 --> 00:15:49,070
+<font face="Trebuchet MS" size="24"><b>as members
+of the Demon King's army.</b></font>
+
+284
+00:15:49,120 --> 00:15:51,030
+<font face="Trebuchet MS" size="24"><b>-[loud slashing]
+-[Fern gasps]</b></font>
+
+285
+00:15:55,870 --> 00:15:57,580
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+286
+00:16:01,250 --> 00:16:03,340
+<font face="Trebuchet MS" size="24"><b>Our cuddler has engaged
+the enemy.</b></font>
+
+287
+00:16:03,760 --> 00:16:06,470
+<font face="Trebuchet MS" size="24"><b>Ready?
+I'll leave this fight to you.</b></font>
+
+288
+00:16:06,840 --> 00:16:08,090
+<font face="Trebuchet MS" size="24"><b>You won't help?</b></font>
+
+289
+00:16:08,180 --> 00:16:09,220
+<font face="Trebuchet MS" size="24"><b>As I recall,</b></font>
+
+290
+00:16:09,550 --> 00:16:11,720
+<font face="Trebuchet MS" size="24"><b>this job was assigned
+to three first-class mages.</b></font>
+
+291
+00:16:12,100 --> 00:16:14,850
+<font face="Trebuchet MS" size="24"><b>And you are
+the only first-class mage I see.</b></font>
+
+292
+00:16:15,430 --> 00:16:17,560
+<font face="Trebuchet MS" size="24"><b>Is now really
+a good time for that?</b></font>
+
+293
+00:16:18,140 --> 00:16:20,060
+<font face="Trebuchet MS" size="24"><b>It's as good of a time as any.</b></font>
+
+294
+00:16:20,350 --> 00:16:21,820
+<font face="Trebuchet MS" size="24"><b>You can defeat it.</b></font>
+
+295
+00:16:22,440 --> 00:16:23,730
+<font face="Trebuchet MS" size="24"><b>[Fern gasps]</b></font>
+
+296
+00:16:30,360 --> 00:16:31,570
+<font face="Trebuchet MS" size="24"><b>Told you.</b></font>
+
+297
+00:16:32,280 --> 00:16:33,450
+<font face="Trebuchet MS" size="24"><b>Oh?</b></font>
+
+298
+00:16:35,200 --> 00:16:37,160
+<font face="Trebuchet MS" size="24"><b>You know that was a fluke.</b></font>
+
+299
+00:16:38,040 --> 00:16:41,170
+<font face="Trebuchet MS" size="24"><b>I only reacted in time
+because you pointed it out.</b></font>
+
+300
+00:16:42,290 --> 00:16:44,710
+<font face="Trebuchet MS" size="24"><b>I couldn't detect the attack
+at all.</b></font>
+
+301
+00:16:50,050 --> 00:16:51,890
+<font face="Trebuchet MS" size="24"><b>I'm severely outclassed.</b></font>
+
+302
+00:16:51,930 --> 00:16:54,350
+<font face="Trebuchet MS" size="24"><b>I have to disagree
+with you on that.</b></font>
+
+303
+00:16:54,890 --> 00:16:56,560
+<font face="Trebuchet MS" size="24"><b>Of the first-class mages
+I've met,</b></font>
+
+304
+00:16:56,600 --> 00:16:59,350
+<font face="Trebuchet MS" size="24"><b>few are as dedicated
+to the fundamentals as you.</b></font>
+
+305
+00:17:00,980 --> 00:17:04,270
+<font face="Trebuchet MS" size="24"><b>You trust me.
+And I say you can win this.</b></font>
+
+306
+00:17:05,150 --> 00:17:07,490
+<font face="Trebuchet MS" size="24"><b>-[Fern grunts softly]
+-[wind blows]</b></font>
+
+307
+00:17:14,780 --> 00:17:18,250
+<font face="Trebuchet MS" size="24"><b>I caught some fish.
+Want a late night snack?</b></font>
+
+308
+00:17:19,210 --> 00:17:22,580
+<font face="Trebuchet MS" size="24"><b>[GENAU] I should pass.
+Methode would be angry with me.</b></font>
+
+309
+00:17:22,630 --> 00:17:25,420
+<font face="Trebuchet MS" size="24"><b>She says it's unhealthy
+to eat late at night.</b></font>
+
+310
+00:17:25,460 --> 00:17:27,840
+<font face="Trebuchet MS" size="24"><b>[STARK]
+Oh, yeah? More for me then.</b></font>
+
+311
+00:17:29,050 --> 00:17:30,420
+<font face="Trebuchet MS" size="24"><b>[soft clattering]</b></font>
+
+312
+00:17:32,090 --> 00:17:35,050
+<font face="Trebuchet MS" size="24"><b>I love eating midnight snacks,
+but I've gotta be sneaky.</b></font>
+
+313
+00:17:35,100 --> 00:17:36,180
+<font face="Trebuchet MS" size="24"><b>Uh...</b></font>
+
+314
+00:17:39,520 --> 00:17:41,600
+<font face="Trebuchet MS" size="24"><b>Swear you won't tell on me
+to Fern?</b></font>
+
+315
+00:17:41,640 --> 00:17:42,810
+<font face="Trebuchet MS" size="24"><b>Fine.</b></font>
+
+316
+00:17:47,230 --> 00:17:50,030
+<font face="Trebuchet MS" size="24"><b>Seems we're fighting
+many of the same demons.</b></font>
+
+317
+00:17:55,660 --> 00:17:57,280
+<font face="Trebuchet MS" size="24"><b>[STARK] Hey, Genau?</b></font>
+
+318
+00:17:57,990 --> 00:17:59,040
+<font face="Trebuchet MS" size="24"><b>You know the demon</b></font>
+
+319
+00:17:59,080 --> 00:18:01,120
+<font face="Trebuchet MS" size="24"><b>who attacked this village,
+don't you?</b></font>
+
+320
+00:18:01,750 --> 00:18:03,670
+<font face="Trebuchet MS" size="24"><b>[GENAU] Demons that fight
+with four swords</b></font>
+
+321
+00:18:03,710 --> 00:18:05,250
+<font face="Trebuchet MS" size="24"><b>are hardly common.</b></font>
+
+322
+00:18:07,500 --> 00:18:09,460
+<font face="Trebuchet MS" size="24"><b>The Divine Revolte</b></font>
+
+323
+00:18:09,510 --> 00:18:12,630
+<font face="Trebuchet MS" size="24"><b>is the demon who ended
+my partner's life.</b></font>
+
+324
+00:18:15,050 --> 00:18:17,760
+<font face="Trebuchet MS" size="24"><b>I'm sure he's strong,
+but that name's a bit much.</b></font>
+
+325
+00:18:18,680 --> 00:18:20,600
+<font face="Trebuchet MS" size="24"><b>[GENAU] It comes
+from the four swords</b></font>
+
+326
+00:18:20,640 --> 00:18:22,390
+<font face="Trebuchet MS" size="24"><b>he created using magic.</b></font>
+
+327
+00:18:23,730 --> 00:18:25,980
+<font face="Trebuchet MS" size="24"><b>He can freely change
+their weight.</b></font>
+
+328
+00:18:26,020 --> 00:18:28,230
+<font face="Trebuchet MS" size="24"><b>Sometimes, they're as light
+as feathers.</b></font>
+
+329
+00:18:28,270 --> 00:18:31,190
+<font face="Trebuchet MS" size="24"><b>Other times, they are
+heavy boulders waiting to fall.</b></font>
+
+330
+00:18:31,570 --> 00:18:34,320
+<font face="Trebuchet MS" size="24"><b>The unknown is
+what makes them so dangerous.</b></font>
+
+331
+00:18:35,110 --> 00:18:37,410
+<font face="Trebuchet MS" size="24"><b>They're called
+the Divine Cleaving Swords</b></font>
+
+332
+00:18:37,450 --> 00:18:39,620
+<font face="Trebuchet MS" size="24"><b>after the famous blade
+that split mountains</b></font>
+
+333
+00:18:39,660 --> 00:18:41,160
+<font face="Trebuchet MS" size="24"><b>during mythical times.</b></font>
+
+334
+00:18:41,870 --> 00:18:43,830
+<font face="Trebuchet MS" size="24"><b>He can change them
+to win every fight.</b></font>
+
+335
+00:18:43,870 --> 00:18:46,540
+<font face="Trebuchet MS" size="24"><b>Light and sharp
+or heavy and destructive.</b></font>
+
+336
+00:18:47,210 --> 00:18:49,300
+<font face="Trebuchet MS" size="24"><b>And every shade in between.</b></font>
+
+337
+00:18:50,380 --> 00:18:51,630
+<font face="Trebuchet MS" size="24"><b>Magic creates objects</b></font>
+
+338
+00:18:51,670 --> 00:18:54,300
+<font face="Trebuchet MS" size="24"><b>that have no business
+existing in this world.</b></font>
+
+339
+00:18:55,050 --> 00:18:57,180
+<font face="Trebuchet MS" size="24"><b>It can take an eon
+of murderous intent</b></font>
+
+340
+00:18:57,220 --> 00:18:59,560
+<font face="Trebuchet MS" size="24"><b>and give it a physical form
+in a weapon.</b></font>
+
+341
+00:19:00,350 --> 00:19:03,680
+<font face="Trebuchet MS" size="24"><b>Demons create these armaments
+to kill humans by the score.</b></font>
+
+342
+00:19:04,730 --> 00:19:07,560
+<font face="Trebuchet MS" size="24"><b>Far more than necessary
+for their sustenance,</b></font>
+
+343
+00:19:07,610 --> 00:19:09,980
+<font face="Trebuchet MS" size="24"><b>as if to test their new toys.</b></font>
+
+344
+00:19:12,070 --> 00:19:13,030
+<font face="Trebuchet MS" size="24"><b>[grunts]</b></font>
+
+345
+00:19:14,570 --> 00:19:15,740
+<font face="Trebuchet MS" size="24"><b>Stark.</b></font>
+
+346
+00:19:16,910 --> 00:19:19,450
+<font face="Trebuchet MS" size="24"><b>Glad I hung back, aren't you?</b></font>
+
+347
+00:19:23,370 --> 00:19:24,960
+<font face="Trebuchet MS" size="24"><b>It's quite fast.</b></font>
+
+348
+00:19:25,920 --> 00:19:27,290
+<font face="Trebuchet MS" size="24"><b>Brace yourself.</b></font>
+
+349
+00:19:30,750 --> 00:19:32,920
+<font face="Trebuchet MS" size="24"><b>[rumbling]</b></font>
+
+350
+00:19:39,220 --> 00:19:40,390
+<font face="Trebuchet MS" size="24"><b>[Stark grunts]</b></font>
+
+351
+00:19:52,860 --> 00:19:54,570
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+352
+00:19:58,200 --> 00:19:59,570
+<font face="Trebuchet MS" size="24"><b>That's four swords.</b></font>
+
+353
+00:20:01,200 --> 00:20:03,700
+<font face="Trebuchet MS" size="24"><b>One warrior
+and one first-class mage</b></font>
+
+354
+00:20:03,740 --> 00:20:05,250
+<font face="Trebuchet MS" size="24"><b>left behind as guards.</b></font>
+
+355
+00:20:05,290 --> 00:20:07,870
+<font face="Trebuchet MS" size="24"><b>That was
+a foolishly human decision.</b></font>
+
+356
+00:20:07,920 --> 00:20:09,750
+<font face="Trebuchet MS" size="24"><b>So predictable.</b></font>
+
+357
+00:20:10,130 --> 00:20:11,710
+<font face="Trebuchet MS" size="24"><b>That's Revolte.</b></font>
+
+358
+00:20:11,750 --> 00:20:13,500
+<font face="Trebuchet MS" size="24"><b>Yeah, I had a feeling.</b></font>
+
+359
+00:20:13,550 --> 00:20:16,840
+<font face="Trebuchet MS" size="24"><b>I suppose there is no need
+to introduce myself.</b></font>
+
+360
+00:20:17,680 --> 00:20:19,050
+<font face="Trebuchet MS" size="24"><b>The warrior is someone new.</b></font>
+
+361
+00:20:19,090 --> 00:20:22,220
+<font face="Trebuchet MS" size="24"><b>But you look rather familiar
+to me, first-class mage.</b></font>
+
+362
+00:20:23,100 --> 00:20:24,430
+<font face="Trebuchet MS" size="24"><b>Who are you?</b></font>
+
+363
+00:20:25,100 --> 00:20:26,980
+<font face="Trebuchet MS" size="24"><b>No point in waiting around.</b></font>
+
+364
+00:20:27,020 --> 00:20:29,690
+<font face="Trebuchet MS" size="24"><b>If you can, avoid taking
+his attacks head on.</b></font>
+
+365
+00:20:29,730 --> 00:20:30,940
+<font face="Trebuchet MS" size="24"><b>If he feels compelled,</b></font>
+
+366
+00:20:30,980 --> 00:20:33,270
+<font face="Trebuchet MS" size="24"><b>he could flatten you
+in a single blow.</b></font>
+
+367
+00:20:34,360 --> 00:20:36,650
+<font face="Trebuchet MS" size="24"><b>I asked who you are, mage.
+Tell me.</b></font>
+
+368
+00:20:36,690 --> 00:20:39,820
+<font face="Trebuchet MS" size="24"><b>I do not talk to pests
+before I exterminate them.</b></font>
+
+369
+00:20:39,860 --> 00:20:42,280
+<font face="Trebuchet MS" size="24"><b>I see no good reason
+to declare my name.</b></font>
+
+370
+00:20:42,950 --> 00:20:46,240
+<font face="Trebuchet MS" size="24"><b>And I do not appreciate
+being belittled to a pest.</b></font>
+
+371
+00:20:47,410 --> 00:20:50,750
+<font face="Trebuchet MS" size="24"><b>We both speak the same language
+and know the same words.</b></font>
+
+372
+00:20:51,830 --> 00:20:53,590
+<font face="Trebuchet MS" size="24"><b>But if you refuse to use them,</b></font>
+
+373
+00:20:53,630 --> 00:20:56,800
+<font face="Trebuchet MS" size="24"><b>I suppose there are simpler ways
+we can communicate.</b></font>
+
+374
+00:20:59,130 --> 00:21:01,890
+<font face="Trebuchet MS" size="24"><b>I, too, shall exterminate
+the pests</b></font>
+
+375
+00:21:01,930 --> 00:21:03,430
+<font face="Trebuchet MS" size="24"><b>that stand before me.</b></font>
+
+376
+00:21:05,220 --> 00:21:07,230
+<font face="Trebuchet MS" size="24"><b>If I can't take
+his attacks head on,</b></font>
+
+377
+00:21:07,270 --> 00:21:08,390
+<font face="Trebuchet MS" size="24"><b>then what should I do?</b></font>
+
+378
+00:21:08,600 --> 00:21:11,310
+<font face="Trebuchet MS" size="24"><b>A skilled warrior can
+deflect blows, can he not?</b></font>
+
+379
+00:21:14,310 --> 00:21:17,820
+<font face="Trebuchet MS" size="24"><b>[grunts] I mean, yeah, but...</b></font>
+
+380
+00:21:28,750 --> 00:21:30,370
+<font face="Trebuchet MS" size="24"><b>Then I can't protect you!</b></font>
+
+381
+00:21:30,410 --> 00:21:33,000
+<font face="Trebuchet MS" size="24"><b>I can assure you,
+I don't need protecting.</b></font>
+
+382
+00:21:33,040 --> 00:21:36,710
+<font face="Trebuchet MS" size="24"><b>Close-quarters combat
+is actually a specialty of mine.</b></font>
+
+383
+00:21:38,840 --> 00:21:39,880
+<font face="Trebuchet MS" size="24"><b>[Stark grunts]</b></font>
+
+384
+00:21:39,920 --> 00:21:41,470
+<font face="Trebuchet MS" size="24"><b>♪</b></font>
+
+385
+00:21:49,230 --> 00:21:50,270
+<font face="Trebuchet MS" size="24"><b>[Genau grunts]</b></font>
+
+386
+00:21:56,980 --> 00:21:58,990
+<font face="Trebuchet MS" size="24"><b>His magic and mine
+are not as different</b></font>
+
+387
+00:21:59,030 --> 00:22:00,320
+<font face="Trebuchet MS" size="24"><b>as you might suspect.</b></font>
+
+388
+00:22:00,360 --> 00:22:03,780
+<font face="Trebuchet MS" size="24"><b>I can also create objects
+that shouldn't exist.</b></font>
+
+389
+00:22:04,530 --> 00:22:06,450
+<font face="Trebuchet MS" size="24"><b>Now, Digardnacht.</b></font>
+
+390
+00:22:11,120 --> 00:22:15,000
+<font face="Trebuchet MS" size="24"><b>A nameless mage with a spell
+to manipulate niello wings.</b></font>
+
+391
+00:22:16,590 --> 00:22:18,090
+<font face="Trebuchet MS" size="24"><b>Interesting.</b></font>
+
+392
+00:22:18,380 --> 00:22:19,880
+<font face="Trebuchet MS" size="24"><b>[chuckles]</b></font>
+
+393
+00:22:19,960 --> 00:22:22,340
+<font face="Trebuchet MS" size="24"><b>[♪ closing theme song playing]</b></font>
+
+394
+00:23:49,970 --> 00:23:51,720
+<font face="Trebuchet MS" size="24"><b>[FRIEREN]
+It's nice to watch from afar.</b></font>
+
+395
+00:23:51,760 --> 00:23:53,850
+<font face="Trebuchet MS" size="24"><b>[METHODE] I cannot find
+the slightest opening.</b></font>
+
+396
+00:23:53,890 --> 00:23:55,730
+<font face="Trebuchet MS" size="24"><b>-[JUNG] I did it!
+-[overlapping chatter]</b></font>
+
+397
+00:23:55,770 --> 00:23:57,980
+<font face="Trebuchet MS" size="24"><b>[REVOLTE] I shall put you
+out of your misery.</b></font>
+
+398
+00:23:58,020 --> 00:23:59,980
+<font face="Trebuchet MS" size="24"><b>[GENAU]
+He met a magnificent end.</b></font>
+
