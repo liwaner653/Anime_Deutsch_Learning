@@ -1,0 +1,2371 @@
+1
+00:00:00,790 --> 00:00:02,420
+<font face="Trebuchet MS" size="24"><b>[♪ opening theme song playing]</b></font>
+
+2
+00:00:34,370 --> 00:00:38,620
+<font face="Trebuchet MS" size="24"><b>JUJUTSU KAISEN</b></font>
+
+3
+00:01:31,430 --> 00:01:34,050
+<font face="Trebuchet MS" size="24"><b>[TENGEN] Nice to meet you,
+child of Zen'in,</b></font>
+
+4
+00:01:34,090 --> 00:01:35,800
+<font face="Trebuchet MS" size="24"><b>Descendant of Michizane,</b></font>
+
+5
+00:01:35,850 --> 00:01:37,600
+<font face="Trebuchet MS" size="24"><b>Cursed Womb Death Painting,</b></font>
+
+6
+00:01:37,640 --> 00:01:39,770
+<font face="Trebuchet MS" size="24"><b>and Vessel of Sukuna.</b></font>
+
+7
+00:01:39,810 --> 00:01:43,560
+<font face="Trebuchet MS" size="24"><b>I guess you don't
+have a greeting for me? Tengen.</b></font>
+
+8
+00:01:43,600 --> 00:01:44,770
+<font face="Trebuchet MS" size="24"><b>-[YUJI] So this...
+-[MEGUMI] Thing.</b></font>
+
+9
+00:01:44,810 --> 00:01:45,940
+<font face="Trebuchet MS" size="24"><b>-[YUTA] This person.
+-[CHOSO] Person?</b></font>
+
+10
+00:01:45,980 --> 00:01:47,320
+<font face="Trebuchet MS" size="24"><b>[MAKI] It's Tengen?</b></font>
+
+11
+00:01:47,360 --> 00:01:49,690
+<font face="Trebuchet MS" size="24"><b>[TENGEN] It's not
+our first time meeting,</b></font>
+
+12
+00:01:49,740 --> 00:01:51,530
+<font face="Trebuchet MS" size="24"><b>Yuki Tsukumo.</b></font>
+
+13
+00:01:51,860 --> 00:01:54,450
+<font face="Trebuchet MS" size="24"><b>Tell me why you closed
+the Tombs of the Star.</b></font>
+
+14
+00:01:55,450 --> 00:01:59,160
+<font face="Trebuchet MS" size="24"><b>[TENGEN] I was wary of you
+being aligned with Kenjaku.</b></font>
+
+15
+00:01:59,200 --> 00:02:02,920
+<font face="Trebuchet MS" size="24"><b>I can't tell what's going on
+in people's hearts, after all.</b></font>
+
+16
+00:02:02,960 --> 00:02:04,080
+<font face="Trebuchet MS" size="24"><b>[YUKI] Kenjaku?</b></font>
+
+17
+00:02:05,580 --> 00:02:07,500
+<font face="Trebuchet MS" size="24"><b>What was once Noritoshi Kamo,</b></font>
+
+18
+00:02:07,540 --> 00:02:11,300
+<font face="Trebuchet MS" size="24"><b>the sorcerer who's currently
+inhabiting Suguru Geto's body.</b></font>
+
+19
+00:02:11,340 --> 00:02:14,640
+<font face="Trebuchet MS" size="24"><b>A net of compassion
+and a rope of salvation.</b></font>
+
+20
+00:02:14,680 --> 00:02:16,550
+<font face="Trebuchet MS" size="24"><b>Wasn't even trying for sarcasm.</b></font>
+
+21
+00:02:17,550 --> 00:02:19,970
+<font face="Trebuchet MS" size="24"><b>You look nothing like
+how I pictured you, Tengen.</b></font>
+
+22
+00:02:20,020 --> 00:02:23,100
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] Ballsy to insert
+himself into the conversation.</b></font>
+
+23
+00:02:23,850 --> 00:02:26,610
+<font face="Trebuchet MS" size="24"><b>Just because I'm immortal
+doesn't make me ageless.</b></font>
+
+24
+00:02:26,650 --> 00:02:29,520
+<font face="Trebuchet MS" size="24"><b>You'd look like this too,
+if you were 500 years old.</b></font>
+
+25
+00:02:29,570 --> 00:02:30,690
+<font face="Trebuchet MS" size="24"><b>[YUJI] Seriously?</b></font>
+
+26
+00:02:31,690 --> 00:02:33,780
+<font face="Trebuchet MS" size="24"><b>My aging has sped up</b></font>
+
+27
+00:02:33,820 --> 00:02:35,490
+<font face="Trebuchet MS" size="24"><b>ever since I failed
+to assimilate</b></font>
+
+28
+00:02:35,530 --> 00:02:38,200
+<font face="Trebuchet MS" size="24"><b>with the Star Plasma Vessel
+12 years ago.</b></font>
+
+29
+00:02:38,240 --> 00:02:41,040
+<font face="Trebuchet MS" size="24"><b>My identity as
+an individual has vanished.</b></font>
+
+30
+00:02:41,080 --> 00:02:43,120
+<font face="Trebuchet MS" size="24"><b>Now you can consider
+my existence</b></font>
+
+31
+00:02:43,160 --> 00:02:44,750
+<font face="Trebuchet MS" size="24"><b>as the world itself.</b></font>
+
+32
+00:02:45,080 --> 00:02:46,790
+<font face="Trebuchet MS" size="24"><b>[YUKI] So there wasn't
+actually another</b></font>
+
+33
+00:02:46,830 --> 00:02:48,710
+<font face="Trebuchet MS" size="24"><b>Star Plasma Vessel back then?</b></font>
+
+34
+00:02:49,960 --> 00:02:52,300
+<font face="Trebuchet MS" size="24"><b>That explains
+why there isn't a new voice.</b></font>
+
+35
+00:02:53,260 --> 00:02:54,510
+<font face="Trebuchet MS" size="24"><b>Excuse me.</b></font>
+
+36
+00:02:54,550 --> 00:02:57,180
+<font face="Trebuchet MS" size="24"><b>We came here
+to learn Kenjaku's goal.</b></font>
+
+37
+00:02:57,220 --> 00:03:00,010
+<font face="Trebuchet MS" size="24"><b>And also to learn about
+how to open the Prison Realm.</b></font>
+
+38
+00:03:00,060 --> 00:03:02,270
+<font face="Trebuchet MS" size="24"><b>Could you tell us
+what you know about it?</b></font>
+
+39
+00:03:04,100 --> 00:03:05,350
+<font face="Trebuchet MS" size="24"><b>[TENGEN] Of course.</b></font>
+
+40
+00:03:05,390 --> 00:03:07,690
+<font face="Trebuchet MS" size="24"><b>But I must impose
+one condition first,</b></font>
+
+41
+00:03:07,730 --> 00:03:09,650
+<font face="Trebuchet MS" size="24"><b>and it's non-negotiable.</b></font>
+
+42
+00:03:09,690 --> 00:03:11,110
+<font face="Trebuchet MS" size="24"><b>Yuta Okkotsu,</b></font>
+
+43
+00:03:11,150 --> 00:03:12,480
+<font face="Trebuchet MS" size="24"><b>Yuki Tsukumo,</b></font>
+
+44
+00:03:12,530 --> 00:03:14,650
+<font face="Trebuchet MS" size="24"><b>and the Cursed Womb
+Death Painting.</b></font>
+
+45
+00:03:14,700 --> 00:03:18,120
+<font face="Trebuchet MS" size="24"><b>I'll need two of you three
+to remain behind here.</b></font>
+
+46
+00:03:18,370 --> 00:03:20,490
+<font face="Trebuchet MS" size="24"><b>Remain behind and guard me.</b></font>
+
+47
+00:03:20,530 --> 00:03:22,370
+<font face="Trebuchet MS" size="24"><b>-[Megumi gasps]
+-Guard you?</b></font>
+
+48
+00:03:22,410 --> 00:03:23,950
+<font face="Trebuchet MS" size="24"><b>You said you're immortal.</b></font>
+
+49
+00:03:24,000 --> 00:03:26,170
+<font face="Trebuchet MS" size="24"><b>Are you afraid
+of being sealed or something?</b></font>
+
+50
+00:03:26,210 --> 00:03:28,250
+<font face="Trebuchet MS" size="24"><b>[YUKI] That isn't fair!</b></font>
+
+51
+00:03:28,290 --> 00:03:30,170
+<font face="Trebuchet MS" size="24"><b>Without telling us
+why or how long</b></font>
+
+52
+00:03:30,210 --> 00:03:31,250
+<font face="Trebuchet MS" size="24"><b>we're guarding you.</b></font>
+
+53
+00:03:39,010 --> 00:03:40,390
+<font face="Trebuchet MS" size="24"><b>In that case...</b></font>
+
+54
+00:03:43,100 --> 00:03:45,350
+<font face="Trebuchet MS" size="24"><b>Let me speak of Kenjaku.</b></font>
+
+55
+00:03:45,810 --> 00:03:46,810
+<font face="Trebuchet MS" size="24"><b>KENJAKU'S OBJECTIVE</b></font>
+
+56
+00:03:46,850 --> 00:03:48,730
+<font face="Trebuchet MS" size="24"><b>That man's objective</b></font>
+
+57
+00:03:48,770 --> 00:03:51,610
+<font face="Trebuchet MS" size="24"><b>is to force the evolution
+of mankind</b></font>
+
+58
+00:03:51,650 --> 00:03:53,270
+<font face="Trebuchet MS" size="24"><b>throughout all of Japan.</b></font>
+
+59
+00:03:53,320 --> 00:03:54,320
+<font face="Trebuchet MS" size="24"><b>THE EVOLUTION OF MANKIND
+THROUGHOUT ALL JAPAN</b></font>
+
+60
+00:03:54,360 --> 00:03:55,900
+<font face="Trebuchet MS" size="24"><b>I heard about that.</b></font>
+
+61
+00:03:56,570 --> 00:03:58,910
+<font face="Trebuchet MS" size="24"><b>But how does he
+actually intend to do it?</b></font>
+
+62
+00:03:59,160 --> 00:04:01,030
+<font face="Trebuchet MS" size="24"><b>And why didn't Kenjaku</b></font>
+
+63
+00:04:01,080 --> 00:04:03,080
+<font face="Trebuchet MS" size="24"><b>use your barriers
+back when he could...</b></font>
+
+64
+00:04:03,120 --> 00:04:04,490
+<font face="Trebuchet MS" size="24"><b>IDLE TRANSFIGURATION</b></font>
+
+65
+00:04:04,540 --> 00:04:06,540
+<font face="Trebuchet MS" size="24"><b>...to turn everyone in Japan
+into jujutsu sorcerers</b></font>
+
+66
+00:04:06,580 --> 00:04:08,330
+<font face="Trebuchet MS" size="24"><b>with Idle Transfiguration?</b></font>
+
+67
+00:04:08,370 --> 00:04:09,620
+<font face="Trebuchet MS" size="24"><b>IDLE TRANSFIGURATION</b></font>
+
+68
+00:04:09,670 --> 00:04:10,330
+<font face="Trebuchet MS" size="24"><b>THE EVOLUTION OF MANKIND
+THROUGHOUT ALL JAPAN</b></font>
+
+69
+00:04:10,380 --> 00:04:11,750
+<font face="Trebuchet MS" size="24"><b>[TENGEN] For a simple reason.</b></font>
+
+70
+00:04:11,790 --> 00:04:14,500
+<font face="Trebuchet MS" size="24"><b>He lacked the cursed energy
+to do so.</b></font>
+
+71
+00:04:14,550 --> 00:04:16,880
+<font face="Trebuchet MS" size="24"><b>The cursed energy
+refined through Maelstrom</b></font>
+
+72
+00:04:16,920 --> 00:04:18,880
+<font face="Trebuchet MS" size="24"><b>can't return to the sorcerer.</b></font>
+
+73
+00:04:18,930 --> 00:04:21,890
+<font face="Trebuchet MS" size="24"><b>Besides, a cursed technique
+involving people one at a time</b></font>
+
+74
+00:04:21,930 --> 00:04:23,640
+<font face="Trebuchet MS" size="24"><b>is far too inefficient.</b></font>
+
+75
+00:04:23,680 --> 00:04:26,640
+<font face="Trebuchet MS" size="24"><b>So Kenjaku's
+new method of evolution</b></font>
+
+76
+00:04:26,680 --> 00:04:29,140
+<font face="Trebuchet MS" size="24"><b>is to assimilate
+mankind with me.</b></font>
+
+77
+00:04:29,190 --> 00:04:30,730
+<font face="Trebuchet MS" size="24"><b>HOW?
+ASSIMILATE MANKIND WITH TENGEN</b></font>
+
+78
+00:04:33,650 --> 00:04:35,780
+<font face="Trebuchet MS" size="24"><b>But wait.
+I thought your assimilation--</b></font>
+
+79
+00:04:35,820 --> 00:04:38,570
+<font face="Trebuchet MS" size="24"><b>Should only be possible
+with the Star Plasma Vessel.</b></font>
+
+80
+00:04:38,610 --> 00:04:40,240
+<font face="Trebuchet MS" size="24"><b>TENGEN - ORDINARY PERSON
+ASSIMILATION IMPOSSIBLE</b></font>
+
+81
+00:04:40,490 --> 00:04:42,070
+<font face="Trebuchet MS" size="24"><b>Previously, that was true.</b></font>
+
+82
+00:04:42,120 --> 00:04:43,490
+<font face="Trebuchet MS" size="24"><b>STAR PLASMA VESSEL'S DEATH</b></font>
+
+83
+00:04:43,530 --> 00:04:44,530
+<font face="Trebuchet MS" size="24"><b>ASSIMILATION WITH THE STAR
+PLASMA VESSEL PREVENTED</b></font>
+
+84
+00:04:44,580 --> 00:04:47,200
+<font face="Trebuchet MS" size="24"><b>But since I started evolving
+12 years ago...</b></font>
+
+85
+00:04:47,250 --> 00:04:49,870
+<font face="Trebuchet MS" size="24"><b>TENGEN'S EVOLUTION</b></font>
+
+86
+00:04:49,920 --> 00:04:51,290
+<font face="Trebuchet MS" size="24"><b>...assimilation with someone</b></font>
+
+87
+00:04:51,330 --> 00:04:53,210
+<font face="Trebuchet MS" size="24"><b>other than
+the Star Plasma Vessel</b></font>
+
+88
+00:04:53,250 --> 00:04:54,340
+<font face="Trebuchet MS" size="24"><b>is possible.</b></font>
+
+89
+00:04:54,380 --> 00:04:55,920
+<font face="Trebuchet MS" size="24"><b>ASSIMILATE MANKIND WITH TENGEN</b></font>
+
+90
+00:04:55,960 --> 00:04:57,880
+<font face="Trebuchet MS" size="24"><b>Even so, you're only one person.</b></font>
+
+91
+00:04:58,380 --> 00:05:01,380
+<font face="Trebuchet MS" size="24"><b>He still can't assimilate
+with multiple people at once.</b></font>
+
+92
+00:05:01,430 --> 00:05:02,590
+<font face="Trebuchet MS" size="24"><b>[TENGEN] Wrong.</b></font>
+
+93
+00:05:02,640 --> 00:05:04,300
+<font face="Trebuchet MS" size="24"><b>Right now, the image
+you are seeing of me</b></font>
+
+94
+00:05:04,350 --> 00:05:06,180
+<font face="Trebuchet MS" size="24"><b>is not my actual self.</b></font>
+
+95
+00:05:06,220 --> 00:05:07,470
+<font face="Trebuchet MS" size="24"><b>Now that I've evolved,</b></font>
+
+96
+00:05:07,520 --> 00:05:09,980
+<font face="Trebuchet MS" size="24"><b>my soul is
+everywhere all the time.</b></font>
+
+97
+00:05:10,520 --> 00:05:14,150
+<font face="Trebuchet MS" size="24"><b>Like I said before, the world
+itself is who I am now.</b></font>
+
+98
+00:05:14,190 --> 00:05:15,730
+<font face="Trebuchet MS" size="24"><b>People who assimilated with me</b></font>
+
+99
+00:05:15,770 --> 00:05:18,400
+<font face="Trebuchet MS" size="24"><b>would become something
+more than a sorcerer.</b></font>
+
+100
+00:05:18,440 --> 00:05:19,820
+<font face="Trebuchet MS" size="24"><b>They'd become a new creature</b></font>
+
+101
+00:05:19,860 --> 00:05:22,110
+<font face="Trebuchet MS" size="24"><b>that at the same time
+is both there and not there.</b></font>
+
+102
+00:05:22,530 --> 00:05:24,320
+<font face="Trebuchet MS" size="24"><b>It is because of
+my barrier techniques</b></font>
+
+103
+00:05:24,370 --> 00:05:26,700
+<font face="Trebuchet MS" size="24"><b>that I was able to
+retain my shape and reason</b></font>
+
+104
+00:05:26,740 --> 00:05:28,370
+<font face="Trebuchet MS" size="24"><b>after I started evolving.</b></font>
+
+105
+00:05:28,410 --> 00:05:31,710
+<font face="Trebuchet MS" size="24"><b>However, if mankind were
+to begin evolving,</b></font>
+
+106
+00:05:31,750 --> 00:05:34,420
+<font face="Trebuchet MS" size="24"><b>even if only one person
+went out of control...</b></font>
+
+107
+00:05:34,460 --> 00:05:35,540
+<font face="Trebuchet MS" size="24"><b>OUT OF CONTROL</b></font>
+
+108
+00:05:35,590 --> 00:05:37,420
+<font face="Trebuchet MS" size="24"><b>-...the world would end.
+-[YUKI] Why?</b></font>
+
+109
+00:05:37,460 --> 00:05:40,550
+<font face="Trebuchet MS" size="24"><b>[TENGEN] There would be no
+boundaries between individuals.</b></font>
+
+110
+00:05:40,590 --> 00:05:42,590
+<font face="Trebuchet MS" size="24"><b>Evil would spread
+to all instantly.</b></font>
+
+111
+00:05:42,630 --> 00:05:45,010
+<font face="Trebuchet MS" size="24"><b>The impurities
+of 100 million people</b></font>
+
+112
+00:05:45,050 --> 00:05:46,550
+<font face="Trebuchet MS" size="24"><b>would flood the world.</b></font>
+
+113
+00:05:46,600 --> 00:05:47,760
+<font face="Trebuchet MS" size="24"><b>What happened in Tokyo</b></font>
+
+114
+00:05:47,810 --> 00:05:50,100
+<font face="Trebuchet MS" size="24"><b>would be recreated
+on a worldwide scale.</b></font>
+
+115
+00:05:50,640 --> 00:05:52,810
+<font face="Trebuchet MS" size="24"><b>What would make him
+wanna do something like that?</b></font>
+
+116
+00:05:53,100 --> 00:05:55,350
+<font face="Trebuchet MS" size="24"><b>[TENGEN] That, I do not know.</b></font>
+
+117
+00:05:55,400 --> 00:05:58,730
+<font face="Trebuchet MS" size="24"><b>As I said, there's no telling
+what's inside people's hearts.</b></font>
+
+118
+00:05:58,780 --> 00:06:00,280
+<font face="Trebuchet MS" size="24"><b>WHY?
+UNKNOWN</b></font>
+
+119
+00:06:00,570 --> 00:06:01,900
+<font face="Trebuchet MS" size="24"><b>If that's the case,</b></font>
+
+120
+00:06:01,950 --> 00:06:03,820
+<font face="Trebuchet MS" size="24"><b>as long as you
+reject the assimilation,</b></font>
+
+121
+00:06:03,860 --> 00:06:05,450
+<font face="Trebuchet MS" size="24"><b>won't everything be fine?</b></font>
+
+122
+00:06:05,490 --> 00:06:07,950
+<font face="Trebuchet MS" size="24"><b>Now we're getting
+to why I need guarding.</b></font>
+
+123
+00:06:07,990 --> 00:06:09,290
+<font face="Trebuchet MS" size="24"><b>Since I have evolved,</b></font>
+
+124
+00:06:09,330 --> 00:06:11,710
+<font face="Trebuchet MS" size="24"><b>my nature is closer to that
+of a cursed spirit</b></font>
+
+125
+00:06:11,750 --> 00:06:14,210
+<font face="Trebuchet MS" size="24"><b>than it is to that
+of a human being.</b></font>
+
+126
+00:06:14,250 --> 00:06:18,800
+<font face="Trebuchet MS" size="24"><b>So I can be targeted
+by Cursed Spirit Manipulation.</b></font>
+
+127
+00:06:19,460 --> 00:06:20,800
+<font face="Trebuchet MS" size="24"><b>[all gasp]</b></font>
+
+128
+00:06:21,670 --> 00:06:24,760
+<font face="Trebuchet MS" size="24"><b>Considering Kenjaku's
+enormous strength as a sorcerer,</b></font>
+
+129
+00:06:24,800 --> 00:06:26,140
+<font face="Trebuchet MS" size="24"><b>I would likely be absorbed</b></font>
+
+130
+00:06:26,180 --> 00:06:28,180
+<font face="Trebuchet MS" size="24"><b>the moment he made
+contact with me.</b></font>
+
+131
+00:06:28,680 --> 00:06:31,430
+<font face="Trebuchet MS" size="24"><b>That's why my main body
+is rejecting everything</b></font>
+
+132
+00:06:31,470 --> 00:06:33,560
+<font face="Trebuchet MS" size="24"><b>in the Tombs of the Star
+right now.</b></font>
+
+133
+00:06:34,230 --> 00:06:35,850
+<font face="Trebuchet MS" size="24"><b>That's why you need guarding?</b></font>
+
+134
+00:06:36,480 --> 00:06:37,650
+<font face="Trebuchet MS" size="24"><b>Correct.</b></font>
+
+135
+00:06:37,690 --> 00:06:39,480
+<font face="Trebuchet MS" size="24"><b>Kenjaku is second
+only to me in his skill</b></font>
+
+136
+00:06:39,520 --> 00:06:40,820
+<font face="Trebuchet MS" size="24"><b>with barrier techniques.</b></font>
+
+137
+00:06:40,860 --> 00:06:42,780
+<font face="Trebuchet MS" size="24"><b>I don't know when he'll
+manage to break the seal</b></font>
+
+138
+00:06:42,820 --> 00:06:44,570
+<font face="Trebuchet MS" size="24"><b>on the Tombs of the Star.</b></font>
+
+139
+00:06:44,990 --> 00:06:46,450
+<font face="Trebuchet MS" size="24"><b>Why is this happening now?</b></font>
+
+140
+00:06:46,490 --> 00:06:48,910
+<font face="Trebuchet MS" size="24"><b>The Star Plasma Vessel
+assimilation failed.</b></font>
+
+141
+00:06:48,950 --> 00:06:50,490
+<font face="Trebuchet MS" size="24"><b>You've been forced to evolve,</b></font>
+
+142
+00:06:50,540 --> 00:06:53,080
+<font face="Trebuchet MS" size="24"><b>so he wants to absorb you
+with Cursed Energy Manipulation.</b></font>
+
+143
+00:06:53,120 --> 00:06:56,880
+<font face="Trebuchet MS" size="24"><b>It also seems Kenjaku
+has connections to Sukuna.</b></font>
+
+144
+00:06:56,920 --> 00:07:00,550
+<font face="Trebuchet MS" size="24"><b>Which means he's been a sorcerer
+for at least 1,000 years.</b></font>
+
+145
+00:07:01,210 --> 00:07:03,300
+<font face="Trebuchet MS" size="24"><b>So then, why now?</b></font>
+
+146
+00:07:03,590 --> 00:07:06,090
+<font face="Trebuchet MS" size="24"><b>Because myself,
+the Star Plasma Vessel,</b></font>
+
+147
+00:07:06,130 --> 00:07:07,680
+<font face="Trebuchet MS" size="24"><b>and the Six Eyes</b></font>
+
+148
+00:07:07,720 --> 00:07:10,930
+<font face="Trebuchet MS" size="24"><b>are all connected by fate
+and intertwined with each other.</b></font>
+
+149
+00:07:10,970 --> 00:07:11,930
+<font face="Trebuchet MS" size="24"><b>TENGEN - STAR PLASMA VESSEL
+SIX EYES</b></font>
+
+150
+00:07:12,350 --> 00:07:14,270
+<font face="Trebuchet MS" size="24"><b>Twice in the past,
+Kenjaku was stopped</b></font>
+
+151
+00:07:14,310 --> 00:07:16,270
+<font face="Trebuchet MS" size="24"><b>by the sorcerer
+with the Six Eyes.</b></font>
+
+152
+00:07:16,310 --> 00:07:17,810
+<font face="Trebuchet MS" size="24"><b>The second time,
+he was thorough.</b></font>
+
+153
+00:07:17,850 --> 00:07:19,860
+<font face="Trebuchet MS" size="24"><b>He killed both
+the Star Plasma Vessel</b></font>
+
+154
+00:07:19,900 --> 00:07:21,110
+<font face="Trebuchet MS" size="24"><b>and the bearer of the Six Eyes</b></font>
+
+155
+00:07:21,150 --> 00:07:22,940
+<font face="Trebuchet MS" size="24"><b>within a month of their birth.</b></font>
+
+156
+00:07:22,980 --> 00:07:25,900
+<font face="Trebuchet MS" size="24"><b>Despite that, the Six Eyes
+and the Star Plasma Vessel</b></font>
+
+157
+00:07:25,950 --> 00:07:28,370
+<font face="Trebuchet MS" size="24"><b>still appeared by the day
+of my assimilation.</b></font>
+
+158
+00:07:28,870 --> 00:07:31,160
+<font face="Trebuchet MS" size="24"><b>After that, Kenjaku
+altered his strategy</b></font>
+
+159
+00:07:31,200 --> 00:07:33,870
+<font face="Trebuchet MS" size="24"><b>to focus on sealing the Six Eyes
+instead of killing him,</b></font>
+
+160
+00:07:33,910 --> 00:07:36,290
+<font face="Trebuchet MS" size="24"><b>as he began searching
+for the Prison Realm.</b></font>
+
+161
+00:07:36,660 --> 00:07:38,540
+<font face="Trebuchet MS" size="24"><b>After all,
+there can't be two people</b></font>
+
+162
+00:07:38,580 --> 00:07:40,500
+<font face="Trebuchet MS" size="24"><b>with the Six Eyes
+at the same time.</b></font>
+
+163
+00:07:41,000 --> 00:07:42,340
+<font face="Trebuchet MS" size="24"><b>However, 12 years ago,</b></font>
+
+164
+00:07:42,380 --> 00:07:44,340
+<font face="Trebuchet MS" size="24"><b>something
+unpredictable happened.</b></font>
+
+165
+00:07:44,380 --> 00:07:46,130
+<font face="Trebuchet MS" size="24"><b>Toji Zen'in intervened.</b></font>
+
+166
+00:07:46,170 --> 00:07:47,590
+<font face="Trebuchet MS" size="24"><b>UNPREDICTED EVENT
+TOJI ZEN'IN INTERVENES</b></font>
+
+167
+00:07:47,630 --> 00:07:50,390
+<font face="Trebuchet MS" size="24"><b>He was physically gifted
+through a Heavenly Pact.</b></font>
+
+168
+00:07:50,430 --> 00:07:51,680
+<font face="Trebuchet MS" size="24"><b>And he was unique among them</b></font>
+
+169
+00:07:51,720 --> 00:07:54,560
+<font face="Trebuchet MS" size="24"><b>for being completely free
+from cursed energy.</b></font>
+
+170
+00:07:55,180 --> 00:07:56,140
+<font face="Trebuchet MS" size="24"><b>[MAKI] Mm.</b></font>
+
+171
+00:07:56,180 --> 00:07:57,770
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] Hmm.</b></font>
+
+172
+00:07:57,810 --> 00:08:00,440
+<font face="Trebuchet MS" size="24"><b>[TENGEN] Since his Heavenly Pact
+placed him outside of fate,</b></font>
+
+173
+00:08:00,480 --> 00:08:03,360
+<font face="Trebuchet MS" size="24"><b>he decided to destroy
+the very fate that connected us.</b></font>
+
+174
+00:08:03,400 --> 00:08:04,480
+<font face="Trebuchet MS" size="24"><b>STAR PLASMA VESSEL'S DEATH</b></font>
+
+175
+00:08:04,530 --> 00:08:05,860
+<font face="Trebuchet MS" size="24"><b>Then, a young man with the power</b></font>
+
+176
+00:08:05,900 --> 00:08:08,660
+<font face="Trebuchet MS" size="24"><b>of Cursed Spirit Manipulation
+appeared.</b></font>
+
+177
+00:08:08,700 --> 00:08:11,530
+<font face="Trebuchet MS" size="24"><b>Without even trying, he now had
+all the necessary pieces</b></font>
+
+178
+00:08:11,570 --> 00:08:13,160
+<font face="Trebuchet MS" size="24"><b>except for the Prison Realm.</b></font>
+
+179
+00:08:13,200 --> 00:08:14,450
+<font face="Trebuchet MS" size="24"><b>CURSED SPIRIT MANIPULATION
+STAR PLASMA VESSEL'S DEATH</b></font>
+
+180
+00:08:14,490 --> 00:08:16,290
+<font face="Trebuchet MS" size="24"><b>But, six years ago,</b></font>
+
+181
+00:08:16,330 --> 00:08:19,460
+<font face="Trebuchet MS" size="24"><b>the Prison Realm made its way
+into Kenjaku's hands, as well.</b></font>
+
+182
+00:08:19,500 --> 00:08:20,540
+<font face="Trebuchet MS" size="24"><b>PRISON REALM</b></font>
+
+183
+00:08:20,750 --> 00:08:22,500
+<font face="Trebuchet MS" size="24"><b>If Kenjaku has the Prison Realm,</b></font>
+
+184
+00:08:22,540 --> 00:08:24,840
+<font face="Trebuchet MS" size="24"><b>then why is
+this Culling Game being hosted?</b></font>
+
+185
+00:08:25,170 --> 00:08:27,260
+<font face="Trebuchet MS" size="24"><b>It's a warm-up
+before assimilation.</b></font>
+
+186
+00:08:27,720 --> 00:08:29,260
+<font face="Trebuchet MS" size="24"><b>My assimilation with people</b></font>
+
+187
+00:08:29,300 --> 00:08:31,850
+<font face="Trebuchet MS" size="24"><b>other than the Star
+Plasma Vessel is possible.</b></font>
+
+188
+00:08:31,890 --> 00:08:33,890
+<font face="Trebuchet MS" size="24"><b>But at the moment,
+there's a high probability</b></font>
+
+189
+00:08:33,930 --> 00:08:36,310
+<font face="Trebuchet MS" size="24"><b>it will result in
+something incomplete.</b></font>
+
+190
+00:08:36,810 --> 00:08:39,980
+<font face="Trebuchet MS" size="24"><b>The Culling Game uses
+the cursed energy of the players</b></font>
+
+191
+00:08:40,020 --> 00:08:42,650
+<font face="Trebuchet MS" size="24"><b>and the boundaries
+formed between the Colonies,</b></font>
+
+192
+00:08:42,690 --> 00:08:45,070
+<font face="Trebuchet MS" size="24"><b>in a ritual
+to send this nation's people</b></font>
+
+193
+00:08:45,110 --> 00:08:46,440
+<font face="Trebuchet MS" size="24"><b>to the other side.</b></font>
+
+194
+00:08:46,900 --> 00:08:49,110
+<font face="Trebuchet MS" size="24"><b>He probably plans
+to use that as a warm-up</b></font>
+
+195
+00:08:49,150 --> 00:08:51,320
+<font face="Trebuchet MS" size="24"><b>to start their assimilation
+with me.</b></font>
+
+196
+00:08:51,370 --> 00:08:52,490
+<font face="Trebuchet MS" size="24"><b>MANKIND - TENGEN
+THE CULLING GAME - WARM-UP</b></font>
+
+197
+00:08:52,530 --> 00:08:54,660
+<font face="Trebuchet MS" size="24"><b>However,
+to establish that ritual,</b></font>
+
+198
+00:08:54,700 --> 00:08:56,740
+<font face="Trebuchet MS" size="24"><b>Kenjaku should've been forced</b></font>
+
+199
+00:08:56,790 --> 00:08:58,500
+<font face="Trebuchet MS" size="24"><b>to accept several pacts.</b></font>
+
+200
+00:09:01,960 --> 00:09:04,630
+<font face="Trebuchet MS" size="24"><b>One of those pacts
+is that Kenjaku is not allowed</b></font>
+
+201
+00:09:04,670 --> 00:09:07,420
+<font face="Trebuchet MS" size="24"><b>to name himself
+the Culling Game's Game Master.</b></font>
+
+202
+00:09:07,460 --> 00:09:10,380
+<font face="Trebuchet MS" size="24"><b>Unfortunately, that's
+a disadvantage to you as well.</b></font>
+
+203
+00:09:10,430 --> 00:09:15,390
+<font face="Trebuchet MS" size="24"><b>Because it means that killing
+Kenjaku won't end the game.</b></font>
+
+204
+00:09:15,430 --> 00:09:17,770
+<font face="Trebuchet MS" size="24"><b>Either all of the players
+must die,</b></font>
+
+205
+00:09:17,810 --> 00:09:20,890
+<font face="Trebuchet MS" size="24"><b>or the players must all refuse
+to participate and die.</b></font>
+
+206
+00:09:21,310 --> 00:09:22,900
+<font face="Trebuchet MS" size="24"><b>The rules specifically mention</b></font>
+
+207
+00:09:22,940 --> 00:09:24,810
+<font face="Trebuchet MS" size="24"><b>that nothing must
+significantly hinder</b></font>
+
+208
+00:09:24,860 --> 00:09:27,360
+<font face="Trebuchet MS" size="24"><b>the continuation
+of the Culling Game.</b></font>
+
+209
+00:09:27,400 --> 00:09:29,530
+<font face="Trebuchet MS" size="24"><b>An insurance policy
+to prevent the ritual</b></font>
+
+210
+00:09:29,570 --> 00:09:31,030
+<font face="Trebuchet MS" size="24"><b>from being stopped.</b></font>
+
+211
+00:09:31,070 --> 00:09:32,070
+<font face="Trebuchet MS" size="24"><b>In that case...</b></font>
+
+212
+00:09:32,110 --> 00:09:33,200
+<font face="Trebuchet MS" size="24"><b>Yeah, right.</b></font>
+
+213
+00:09:35,410 --> 00:09:37,990
+<font face="Trebuchet MS" size="24"><b>All of us need to participate
+in the Culling Game.</b></font>
+
+214
+00:09:38,040 --> 00:09:40,580
+<font face="Trebuchet MS" size="24"><b>And add a rule that creates
+a way out of the game</b></font>
+
+215
+00:09:40,620 --> 00:09:43,330
+<font face="Trebuchet MS" size="24"><b>for Tsumiki and those
+reluctant to participate.</b></font>
+
+216
+00:09:45,250 --> 00:09:47,800
+<font face="Trebuchet MS" size="24"><b>We need to free Gojo Sensei
+at the same time.</b></font>
+
+217
+00:09:48,130 --> 00:09:50,760
+<font face="Trebuchet MS" size="24"><b>He could resolve this all
+entirely on his own.</b></font>
+
+218
+00:09:51,260 --> 00:09:52,470
+<font face="Trebuchet MS" size="24"><b>ITADORI'S FRIENDS' OBJECTIVE</b></font>
+
+219
+00:09:52,510 --> 00:09:54,300
+<font face="Trebuchet MS" size="24"><b>CREATE A RULE
+TO ESCAPE THE CULLING GAME</b></font>
+
+220
+00:09:54,340 --> 00:09:55,550
+<font face="Trebuchet MS" size="24"><b>FREE SATORU GOJO</b></font>
+
+221
+00:09:55,590 --> 00:09:57,140
+<font face="Trebuchet MS" size="24"><b>Uh, what do we do next?</b></font>
+
+222
+00:09:57,180 --> 00:10:00,060
+<font face="Trebuchet MS" size="24"><b>First, please decide
+which of you will stay behind.</b></font>
+
+223
+00:10:00,520 --> 00:10:01,560
+<font face="Trebuchet MS" size="24"><b>[YUKI, CHOSO] I'll do it.</b></font>
+
+224
+00:10:02,270 --> 00:10:03,270
+<font face="Trebuchet MS" size="24"><b>I'll stay.</b></font>
+
+225
+00:10:03,310 --> 00:10:04,600
+<font face="Trebuchet MS" size="24"><b>[YUJI, MEGUMI] Huh?</b></font>
+
+226
+00:10:04,650 --> 00:10:06,520
+<font face="Trebuchet MS" size="24"><b>Yuji, you are absolutely
+going to need the help</b></font>
+
+227
+00:10:06,570 --> 00:10:08,820
+<font face="Trebuchet MS" size="24"><b>of either Okkotsu
+or that woman,</b></font>
+
+228
+00:10:08,860 --> 00:10:10,400
+<font face="Trebuchet MS" size="24"><b>Noritoshi Kamo.</b></font>
+
+229
+00:10:10,440 --> 00:10:12,490
+<font face="Trebuchet MS" size="24"><b>If Kenjaku comes,
+that's all the more reason</b></font>
+
+230
+00:10:12,530 --> 00:10:13,860
+<font face="Trebuchet MS" size="24"><b>for me to guard Tengen.</b></font>
+
+231
+00:10:14,570 --> 00:10:16,780
+<font face="Trebuchet MS" size="24"><b>I must do so because
+slaying him would mean</b></font>
+
+232
+00:10:16,820 --> 00:10:18,450
+<font face="Trebuchet MS" size="24"><b>saving my younger brothers.</b></font>
+
+233
+00:10:18,490 --> 00:10:21,460
+<font face="Trebuchet MS" size="24"><b>[YUKI] I'm still not finished
+talking with Tengen just yet.</b></font>
+
+234
+00:10:21,500 --> 00:10:24,040
+<font face="Trebuchet MS" size="24"><b>Does that sound okay, Okkotsu?</b></font>
+
+235
+00:10:24,080 --> 00:10:27,340
+<font face="Trebuchet MS" size="24"><b>Yeah, I don't wanna be
+separated from everyone anymore.</b></font>
+
+236
+00:10:30,590 --> 00:10:31,840
+<font face="Trebuchet MS" size="24"><b>Thank you.</b></font>
+
+237
+00:10:32,720 --> 00:10:33,760
+<font face="Trebuchet MS" size="24"><b>Now this.</b></font>
+
+238
+00:10:37,050 --> 00:10:39,560
+<font face="Trebuchet MS" size="24"><b>This is the Back
+of the Prison Realm.</b></font>
+
+239
+00:10:39,600 --> 00:10:42,640
+<font face="Trebuchet MS" size="24"><b>If you plan to free Satoru Gojo,</b></font>
+
+240
+00:10:42,680 --> 00:10:43,890
+<font face="Trebuchet MS" size="24"><b>you'll need it.</b></font>
+
+241
+00:10:43,940 --> 00:10:45,270
+<font face="Trebuchet MS" size="24"><b>The back?</b></font>
+
+242
+00:10:45,310 --> 00:10:46,690
+<font face="Trebuchet MS" size="24"><b>First I've heard of it.</b></font>
+
+243
+00:10:46,730 --> 00:10:48,270
+<font face="Trebuchet MS" size="24"><b>Like a back door?</b></font>
+
+244
+00:10:48,320 --> 00:10:49,610
+<font face="Trebuchet MS" size="24"><b>That's right.</b></font>
+
+245
+00:10:49,650 --> 00:10:51,490
+<font face="Trebuchet MS" size="24"><b>Before Kenjaku found it,</b></font>
+
+246
+00:10:51,530 --> 00:10:54,200
+<font face="Trebuchet MS" size="24"><b>the Prison Realm was
+outside of my barriers.</b></font>
+
+247
+00:10:54,240 --> 00:10:55,990
+<font face="Trebuchet MS" size="24"><b>Probably somewhere abroad.</b></font>
+
+248
+00:10:57,450 --> 00:10:59,280
+<font face="Trebuchet MS" size="24"><b>I thought
+keeping this Back sealed</b></font>
+
+249
+00:10:59,330 --> 00:11:01,580
+<font face="Trebuchet MS" size="24"><b>would obscure
+the presence of the Front,</b></font>
+
+250
+00:11:01,620 --> 00:11:02,910
+<font face="Trebuchet MS" size="24"><b>but it didn't work.</b></font>
+
+251
+00:11:03,460 --> 00:11:07,540
+<font face="Trebuchet MS" size="24"><b>Satoru Gojo is also sealed away
+within this back gate.</b></font>
+
+252
+00:11:07,580 --> 00:11:10,040
+<font face="Trebuchet MS" size="24"><b>What? Then let's open it
+and let him out!</b></font>
+
+253
+00:11:10,090 --> 00:11:12,460
+<font face="Trebuchet MS" size="24"><b>[TENGEN] No,
+the authority to open the gates</b></font>
+
+254
+00:11:12,510 --> 00:11:14,670
+<font face="Trebuchet MS" size="24"><b>rests with the owner
+of the Front.</b></font>
+
+255
+00:11:14,720 --> 00:11:15,880
+<font face="Trebuchet MS" size="24"><b>Kenjaku.</b></font>
+
+256
+00:11:15,930 --> 00:11:17,970
+<font face="Trebuchet MS" size="24"><b>In order to break this one open,</b></font>
+
+257
+00:11:18,010 --> 00:11:20,180
+<font face="Trebuchet MS" size="24"><b>you need either
+the Inverted Spear of Heaven</b></font>
+
+258
+00:11:20,220 --> 00:11:23,060
+<font face="Trebuchet MS" size="24"><b>that can force the cancellation
+of cursed techniques,</b></font>
+
+259
+00:11:23,100 --> 00:11:25,140
+<font face="Trebuchet MS" size="24"><b>or something
+that can disrupt and cancel out</b></font>
+
+260
+00:11:25,190 --> 00:11:27,310
+<font face="Trebuchet MS" size="24"><b>the effects of
+a cursed technique.</b></font>
+
+261
+00:11:27,350 --> 00:11:29,230
+<font face="Trebuchet MS" size="24"><b>The Black Rope could do it.</b></font>
+
+262
+00:11:30,480 --> 00:11:33,990
+<font face="Trebuchet MS" size="24"><b>However, 12 years ago,
+Satoru Gojo either sealed</b></font>
+
+263
+00:11:34,030 --> 00:11:37,530
+<font face="Trebuchet MS" size="24"><b>the Inverted Spear of Heaven
+abroad or destroyed it.</b></font>
+
+264
+00:11:37,570 --> 00:11:39,620
+<font face="Trebuchet MS" size="24"><b>Ugh! Why would you
+do that, Sensei?</b></font>
+
+265
+00:11:39,660 --> 00:11:41,280
+<font face="Trebuchet MS" size="24"><b>[TENGEN]
+And last year, the black rope</b></font>
+
+266
+00:11:41,330 --> 00:11:43,740
+<font face="Trebuchet MS" size="24"><b>was also completely
+frayed by Gojo.</b></font>
+
+267
+00:11:43,790 --> 00:11:45,830
+<font face="Trebuchet MS" size="24"><b>Ugh! What was he thinking?</b></font>
+
+268
+00:11:46,120 --> 00:11:47,710
+<font face="Trebuchet MS" size="24"><b>[chuckles]</b></font>
+
+269
+00:11:47,750 --> 00:11:49,250
+<font face="Trebuchet MS" size="24"><b>Reminds me of Miguel.</b></font>
+
+270
+00:11:49,290 --> 00:11:50,500
+<font face="Trebuchet MS" size="24"><b>We went to Africa</b></font>
+
+271
+00:11:50,540 --> 00:11:52,630
+<font face="Trebuchet MS" size="24"><b>looking for some more
+of that Black Rope.</b></font>
+
+272
+00:11:52,670 --> 00:11:54,170
+<font face="Trebuchet MS" size="24"><b>So that's where you were.</b></font>
+
+273
+00:11:54,210 --> 00:11:55,670
+<font face="Trebuchet MS" size="24"><b>Please tell me you found it.</b></font>
+
+274
+00:11:56,130 --> 00:11:58,260
+<font face="Trebuchet MS" size="24"><b>Sorry, but it was
+a complete waste of effort.</b></font>
+
+275
+00:11:58,300 --> 00:12:01,260
+<font face="Trebuchet MS" size="24"><b>- They said it's all gone.
+- Huh?</b></font>
+
+276
+00:12:01,300 --> 00:12:02,600
+<font face="Trebuchet MS" size="24"><b>Is there another way?</b></font>
+
+277
+00:12:02,640 --> 00:12:04,220
+<font face="Trebuchet MS" size="24"><b>[TENGEN] There is.</b></font>
+
+278
+00:12:04,600 --> 00:12:07,730
+<font face="Trebuchet MS" size="24"><b>Among the players participating
+in the upcoming Culling Game,</b></font>
+
+279
+00:12:08,060 --> 00:12:10,230
+<font face="Trebuchet MS" size="24"><b>there's a sorcerer
+from 1,000 years ago</b></font>
+
+280
+00:12:10,270 --> 00:12:12,150
+<font face="Trebuchet MS" size="24"><b>who calls herself "Angel."</b></font>
+
+281
+00:12:12,190 --> 00:12:19,200
+<font face="Trebuchet MS" size="24"><b>ANGEL</b></font>
+
+282
+00:12:19,570 --> 00:12:21,870
+<font face="Trebuchet MS" size="24"><b>Her cursed technique
+can extinguish</b></font>
+
+283
+00:12:21,910 --> 00:12:23,910
+<font face="Trebuchet MS" size="24"><b>any other cursed technique.</b></font>
+
+284
+00:12:24,870 --> 00:12:27,790
+<font face="Trebuchet MS" size="24"><b>HANA KURUSU</b></font>
+
+285
+00:12:27,830 --> 00:12:30,920
+<font face="Trebuchet MS" size="24"><b>EPISODE 50
+ABOUT THE CULLING GAME</b></font>
+
+286
+00:12:31,460 --> 00:12:34,210
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] Extinguish
+any cursed technique?</b></font>
+
+287
+00:12:34,550 --> 00:12:35,880
+<font face="Trebuchet MS" size="24"><b>[TENGEN] Yes.</b></font>
+
+288
+00:12:35,920 --> 00:12:38,130
+<font face="Trebuchet MS" size="24"><b>And Angel's cursed technique
+also has the power</b></font>
+
+289
+00:12:38,170 --> 00:12:40,130
+<font face="Trebuchet MS" size="24"><b>to open the Back
+of the Prison Realm.</b></font>
+
+290
+00:12:41,010 --> 00:12:43,140
+<font face="Trebuchet MS" size="24"><b>Can you tell us
+where she is right now?</b></font>
+
+291
+00:12:43,510 --> 00:12:46,430
+<font face="Trebuchet MS" size="24"><b>She's in the Colony
+on the east side of Tokyo.</b></font>
+
+292
+00:12:46,470 --> 00:12:48,600
+<font face="Trebuchet MS" size="24"><b>The barriers
+of the Culling Game reject me.</b></font>
+
+293
+00:12:48,640 --> 00:12:51,190
+<font face="Trebuchet MS" size="24"><b>I'm afraid I don't have
+any more information than that.</b></font>
+
+294
+00:12:51,230 --> 00:12:52,270
+<font face="Trebuchet MS" size="24"><b>[gasps]</b></font>
+
+295
+00:12:56,900 --> 00:12:59,570
+<font face="Trebuchet MS" size="24"><b>[TENGEN] Let's start
+going over things from there.</b></font>
+
+296
+00:12:59,610 --> 00:13:02,200
+<font face="Trebuchet MS" size="24"><b>There are 10 Colonies
+across Japan.</b></font>
+
+297
+00:13:02,240 --> 00:13:04,120
+<font face="Trebuchet MS" size="24"><b>They are linked together
+by barriers</b></font>
+
+298
+00:13:04,160 --> 00:13:07,750
+<font face="Trebuchet MS" size="24"><b>designed to ferry the country's
+people over to the other side.</b></font>
+
+299
+00:13:07,790 --> 00:13:09,370
+<font face="Trebuchet MS" size="24"><b>[AKARI] Crossing a river
+or other border,</b></font>
+
+300
+00:13:09,410 --> 00:13:11,920
+<font face="Trebuchet MS" size="24"><b>acts that symbolize
+crossing over to the afterlife,</b></font>
+
+301
+00:13:11,960 --> 00:13:14,380
+<font face="Trebuchet MS" size="24"><b>these carry important
+meanings in sorcery.</b></font>
+
+302
+00:13:14,420 --> 00:13:16,670
+<font face="Trebuchet MS" size="24"><b>Oh. It's like
+with Yasohachi Bridge!</b></font>
+
+303
+00:13:16,710 --> 00:13:17,800
+<font face="Trebuchet MS" size="24"><b>YASOHACHI BRIDGE'S RIVER
+OTHER SIDE - COLONIES' BARRIERS</b></font>
+
+304
+00:13:31,770 --> 00:13:34,190
+<font face="Trebuchet MS" size="24"><b>The Jujutsu Society's barrier?</b></font>
+
+305
+00:13:34,230 --> 00:13:36,070
+<font face="Trebuchet MS" size="24"><b>So, is Hokkaido excluded?</b></font>
+
+306
+00:13:36,110 --> 00:13:37,570
+<font face="Trebuchet MS" size="24"><b>[TENGEN] It is.</b></font>
+
+307
+00:13:37,610 --> 00:13:41,030
+<font face="Trebuchet MS" size="24"><b>That land is already established
+as a vast sacred ground.</b></font>
+
+308
+00:13:41,450 --> 00:13:43,700
+<font face="Trebuchet MS" size="24"><b>I guess that's
+"the challenging land" for you.</b></font>
+
+309
+00:13:44,370 --> 00:13:46,450
+<font face="Trebuchet MS" size="24"><b>[TENGEN]
+"Ferry them to the other side"</b></font>
+
+310
+00:13:46,490 --> 00:13:48,370
+<font face="Trebuchet MS" size="24"><b>may sound a bit dramatic,</b></font>
+
+311
+00:13:48,410 --> 00:13:50,250
+<font face="Trebuchet MS" size="24"><b>but everyone in Japan was cursed</b></font>
+
+312
+00:13:50,290 --> 00:13:53,290
+<font face="Trebuchet MS" size="24"><b>in preparation
+for the upcoming assimilation.</b></font>
+
+313
+00:13:58,630 --> 00:14:00,470
+<font face="Trebuchet MS" size="24"><b>WARM-UP COMPLETE
+THE CULLING GAME</b></font>
+
+314
+00:14:00,510 --> 00:14:01,880
+<font face="Trebuchet MS" size="24"><b>[MEGUMI]
+Tell me about this ritual.</b></font>
+
+315
+00:14:01,920 --> 00:14:03,590
+<font face="Trebuchet MS" size="24"><b>How long will it take
+to complete?</b></font>
+
+316
+00:14:04,010 --> 00:14:05,800
+<font face="Trebuchet MS" size="24"><b>Depends on the Culling Game.</b></font>
+
+317
+00:14:05,840 --> 00:14:07,970
+<font face="Trebuchet MS" size="24"><b>My guess, it's over
+in two months.</b></font>
+
+318
+00:14:09,350 --> 00:14:10,770
+<font face="Trebuchet MS" size="24"><b>1: PLAYERS MUST GO TO A COLONY
+WITHIN 19 DAYS</b></font>
+
+319
+00:14:10,810 --> 00:14:11,930
+<font face="Trebuchet MS" size="24"><b>AND PLEDGE THEIR PARTICIPATION
+IN THE CULLING GAME.</b></font>
+
+320
+00:14:11,980 --> 00:14:14,650
+<font face="Trebuchet MS" size="24"><b>It is currently 9:00 a.m.
+on the 9th of November.</b></font>
+
+321
+00:14:14,690 --> 00:14:17,400
+<font face="Trebuchet MS" size="24"><b>Nine days since the players
+awakened as sorcerers,</b></font>
+
+322
+00:14:17,440 --> 00:14:20,150
+<font face="Trebuchet MS" size="24"><b>which happened October 31st,
+around midnight.</b></font>
+
+323
+00:14:20,780 --> 00:14:23,780
+<font face="Trebuchet MS" size="24"><b>That gives us about 10 days
+and 15 hours to go</b></font>
+
+324
+00:14:24,240 --> 00:14:26,240
+<font face="Trebuchet MS" size="24"><b>before Tsumiki's forced to play.</b></font>
+
+325
+00:14:26,280 --> 00:14:27,950
+<font face="Trebuchet MS" size="24"><b>REMAINING TIME UNTIL TSUMIKI
+MUST ENTER THE CULLING GAME</b></font>
+
+326
+00:14:27,990 --> 00:14:30,750
+<font face="Trebuchet MS" size="24"><b>OBTAIN 100 POINTS AND ADD A RULE
+ALLOWING PEOPLE TO ESCAPE.</b></font>
+
+327
+00:14:31,910 --> 00:14:33,410
+<font face="Trebuchet MS" size="24"><b>2: PLAYERS BREACHING RULE SHALL
+BE STRIPPED OF THEIR TECHNIQUE.</b></font>
+
+328
+00:14:33,460 --> 00:14:35,000
+<font face="Trebuchet MS" size="24"><b>Tengen, you said before</b></font>
+
+329
+00:14:35,040 --> 00:14:37,380
+<font face="Trebuchet MS" size="24"><b>that people would die
+if they refused to participate.</b></font>
+
+330
+00:14:37,420 --> 00:14:38,880
+<font face="Trebuchet MS" size="24"><b>That's right.</b></font>
+
+331
+00:14:39,340 --> 00:14:41,380
+<font face="Trebuchet MS" size="24"><b>They get stripped
+of their technique, huh?</b></font>
+
+332
+00:14:41,420 --> 00:14:43,050
+<font face="Trebuchet MS" size="24"><b>I believe that rule also applies</b></font>
+
+333
+00:14:43,090 --> 00:14:45,180
+<font face="Trebuchet MS" size="24"><b>to any sorcerers
+joining in later.</b></font>
+
+334
+00:14:45,970 --> 00:14:48,390
+<font face="Trebuchet MS" size="24"><b>If that's the case,
+the stripping isn't being done</b></font>
+
+335
+00:14:48,430 --> 00:14:51,060
+<font face="Trebuchet MS" size="24"><b>by Idle Transfiguration.</b></font>
+
+336
+00:14:51,100 --> 00:14:52,890
+<font face="Trebuchet MS" size="24"><b>It's not a pact either.</b></font>
+
+337
+00:14:52,930 --> 00:14:55,600
+<font face="Trebuchet MS" size="24"><b>Because it says "stripped,"
+not "prohibited."</b></font>
+
+338
+00:14:55,650 --> 00:14:58,020
+<font face="Trebuchet MS" size="24"><b>[exhales]
+So that probably means</b></font>
+
+339
+00:14:58,060 --> 00:15:01,070
+<font face="Trebuchet MS" size="24"><b>it'll be doing something
+to the brain by force.</b></font>
+
+340
+00:15:01,110 --> 00:15:04,320
+<font face="Trebuchet MS" size="24"><b>And it's better for the rules if
+being stripped means death, too.</b></font>
+
+341
+00:15:04,360 --> 00:15:07,370
+<font face="Trebuchet MS" size="24"><b>Otherwise, everyone
+would refuse to participate.</b></font>
+
+342
+00:15:07,660 --> 00:15:09,990
+<font face="Trebuchet MS" size="24"><b>It's just as Shoko anticipated.</b></font>
+
+343
+00:15:10,030 --> 00:15:11,910
+<font face="Trebuchet MS" size="24"><b>But that also means
+there's no risk</b></font>
+
+344
+00:15:11,950 --> 00:15:14,790
+<font face="Trebuchet MS" size="24"><b>to sorcerers without any
+cursed technique like me.</b></font>
+
+345
+00:15:15,290 --> 00:15:17,210
+<font face="Trebuchet MS" size="24"><b>And what'll happen to Panda?</b></font>
+
+346
+00:15:17,250 --> 00:15:18,920
+<font face="Trebuchet MS" size="24"><b>Does he even have a brain?</b></font>
+
+347
+00:15:20,210 --> 00:15:22,510
+<font face="Trebuchet MS" size="24"><b>3: NON-PLAYERS SHALL BECOME
+PLAYERS UPON ENTERING A COLONY</b></font>
+
+348
+00:15:22,550 --> 00:15:23,840
+<font face="Trebuchet MS" size="24"><b>About this rule,</b></font>
+
+349
+00:15:23,880 --> 00:15:25,800
+<font face="Trebuchet MS" size="24"><b>what does it mean
+for the ordinary people</b></font>
+
+350
+00:15:25,840 --> 00:15:27,840
+<font face="Trebuchet MS" size="24"><b>who are in the Colony
+from the start?</b></font>
+
+351
+00:15:28,180 --> 00:15:29,390
+<font face="Trebuchet MS" size="24"><b>It means anyone who wants</b></font>
+
+352
+00:15:29,430 --> 00:15:31,640
+<font face="Trebuchet MS" size="24"><b>will be granted at least
+one chance to leave.</b></font>
+
+353
+00:15:31,680 --> 00:15:33,060
+<font face="Trebuchet MS" size="24"><b>For real?</b></font>
+
+354
+00:15:33,100 --> 00:15:34,810
+<font face="Trebuchet MS" size="24"><b>How awfully generous.</b></font>
+
+355
+00:15:35,390 --> 00:15:37,600
+<font face="Trebuchet MS" size="24"><b>[TENGEN] There are
+no stipulations in the rules</b></font>
+
+356
+00:15:37,650 --> 00:15:40,150
+<font face="Trebuchet MS" size="24"><b>about leaving
+or entering Colonies.</b></font>
+
+357
+00:15:40,190 --> 00:15:42,780
+<font face="Trebuchet MS" size="24"><b>They were probably trying
+to stimulate the Culling Game</b></font>
+
+358
+00:15:42,820 --> 00:15:45,070
+<font face="Trebuchet MS" size="24"><b>by giving players
+a clear first-time goal</b></font>
+
+359
+00:15:45,110 --> 00:15:48,240
+<font face="Trebuchet MS" size="24"><b>of leaving the Colony
+with their lives intact.</b></font>
+
+360
+00:15:48,280 --> 00:15:51,200
+<font face="Trebuchet MS" size="24"><b>In order to keep the players
+inside for the duration,</b></font>
+
+361
+00:15:51,240 --> 00:15:54,200
+<font face="Trebuchet MS" size="24"><b>the premise that players entered
+of their own free will</b></font>
+
+362
+00:15:54,250 --> 00:15:56,080
+<font face="Trebuchet MS" size="24"><b>is extremely important.</b></font>
+
+363
+00:15:56,120 --> 00:15:58,920
+<font face="Trebuchet MS" size="24"><b>Ino mentioned that thing about
+adjusting the barrier strength.</b></font>
+
+364
+00:15:59,880 --> 00:16:01,710
+<font face="Trebuchet MS" size="24"><b>4: PLAYERS WILL RECEIVE POINTS</b></font>
+
+365
+00:16:01,750 --> 00:16:04,130
+<font face="Trebuchet MS" size="24"><b>UPON ENDING THE LIFE
+OF ANOTHER PLAYER.</b></font>
+
+366
+00:16:04,170 --> 00:16:05,840
+<font face="Trebuchet MS" size="24"><b>ENDING THE LIFE</b></font>
+
+367
+00:16:05,880 --> 00:16:08,090
+<font face="Trebuchet MS" size="24"><b>[Yuji exhales]</b></font>
+
+368
+00:16:08,130 --> 00:16:09,890
+<font face="Trebuchet MS" size="24"><b>5: POINTS SHALL BE DESIGNATED
+BASED ON THE VALUE</b></font>
+
+369
+00:16:09,930 --> 00:16:11,390
+<font face="Trebuchet MS" size="24"><b>THAT THE GAME MASTER
+GIVES THEIR LIFE</b></font>
+
+370
+00:16:11,430 --> 00:16:14,140
+<font face="Trebuchet MS" size="24"><b>Using "fundamentally" in a rule.
+Why make it confusing?</b></font>
+
+371
+00:16:14,180 --> 00:16:16,180
+<font face="Trebuchet MS" size="24"><b>-[Megumi grunts]
+-Eh, is something wrong?</b></font>
+
+372
+00:16:16,600 --> 00:16:17,890
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] It's nothing.</b></font>
+
+373
+00:16:17,940 --> 00:16:20,440
+<font face="Trebuchet MS" size="24"><b>Tengen, who is this Game Master?</b></font>
+
+374
+00:16:20,480 --> 00:16:21,560
+<font face="Trebuchet MS" size="24"><b>GAME MASTER</b></font>
+
+375
+00:16:21,980 --> 00:16:23,520
+<font face="Trebuchet MS" size="24"><b>[TENGEN] Every individual player</b></font>
+
+376
+00:16:23,570 --> 00:16:26,400
+<font face="Trebuchet MS" size="24"><b>is given a shikigami
+called "Kogane."</b></font>
+
+377
+00:16:26,820 --> 00:16:30,280
+<font face="Trebuchet MS" size="24"><b>To be precise,
+Kogane isn't the Game Master.</b></font>
+
+378
+00:16:30,320 --> 00:16:31,780
+<font face="Trebuchet MS" size="24"><b>It's an interface.</b></font>
+
+379
+00:16:31,830 --> 00:16:34,790
+<font face="Trebuchet MS" size="24"><b>It's best to think of
+the Culling Game itself</b></font>
+
+380
+00:16:34,830 --> 00:16:36,450
+<font face="Trebuchet MS" size="24"><b>as the Game Master.</b></font>
+
+381
+00:16:37,620 --> 00:16:39,250
+<font face="Trebuchet MS" size="24"><b>Okay, I got it.</b></font>
+
+382
+00:16:40,210 --> 00:16:41,540
+<font face="Trebuchet MS" size="24"><b>6: BY SPENDING 100 POINTS,
+PLAYERS MAY NEGOTIATE</b></font>
+
+383
+00:16:41,580 --> 00:16:42,290
+<font face="Trebuchet MS" size="24"><b>WITH THE GAME MASTER TO ADD
+AN ADDITIONAL RULE</b></font>
+
+384
+00:16:42,340 --> 00:16:44,090
+<font face="Trebuchet MS" size="24"><b>So we can add, but</b></font>
+
+385
+00:16:44,130 --> 00:16:47,010
+<font face="Trebuchet MS" size="24"><b>we're not allowed
+to eliminate any existing rules.</b></font>
+
+386
+00:16:47,050 --> 00:16:48,590
+<font face="Trebuchet MS" size="24"><b>[Yuji groans]</b></font>
+
+387
+00:16:48,630 --> 00:16:51,430
+<font face="Trebuchet MS" size="24"><b>Maybe we'll be able to come up
+with some kind of workaround.</b></font>
+
+388
+00:16:53,010 --> 00:16:55,220
+<font face="Trebuchet MS" size="24"><b>7: THE GAME MASTER MUST APPROVE
+ANY ADDITIONAL RULES</b></font>
+
+389
+00:16:55,260 --> 00:16:56,470
+<font face="Trebuchet MS" size="24"><b>How's that allowed?</b></font>
+
+390
+00:16:57,520 --> 00:16:58,690
+<font face="Trebuchet MS" size="24"><b>Yeah, right.</b></font>
+
+391
+00:16:58,730 --> 00:17:01,020
+<font face="Trebuchet MS" size="24"><b>It leans too heavily
+on their own judgment.</b></font>
+
+392
+00:17:01,350 --> 00:17:02,400
+<font face="Trebuchet MS" size="24"><b>No.</b></font>
+
+393
+00:17:02,440 --> 00:17:04,020
+<font face="Trebuchet MS" size="24"><b>You should expect
+a fair decision</b></font>
+
+394
+00:17:04,060 --> 00:17:05,940
+<font face="Trebuchet MS" size="24"><b>when it comes to all challenges.</b></font>
+
+395
+00:17:05,980 --> 00:17:07,860
+<font face="Trebuchet MS" size="24"><b>They're already
+subjecting the players</b></font>
+
+396
+00:17:07,900 --> 00:17:09,530
+<font face="Trebuchet MS" size="24"><b>to such stringent rules.</b></font>
+
+397
+00:17:09,570 --> 00:17:11,490
+<font face="Trebuchet MS" size="24"><b>Jujutsu sorcery
+would not allow them</b></font>
+
+398
+00:17:11,530 --> 00:17:14,280
+<font face="Trebuchet MS" size="24"><b>to show more favoritism
+towards Kenjaku.</b></font>
+
+399
+00:17:15,160 --> 00:17:16,580
+<font face="Trebuchet MS" size="24"><b>8: PLAYERS WHO DO NOT SHOW
+A CHANGE IN POINTS</b></font>
+
+400
+00:17:16,620 --> 00:17:17,750
+<font face="Trebuchet MS" size="24"><b>WITHIN 19 DAYS SHALL BE
+STRIPPED OF THEIR TECHNIQUE.</b></font>
+
+401
+00:17:17,790 --> 00:17:19,960
+<font face="Trebuchet MS" size="24"><b>So then, does that mean
+I'll be killing people again?</b></font>
+
+402
+00:17:20,540 --> 00:17:21,830
+<font face="Trebuchet MS" size="24"><b>Maybe not.</b></font>
+
+403
+00:17:21,880 --> 00:17:23,290
+<font face="Trebuchet MS" size="24"><b>I have a few ideas.</b></font>
+
+404
+00:17:26,590 --> 00:17:29,470
+<font face="Trebuchet MS" size="24"><b>[MAKI] We've managed to organize
+our information for now.</b></font>
+
+405
+00:17:29,510 --> 00:17:31,630
+<font face="Trebuchet MS" size="24"><b>That just leaves the roles
+for each of us.</b></font>
+
+406
+00:17:31,680 --> 00:17:33,090
+<font face="Trebuchet MS" size="24"><b>FUTURE ACTIONS</b></font>
+
+407
+00:17:33,470 --> 00:17:35,560
+<font face="Trebuchet MS" size="24"><b>Yuki and Choso will remain here.</b></font>
+
+408
+00:17:35,760 --> 00:17:36,890
+<font face="Trebuchet MS" size="24"><b>They'll guard Tengen.</b></font>
+
+409
+00:17:36,930 --> 00:17:38,220
+<font face="Trebuchet MS" size="24"><b>CHOSO - YUKI TSUKUMO
+GUARD TENGEN</b></font>
+
+410
+00:17:38,730 --> 00:17:41,140
+<font face="Trebuchet MS" size="24"><b>Meanwhile, I need to return
+to the Zen'in house</b></font>
+
+411
+00:17:41,190 --> 00:17:42,730
+<font face="Trebuchet MS" size="24"><b>to get their cursed tools.</b></font>
+
+412
+00:17:43,810 --> 00:17:45,310
+<font face="Trebuchet MS" size="24"><b>Right after Gojo was sealed,</b></font>
+
+413
+00:17:45,360 --> 00:17:47,860
+<font face="Trebuchet MS" size="24"><b>the Kamo and Zen'in clans
+both took their cursed tools</b></font>
+
+414
+00:17:47,900 --> 00:17:50,030
+<font face="Trebuchet MS" size="24"><b>out of Jujutsu High's
+forbidden vault.</b></font>
+
+415
+00:17:50,070 --> 00:17:52,860
+<font face="Trebuchet MS" size="24"><b>However, Megumi's now
+the head of the Zen'in clan.</b></font>
+
+416
+00:17:52,910 --> 00:17:55,830
+<font face="Trebuchet MS" size="24"><b>-Huh?
+-I'll explain it to you later.</b></font>
+
+417
+00:17:56,160 --> 00:17:59,290
+<font face="Trebuchet MS" size="24"><b>So we're free to rummage through
+the Zen'in's forbidden vault.</b></font>
+
+418
+00:17:59,330 --> 00:18:02,460
+<font face="Trebuchet MS" size="24"><b>But, before that, Tengen?</b></font>
+
+419
+00:18:02,790 --> 00:18:06,920
+<font face="Trebuchet MS" size="24"><b>I know what you want.
+It's Juzo Kumiya's atelier.</b></font>
+
+420
+00:18:06,960 --> 00:18:08,340
+<font face="Trebuchet MS" size="24"><b>Yes, thank you.</b></font>
+
+421
+00:18:08,380 --> 00:18:10,510
+<font face="Trebuchet MS" size="24"><b>Once I'm finished,
+I'll look for Panda.</b></font>
+
+422
+00:18:10,550 --> 00:18:13,180
+<font face="Trebuchet MS" size="24"><b>After that, I'll help
+deal with the Culling Game.</b></font>
+
+423
+00:18:13,220 --> 00:18:14,590
+<font face="Trebuchet MS" size="24"><b>And you, Yuta?</b></font>
+
+424
+00:18:15,180 --> 00:18:17,560
+<font face="Trebuchet MS" size="24"><b>I'll enter a Colony and
+participate in the Culling Game.</b></font>
+
+425
+00:18:17,600 --> 00:18:18,970
+<font face="Trebuchet MS" size="24"><b>The sooner, the better.</b></font>
+
+426
+00:18:19,020 --> 00:18:20,980
+<font face="Trebuchet MS" size="24"><b>Before Tsumiki and
+Fushiguro enter,</b></font>
+
+427
+00:18:21,020 --> 00:18:22,730
+<font face="Trebuchet MS" size="24"><b>I want to know as much as I can.</b></font>
+
+428
+00:18:22,770 --> 00:18:24,770
+<font face="Trebuchet MS" size="24"><b>Then I'll be
+thoroughly prepared.</b></font>
+
+429
+00:18:25,520 --> 00:18:26,560
+<font face="Trebuchet MS" size="24"><b>Thank you.</b></font>
+
+430
+00:18:27,230 --> 00:18:29,730
+<font face="Trebuchet MS" size="24"><b>It'll mean acting
+on my own once again.</b></font>
+
+431
+00:18:29,780 --> 00:18:33,150
+<font face="Trebuchet MS" size="24"><b>However, in order to prevent us
+from clashing with each other,</b></font>
+
+432
+00:18:33,200 --> 00:18:36,530
+<font face="Trebuchet MS" size="24"><b>and in case something does
+happen to Tsumiki out there,</b></font>
+
+433
+00:18:36,570 --> 00:18:38,450
+<font face="Trebuchet MS" size="24"><b>I'll avoid the nearby Colonies.</b></font>
+
+434
+00:18:39,540 --> 00:18:41,250
+<font face="Trebuchet MS" size="24"><b>We should be aware
+that the Colonies</b></font>
+
+435
+00:18:41,290 --> 00:18:42,410
+<font face="Trebuchet MS" size="24"><b>might cut off reception,</b></font>
+
+436
+00:18:42,460 --> 00:18:44,670
+<font face="Trebuchet MS" size="24"><b>so I might be
+out of contact for a while.</b></font>
+
+437
+00:18:45,000 --> 00:18:46,330
+<font face="Trebuchet MS" size="24"><b>[both gasp]</b></font>
+
+438
+00:18:46,380 --> 00:18:48,500
+<font face="Trebuchet MS" size="24"><b>If Sukuna appears
+and takes control of me again,</b></font>
+
+439
+00:18:48,540 --> 00:18:50,000
+<font face="Trebuchet MS" size="24"><b>I need you to kill me.</b></font>
+
+440
+00:18:50,050 --> 00:18:51,460
+<font face="Trebuchet MS" size="24"><b>Having Okkotsu near Itadori
+would keep Fushiguro safe,</b></font>
+
+441
+00:18:51,510 --> 00:18:52,470
+<font face="Trebuchet MS" size="24"><b>but it would be more efficient
+for Okkotsu to act alone.</b></font>
+
+442
+00:18:52,510 --> 00:18:54,510
+<font face="Trebuchet MS" size="24"><b>-[groans]
+-Don't worry about that now.</b></font>
+
+443
+00:18:55,010 --> 00:18:56,220
+<font face="Trebuchet MS" size="24"><b>It's gonna be fine.</b></font>
+
+444
+00:18:56,260 --> 00:18:58,680
+<font face="Trebuchet MS" size="24"><b>If that happens,
+you can have him kill you.</b></font>
+
+445
+00:18:58,720 --> 00:19:00,010
+<font face="Trebuchet MS" size="24"><b>After I die.</b></font>
+
+446
+00:19:00,060 --> 00:19:02,600
+<font face="Trebuchet MS" size="24"><b>Yeah, well, I'm trying
+to avoid that situation.</b></font>
+
+447
+00:19:03,640 --> 00:19:05,020
+<font face="Trebuchet MS" size="24"><b>Maki.</b></font>
+
+448
+00:19:05,060 --> 00:19:06,520
+<font face="Trebuchet MS" size="24"><b>Right.</b></font>
+
+449
+00:19:06,560 --> 00:19:09,270
+<font face="Trebuchet MS" size="24"><b>I want you two to meet up
+with Kinji like we planned.</b></font>
+
+450
+00:19:09,320 --> 00:19:10,360
+<font face="Trebuchet MS" size="24"><b>Kinji?</b></font>
+
+451
+00:19:10,400 --> 00:19:11,900
+<font face="Trebuchet MS" size="24"><b>Kinji Hakari.</b></font>
+
+452
+00:19:11,940 --> 00:19:14,070
+<font face="Trebuchet MS" size="24"><b>The third-year guy
+that got suspended.</b></font>
+
+453
+00:19:14,570 --> 00:19:17,320
+<font face="Trebuchet MS" size="24"><b>We're shorthanded,
+so it's all hands on deck.</b></font>
+
+454
+00:19:17,360 --> 00:19:19,330
+<font face="Trebuchet MS" size="24"><b>Do whatever it takes
+to recruit him.</b></font>
+
+455
+00:19:19,370 --> 00:19:20,990
+<font face="Trebuchet MS" size="24"><b>[YUJI] Is he strong, at least?</b></font>
+
+456
+00:19:21,700 --> 00:19:23,200
+<font face="Trebuchet MS" size="24"><b>He's a bit erratic,</b></font>
+
+457
+00:19:23,250 --> 00:19:26,040
+<font face="Trebuchet MS" size="24"><b>but if he gets into it, he can
+be even stronger than I am.</b></font>
+
+458
+00:19:26,080 --> 00:19:27,500
+<font face="Trebuchet MS" size="24"><b>That is impossible.</b></font>
+
+459
+00:19:30,000 --> 00:19:31,380
+<font face="Trebuchet MS" size="24"><b>KENJAKU'S OBJECTIVE (ROAD MAP)</b></font>
+
+460
+00:19:35,420 --> 00:19:36,630
+<font face="Trebuchet MS" size="24"><b>THE EVOLUTION OF MANKIND
+THROUGHOUT ALL JAPAN</b></font>
+
+461
+00:19:36,680 --> 00:19:38,010
+<font face="Trebuchet MS" size="24"><b>THE CULLING GAME'S OBJECTIVE</b></font>
+
+462
+00:19:41,180 --> 00:19:42,850
+<font face="Trebuchet MS" size="24"><b>ASSIMILATE MANKIND WITH TENGEN</b></font>
+
+463
+00:19:42,890 --> 00:19:43,930
+<font face="Trebuchet MS" size="24"><b>ITADORI'S FRIENDS' MISSION</b></font>
+
+464
+00:19:48,730 --> 00:19:51,520
+<font face="Trebuchet MS" size="24"><b>EACH PERSON'S ACTIONS</b></font>
+
+465
+00:19:51,570 --> 00:19:53,150
+<font face="Trebuchet MS" size="24"><b>PARTICIPATE IN THE CULLING GAME
+REMAIN IN THE TOMBS OF THE STAR</b></font>
+
+466
+00:20:06,710 --> 00:20:07,790
+<font face="Trebuchet MS" size="24"><b>Choso!</b></font>
+
+467
+00:20:08,460 --> 00:20:10,380
+<font face="Trebuchet MS" size="24"><b>I wanna thank you
+for all the help.</b></font>
+
+468
+00:20:11,630 --> 00:20:13,000
+<font face="Trebuchet MS" size="24"><b>Don't die out there.</b></font>
+
+469
+00:20:17,970 --> 00:20:19,840
+<font face="Trebuchet MS" size="24"><b>[Choso crying]</b></font>
+
+470
+00:20:19,890 --> 00:20:22,220
+<font face="Trebuchet MS" size="24"><b>-Are you really crying?
+-[CHOSO] Shh. Shh.</b></font>
+
+471
+00:20:28,390 --> 00:20:31,230
+<font face="Trebuchet MS" size="24"><b>[yawns]</b></font>
+
+472
+00:20:32,690 --> 00:20:35,190
+<font face="Trebuchet MS" size="24"><b>Uh, thanks for coming.</b></font>
+
+473
+00:20:35,740 --> 00:20:38,530
+<font face="Trebuchet MS" size="24"><b>-[scattered applause]
+-[MAN] Takaba!</b></font>
+
+474
+00:20:38,570 --> 00:20:41,070
+<font face="Trebuchet MS" size="24"><b>How long are you
+gonna keep doin' that crap?</b></font>
+
+475
+00:20:41,120 --> 00:20:43,780
+<font face="Trebuchet MS" size="24"><b>Cut it out! [sighs]
+You're making me depressed.</b></font>
+
+476
+00:20:43,830 --> 00:20:45,290
+<font face="Trebuchet MS" size="24"><b>The audience too.</b></font>
+
+477
+00:20:45,330 --> 00:20:47,910
+<font face="Trebuchet MS" size="24"><b>[TAKABA] Yeah, I know.
+[sniffles]</b></font>
+
+478
+00:20:47,960 --> 00:20:49,370
+<font face="Trebuchet MS" size="24"><b>[MAN] How old are you now?</b></font>
+
+479
+00:20:49,870 --> 00:20:51,210
+<font face="Trebuchet MS" size="24"><b>35 years old.</b></font>
+
+480
+00:20:51,250 --> 00:20:53,040
+<font face="Trebuchet MS" size="24"><b>Just give it up already!</b></font>
+
+481
+00:20:53,090 --> 00:20:55,550
+<font face="Trebuchet MS" size="24"><b>Our industry,
+it's full of late-bloomers</b></font>
+
+482
+00:20:55,590 --> 00:20:58,300
+<font face="Trebuchet MS" size="24"><b>who suddenly make it big
+for no good reason.</b></font>
+
+483
+00:20:58,340 --> 00:20:59,840
+<font face="Trebuchet MS" size="24"><b>But not a single one</b></font>
+
+484
+00:20:59,880 --> 00:21:02,930
+<font face="Trebuchet MS" size="24"><b>out of the blue suddenly
+actually became funnier!</b></font>
+
+485
+00:21:02,970 --> 00:21:04,260
+<font face="Trebuchet MS" size="24"><b>They were already funny people</b></font>
+
+486
+00:21:04,300 --> 00:21:06,930
+<font face="Trebuchet MS" size="24"><b>waiting patiently
+to be discovered.</b></font>
+
+487
+00:21:06,970 --> 00:21:08,980
+<font face="Trebuchet MS" size="24"><b>That ain't the case for you.</b></font>
+
+488
+00:21:09,020 --> 00:21:10,440
+<font face="Trebuchet MS" size="24"><b>Look what happened to Tokyo.</b></font>
+
+489
+00:21:10,480 --> 00:21:12,150
+<font face="Trebuchet MS" size="24"><b>No one's gonna think ill of you.</b></font>
+
+490
+00:21:12,190 --> 00:21:14,730
+<font face="Trebuchet MS" size="24"><b>Go do something
+you're actually suited for.</b></font>
+
+491
+00:21:14,770 --> 00:21:17,780
+<font face="Trebuchet MS" size="24"><b>-[door opens, closes]
+-[sobbing]</b></font>
+
+492
+00:21:18,530 --> 00:21:20,530
+<font face="Trebuchet MS" size="24"><b>I always thought
+you were kind of funny.</b></font>
+
+493
+00:21:20,570 --> 00:21:22,410
+<font face="Trebuchet MS" size="24"><b>-You always made me laugh.
+-Huh?</b></font>
+
+494
+00:21:23,780 --> 00:21:24,990
+<font face="Trebuchet MS" size="24"><b>You mean it, Ken?</b></font>
+
+495
+00:21:25,030 --> 00:21:27,490
+<font face="Trebuchet MS" size="24"><b>Both you and him
+have the wrong idea.</b></font>
+
+496
+00:21:28,290 --> 00:21:31,170
+<font face="Trebuchet MS" size="24"><b>There are people who ain't funny
+that still make it big.</b></font>
+
+497
+00:21:35,210 --> 00:21:37,050
+<font face="Trebuchet MS" size="24"><b>Are they one-gag comics
+like me, though?</b></font>
+
+498
+00:21:37,090 --> 00:21:38,550
+<font face="Trebuchet MS" size="24"><b>Absolutely not.</b></font>
+
+499
+00:21:38,590 --> 00:21:41,880
+<font face="Trebuchet MS" size="24"><b>There are two types of comedians
+that manage to stay big.</b></font>
+
+500
+00:21:41,930 --> 00:21:44,010
+<font face="Trebuchet MS" size="24"><b>Comedians who are always funny,</b></font>
+
+501
+00:21:44,050 --> 00:21:45,350
+<font face="Trebuchet MS" size="24"><b>and comedians who can go ahead</b></font>
+
+502
+00:21:45,390 --> 00:21:48,100
+<font face="Trebuchet MS" size="24"><b>and delude themselves
+into believing they are.</b></font>
+
+503
+00:21:51,520 --> 00:21:52,770
+<font face="Trebuchet MS" size="24"><b>[exhales]</b></font>
+
+504
+00:21:54,440 --> 00:21:56,230
+<font face="Trebuchet MS" size="24"><b>So which type are you?</b></font>
+
+505
+00:21:56,270 --> 00:21:58,480
+<font face="Trebuchet MS" size="24"><b>[TAKABA] Well, I'd like to think
+I'm 50-50. [chuckles]</b></font>
+
+506
+00:21:58,530 --> 00:22:01,820
+<font face="Trebuchet MS" size="24"><b>But in actuality, it's probably
+a lot closer to 70-30.</b></font>
+
+507
+00:22:01,860 --> 00:22:03,660
+<font face="Trebuchet MS" size="24"><b>Uh... [inhales sharply]</b></font>
+
+508
+00:22:03,700 --> 00:22:06,200
+<font face="Trebuchet MS" size="24"><b>-[♪ suspenseful music playing]
+-50-50 or 70-30!</b></font>
+
+509
+00:22:06,870 --> 00:22:09,870
+<font face="Trebuchet MS" size="24"><b>CULLING GAME PLAYER
+FUMIHIKO TAKABA</b></font>
+
+510
+00:22:10,330 --> 00:22:12,460
+<font face="Trebuchet MS" size="24"><b>[♪ closing theme song playing]</b></font>
+
+511
+00:23:40,960 --> 00:23:43,300
+<font face="Trebuchet MS" size="24"><b>-[MAKI] Mai, let's get started.
+-[MAI] Why did you come here?</b></font>
+
+512
+00:23:43,340 --> 00:23:45,550
+<font face="Trebuchet MS" size="24"><b>[NAOYA] I think I'll bully you
+like I used to, remember?</b></font>
+
+513
+00:23:45,590 --> 00:23:46,760
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] Please do it, Maki.</b></font>
+
+514
+00:23:46,800 --> 00:23:49,010
+<font face="Trebuchet MS" size="24"><b>[MAI] You are me, and I am you.</b></font>
+
+515
+00:23:49,050 --> 00:23:50,550
+<font face="Trebuchet MS" size="24"><b>[MAKI AND MAI'S MOTHER]
+I gave birth to you.</b></font>
+
+516
+00:23:50,600 --> 00:23:52,220
+<font face="Trebuchet MS" size="24"><b>[OGI] Absolutely ridiculous.</b></font>
+
+517
+00:23:52,680 --> 00:23:53,850
+<font face="Trebuchet MS" size="24"><b>[MAI] Destroy everything.</b></font>
+
+518
+00:23:53,890 --> 00:23:54,980
+<font face="Trebuchet MS" size="24"><b>NEXT EPISODE
+PERFECT PREPARATION</b></font>
+

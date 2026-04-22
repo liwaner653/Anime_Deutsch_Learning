@@ -1,0 +1,2254 @@
+1
+00:00:01,210 --> 00:00:03,380
+<font face="Trebuchet MS" size="24"><b>[♪ opening theme song playing]</b></font>
+
+2
+00:01:41,100 --> 00:01:42,440
+<font face="Trebuchet MS" size="24"><b>[tapping on pen]</b></font>
+
+3
+00:01:42,480 --> 00:01:44,270
+<font face="Trebuchet MS" size="24"><b>Did I tell you I own a cat?</b></font>
+
+4
+00:01:45,810 --> 00:01:47,070
+<font face="Trebuchet MS" size="24"><b>You were saying?</b></font>
+
+5
+00:01:47,940 --> 00:01:50,070
+<font face="Trebuchet MS" size="24"><b>[OE] This cop suddenly
+started speaking to me.</b></font>
+
+6
+00:01:50,860 --> 00:01:52,910
+<font face="Trebuchet MS" size="24"><b>Then there were two,
+and then three of them.</b></font>
+
+7
+00:01:53,410 --> 00:01:54,660
+<font face="Trebuchet MS" size="24"><b>And I thought,
+"If they take me in now,</b></font>
+
+8
+00:01:54,700 --> 00:01:56,370
+<font face="Trebuchet MS" size="24"><b>my cat's gonna die."</b></font>
+
+9
+00:01:57,240 --> 00:01:59,240
+<font face="Trebuchet MS" size="24"><b>My place doesn't allow pets.</b></font>
+
+10
+00:01:59,580 --> 00:02:00,660
+<font face="Trebuchet MS" size="24"><b>So you see,</b></font>
+
+11
+00:02:01,080 --> 00:02:02,830
+<font face="Trebuchet MS" size="24"><b>I'm the only one
+who knows about it.</b></font>
+
+12
+00:02:02,870 --> 00:02:05,710
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] In Morioka City,
+Iwate Prefecture,</b></font>
+
+13
+00:02:05,750 --> 00:02:07,920
+<font face="Trebuchet MS" size="24"><b>in March of 2016,</b></font>
+
+14
+00:02:07,960 --> 00:02:10,300
+<font face="Trebuchet MS" size="24"><b>two people, a young girl
+and her mother,</b></font>
+
+15
+00:02:10,340 --> 00:02:12,720
+<font face="Trebuchet MS" size="24"><b>were found fatally stabbed
+in their own home.</b></font>
+
+16
+00:02:13,130 --> 00:02:16,340
+<font face="Trebuchet MS" size="24"><b>The Morioka Prosecutors Office
+indicted Keita Oe,</b></font>
+
+17
+00:02:16,390 --> 00:02:18,180
+<font face="Trebuchet MS" size="24"><b>who lived near the crime scene.</b></font>
+
+18
+00:02:18,220 --> 00:02:20,890
+<font face="Trebuchet MS" size="24"><b>He was charged
+with felony murder and robbery.</b></font>
+
+19
+00:02:21,430 --> 00:02:23,810
+<font face="Trebuchet MS" size="24"><b>The events leading
+to his arrest were thus.</b></font>
+
+20
+00:02:23,850 --> 00:02:26,810
+<font face="Trebuchet MS" size="24"><b>While being questioned
+by three officers on patrol,</b></font>
+
+21
+00:02:26,860 --> 00:02:28,730
+<font face="Trebuchet MS" size="24"><b>Keita Oe suddenly fled.</b></font>
+
+22
+00:02:28,770 --> 00:02:30,900
+<font face="Trebuchet MS" size="24"><b>The patrolmen chased Oe
+to his home.</b></font>
+
+23
+00:02:31,400 --> 00:02:33,190
+<font face="Trebuchet MS" size="24"><b>Once inside,
+the officers discovered</b></font>
+
+24
+00:02:33,240 --> 00:02:34,820
+<font face="Trebuchet MS" size="24"><b>a knife covered in blood.</b></font>
+
+25
+00:02:35,240 --> 00:02:37,830
+<font face="Trebuchet MS" size="24"><b>Oe was arrested
+in flagrante delicto.</b></font>
+
+26
+00:02:38,450 --> 00:02:39,530
+<font face="Trebuchet MS" size="24"><b>[PATROLMAN 1] He's in here!</b></font>
+
+27
+00:02:39,580 --> 00:02:41,660
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] After DNA analysis,</b></font>
+
+28
+00:02:41,700 --> 00:02:43,160
+<font face="Trebuchet MS" size="24"><b>the blood
+on the blade was revealed</b></font>
+
+29
+00:02:43,200 --> 00:02:45,210
+<font face="Trebuchet MS" size="24"><b>to be a match
+to the victim's DNA.</b></font>
+
+30
+00:02:45,250 --> 00:02:46,330
+<font face="Trebuchet MS" size="24"><b>[slams]</b></font>
+
+31
+00:02:46,370 --> 00:02:49,040
+<font face="Trebuchet MS" size="24"><b>Oe consistently
+denied all charges.</b></font>
+
+32
+00:02:49,090 --> 00:02:51,590
+<font face="Trebuchet MS" size="24"><b>Asked to explain the knife,
+he insisted...</b></font>
+
+33
+00:02:52,090 --> 00:02:53,510
+<font face="Trebuchet MS" size="24"><b>[OE] I just picked it up.</b></font>
+
+34
+00:02:53,880 --> 00:02:55,300
+<font face="Trebuchet MS" size="24"><b>It wasn't mine.</b></font>
+
+35
+00:02:55,340 --> 00:02:57,800
+<font face="Trebuchet MS" size="24"><b>A little hard to believe,
+don't you think so?</b></font>
+
+36
+00:02:58,050 --> 00:03:00,260
+<font face="Trebuchet MS" size="24"><b>He didn't flee questioning
+because of his cat,</b></font>
+
+37
+00:03:00,310 --> 00:03:02,140
+<font face="Trebuchet MS" size="24"><b>he fled because he was guilty.</b></font>
+
+38
+00:03:02,180 --> 00:03:03,520
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] I don't think so.</b></font>
+
+39
+00:03:03,560 --> 00:03:06,390
+<font face="Trebuchet MS" size="24"><b>He had been wrongly detained
+by the police before,</b></font>
+
+40
+00:03:06,440 --> 00:03:09,820
+<font face="Trebuchet MS" size="24"><b>when an acquaintance of his
+was busted for using drugs.</b></font>
+
+41
+00:03:09,860 --> 00:03:11,980
+<font face="Trebuchet MS" size="24"><b>You're saying the police
+traumatized him?</b></font>
+
+42
+00:03:12,030 --> 00:03:14,440
+<font face="Trebuchet MS" size="24"><b>But even so, "I picked it up"?</b></font>
+
+43
+00:03:14,490 --> 00:03:16,240
+<font face="Trebuchet MS" size="24"><b>Who picks up a bloody knife?</b></font>
+
+44
+00:03:16,280 --> 00:03:17,200
+<font face="Trebuchet MS" size="24"><b>No one.</b></font>
+
+45
+00:03:17,740 --> 00:03:19,530
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] He claims
+he was planning to turn it</b></font>
+
+46
+00:03:19,570 --> 00:03:21,040
+<font face="Trebuchet MS" size="24"><b>into the police later.</b></font>
+
+47
+00:03:21,080 --> 00:03:22,330
+<font face="Trebuchet MS" size="24"><b>"Later"?</b></font>
+
+48
+00:03:23,200 --> 00:03:24,710
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] I know, I know.</b></font>
+
+49
+00:03:24,750 --> 00:03:26,620
+<font face="Trebuchet MS" size="24"><b>His claims are all hard
+to believe.</b></font>
+
+50
+00:03:27,000 --> 00:03:29,080
+<font face="Trebuchet MS" size="24"><b>But when you consider
+Oe's background,</b></font>
+
+51
+00:03:29,130 --> 00:03:31,210
+<font face="Trebuchet MS" size="24"><b>the fact he works
+as a live-in employee</b></font>
+
+52
+00:03:31,250 --> 00:03:33,090
+<font face="Trebuchet MS" size="24"><b>at a non-profit organisation,</b></font>
+
+53
+00:03:33,130 --> 00:03:35,420
+<font face="Trebuchet MS" size="24"><b>it definitely starts sounding
+plausible to me.</b></font>
+
+54
+00:03:35,970 --> 00:03:37,430
+<font face="Trebuchet MS" size="24"><b>What kind of non-profit?</b></font>
+
+55
+00:03:38,590 --> 00:03:40,350
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA]
+A shelter for the elderly</b></font>
+
+56
+00:03:40,390 --> 00:03:41,810
+<font face="Trebuchet MS" size="24"><b>who have nowhere else to go.</b></font>
+
+57
+00:03:41,850 --> 00:03:44,390
+<font face="Trebuchet MS" size="24"><b>They provide support
+for their independent living.</b></font>
+
+58
+00:03:44,430 --> 00:03:46,390
+<font face="Trebuchet MS" size="24"><b>Oe's job was taking care
+of the residents</b></font>
+
+59
+00:03:46,430 --> 00:03:47,480
+<font face="Trebuchet MS" size="24"><b>who lived there.</b></font>
+
+60
+00:03:47,810 --> 00:03:50,190
+<font face="Trebuchet MS" size="24"><b>However, they didn't pay him
+a salary with wages.</b></font>
+
+61
+00:03:50,230 --> 00:03:51,770
+<font face="Trebuchet MS" size="24"><b>They only supplied him
+with goods</b></font>
+
+62
+00:03:51,820 --> 00:03:54,280
+<font face="Trebuchet MS" size="24"><b>like groceries, boxed lunches,</b></font>
+
+63
+00:03:54,320 --> 00:03:57,030
+<font face="Trebuchet MS" size="24"><b>and gifts of pocket money
+for New Year's sometimes.</b></font>
+
+64
+00:03:57,570 --> 00:03:58,990
+<font face="Trebuchet MS" size="24"><b>And if you could believe it,</b></font>
+
+65
+00:03:59,030 --> 00:04:01,530
+<font face="Trebuchet MS" size="24"><b>they still charged him
+50,000 yen a month</b></font>
+
+66
+00:04:01,580 --> 00:04:02,950
+<font face="Trebuchet MS" size="24"><b>for rent on his room.</b></font>
+
+67
+00:04:02,990 --> 00:04:04,120
+<font face="Trebuchet MS" size="24"><b>[SHIMIZU] Brutal.</b></font>
+
+68
+00:04:04,160 --> 00:04:06,210
+<font face="Trebuchet MS" size="24"><b>Apparently, quite a few
+of the residents</b></font>
+
+69
+00:04:06,250 --> 00:04:07,580
+<font face="Trebuchet MS" size="24"><b>have prior records.</b></font>
+
+70
+00:04:08,210 --> 00:04:10,380
+<font face="Trebuchet MS" size="24"><b>Anyway, when asked
+why he didn't turn in the knife</b></font>
+
+71
+00:04:10,420 --> 00:04:11,540
+<font face="Trebuchet MS" size="24"><b>as soon as he found it...</b></font>
+
+72
+00:04:11,590 --> 00:04:14,090
+<font face="Trebuchet MS" size="24"><b>The rules say
+we can't call cop cars.</b></font>
+
+73
+00:04:14,130 --> 00:04:15,460
+<font face="Trebuchet MS" size="24"><b>Or ambulances either.</b></font>
+
+74
+00:04:16,130 --> 00:04:18,680
+<font face="Trebuchet MS" size="24"><b>They don't want loud sirens
+bothering the neighbors.</b></font>
+
+75
+00:04:20,140 --> 00:04:22,890
+<font face="Trebuchet MS" size="24"><b>[SHIMIZU] That non-profit
+sounds pretty suspicious.</b></font>
+
+76
+00:04:22,930 --> 00:04:23,890
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Yeah.</b></font>
+
+77
+00:04:24,180 --> 00:04:26,600
+<font face="Trebuchet MS" size="24"><b>It's extremely close
+to being outright illegal.</b></font>
+
+78
+00:04:26,640 --> 00:04:28,100
+<font face="Trebuchet MS" size="24"><b>Since the earthquake
+relief funds</b></font>
+
+79
+00:04:28,140 --> 00:04:29,850
+<font face="Trebuchet MS" size="24"><b>started flowing
+into this region,</b></font>
+
+80
+00:04:29,900 --> 00:04:33,150
+<font face="Trebuchet MS" size="24"><b>we've seen an increase
+in suspiciously managed NPOs.</b></font>
+
+81
+00:04:34,270 --> 00:04:35,320
+<font face="Trebuchet MS" size="24"><b>So it's possible</b></font>
+
+82
+00:04:35,440 --> 00:04:37,570
+<font face="Trebuchet MS" size="24"><b>the murder weapon
+was just lying there.</b></font>
+
+83
+00:04:38,110 --> 00:04:41,240
+<font face="Trebuchet MS" size="24"><b>I think there's a good chance
+that Oe is innocent.</b></font>
+
+84
+00:04:43,080 --> 00:04:44,280
+<font face="Trebuchet MS" size="24"><b>First, we'll investigate</b></font>
+
+85
+00:04:44,330 --> 00:04:46,620
+<font face="Trebuchet MS" size="24"><b>the organization's activities
+and tax filings.</b></font>
+
+86
+00:04:46,660 --> 00:04:49,160
+<font face="Trebuchet MS" size="24"><b>Then run background checks
+on all the residents.</b></font>
+
+87
+00:04:49,460 --> 00:04:51,830
+<font face="Trebuchet MS" size="24"><b>I'll focus on getting
+more information out of Oe.</b></font>
+
+88
+00:04:51,880 --> 00:04:53,920
+<font face="Trebuchet MS" size="24"><b>You handle
+the investigation, Shimizu.</b></font>
+
+89
+00:04:53,960 --> 00:04:56,050
+<font face="Trebuchet MS" size="24"><b>[SHIMIZU] You're dumping
+a huge job like that on me</b></font>
+
+90
+00:04:56,090 --> 00:04:57,260
+<font face="Trebuchet MS" size="24"><b>out of the blue?</b></font>
+
+91
+00:04:57,760 --> 00:04:58,840
+<font face="Trebuchet MS" size="24"><b>[door opens]</b></font>
+
+92
+00:04:59,300 --> 00:05:00,970
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] And could you
+take care of his cat?</b></font>
+
+93
+00:05:01,010 --> 00:05:02,140
+<font face="Trebuchet MS" size="24"><b>[SHIMIZU] His cat?</b></font>
+
+94
+00:05:02,760 --> 00:05:05,430
+<font face="Trebuchet MS" size="24"><b>The commission on
+a public defender case is zilch,</b></font>
+
+95
+00:05:05,470 --> 00:05:07,220
+<font face="Trebuchet MS" size="24"><b>no matter how many hours
+we bill.</b></font>
+
+96
+00:05:07,270 --> 00:05:09,520
+<font face="Trebuchet MS" size="24"><b>And the public always
+assumes they're guilty.</b></font>
+
+97
+00:05:09,560 --> 00:05:12,150
+<font face="Trebuchet MS" size="24"><b>Plus, there's no suspended
+sentence in murder cases.</b></font>
+
+98
+00:05:12,190 --> 00:05:14,110
+<font face="Trebuchet MS" size="24"><b>So he could get
+the death penalty.</b></font>
+
+99
+00:05:14,150 --> 00:05:16,480
+<font face="Trebuchet MS" size="24"><b>There's nothing to gain
+by taking this case.</b></font>
+
+100
+00:05:16,940 --> 00:05:19,110
+<font face="Trebuchet MS" size="24"><b>Higuruma, will you
+please explain to me</b></font>
+
+101
+00:05:19,150 --> 00:05:21,820
+<font face="Trebuchet MS" size="24"><b>why you go around
+accepting cases like this one?</b></font>
+
+102
+00:05:21,860 --> 00:05:23,240
+<font face="Trebuchet MS" size="24"><b>It's good once in a while.</b></font>
+
+103
+00:05:23,740 --> 00:05:26,370
+<font face="Trebuchet MS" size="24"><b>If we stuck to easy work,
+our skills would dull.</b></font>
+
+104
+00:05:26,410 --> 00:05:28,950
+<font face="Trebuchet MS" size="24"><b>[SHIMIZU] It's more
+than once in a while.</b></font>
+
+105
+00:05:29,000 --> 00:05:30,790
+<font face="Trebuchet MS" size="24"><b>It's more than once in a while!</b></font>
+
+106
+00:05:30,830 --> 00:05:33,130
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] You're saying
+your thoughts out loud again.</b></font>
+
+107
+00:05:34,000 --> 00:05:35,590
+<font face="Trebuchet MS" size="24"><b>[Takagi laughs]</b></font>
+
+108
+00:05:35,630 --> 00:05:38,460
+<font face="Trebuchet MS" size="24"><b>Sounds like Higuruma
+hasn't changed a bit, then.</b></font>
+
+109
+00:05:39,510 --> 00:05:41,420
+<font face="Trebuchet MS" size="24"><b>It's tough working for
+an independent lawyer</b></font>
+
+110
+00:05:41,470 --> 00:05:43,050
+<font face="Trebuchet MS" size="24"><b>who isn't in it for the money.</b></font>
+
+111
+00:05:43,590 --> 00:05:45,510
+<font face="Trebuchet MS" size="24"><b>[SHIMIZU] Yeah, well,
+at least I'm not stuck</b></font>
+
+112
+00:05:45,550 --> 00:05:47,930
+<font face="Trebuchet MS" size="24"><b>having to run a cafe
+on the side like you are.</b></font>
+
+113
+00:05:48,430 --> 00:05:49,390
+<font face="Trebuchet MS" size="24"><b>Hey, wait a minute.</b></font>
+
+114
+00:05:49,430 --> 00:05:50,850
+<font face="Trebuchet MS" size="24"><b>When you say he hasn't changed,</b></font>
+
+115
+00:05:50,890 --> 00:05:52,850
+<font face="Trebuchet MS" size="24"><b>you mean Higuruma's
+always been like this?</b></font>
+
+116
+00:05:52,890 --> 00:05:54,560
+<font face="Trebuchet MS" size="24"><b>Hm? Not really.</b></font>
+
+117
+00:05:55,190 --> 00:05:57,520
+<font face="Trebuchet MS" size="24"><b>I think he actually
+used to be a lot worse.</b></font>
+
+118
+00:05:57,860 --> 00:05:58,860
+<font face="Trebuchet MS" size="24"><b>[SHIMIZU] Huh?</b></font>
+
+119
+00:05:59,280 --> 00:06:00,860
+<font face="Trebuchet MS" size="24"><b>[TAKAGI]
+Back when he was with us,</b></font>
+
+120
+00:06:00,900 --> 00:06:02,950
+<font face="Trebuchet MS" size="24"><b>he was in charge
+of a reckless driving case</b></font>
+
+121
+00:06:02,990 --> 00:06:04,660
+<font face="Trebuchet MS" size="24"><b>that resulted in injury.</b></font>
+
+122
+00:06:04,700 --> 00:06:06,830
+<font face="Trebuchet MS" size="24"><b>Specifically,
+it was for drunk driving.</b></font>
+
+123
+00:06:07,370 --> 00:06:09,330
+<font face="Trebuchet MS" size="24"><b>The defendant was only 19.</b></font>
+
+124
+00:06:09,370 --> 00:06:10,830
+<font face="Trebuchet MS" size="24"><b>And his co-workers
+had coerced him</b></font>
+
+125
+00:06:10,870 --> 00:06:12,710
+<font face="Trebuchet MS" size="24"><b>into doing
+both the drinking part</b></font>
+
+126
+00:06:12,750 --> 00:06:14,460
+<font face="Trebuchet MS" size="24"><b>and the driving part.</b></font>
+
+127
+00:06:14,500 --> 00:06:17,630
+<font face="Trebuchet MS" size="24"><b>However, those involved
+all aligned their stories,</b></font>
+
+128
+00:06:17,670 --> 00:06:19,880
+<font face="Trebuchet MS" size="24"><b>and he didn't have the money
+for a settlement,</b></font>
+
+129
+00:06:19,920 --> 00:06:22,550
+<font face="Trebuchet MS" size="24"><b>and we couldn't get him
+a suspended sentence.</b></font>
+
+130
+00:06:22,590 --> 00:06:25,180
+<font face="Trebuchet MS" size="24"><b>[tires screech, crashes]</b></font>
+
+131
+00:06:27,350 --> 00:06:28,430
+<font face="Trebuchet MS" size="24"><b>[CLIENT] You liar!</b></font>
+
+132
+00:06:28,470 --> 00:06:30,390
+<font face="Trebuchet MS" size="24"><b>[breathing heavily]</b></font>
+
+133
+00:06:30,430 --> 00:06:33,020
+<font face="Trebuchet MS" size="24"><b>You promised me
+they would find me innocent!</b></font>
+
+134
+00:06:33,770 --> 00:06:36,310
+<font face="Trebuchet MS" size="24"><b>You promised to get
+him a suspended sentence,</b></font>
+
+135
+00:06:36,360 --> 00:06:37,650
+<font face="Trebuchet MS" size="24"><b>not an innocent verdict.</b></font>
+
+136
+00:06:37,860 --> 00:06:40,280
+<font face="Trebuchet MS" size="24"><b>Although you didn't manage
+to do either, so there's that.</b></font>
+
+137
+00:06:40,320 --> 00:06:42,320
+<font face="Trebuchet MS" size="24"><b>You know what
+the takeaway from this is?</b></font>
+
+138
+00:06:42,360 --> 00:06:45,660
+<font face="Trebuchet MS" size="24"><b>Quit being a criminal defense
+lawyer for impossible cases.</b></font>
+
+139
+00:06:45,700 --> 00:06:47,990
+<font face="Trebuchet MS" size="24"><b>Trying to save the weak
+may be a noble endeavor,</b></font>
+
+140
+00:06:48,030 --> 00:06:49,910
+<font face="Trebuchet MS" size="24"><b>but there's a limit
+to what lawyers like us can do</b></font>
+
+141
+00:06:49,950 --> 00:06:52,910
+<font face="Trebuchet MS" size="24"><b>without any cooperation
+from the courts and prosecutors.</b></font>
+
+142
+00:06:52,950 --> 00:06:55,210
+<font face="Trebuchet MS" size="24"><b>They don't wanna sit
+and hear a client's sob story.</b></font>
+
+143
+00:06:55,250 --> 00:06:57,000
+<font face="Trebuchet MS" size="24"><b>They just wanna
+clear their dockets.</b></font>
+
+144
+00:06:57,040 --> 00:06:59,880
+<font face="Trebuchet MS" size="24"><b>It's not worth continuing
+when your clients resent you.</b></font>
+
+145
+00:06:59,920 --> 00:07:01,960
+<font face="Trebuchet MS" size="24"><b>[laughing]</b></font>
+
+146
+00:07:02,010 --> 00:07:03,800
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] They're at the end
+of their rope,</b></font>
+
+147
+00:07:03,840 --> 00:07:05,720
+<font face="Trebuchet MS" size="24"><b>both mentally and financially.</b></font>
+
+148
+00:07:06,260 --> 00:07:08,430
+<font face="Trebuchet MS" size="24"><b>I can't blame them
+for lashing out at me.</b></font>
+
+149
+00:07:11,100 --> 00:07:12,060
+<font face="Trebuchet MS" size="24"><b>[TAKAGI] But, Higuruma,</b></font>
+
+150
+00:07:12,560 --> 00:07:14,350
+<font face="Trebuchet MS" size="24"><b>what about your mental state?</b></font>
+
+151
+00:07:15,390 --> 00:07:16,600
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Well, I'm...</b></font>
+
+152
+00:07:18,900 --> 00:07:20,440
+<font face="Trebuchet MS" size="24"><b>[♪ percussion music playing]</b></font>
+
+153
+00:07:27,110 --> 00:07:28,410
+<font face="Trebuchet MS" size="24"><b>[inaudible]</b></font>
+
+154
+00:07:35,450 --> 00:07:37,670
+<font face="Trebuchet MS" size="24"><b>[snoring softly]</b></font>
+
+155
+00:07:38,790 --> 00:07:41,300
+<font face="Trebuchet MS" size="24"><b>[JUDGE] We the People,
+find the defendant...</b></font>
+
+156
+00:07:41,880 --> 00:07:42,880
+<font face="Trebuchet MS" size="24"><b>innocent.</b></font>
+
+157
+00:07:42,920 --> 00:07:45,460
+<font face="Trebuchet MS" size="24"><b>[hushed chatter]</b></font>
+
+158
+00:07:45,670 --> 00:07:47,050
+<font face="Trebuchet MS" size="24"><b>[gasps]</b></font>
+
+159
+00:07:48,550 --> 00:07:50,600
+<font face="Trebuchet MS" size="24"><b>We actually won this case?</b></font>
+
+160
+00:07:52,560 --> 00:07:53,890
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Not yet.</b></font>
+
+161
+00:07:55,180 --> 00:07:56,940
+<font face="Trebuchet MS" size="24"><b>They'll appeal right away.</b></font>
+
+162
+00:08:02,690 --> 00:08:04,150
+<font face="Trebuchet MS" size="24"><b>The prosecution is appealing...</b></font>
+
+163
+00:08:05,530 --> 00:08:06,570
+<font face="Trebuchet MS" size="24"><b>[camera clicks]</b></font>
+
+164
+00:08:13,240 --> 00:08:14,700
+<font face="Trebuchet MS" size="24"><b>[SHIMIZU] After the police
+searched your room</b></font>
+
+165
+00:08:14,740 --> 00:08:15,790
+<font face="Trebuchet MS" size="24"><b>for stolen items,</b></font>
+
+166
+00:08:15,830 --> 00:08:17,080
+<font face="Trebuchet MS" size="24"><b>nothing was found there.</b></font>
+
+167
+00:08:17,620 --> 00:08:19,870
+<font face="Trebuchet MS" size="24"><b>And in the same
+non-profit residence,</b></font>
+
+168
+00:08:19,920 --> 00:08:21,080
+<font face="Trebuchet MS" size="24"><b>another person went missing</b></font>
+
+169
+00:08:21,130 --> 00:08:22,710
+<font face="Trebuchet MS" size="24"><b>right after
+the crime was committed.</b></font>
+
+170
+00:08:23,130 --> 00:08:25,210
+<font face="Trebuchet MS" size="24"><b>Luckily, you were caught
+on the security feed</b></font>
+
+171
+00:08:25,260 --> 00:08:26,470
+<font face="Trebuchet MS" size="24"><b>of a convenience store.</b></font>
+
+172
+00:08:26,510 --> 00:08:28,510
+<font face="Trebuchet MS" size="24"><b>That and the condition
+of the corpses proved</b></font>
+
+173
+00:08:28,550 --> 00:08:30,800
+<font face="Trebuchet MS" size="24"><b>you couldn't have been
+at the scene of the murders.</b></font>
+
+174
+00:08:30,840 --> 00:08:32,640
+<font face="Trebuchet MS" size="24"><b>[chuckles] Boy,
+it's a good thing</b></font>
+
+175
+00:08:32,680 --> 00:08:34,600
+<font face="Trebuchet MS" size="24"><b>you don't know
+how to cook for yourself.</b></font>
+
+176
+00:08:34,970 --> 00:08:36,180
+<font face="Trebuchet MS" size="24"><b>Higuruma, sir.</b></font>
+
+177
+00:08:36,640 --> 00:08:38,440
+<font face="Trebuchet MS" size="24"><b>I wanna thank you
+for everything.</b></font>
+
+178
+00:08:38,940 --> 00:08:40,810
+<font face="Trebuchet MS" size="24"><b>There's no need
+to call me "sir."</b></font>
+
+179
+00:08:41,310 --> 00:08:42,940
+<font face="Trebuchet MS" size="24"><b>We're not in the clear yet.</b></font>
+
+180
+00:08:42,980 --> 00:08:44,400
+<font face="Trebuchet MS" size="24"><b>There's still the appeal.</b></font>
+
+181
+00:08:45,860 --> 00:08:47,240
+<font face="Trebuchet MS" size="24"><b>That's not what I mean.</b></font>
+
+182
+00:08:49,860 --> 00:08:51,740
+<font face="Trebuchet MS" size="24"><b>You're the only one
+who believed me.</b></font>
+
+183
+00:08:51,780 --> 00:08:52,870
+<font face="Trebuchet MS" size="24"><b>Thank you.</b></font>
+
+184
+00:09:02,420 --> 00:09:04,000
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] While
+defense lawyers have to work</b></font>
+
+185
+00:09:04,040 --> 00:09:06,340
+<font face="Trebuchet MS" size="24"><b>with limited budgets
+and manpower,</b></font>
+
+186
+00:09:06,380 --> 00:09:08,380
+<font face="Trebuchet MS" size="24"><b>prosecutors can use
+taxpayer money</b></font>
+
+187
+00:09:08,420 --> 00:09:11,220
+<font face="Trebuchet MS" size="24"><b>to pour on the lawyers
+and dig up the evidence.</b></font>
+
+188
+00:09:11,680 --> 00:09:12,680
+<font face="Trebuchet MS" size="24"><b>That's fine.</b></font>
+
+189
+00:09:12,720 --> 00:09:14,300
+<font face="Trebuchet MS" size="24"><b>It's how the system works.</b></font>
+
+190
+00:09:14,720 --> 00:09:15,930
+<font face="Trebuchet MS" size="24"><b>However,</b></font>
+
+191
+00:09:15,970 --> 00:09:17,390
+<font face="Trebuchet MS" size="24"><b>the prosecutors didn't submit</b></font>
+
+192
+00:09:17,430 --> 00:09:19,810
+<font face="Trebuchet MS" size="24"><b>any new evidence
+during the second trial.</b></font>
+
+193
+00:09:20,440 --> 00:09:22,480
+<font face="Trebuchet MS" size="24"><b>The judge accepted
+their absurd claim</b></font>
+
+194
+00:09:22,520 --> 00:09:25,650
+<font face="Trebuchet MS" size="24"><b>that there was no reason
+to consider the missing person</b></font>
+
+195
+00:09:25,690 --> 00:09:27,070
+<font face="Trebuchet MS" size="24"><b>as a suspect.</b></font>
+
+196
+00:09:27,780 --> 00:09:29,360
+<font face="Trebuchet MS" size="24"><b>So they overturned the verdict.</b></font>
+
+197
+00:09:30,240 --> 00:09:32,200
+<font face="Trebuchet MS" size="24"><b>The highest court
+is always the bottleneck</b></font>
+
+198
+00:09:32,240 --> 00:09:33,780
+<font face="Trebuchet MS" size="24"><b>for a third trial.</b></font>
+
+199
+00:09:33,820 --> 00:09:36,240
+<font face="Trebuchet MS" size="24"><b>Most final appeals
+are turned away at the door.</b></font>
+
+200
+00:09:36,700 --> 00:09:39,450
+<font face="Trebuchet MS" size="24"><b>It's challenging to even
+get a proper trial there.</b></font>
+
+201
+00:09:40,500 --> 00:09:43,420
+<font face="Trebuchet MS" size="24"><b>This trial was destined
+for a guilty verdict</b></font>
+
+202
+00:09:43,460 --> 00:09:44,790
+<font face="Trebuchet MS" size="24"><b>from the start.</b></font>
+
+203
+00:09:51,590 --> 00:09:53,010
+<font face="Trebuchet MS" size="24"><b>Why are you...</b></font>
+
+204
+00:09:54,510 --> 00:09:56,680
+<font face="Trebuchet MS" size="24"><b>looking at me that way?</b></font>
+
+205
+00:09:59,770 --> 00:10:00,980
+<font face="Trebuchet MS" size="24"><b>[TAKAGI] But, Higuruma...</b></font>
+
+206
+00:10:02,440 --> 00:10:03,810
+<font face="Trebuchet MS" size="24"><b>what about your mental state?</b></font>
+
+207
+00:10:03,850 --> 00:10:05,310
+<font face="Trebuchet MS" size="24"><b>[birds chirping]</b></font>
+
+208
+00:10:05,360 --> 00:10:06,940
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Well,
+I'm not trying to promote</b></font>
+
+209
+00:10:06,980 --> 00:10:09,280
+<font face="Trebuchet MS" size="24"><b>the ideals of saving the weak.</b></font>
+
+210
+00:10:09,320 --> 00:10:11,150
+<font face="Trebuchet MS" size="24"><b>It's just always
+gone against my nature</b></font>
+
+211
+00:10:11,190 --> 00:10:13,820
+<font face="Trebuchet MS" size="24"><b>to leave things alone
+when I feel like they're wrong.</b></font>
+
+212
+00:10:14,320 --> 00:10:16,700
+<font face="Trebuchet MS" size="24"><b>I've just never been able
+to fix that habit.</b></font>
+
+213
+00:10:17,580 --> 00:10:19,490
+<font face="Trebuchet MS" size="24"><b>The goddess of justice
+blinds her sight</b></font>
+
+214
+00:10:19,540 --> 00:10:21,500
+<font face="Trebuchet MS" size="24"><b>to maintain fairness
+under the law.</b></font>
+
+215
+00:10:22,000 --> 00:10:24,330
+<font face="Trebuchet MS" size="24"><b>And people turn a blind eye
+to all kinds of things</b></font>
+
+216
+00:10:24,370 --> 00:10:25,880
+<font face="Trebuchet MS" size="24"><b>to protect themselves.</b></font>
+
+217
+00:10:27,290 --> 00:10:29,420
+<font face="Trebuchet MS" size="24"><b>But I don't wanna brush away
+the hands of people</b></font>
+
+218
+00:10:29,460 --> 00:10:31,170
+<font face="Trebuchet MS" size="24"><b>who cling to me for help.</b></font>
+
+219
+00:10:34,970 --> 00:10:37,850
+<font face="Trebuchet MS" size="24"><b>The least I can do
+is keep my eyes open.</b></font>
+
+220
+00:10:39,600 --> 00:10:42,100
+<font face="Trebuchet MS" size="24"><b>[hushed chatter]</b></font>
+
+221
+00:10:42,140 --> 00:10:44,890
+<font face="Trebuchet MS" size="24"><b>[APPELLATE JUDGE] If there are
+any objections to today's trial,</b></font>
+
+222
+00:10:44,940 --> 00:10:48,270
+<font face="Trebuchet MS" size="24"><b>submit your final appeal
+in writing within 15 days,</b></font>
+
+223
+00:10:48,320 --> 00:10:50,190
+<font face="Trebuchet MS" size="24"><b>which includes today.</b></font>
+
+224
+00:10:50,230 --> 00:10:53,030
+<font face="Trebuchet MS" size="24"><b>[hushed chatter continues]</b></font>
+
+225
+00:10:53,070 --> 00:10:54,570
+<font face="Trebuchet MS" size="24"><b>[Higuruma sighs]</b></font>
+
+226
+00:10:55,910 --> 00:10:59,450
+<font face="Trebuchet MS" size="24"><b>[gavel banging]</b></font>
+
+227
+00:11:01,080 --> 00:11:03,160
+<font face="Trebuchet MS" size="24"><b>Higuruma, what are you doing?</b></font>
+
+228
+00:11:06,370 --> 00:11:08,170
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Everyone come back!</b></font>
+
+229
+00:11:08,210 --> 00:11:09,630
+<font face="Trebuchet MS" size="24"><b>[Shimizu gasps]</b></font>
+
+230
+00:11:13,300 --> 00:11:14,970
+<font face="Trebuchet MS" size="24"><b>We're having a retrial.</b></font>
+
+231
+00:11:18,010 --> 00:11:19,930
+<font face="Trebuchet MS" size="24"><b>-[REMI] Higuruma's in...
+-[AMAI] Higuruma's in...</b></font>
+
+232
+00:11:20,390 --> 00:11:22,220
+<font face="Trebuchet MS" size="24"><b>-...Shinjuku.
+-...Ikebukuro.</b></font>
+
+233
+00:11:22,270 --> 00:11:24,520
+<font face="Trebuchet MS" size="24"><b>-Got it?
+-Shinjuku?</b></font>
+
+234
+00:11:24,930 --> 00:11:27,060
+<font face="Trebuchet MS" size="24"><b>I hope Itadori's
+headed there, too.</b></font>
+
+235
+00:11:27,100 --> 00:11:28,730
+<font face="Trebuchet MS" size="24"><b>Ikebukuro, huh?</b></font>
+
+236
+00:11:28,770 --> 00:11:30,270
+<font face="Trebuchet MS" size="24"><b>I wonder if Fushiguro's there.</b></font>
+
+237
+00:11:33,570 --> 00:11:36,780
+<font face="Trebuchet MS" size="24"><b>[sighs] Isn't she
+running a little late?</b></font>
+
+238
+00:11:36,820 --> 00:11:39,280
+<font face="Trebuchet MS" size="24"><b>That girl better
+get here soon or else.</b></font>
+
+239
+00:11:39,320 --> 00:11:41,450
+<font face="Trebuchet MS" size="24"><b>But if she doesn't have
+my neck sucker with her,</b></font>
+
+240
+00:11:41,490 --> 00:11:43,240
+<font face="Trebuchet MS" size="24"><b>she'd better not come at all.</b></font>
+
+241
+00:11:46,580 --> 00:11:48,750
+<font face="Trebuchet MS" size="24"><b>-[slaps]
+-[man groans]</b></font>
+
+242
+00:11:49,960 --> 00:11:52,750
+<font face="Trebuchet MS" size="24"><b>-[slaps]
+-Ow. What's your problem?</b></font>
+
+243
+00:11:52,800 --> 00:11:55,380
+<font face="Trebuchet MS" size="24"><b>[AMAI] No, no, no, no!</b></font>
+
+244
+00:11:55,420 --> 00:11:56,720
+<font face="Trebuchet MS" size="24"><b>We ask the questions!</b></font>
+
+245
+00:11:56,760 --> 00:11:59,010
+<font face="Trebuchet MS" size="24"><b>What are you doing
+around here, huh?</b></font>
+
+246
+00:11:59,510 --> 00:12:01,220
+<font face="Trebuchet MS" size="24"><b>This is getting old.</b></font>
+
+247
+00:12:01,260 --> 00:12:03,060
+<font face="Trebuchet MS" size="24"><b>[whimpering]</b></font>
+
+248
+00:12:03,100 --> 00:12:04,810
+<font face="Trebuchet MS" size="24"><b>[AMAI]
+Why are you keeping quiet?</b></font>
+
+249
+00:12:04,850 --> 00:12:07,480
+<font face="Trebuchet MS" size="24"><b>You're better off
+laughing with us.</b></font>
+
+250
+00:12:07,520 --> 00:12:09,520
+<font face="Trebuchet MS" size="24"><b>[STUDENT 1]
+What? You gonna hit me?</b></font>
+
+251
+00:12:09,560 --> 00:12:10,940
+<font face="Trebuchet MS" size="24"><b>-[grunts]
+-[students laughing]</b></font>
+
+252
+00:12:10,980 --> 00:12:13,650
+<font face="Trebuchet MS" size="24"><b>[AMAI] Oh, dear.
+What did I tell you?</b></font>
+
+253
+00:12:14,110 --> 00:12:16,320
+<font face="Trebuchet MS" size="24"><b>Not that I actually told you.</b></font>
+
+254
+00:12:16,360 --> 00:12:18,360
+<font face="Trebuchet MS" size="24"><b>But why can't you understand?</b></font>
+
+255
+00:12:18,410 --> 00:12:19,820
+<font face="Trebuchet MS" size="24"><b>Are you an idiot?</b></font>
+
+256
+00:12:19,860 --> 00:12:22,580
+<font face="Trebuchet MS" size="24"><b>These guys aren't
+that smart or athletic,</b></font>
+
+257
+00:12:22,620 --> 00:12:24,660
+<font face="Trebuchet MS" size="24"><b>but they're brimming with pride.</b></font>
+
+258
+00:12:24,700 --> 00:12:27,160
+<font face="Trebuchet MS" size="24"><b>All you have to do
+is just match their attitude</b></font>
+
+259
+00:12:27,210 --> 00:12:28,580
+<font face="Trebuchet MS" size="24"><b>and joke around with them,</b></font>
+
+260
+00:12:28,620 --> 00:12:31,170
+<font face="Trebuchet MS" size="24"><b>so you don't hurt
+that ego of theirs.</b></font>
+
+261
+00:12:31,210 --> 00:12:34,170
+<font face="Trebuchet MS" size="24"><b>Then you won't get targeted
+by anyone else, either.</b></font>
+
+262
+00:12:34,210 --> 00:12:36,420
+<font face="Trebuchet MS" size="24"><b>And you might even have
+a good time now and then.</b></font>
+
+263
+00:12:36,460 --> 00:12:37,340
+<font face="Trebuchet MS" size="24"><b>[girls giggling]</b></font>
+
+264
+00:12:37,380 --> 00:12:39,470
+<font face="Trebuchet MS" size="24"><b>-[YUJI] Knock it off.
+-Hmm?</b></font>
+
+265
+00:12:40,800 --> 00:12:41,760
+<font face="Trebuchet MS" size="24"><b>[sighs]</b></font>
+
+266
+00:12:42,220 --> 00:12:43,800
+<font face="Trebuchet MS" size="24"><b>[AMAI]
+Here comes another idiot.</b></font>
+
+267
+00:12:43,850 --> 00:12:46,220
+<font face="Trebuchet MS" size="24"><b>[STUDENT 1] Is that uniform
+from West Middle?</b></font>
+
+268
+00:12:46,270 --> 00:12:48,020
+<font face="Trebuchet MS" size="24"><b>[chuckles]
+You're in middle school?</b></font>
+
+269
+00:12:48,060 --> 00:12:50,230
+<font face="Trebuchet MS" size="24"><b>[STUDENT 2] You need
+to learn some respect!</b></font>
+
+270
+00:12:50,600 --> 00:12:52,150
+<font face="Trebuchet MS" size="24"><b>We're gonna teach you a lesson!</b></font>
+
+271
+00:12:52,190 --> 00:12:53,360
+<font face="Trebuchet MS" size="24"><b>[panting]</b></font>
+
+272
+00:12:53,400 --> 00:12:55,110
+<font face="Trebuchet MS" size="24"><b>Down you go!</b></font>
+
+273
+00:12:55,150 --> 00:12:56,190
+<font face="Trebuchet MS" size="24"><b>Huh?</b></font>
+
+274
+00:12:56,860 --> 00:12:58,280
+<font face="Trebuchet MS" size="24"><b>[grunting]</b></font>
+
+275
+00:13:01,490 --> 00:13:02,740
+<font face="Trebuchet MS" size="24"><b>[STUDENT 1] Huh?</b></font>
+
+276
+00:13:05,950 --> 00:13:07,450
+<font face="Trebuchet MS" size="24"><b>[metal rod scraping]</b></font>
+
+277
+00:13:09,870 --> 00:13:12,830
+<font face="Trebuchet MS" size="24"><b>You really shouldn't be
+so violent!</b></font>
+
+278
+00:13:12,880 --> 00:13:13,920
+<font face="Trebuchet MS" size="24"><b>[grunts]</b></font>
+
+279
+00:13:14,380 --> 00:13:16,420
+<font face="Trebuchet MS" size="24"><b>[grunting]</b></font>
+
+280
+00:13:16,460 --> 00:13:20,090
+<font face="Trebuchet MS" size="24"><b>-[groans]
+-[grunts]</b></font>
+
+281
+00:13:20,720 --> 00:13:23,300
+<font face="Trebuchet MS" size="24"><b>Huh? [groaning]</b></font>
+
+282
+00:13:23,890 --> 00:13:25,140
+<font face="Trebuchet MS" size="24"><b>[groans]</b></font>
+
+283
+00:13:25,180 --> 00:13:27,520
+<font face="Trebuchet MS" size="24"><b>[students coughing and groaning]</b></font>
+
+284
+00:13:29,180 --> 00:13:30,230
+<font face="Trebuchet MS" size="24"><b>[YUJI] And you?</b></font>
+
+285
+00:13:31,560 --> 00:13:33,100
+<font face="Trebuchet MS" size="24"><b>[heart thumping]</b></font>
+
+286
+00:13:33,650 --> 00:13:35,690
+<font face="Trebuchet MS" size="24"><b>Y-you... you mean me?</b></font>
+
+287
+00:13:36,730 --> 00:13:37,780
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] Hey.</b></font>
+
+288
+00:13:38,030 --> 00:13:39,030
+<font face="Trebuchet MS" size="24"><b>[REMI] What now?</b></font>
+
+289
+00:13:39,400 --> 00:13:40,990
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] You aren't planning
+to go through Ikebukuro</b></font>
+
+290
+00:13:41,030 --> 00:13:42,570
+<font face="Trebuchet MS" size="24"><b>to reach Shinjuku, are you?</b></font>
+
+291
+00:13:43,160 --> 00:13:44,990
+<font face="Trebuchet MS" size="24"><b>That area's rich
+with supplies.</b></font>
+
+292
+00:13:45,030 --> 00:13:46,990
+<font face="Trebuchet MS" size="24"><b>We're more likely
+to encounter other players.</b></font>
+
+293
+00:13:47,870 --> 00:13:50,160
+<font face="Trebuchet MS" size="24"><b>[REMI] There are two reasons
+for going this way.</b></font>
+
+294
+00:13:50,790 --> 00:13:52,370
+<font face="Trebuchet MS" size="24"><b>The route is easy to follow,</b></font>
+
+295
+00:13:52,750 --> 00:13:55,040
+<font face="Trebuchet MS" size="24"><b>and I happen
+to have a base nearby.</b></font>
+
+296
+00:13:56,380 --> 00:13:58,710
+<font face="Trebuchet MS" size="24"><b>I'm just dying
+to take a shower.</b></font>
+
+297
+00:13:58,760 --> 00:14:01,590
+<font face="Trebuchet MS" size="24"><b>I haven't had a chance
+to rest since yesterday.</b></font>
+
+298
+00:14:04,220 --> 00:14:07,140
+<font face="Trebuchet MS" size="24"><b>[AMAI] Higuruma uses
+this theater as his base.</b></font>
+
+299
+00:14:07,180 --> 00:14:08,930
+<font face="Trebuchet MS" size="24"><b>Assuming he hasn't moved,
+that is.</b></font>
+
+300
+00:14:09,350 --> 00:14:10,560
+<font face="Trebuchet MS" size="24"><b>Ah, cool.</b></font>
+
+301
+00:14:10,600 --> 00:14:11,930
+<font face="Trebuchet MS" size="24"><b>You've been a big help, man.</b></font>
+
+302
+00:14:11,980 --> 00:14:12,940
+<font face="Trebuchet MS" size="24"><b>Thank you.</b></font>
+
+303
+00:14:13,390 --> 00:14:16,060
+<font face="Trebuchet MS" size="24"><b>Uh, wait a minute.
+Hold up, don't go.</b></font>
+
+304
+00:14:16,360 --> 00:14:17,570
+<font face="Trebuchet MS" size="24"><b>[YUJI] Hmm? What is it?</b></font>
+
+305
+00:14:17,610 --> 00:14:19,530
+<font face="Trebuchet MS" size="24"><b>[AMAI]
+Uh, you're seriously going in?</b></font>
+
+306
+00:14:19,570 --> 00:14:21,740
+<font face="Trebuchet MS" size="24"><b>[YUJI] Well, I'd have preferred
+to go in with my friend,</b></font>
+
+307
+00:14:21,780 --> 00:14:22,820
+<font face="Trebuchet MS" size="24"><b>but I'm in a hurry.</b></font>
+
+308
+00:14:23,700 --> 00:14:26,370
+<font face="Trebuchet MS" size="24"><b>I never actually met
+Higuruma myself.</b></font>
+
+309
+00:14:26,410 --> 00:14:29,830
+<font face="Trebuchet MS" size="24"><b>But I once saw him beat Haba
+to a pulp right in front of me.</b></font>
+
+310
+00:14:29,870 --> 00:14:31,500
+<font face="Trebuchet MS" size="24"><b>Then I'll totally be okay.</b></font>
+
+311
+00:14:31,540 --> 00:14:33,080
+<font face="Trebuchet MS" size="24"><b>I beat propeller head, too.</b></font>
+
+312
+00:14:33,120 --> 00:14:34,920
+<font face="Trebuchet MS" size="24"><b>Which means I'll
+at least be able to run away.</b></font>
+
+313
+00:14:34,960 --> 00:14:35,960
+<font face="Trebuchet MS" size="24"><b>[Amai hesitates]</b></font>
+
+314
+00:14:36,960 --> 00:14:37,960
+<font face="Trebuchet MS" size="24"><b>[YUJI] See you later.</b></font>
+
+315
+00:14:38,000 --> 00:14:39,250
+<font face="Trebuchet MS" size="24"><b>[AMAI] Uh...</b></font>
+
+316
+00:14:40,050 --> 00:14:42,010
+<font face="Trebuchet MS" size="24"><b>-[heart thumping]
+- Tell him.</b></font>
+
+317
+00:14:42,050 --> 00:14:44,130
+<font face="Trebuchet MS" size="24"><b>Come on, man, tell him!</b></font>
+
+318
+00:14:44,720 --> 00:14:46,680
+<font face="Trebuchet MS" size="24"><b>You should stop doing this.</b></font>
+
+319
+00:14:52,600 --> 00:14:53,690
+<font face="Trebuchet MS" size="24"><b>I'm sorry...</b></font>
+
+320
+00:14:54,230 --> 00:14:55,230
+<font face="Trebuchet MS" size="24"><b>[door creaks]</b></font>
+
+321
+00:14:55,270 --> 00:14:56,350
+<font face="Trebuchet MS" size="24"><b>...Itadori.</b></font>
+
+322
+00:14:58,940 --> 00:15:01,150
+<font face="Trebuchet MS" size="24"><b>It's about time, Higuruma.</b></font>
+
+323
+00:15:01,190 --> 00:15:02,320
+<font face="Trebuchet MS" size="24"><b>[chuckles]</b></font>
+
+324
+00:15:02,610 --> 00:15:05,990
+<font face="Trebuchet MS" size="24"><b>Sorry, I guess we were
+both expecting to see him.</b></font>
+
+325
+00:15:06,030 --> 00:15:07,110
+<font face="Trebuchet MS" size="24"><b>I'm Reggie.</b></font>
+
+326
+00:15:07,410 --> 00:15:09,620
+<font face="Trebuchet MS" size="24"><b>And she deceived you.</b></font>
+
+327
+00:15:12,910 --> 00:15:14,580
+<font face="Trebuchet MS" size="24"><b>Don't give me that look.</b></font>
+
+328
+00:15:14,620 --> 00:15:16,790
+<font face="Trebuchet MS" size="24"><b>You don't scare me for a second.</b></font>
+
+329
+00:15:16,830 --> 00:15:19,170
+<font face="Trebuchet MS" size="24"><b>-And just so you know, Reggie--
+-[MEGUMI] Quiet!</b></font>
+
+330
+00:15:21,300 --> 00:15:22,800
+<font face="Trebuchet MS" size="24"><b>[snarls]</b></font>
+
+331
+00:15:22,840 --> 00:15:24,380
+<font face="Trebuchet MS" size="24"><b>[chuckles excitedly]</b></font>
+
+332
+00:15:25,970 --> 00:15:27,800
+<font face="Trebuchet MS" size="24"><b>I'm wasting my time here.</b></font>
+
+333
+00:15:38,770 --> 00:15:40,360
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Who's there?</b></font>
+
+334
+00:15:40,400 --> 00:15:42,070
+<font face="Trebuchet MS" size="24"><b>What are you doing here?</b></font>
+
+335
+00:15:44,280 --> 00:15:45,610
+<font face="Trebuchet MS" size="24"><b>[YUJI] I could ask you that.</b></font>
+
+336
+00:15:46,110 --> 00:15:47,240
+<font face="Trebuchet MS" size="24"><b>Ah.</b></font>
+
+337
+00:15:48,070 --> 00:15:49,910
+<font face="Trebuchet MS" size="24"><b>Ever have the chance
+to take a bath</b></font>
+
+338
+00:15:49,950 --> 00:15:51,700
+<font face="Trebuchet MS" size="24"><b>while still fully clothed?</b></font>
+
+339
+00:15:51,740 --> 00:15:52,740
+<font face="Trebuchet MS" size="24"><b>[YUJI] Never.</b></font>
+
+340
+00:15:53,700 --> 00:15:56,920
+<font face="Trebuchet MS" size="24"><b>Surprisingly, it feels better
+than I expected it would.</b></font>
+
+341
+00:15:59,380 --> 00:16:00,590
+<font face="Trebuchet MS" size="24"><b>You know...</b></font>
+
+342
+00:16:01,670 --> 00:16:04,050
+<font face="Trebuchet MS" size="24"><b>back when I was
+in elementary school,</b></font>
+
+343
+00:16:04,090 --> 00:16:07,340
+<font face="Trebuchet MS" size="24"><b>I loved our safety classes
+on swimming in clothes.</b></font>
+
+344
+00:16:08,760 --> 00:16:11,600
+<font face="Trebuchet MS" size="24"><b>So many things have stopped
+mattering to me lately.</b></font>
+
+345
+00:16:11,970 --> 00:16:13,260
+<font face="Trebuchet MS" size="24"><b>So I've been challenging myself</b></font>
+
+346
+00:16:13,310 --> 00:16:16,390
+<font face="Trebuchet MS" size="24"><b>to try things I assumed
+I shouldn't be doing.</b></font>
+
+347
+00:16:16,430 --> 00:16:18,140
+<font face="Trebuchet MS" size="24"><b>I've basically
+gone off the rails</b></font>
+
+348
+00:16:18,190 --> 00:16:19,850
+<font face="Trebuchet MS" size="24"><b>after hitting my mid-30s.</b></font>
+
+349
+00:16:19,900 --> 00:16:21,110
+<font face="Trebuchet MS" size="24"><b>Funny, huh?</b></font>
+
+350
+00:16:21,690 --> 00:16:23,440
+<font face="Trebuchet MS" size="24"><b>I guess it's kind of amusing.</b></font>
+
+351
+00:16:24,150 --> 00:16:25,820
+<font face="Trebuchet MS" size="24"><b>You're Higuruma, right?</b></font>
+
+352
+00:16:26,440 --> 00:16:27,820
+<font face="Trebuchet MS" size="24"><b>In the flesh.</b></font>
+
+353
+00:16:27,860 --> 00:16:28,910
+<font face="Trebuchet MS" size="24"><b>I'm here to talk.</b></font>
+
+354
+00:16:29,530 --> 00:16:31,830
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Hold on.
+Wait, wait, wait, wait.</b></font>
+
+355
+00:16:32,330 --> 00:16:33,950
+<font face="Trebuchet MS" size="24"><b>I happen to be a lawyer.</b></font>
+
+356
+00:16:33,990 --> 00:16:37,120
+<font face="Trebuchet MS" size="24"><b>For 30 minutes,
+I charged 5,000 yen to consult.</b></font>
+
+357
+00:16:37,160 --> 00:16:38,580
+<font face="Trebuchet MS" size="24"><b>So either pay up or shut up.</b></font>
+
+358
+00:16:38,620 --> 00:16:40,000
+<font face="Trebuchet MS" size="24"><b>Huh?</b></font>
+
+359
+00:16:40,290 --> 00:16:41,290
+<font face="Trebuchet MS" size="24"><b>[chuckles]</b></font>
+
+360
+00:16:41,500 --> 00:16:42,630
+<font face="Trebuchet MS" size="24"><b>I'm just kidding.</b></font>
+
+361
+00:16:42,670 --> 00:16:44,090
+<font face="Trebuchet MS" size="24"><b>I wanted to see
+what it feels like</b></font>
+
+362
+00:16:44,130 --> 00:16:46,380
+<font face="Trebuchet MS" size="24"><b>to be a cutthroat lawyer.
+[laughs]</b></font>
+
+363
+00:16:47,170 --> 00:16:48,260
+<font face="Trebuchet MS" size="24"><b>[YUJI] I see.</b></font>
+
+364
+00:16:48,760 --> 00:16:50,510
+<font face="Trebuchet MS" size="24"><b>What's this guy doing?</b></font>
+
+365
+00:16:51,470 --> 00:16:53,550
+<font face="Trebuchet MS" size="24"><b>You still have a hundred points,
+don't you?</b></font>
+
+366
+00:16:54,350 --> 00:16:57,060
+<font face="Trebuchet MS" size="24"><b>He's not a past sorcerer
+who's been incarnated.</b></font>
+
+367
+00:16:57,100 --> 00:17:00,100
+<font face="Trebuchet MS" size="24"><b>He's a modern sorcerer
+whose technique was activated.</b></font>
+
+368
+00:17:00,140 --> 00:17:02,810
+<font face="Trebuchet MS" size="24"><b>We can talk it out.
+There's room for negotiation.</b></font>
+
+369
+00:17:03,230 --> 00:17:05,020
+<font face="Trebuchet MS" size="24"><b>[REGGIE] Okay,
+you passed the test</b></font>
+
+370
+00:17:05,070 --> 00:17:06,730
+<font face="Trebuchet MS" size="24"><b>-with flying colors.
+-[MEGUMI] Huh?</b></font>
+
+371
+00:17:06,780 --> 00:17:09,240
+<font face="Trebuchet MS" size="24"><b>[REGGIE] You've got more
+than enough, I can tell.</b></font>
+
+372
+00:17:09,280 --> 00:17:11,450
+<font face="Trebuchet MS" size="24"><b>That's quite the shikigami
+you have there.</b></font>
+
+373
+00:17:11,490 --> 00:17:13,070
+<font face="Trebuchet MS" size="24"><b>I bet you're strong.</b></font>
+
+374
+00:17:13,120 --> 00:17:14,870
+<font face="Trebuchet MS" size="24"><b>If you were weak,
+I'd just kill you</b></font>
+
+375
+00:17:14,910 --> 00:17:16,330
+<font face="Trebuchet MS" size="24"><b>as another average mark.</b></font>
+
+376
+00:17:16,370 --> 00:17:17,580
+<font face="Trebuchet MS" size="24"><b>But you're good.</b></font>
+
+377
+00:17:17,620 --> 00:17:18,830
+<font face="Trebuchet MS" size="24"><b>Let's work together.</b></font>
+
+378
+00:17:18,870 --> 00:17:21,330
+<font face="Trebuchet MS" size="24"><b>[REMI] What gives?
+I didn't agree to this!</b></font>
+
+379
+00:17:23,130 --> 00:17:24,420
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] What are you proposing?</b></font>
+
+380
+00:17:25,090 --> 00:17:27,130
+<font face="Trebuchet MS" size="24"><b>[REGGIE] How much
+do you actually know so far</b></font>
+
+381
+00:17:27,170 --> 00:17:28,880
+<font face="Trebuchet MS" size="24"><b>about this Culling Game?</b></font>
+
+382
+00:17:29,420 --> 00:17:30,590
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] It's a ritual.</b></font>
+
+383
+00:17:30,930 --> 00:17:32,050
+<font face="Trebuchet MS" size="24"><b>It uses the cursed energy</b></font>
+
+384
+00:17:32,090 --> 00:17:33,590
+<font face="Trebuchet MS" size="24"><b>of the players
+inside the barriers</b></font>
+
+385
+00:17:33,640 --> 00:17:36,050
+<font face="Trebuchet MS" size="24"><b>to ferry the people of Japan
+to the other side.</b></font>
+
+386
+00:17:36,760 --> 00:17:39,060
+<font face="Trebuchet MS" size="24"><b>And then changes them
+into something inhuman.</b></font>
+
+387
+00:17:39,930 --> 00:17:42,020
+<font face="Trebuchet MS" size="24"><b>Guess I should stay quiet
+about Tengen.</b></font>
+
+388
+00:17:42,400 --> 00:17:43,730
+<font face="Trebuchet MS" size="24"><b>[REGGIE] Really?</b></font>
+
+389
+00:17:44,150 --> 00:17:46,110
+<font face="Trebuchet MS" size="24"><b>-Do you know Kenjaku, then?
+-[gasps]</b></font>
+
+390
+00:17:47,110 --> 00:17:49,150
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] I knew there had
+to be at least one sorcerer</b></font>
+
+391
+00:17:49,190 --> 00:17:51,150
+<font face="Trebuchet MS" size="24"><b>connected to Kenjaku
+in this game.</b></font>
+
+392
+00:17:52,530 --> 00:17:53,910
+<font face="Trebuchet MS" size="24"><b>[YUJI] Uh, so,</b></font>
+
+393
+00:17:54,240 --> 00:17:55,450
+<font face="Trebuchet MS" size="24"><b>to be frank,</b></font>
+
+394
+00:17:55,870 --> 00:17:56,990
+<font face="Trebuchet MS" size="24"><b>we need your help.</b></font>
+
+395
+00:17:57,370 --> 00:17:59,040
+<font face="Trebuchet MS" size="24"><b>We wanna stop
+the Culling Game.</b></font>
+
+396
+00:17:59,580 --> 00:18:00,870
+<font face="Trebuchet MS" size="24"><b>Uh, time out.</b></font>
+
+397
+00:18:00,910 --> 00:18:02,330
+<font face="Trebuchet MS" size="24"><b>When I say stop the game,</b></font>
+
+398
+00:18:02,370 --> 00:18:04,630
+<font face="Trebuchet MS" size="24"><b>I mean stop
+the obligated killing.</b></font>
+
+399
+00:18:04,670 --> 00:18:06,500
+<font face="Trebuchet MS" size="24"><b>If we could use
+your hundred points,</b></font>
+
+400
+00:18:06,540 --> 00:18:08,670
+<font face="Trebuchet MS" size="24"><b>we'd be able
+to add a new rule to the game.</b></font>
+
+401
+00:18:09,050 --> 00:18:11,130
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Permit me
+to be frank as well.</b></font>
+
+402
+00:18:12,010 --> 00:18:13,300
+<font face="Trebuchet MS" size="24"><b>I refuse.</b></font>
+
+403
+00:18:15,430 --> 00:18:17,010
+<font face="Trebuchet MS" size="24"><b>[YUJI] Is that another joke?</b></font>
+
+404
+00:18:17,060 --> 00:18:19,520
+<font face="Trebuchet MS" size="24"><b>No. I just sense huge potential</b></font>
+
+405
+00:18:19,560 --> 00:18:21,680
+<font face="Trebuchet MS" size="24"><b>in letting the Culling Game
+continue as is.</b></font>
+
+406
+00:18:22,020 --> 00:18:24,020
+<font face="Trebuchet MS" size="24"><b>Sometimes the law is powerless.</b></font>
+
+407
+00:18:24,060 --> 00:18:27,440
+<font face="Trebuchet MS" size="24"><b>However, think about the rules
+of this Culling Game.</b></font>
+
+408
+00:18:27,480 --> 00:18:29,860
+<font face="Trebuchet MS" size="24"><b>If the power
+I've been granted is real,</b></font>
+
+409
+00:18:29,900 --> 00:18:31,990
+<font face="Trebuchet MS" size="24"><b>then those rules must be, too.</b></font>
+
+410
+00:18:32,030 --> 00:18:33,400
+<font face="Trebuchet MS" size="24"><b>[REGGIE] I think all your talk</b></font>
+
+411
+00:18:33,610 --> 00:18:36,740
+<font face="Trebuchet MS" size="24"><b>about players' cursed energy
+being used inside the barriers,</b></font>
+
+412
+00:18:36,780 --> 00:18:38,490
+<font face="Trebuchet MS" size="24"><b>it's probably just a bluff.</b></font>
+
+413
+00:18:38,530 --> 00:18:39,950
+<font face="Trebuchet MS" size="24"><b>[MEGUMI] A bluff?</b></font>
+
+414
+00:18:39,990 --> 00:18:41,370
+<font face="Trebuchet MS" size="24"><b>[REGGIE] Well, less of a bluff,</b></font>
+
+415
+00:18:41,410 --> 00:18:44,370
+<font face="Trebuchet MS" size="24"><b>and more like you're
+describing Plan B or C.</b></font>
+
+416
+00:18:44,420 --> 00:18:46,080
+<font face="Trebuchet MS" size="24"><b>Here's three reasons why.</b></font>
+
+417
+00:18:46,630 --> 00:18:48,090
+<font face="Trebuchet MS" size="24"><b>The number of players,</b></font>
+
+418
+00:18:48,130 --> 00:18:50,090
+<font face="Trebuchet MS" size="24"><b>the strength gap
+between players,</b></font>
+
+419
+00:18:50,130 --> 00:18:51,760
+<font face="Trebuchet MS" size="24"><b>and the barriers' rules.</b></font>
+
+420
+00:18:52,170 --> 00:18:54,630
+<font face="Trebuchet MS" size="24"><b>If roughly 1,000 people
+were equally split up</b></font>
+
+421
+00:18:54,680 --> 00:18:56,340
+<font face="Trebuchet MS" size="24"><b>between the 10 colonies,</b></font>
+
+422
+00:18:56,390 --> 00:18:59,560
+<font face="Trebuchet MS" size="24"><b>that would come out
+to 100 people per colony.</b></font>
+
+423
+00:19:00,060 --> 00:19:02,770
+<font face="Trebuchet MS" size="24"><b>However,
+among the players are sorcerers</b></font>
+
+424
+00:19:02,810 --> 00:19:04,560
+<font face="Trebuchet MS" size="24"><b>like Kashimo or Higuruma,</b></font>
+
+425
+00:19:04,600 --> 00:19:06,900
+<font face="Trebuchet MS" size="24"><b>who are much stronger
+than the rest.</b></font>
+
+426
+00:19:06,940 --> 00:19:08,820
+<font face="Trebuchet MS" size="24"><b>Those two alone
+have already culled</b></font>
+
+427
+00:19:08,860 --> 00:19:10,690
+<font face="Trebuchet MS" size="24"><b>60 sorcerers between them.</b></font>
+
+428
+00:19:10,730 --> 00:19:13,070
+<font face="Trebuchet MS" size="24"><b>And I bet you, there's
+a sorcerer just like them</b></font>
+
+429
+00:19:13,110 --> 00:19:15,030
+<font face="Trebuchet MS" size="24"><b>in each of the other colonies.</b></font>
+
+430
+00:19:15,070 --> 00:19:17,490
+<font face="Trebuchet MS" size="24"><b>So then, the weak
+are weeded out early on.</b></font>
+
+431
+00:19:17,530 --> 00:19:20,120
+<font face="Trebuchet MS" size="24"><b>Does that mean the Culling Game
+ends as a stalemate?</b></font>
+
+432
+00:19:20,530 --> 00:19:22,540
+<font face="Trebuchet MS" size="24"><b>He's confirmed my suspicions.</b></font>
+
+433
+00:19:22,870 --> 00:19:24,750
+<font face="Trebuchet MS" size="24"><b>The colony's been too quiet.</b></font>
+
+434
+00:19:25,670 --> 00:19:26,920
+<font face="Trebuchet MS" size="24"><b>It already has.</b></font>
+
+435
+00:19:26,960 --> 00:19:29,920
+<font face="Trebuchet MS" size="24"><b>Well, at least it has
+here in Tokyo Number One.</b></font>
+
+436
+00:19:29,960 --> 00:19:32,010
+<font face="Trebuchet MS" size="24"><b>On top of that,
+there's the teleportation,</b></font>
+
+437
+00:19:32,050 --> 00:19:33,760
+<font face="Trebuchet MS" size="24"><b>when people enter the colonies.</b></font>
+
+438
+00:19:33,800 --> 00:19:36,170
+<font face="Trebuchet MS" size="24"><b>It serves to spread out players
+as they enter the game.</b></font>
+
+439
+00:19:36,220 --> 00:19:38,180
+<font face="Trebuchet MS" size="24"><b>But its main goal
+is likely to encourage</b></font>
+
+440
+00:19:38,220 --> 00:19:40,890
+<font face="Trebuchet MS" size="24"><b>an early second awakening
+of modern sorcerers.</b></font>
+
+441
+00:19:40,930 --> 00:19:43,810
+<font face="Trebuchet MS" size="24"><b>There are some who die
+during the teleportation, too.</b></font>
+
+442
+00:19:43,850 --> 00:19:45,180
+<font face="Trebuchet MS" size="24"><b>Now, if he was really trying</b></font>
+
+443
+00:19:45,230 --> 00:19:46,770
+<font face="Trebuchet MS" size="24"><b>to use the players'
+cursed energy,</b></font>
+
+444
+00:19:46,850 --> 00:19:49,310
+<font face="Trebuchet MS" size="24"><b>then he would probably want
+the greatest number of sorcerers</b></font>
+
+445
+00:19:49,360 --> 00:19:51,400
+<font face="Trebuchet MS" size="24"><b>to fight
+for the longest time possible.</b></font>
+
+446
+00:19:51,440 --> 00:19:54,070
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] What if people who
+broke the rules were punished,</b></font>
+
+447
+00:19:54,110 --> 00:19:55,740
+<font face="Trebuchet MS" size="24"><b>not with the need
+of indictments,</b></font>
+
+448
+00:19:55,780 --> 00:19:58,030
+<font face="Trebuchet MS" size="24"><b>prosecutions or arguments
+at trials,</b></font>
+
+449
+00:19:58,070 --> 00:19:59,780
+<font face="Trebuchet MS" size="24"><b>but by pure physics instead?</b></font>
+
+450
+00:20:00,200 --> 00:20:01,620
+<font face="Trebuchet MS" size="24"><b>Wouldn't that be wonderful?</b></font>
+
+451
+00:20:01,950 --> 00:20:04,370
+<font face="Trebuchet MS" size="24"><b>I'll grant you, there's issues
+with the current rules,</b></font>
+
+452
+00:20:04,410 --> 00:20:05,910
+<font face="Trebuchet MS" size="24"><b>but I wanna watch
+over the system</b></font>
+
+453
+00:20:05,960 --> 00:20:07,870
+<font face="Trebuchet MS" size="24"><b>serving as a basis
+for this game.</b></font>
+
+454
+00:20:08,460 --> 00:20:10,710
+<font face="Trebuchet MS" size="24"><b>It'll ruin everything
+if it ends too soon.</b></font>
+
+455
+00:20:11,000 --> 00:20:13,130
+<font face="Trebuchet MS" size="24"><b>I'd especially love
+to witness at least once,</b></font>
+
+456
+00:20:13,170 --> 00:20:14,460
+<font face="Trebuchet MS" size="24"><b>the stripping of a technique</b></font>
+
+457
+00:20:14,510 --> 00:20:16,510
+<font face="Trebuchet MS" size="24"><b>mentioned in rules two
+and eight.</b></font>
+
+458
+00:20:16,800 --> 00:20:17,840
+<font face="Trebuchet MS" size="24"><b>And it's better for the rules</b></font>
+
+459
+00:20:17,880 --> 00:20:19,800
+<font face="Trebuchet MS" size="24"><b>if being stripped
+means death, too.</b></font>
+
+460
+00:20:20,260 --> 00:20:22,760
+<font face="Trebuchet MS" size="24"><b>The Culling Game itself
+is considered a ritual.</b></font>
+
+461
+00:20:23,220 --> 00:20:24,520
+<font face="Trebuchet MS" size="24"><b>If we take too long,</b></font>
+
+462
+00:20:24,560 --> 00:20:26,560
+<font face="Trebuchet MS" size="24"><b>every person in this nation
+will die.</b></font>
+
+463
+00:20:26,600 --> 00:20:27,770
+<font face="Trebuchet MS" size="24"><b>That's not true.</b></font>
+
+464
+00:20:28,020 --> 00:20:30,560
+<font face="Trebuchet MS" size="24"><b>The Culling Game insists
+on its own ongoing longevity.</b></font>
+
+465
+00:20:30,600 --> 00:20:32,980
+<font face="Trebuchet MS" size="24"><b>[YUJI] I don't really
+get that part either!</b></font>
+
+466
+00:20:35,690 --> 00:20:37,240
+<font face="Trebuchet MS" size="24"><b>I'll rephrase it, then.</b></font>
+
+467
+00:20:38,280 --> 00:20:41,410
+<font face="Trebuchet MS" size="24"><b>Let me use your 100 points,
+Higuruma!</b></font>
+
+468
+00:20:42,580 --> 00:20:44,540
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA]
+Have you ever killed someone</b></font>
+
+469
+00:20:44,580 --> 00:20:46,580
+<font face="Trebuchet MS" size="24"><b>who really ticked you off?</b></font>
+
+470
+00:20:46,620 --> 00:20:48,370
+<font face="Trebuchet MS" size="24"><b>[♪ energetic rock music playing]</b></font>
+
+471
+00:20:49,710 --> 00:20:51,540
+<font face="Trebuchet MS" size="24"><b>Feels better than I expected.</b></font>
+
+472
+00:20:52,420 --> 00:20:54,170
+<font face="Trebuchet MS" size="24"><b>A helluva lot better.</b></font>
+
+473
+00:20:55,000 --> 00:20:56,380
+<font face="Trebuchet MS" size="24"><b>[YUJI] A shikigami?</b></font>
+
+474
+00:20:56,670 --> 00:20:58,550
+<font face="Trebuchet MS" size="24"><b>Higuruma has a hundred points.</b></font>
+
+475
+00:20:58,590 --> 00:21:00,840
+<font face="Trebuchet MS" size="24"><b>He might have killed
+20 sorcerers already.</b></font>
+
+476
+00:21:01,260 --> 00:21:03,010
+<font face="Trebuchet MS" size="24"><b>I can't just recklessly jump in.</b></font>
+
+477
+00:21:03,430 --> 00:21:04,720
+<font face="Trebuchet MS" size="24"><b>I'll go on defense.</b></font>
+
+478
+00:21:05,140 --> 00:21:07,850
+<font face="Trebuchet MS" size="24"><b>But I'll be ready
+to respond to any attack.</b></font>
+
+479
+00:21:10,520 --> 00:21:12,310
+<font face="Trebuchet MS" size="24"><b>Domain Expansion.</b></font>
+
+480
+00:21:12,730 --> 00:21:14,310
+<font face="Trebuchet MS" size="24"><b>Deadly Sentencing.</b></font>
+
+481
+00:21:14,360 --> 00:21:16,320
+<font face="Trebuchet MS" size="24"><b>[gavel banging]</b></font>
+
+482
+00:21:26,870 --> 00:21:28,910
+<font face="Trebuchet MS" size="24"><b>[REGGIE] The idea
+of a rule not hindering</b></font>
+
+483
+00:21:28,960 --> 00:21:30,500
+<font face="Trebuchet MS" size="24"><b>the continuation of the game,</b></font>
+
+484
+00:21:30,540 --> 00:21:32,370
+<font face="Trebuchet MS" size="24"><b>it's just a cover
+for the real plan.</b></font>
+
+485
+00:21:32,750 --> 00:21:34,380
+<font face="Trebuchet MS" size="24"><b>Mark my words.</b></font>
+
+486
+00:21:34,420 --> 00:21:36,170
+<font face="Trebuchet MS" size="24"><b>When only the strong remain,</b></font>
+
+487
+00:21:36,210 --> 00:21:39,470
+<font face="Trebuchet MS" size="24"><b>Kenjaku is going to drop a bomb
+on this competition.</b></font>
+
+488
+00:21:39,510 --> 00:21:43,180
+<font face="Trebuchet MS" size="24"><b>And the Culling Game
+will fulfill its purpose.</b></font>
+
+489
+00:21:47,470 --> 00:21:50,560
+<font face="Trebuchet MS" size="24"><b>[explosion]</b></font>
+
+490
+00:22:10,330 --> 00:22:12,500
+<font face="Trebuchet MS" size="24"><b>[♪ closing theme song playing]</b></font>
+
+491
+00:23:40,630 --> 00:23:42,500
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Now,
+make your argument.</b></font>
+
+492
+00:23:42,550 --> 00:23:43,710
+<font face="Trebuchet MS" size="24"><b>[YUJI]
+What if I'm judged guilty?</b></font>
+
+493
+00:23:43,760 --> 00:23:44,880
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] Judgeman,
+please begin.</b></font>
+
+494
+00:23:44,920 --> 00:23:45,930
+<font face="Trebuchet MS" size="24"><b>[YUJI] You mean I can lie?</b></font>
+
+495
+00:23:46,340 --> 00:23:47,390
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] You get one chance
+to make a statement.</b></font>
+
+496
+00:23:47,470 --> 00:23:48,760
+<font face="Trebuchet MS" size="24"><b>[YUJI]
+I can't control cursed energy!</b></font>
+
+497
+00:23:48,800 --> 00:23:50,350
+<font face="Trebuchet MS" size="24"><b>[HIGURUMA] How can he
+hold his own against me</b></font>
+
+498
+00:23:50,390 --> 00:23:51,600
+<font face="Trebuchet MS" size="24"><b>without cursed energy?</b></font>
+
+499
+00:23:51,640 --> 00:23:52,890
+<font face="Trebuchet MS" size="24"><b>[YUJI] I want a retrial!</b></font>
+
+500
+00:23:52,930 --> 00:23:53,970
+<font face="Trebuchet MS" size="24"><b>One more time!</b></font>
+
