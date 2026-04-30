@@ -1,0 +1,1235 @@
+1
+00:00:08,070 --> 00:00:11,991
+<font face="sans-serif" size="71">FROM ME TO YOU</font>
+
+2
+00:01:07,797 --> 00:01:11,258
+<font face="sans-serif" size="71">On the days I don't go to school, I start
+with feeding some rice to the little birds</font>
+
+3
+00:01:11,342 --> 00:01:14,804
+<font face="sans-serif" size="71">outside.</font>
+
+4
+00:01:18,265 --> 00:01:20,643
+<font face="sans-serif" size="71">After that, I go for a jog.</font>
+
+5
+00:01:24,563 --> 00:01:26,232
+<font face="sans-serif" size="71">Combustible trash.</font>
+
+6
+00:01:29,276 --> 00:01:30,903
+<font face="sans-serif" size="71">Recyclable trash.</font>
+
+7
+00:01:30,986 --> 00:01:33,072
+<font face="sans-serif" size="71">COMBUSTIBLE TRASH
+RECYCLABLE TRASH</font>
+
+8
+00:01:33,697 --> 00:01:36,283
+<font face="sans-serif" size="71">And then I go home and shower.</font>
+
+9
+00:01:38,994 --> 00:01:42,289
+<font face="sans-serif" size="71">Usually, there's more. I'd clean and
+eat breakfast to complete my routine, but</font>
+
+10
+00:01:42,373 --> 00:01:45,709
+<font face="sans-serif" size="71">{\an8}today...</font>
+
+11
+00:01:48,712 --> 00:01:51,799
+<font face="sans-serif" size="71">Chizu and Ayane are coming
+over to hang out with me.</font>
+
+12
+00:01:53,843 --> 00:01:58,722
+<font face="sans-serif" size="71">DAY OFF</font>
+
+13
+00:02:00,224 --> 00:02:06,105
+<font face="sans-serif" size="71">Ohhh! That's right, huh! You have some
+friends coming over today, don't you?</font>
+
+14
+00:02:06,772 --> 00:02:13,696
+<font face="sans-serif" size="71">- They're here! What do I do?!
+- I'll get the door for ya.</font>
+
+15
+00:02:16,532 --> 00:02:18,075
+<font face="sans-serif" size="71">Sawako's dad, right?</font>
+
+16
+00:02:19,118 --> 00:02:22,538
+<font face="sans-serif" size="71">- Delinquent...
+- You look just like her!</font>
+
+17
+00:02:22,621 --> 00:02:26,041
+<font face="sans-serif" size="71">- Don't be rude! Say hi!
+- H- Hi there.</font>
+
+18
+00:02:27,001 --> 00:02:30,421
+<font face="sans-serif" size="71">D- Does that mean
+you're Sawako's... friends?</font>
+
+19
+00:02:30,504 --> 00:02:34,425
+<font face="sans-serif" size="71">This one seems like a nice young
+lady. Little heavy on the makeup, but...</font>
+
+20
+00:02:34,508 --> 00:02:38,429
+<font face="sans-serif" size="71">Nice to meet you.
+We're classmates. I'm Yano.</font>
+
+21
+00:02:41,640 --> 00:02:44,310
+<font face="sans-serif" size="71">How many piercings does she have?</font>
+
+22
+00:02:45,311 --> 00:02:48,022
+<font face="sans-serif" size="71">{\an8}Y-You're really my daughter's friends?</font>
+
+23
+00:02:48,105 --> 00:02:49,231
+<font face="sans-serif" size="71">{\an8}Chizu! Ayane!</font>
+
+24
+00:02:51,400 --> 00:02:54,570
+<font face="sans-serif" size="71">Hi. Welcome! I'm making a cake for us!</font>
+
+25
+00:02:54,653 --> 00:02:56,322
+<font face="sans-serif" size="71">You mean from scratch?!</font>
+
+26
+00:02:56,405 --> 00:02:59,575
+<font face="sans-serif" size="71">Really? Uhh... we had the same thought.</font>
+
+27
+00:03:01,160 --> 00:03:04,663
+<font face="sans-serif" size="71">A cake! Oh, that's too bad... I should
+have thought ahead and made something</font>
+
+28
+00:03:04,747 --> 00:03:08,250
+<font face="sans-serif" size="71">- salty... I'm so sorry.
+- Nah. Homemade's way</font>
+
+29
+00:03:08,334 --> 00:03:11,670
+<font face="sans-serif" size="71">tastier than storebought.</font>
+
+30
+00:03:11,754 --> 00:03:15,090
+<font face="sans-serif" size="71">- I'll take any slice I can get!
+- There are consequences to that, ya know.</font>
+
+31
+00:03:15,174 --> 00:03:19,386
+<font face="sans-serif" size="71">Oh! My... What's this? No need to stand in
+front of the door! Please come in and make</font>
+
+32
+00:03:19,470 --> 00:03:24,308
+<font face="sans-serif" size="71">- yourselves at home!
+- This is my mom. And that is my dad.</font>
+
+33
+00:03:24,391 --> 00:03:25,684
+<font face="sans-serif" size="71">Nice to meet ya!</font>
+
+34
+00:03:25,768 --> 00:03:28,979
+<font face="sans-serif" size="71">We brought this, but since Sawako
+already made one, would you like it?</font>
+
+35
+00:03:29,063 --> 00:03:32,233
+<font face="sans-serif" size="71">My goodness! Thank you very much, girls!</font>
+
+36
+00:03:32,316 --> 00:03:35,819
+<font face="sans-serif" size="71">This is Ayane Yano and
+that's Chizuru Yoshida.</font>
+
+37
+00:03:35,903 --> 00:03:38,197
+<font face="sans-serif" size="71">Thanks for taking care of Sawako.</font>
+
+38
+00:03:38,280 --> 00:03:41,200
+<font face="sans-serif" size="71">Yeah, they really do take good care of me</font>
+
+39
+00:03:42,326 --> 00:03:45,621
+<font face="sans-serif" size="71">Well, Sawako's always
+looking after us too...</font>
+
+40
+00:03:45,704 --> 00:03:48,958
+<font face="sans-serif" size="71">This girl? Sawako
+helped her pass her exam.</font>
+
+41
+00:03:49,041 --> 00:03:53,128
+<font face="sans-serif" size="71">- Jeez, Yano-chin, that's so embarrassing!
+- It's the truth though.</font>
+
+42
+00:03:58,425 --> 00:04:01,220
+<font face="sans-serif" size="71">Woah. Your room's more
+colorful than I expected.</font>
+
+43
+00:04:01,303 --> 00:04:04,098
+<font face="sans-serif" size="71">Well, I figured it's private, so
+no one would mind it not suiting me.</font>
+
+44
+00:04:04,181 --> 00:04:06,934
+<font face="sans-serif" size="71">Oh, you...</font>
+
+45
+00:04:07,518 --> 00:04:10,020
+<font face="sans-serif" size="71">You're totally overthinking.</font>
+
+46
+00:04:10,104 --> 00:04:14,566
+<font face="sans-serif" size="71">Oh, what's this?! Ya got a
+couple pictures up here!</font>
+
+47
+00:04:19,655 --> 00:04:21,991
+<font face="sans-serif" size="71">I looked for pictures from our field
+trip, and I was able to find some with the</font>
+
+48
+00:04:22,074 --> 00:04:24,410
+<font face="sans-serif" size="71">- three of us together...
+- These aren't just a ghost</font>
+
+49
+00:04:24,493 --> 00:04:26,829
+<font face="sans-serif" size="71">that was caught on camera?</font>
+
+50
+00:04:26,912 --> 00:04:29,456
+<font face="sans-serif" size="71">These aren't just a ghost
+that was caught on camera?</font>
+
+51
+00:04:29,540 --> 00:04:32,126
+<font face="sans-serif" size="71">Then this is perfect.
+Here! It's a little gift.</font>
+
+52
+00:04:32,793 --> 00:04:34,753
+<font face="sans-serif" size="71">{\an8}SAWAKO</font>
+
+53
+00:04:34,837 --> 00:04:37,214
+<font face="sans-serif" size="71">Wow!</font>
+
+54
+00:04:40,592 --> 00:04:44,221
+<font face="sans-serif" size="71">- These are from the after-party.
+- They're nice shots, right?</font>
+
+55
+00:04:44,305 --> 00:04:51,228
+<font face="sans-serif" size="71">Amazing! You can tell I'm a living human
+being in them! We're so close together!</font>
+
+56
+00:04:53,063 --> 00:04:53,981
+<font face="sans-serif" size="71">You guys...</font>
+
+57
+00:04:54,773 --> 00:04:57,776
+<font face="sans-serif" size="71">You should look at all of them.</font>
+
+58
+00:05:03,073 --> 00:05:07,036
+<font face="sans-serif" size="71">Wh- When did I put him in
+such an awkward situation?!</font>
+
+59
+00:05:07,119 --> 00:05:10,205
+<font face="sans-serif" size="71">{\an8}Yano-chin took it in secret.</font>
+
+60
+00:05:10,289 --> 00:05:13,667
+<font face="sans-serif" size="71">{\an8}Pretty nice, huh? Like you're a couple.</font>
+
+61
+00:05:13,751 --> 00:05:16,170
+<font face="sans-serif" size="71">I must've been so heavy.</font>
+
+62
+00:05:16,253 --> 00:05:21,675
+<font face="sans-serif" size="71">He might be a wimp, but a man's still
+gotta be able to support a woman at least.</font>
+
+63
+00:05:21,759 --> 00:05:25,137
+<font face="sans-serif" size="71">- Ya know?
+- Heeey! That's mean!</font>
+
+64
+00:05:25,220 --> 00:05:28,599
+<font face="sans-serif" size="71">That's the one where
+Kazehaya noticed I was there.</font>
+
+65
+00:05:28,682 --> 00:05:33,062
+<font face="sans-serif" size="71">In a matter of seconds, my
+treasures have multiplied!</font>
+
+66
+00:05:37,733 --> 00:05:38,776
+<font face="sans-serif" size="71">Thank you guys.</font>
+
+67
+00:05:40,319 --> 00:05:42,738
+<font face="sans-serif" size="71">{\an8}But you shouldn't be
+satisfied with just a few pictures.</font>
+
+68
+00:05:42,821 --> 00:05:44,573
+<font face="sans-serif" size="71">{\an8}You should tell him how you're feeling.</font>
+
+69
+00:05:48,077 --> 00:05:53,207
+<font face="sans-serif" size="71">- Tell who? Tell him what?
+- Kazehaya, your love.</font>
+
+70
+00:05:53,290 --> 00:05:54,208
+<font face="sans-serif" size="71">Love?!</font>
+
+71
+00:05:55,209 --> 00:05:56,627
+<font face="sans-serif" size="71">I'm in love with you.</font>
+
+72
+00:05:56,710 --> 00:05:57,711
+<font face="sans-serif" size="71">You don't say?</font>
+
+73
+00:06:00,214 --> 00:06:01,632
+<font face="sans-serif" size="71">But for what purpose?</font>
+
+74
+00:06:01,715 --> 00:06:03,717
+<font face="sans-serif" size="71">For the two of you to
+start dating, obviously!</font>
+
+75
+00:06:03,801 --> 00:06:05,803
+<font face="sans-serif" size="71">No way. Impossible.</font>
+
+76
+00:06:06,387 --> 00:06:10,140
+<font face="sans-serif" size="71">- But it is possible...
+- Okay. How do I put this? The way things</font>
+
+77
+00:06:10,224 --> 00:06:13,977
+<font face="sans-serif" size="71">stand right now, I'm already overwhelmed.</font>
+
+78
+00:06:14,061 --> 00:06:17,940
+<font face="sans-serif" size="71">Anything more than this... I
+can't even imagine it, so...</font>
+
+79
+00:06:18,023 --> 00:06:23,278
+<font face="sans-serif" size="71">You say that now, but what if
+Kazehaya gets taken by someone else, huh?</font>
+
+80
+00:06:23,362 --> 00:06:26,448
+<font face="sans-serif" size="71">I don't think that I could support them...</font>
+
+81
+00:06:27,116 --> 00:06:30,577
+<font face="sans-serif" size="71">At the very least I wouldn't celebrate it...</font>
+
+82
+00:06:30,661 --> 00:06:35,541
+<font face="sans-serif" size="71">M- My bad, I shouldn't have said that!
+I'm sorry! But I get it. Just liking him</font>
+
+83
+00:06:35,624 --> 00:06:39,711
+<font face="sans-serif" size="71">doesn't mean you're ready to
+skip to dating or anything, right?</font>
+
+84
+00:06:39,795 --> 00:06:43,882
+<font face="sans-serif" size="71">- I feel bad for the guy...
+- What are these?</font>
+
+85
+00:06:43,966 --> 00:06:48,095
+<font face="sans-serif" size="71">Ah! I rented those for us yesterday.</font>
+
+86
+00:06:48,679 --> 00:06:51,640
+<font face="sans-serif" size="71">- You wanna watch?
+- Ooh! That sounds nice!</font>
+
+87
+00:06:53,684 --> 00:06:55,018
+<font face="sans-serif" size="71">Get me out of here!</font>
+
+88
+00:07:01,316 --> 00:07:04,403
+<font face="sans-serif" size="71">Ryu!</font>
+
+89
+00:07:12,077 --> 00:07:14,955
+<font face="sans-serif" size="71">- Pedro...
+- Look how happy he is. I can</font>
+
+90
+00:07:15,038 --> 00:07:18,542
+<font face="sans-serif" size="71">- tell you really love animals.
+- He's cute.</font>
+
+91
+00:07:19,209 --> 00:07:21,420
+<font face="sans-serif" size="71">I wonder who that could be.</font>
+
+92
+00:07:22,296 --> 00:07:23,464
+<font face="sans-serif" size="71">PIN
+090-1XXX-XXXX</font>
+
+93
+00:07:25,257 --> 00:07:29,803
+<font face="sans-serif" size="71">- What's up?
+- It's Pin. It stopped</font>
+
+94
+00:07:31,930 --> 00:07:35,309
+<font face="sans-serif" size="71">I have 14 missed calls?!
+And they're all from him?!</font>
+
+95
+00:07:38,020 --> 00:07:42,566
+<font face="sans-serif" size="71">- You gonna answer?
+- Nah. It's actually been ringing for a</font>
+
+96
+00:07:42,649 --> 00:07:47,196
+<font face="sans-serif" size="71">while now, but I left it alone 'cause it's
+a pain to pick up.</font>
+
+97
+00:07:49,865 --> 00:07:51,241
+<font face="sans-serif" size="71">PIN
+090-1XXX-XXXX</font>
+
+98
+00:07:52,534 --> 00:07:54,411
+<font face="sans-serif" size="71">- What do you--
+- The hell have you been</font>
+
+99
+00:07:54,495 --> 00:07:56,371
+<font face="sans-serif" size="71">- doing this whole time?!
+- It's none of your</font>
+
+100
+00:07:56,455 --> 00:08:00,584
+<font face="sans-serif" size="71">business, why do you care?!</font>
+
+101
+00:08:00,667 --> 00:08:04,796
+<font face="sans-serif" size="71">You... bring Kuronuma over right
+away. Got it? Good. And make it snappy.</font>
+
+102
+00:08:06,882 --> 00:08:09,843
+<font face="sans-serif" size="71">Counting on you... Can't stop shaking...</font>
+
+103
+00:08:11,303 --> 00:08:14,932
+<font face="sans-serif" size="71">Actually... I ran into her
+while I was out last night.</font>
+
+104
+00:08:21,146 --> 00:08:25,817
+<font face="sans-serif" size="71">Good evening. Are you here to do
+some research as well, Mr. Arai?</font>
+
+105
+00:08:27,069 --> 00:08:28,362
+<font face="sans-serif" size="71">R-18
+EROTIC SPECIAL</font>
+
+106
+00:08:29,238 --> 00:08:35,661
+<font face="sans-serif" size="71">Uh-huh! That's what this is!
+Research? On what? Ghost photos?</font>
+
+107
+00:08:36,411 --> 00:08:39,915
+<font face="sans-serif" size="71">Those are for adults, right?</font>
+
+108
+00:08:40,749 --> 00:08:42,834
+<font face="sans-serif" size="71">She saw right through me.</font>
+
+109
+00:08:45,337 --> 00:08:48,715
+<font face="sans-serif" size="71">Films on social issues... Documentaries...
+He is a grown-up. Totally makes sense.</font>
+
+110
+00:08:48,799 --> 00:08:52,177
+<font face="sans-serif" size="71">D- Do you-?</font>
+
+111
+00:08:53,262 --> 00:08:58,475
+<font face="sans-serif" size="71">- What is it? What do you see behind me?
+- Huh... He sounds a bit congested.</font>
+
+112
+00:08:58,559 --> 00:09:01,061
+<font face="sans-serif" size="71">Come on... Why are you staring?</font>
+
+113
+00:09:01,645 --> 00:09:05,357
+<font face="sans-serif" size="71">Um... Mr. Arai... When you get home, make
+sure to wash your hands, and you should</font>
+
+114
+00:09:05,440 --> 00:09:09,152
+<font face="sans-serif" size="71">- also rinse your mouth with salt water.
+- Huh? Please. You can</font>
+
+115
+00:09:09,236 --> 00:09:12,990
+<font face="sans-serif" size="71">never be too careful.</font>
+
+116
+00:09:15,826 --> 00:09:18,912
+<font face="sans-serif" size="71">Why does she want me to purify myself?!</font>
+
+117
+00:09:19,955 --> 00:09:22,791
+<font face="sans-serif" size="71">But after all that, I went home and
+completely forgot about her warning.</font>
+
+118
+00:09:22,874 --> 00:09:25,752
+<font face="sans-serif" size="71">Woo-hoo!</font>
+
+119
+00:09:26,753 --> 00:09:28,255
+<font face="sans-serif" size="71">- That's everything.
+- So, uh...</font>
+
+120
+00:09:29,548 --> 00:09:32,301
+<font face="sans-serif" size="71">All I got from that was
+how he rented dirty videos.</font>
+
+121
+00:09:32,384 --> 00:09:35,178
+<font face="sans-serif" size="71">Please, kid... I'm counting on you.</font>
+
+122
+00:09:38,181 --> 00:09:39,224
+<font face="sans-serif" size="71">What did he say?</font>
+
+123
+00:09:39,308 --> 00:09:41,268
+<font face="sans-serif" size="71">I still don't really know,
+but he did sound pretty weak.</font>
+
+124
+00:09:41,351 --> 00:09:43,729
+<font face="sans-serif" size="71">Huh.</font>
+
+125
+00:09:43,812 --> 00:09:46,481
+<font face="sans-serif" size="71">And he said to bring Kuronuma there.</font>
+
+126
+00:09:46,565 --> 00:09:49,985
+<font face="sans-serif" size="71">Ah, now that you mention it, Chizuru
+told me she was going to her house today.</font>
+
+127
+00:09:50,068 --> 00:09:53,488
+<font face="sans-serif" size="71">I could bring Maru...</font>
+
+128
+00:09:59,953 --> 00:10:03,081
+<font face="sans-serif" size="71">Will Sawako end up a delinquent?</font>
+
+129
+00:10:03,165 --> 00:10:04,583
+<font face="sans-serif" size="71">Is she okay?</font>
+
+130
+00:10:04,666 --> 00:10:08,879
+<font face="sans-serif" size="71">Oh! My! Look at this!
+Five different cakes!</font>
+
+131
+00:10:09,671 --> 00:10:12,758
+<font face="sans-serif" size="71">They were thoughtful enough to bring two
+extra portions for us from the beginning.</font>
+
+132
+00:10:12,841 --> 00:10:15,969
+<font face="sans-serif" size="71">{\an8}How sweet of them!</font>
+
+133
+00:10:16,845 --> 00:10:20,682
+<font face="sans-serif" size="71">- Thank you for the cake!
+- Oh, you didn't need to bother.</font>
+
+134
+00:10:20,766 --> 00:10:24,603
+<font face="sans-serif" size="71">Well, they started watching some scary
+movies in the room. It's an excuse to slip</font>
+
+135
+00:10:24,686 --> 00:10:28,482
+<font face="sans-serif" size="71">- out.
+- Oh just leave them there sweetheart.</font>
+
+136
+00:10:28,565 --> 00:10:32,653
+<font face="sans-serif" size="71">It's fine, let me wash
+them. Can I use this?</font>
+
+137
+00:10:32,736 --> 00:10:35,489
+<font face="sans-serif" size="71">I'm super good at washing dishes!
+Look, quick and sparkling clean!</font>
+
+138
+00:10:35,572 --> 00:10:39,242
+<font face="sans-serif" size="71">- Oh, you're right.
+- Ya see?</font>
+
+139
+00:10:39,326 --> 00:10:41,828
+<font face="sans-serif" size="71">Thank you, dear. You
+didn't need to do all that.</font>
+
+140
+00:10:41,912 --> 00:10:44,414
+<font face="sans-serif" size="71">It's fine! I'm proud of this skill!</font>
+
+141
+00:10:49,419 --> 00:10:53,382
+<font face="sans-serif" size="71">{\an8}Sawako has the same
+eyebrows, eyes, and nose as her dad.</font>
+
+142
+00:10:53,465 --> 00:11:00,180
+<font face="sans-serif" size="71">But she got her face shape and
+lips from her mom. Warms my heart.</font>
+
+143
+00:11:02,057 --> 00:11:04,851
+<font face="sans-serif" size="71">How rare. See ya!</font>
+
+144
+00:11:05,852 --> 00:11:07,270
+<font face="sans-serif" size="71">Kazehaya? What's up?</font>
+
+145
+00:11:09,606 --> 00:11:11,483
+<font face="sans-serif" size="71">Both of them are actually
+very nice girls, aren't they?</font>
+
+146
+00:11:11,566 --> 00:11:13,443
+<font face="sans-serif" size="71">Uh-huh!</font>
+
+147
+00:11:14,027 --> 00:11:20,951
+<font face="sans-serif" size="71">Huh? Yeah, sure, we'll go.
+Uh-huh. What? That's creepy!</font>
+
+148
+00:11:26,665 --> 00:11:30,085
+<font face="sans-serif" size="71">You're right, it's super weird. I'm
+honestly a little spooked. But at least I</font>
+
+149
+00:11:30,168 --> 00:11:33,630
+<font face="sans-serif" size="71">- have Maru with me!
+- Maru?</font>
+
+150
+00:11:38,677 --> 00:11:39,594
+<font face="sans-serif" size="71">Kazehaya?</font>
+
+151
+00:11:41,304 --> 00:11:43,140
+<font face="sans-serif" size="71">Yeah.</font>
+
+152
+00:11:47,561 --> 00:11:48,478
+<font face="sans-serif" size="71">Kuronuma?</font>
+
+153
+00:11:50,522 --> 00:11:55,277
+<font face="sans-serif" size="71">Pin says he's not feeling too well, and
+he wanted to ask you for advice, so... I</font>
+
+154
+00:11:55,360 --> 00:12:00,115
+<font face="sans-serif" size="71">- thought we could all go to his place.
+- I knew it.</font>
+
+155
+00:12:00,198 --> 00:12:05,829
+<font face="sans-serif" size="71">It makes sense. Once you have a stuffy
+nose, rinsing your mouth's pointless.</font>
+
+156
+00:12:05,912 --> 00:12:06,955
+<font face="sans-serif" size="71">Be right there!</font>
+
+157
+00:12:07,622 --> 00:12:11,543
+<font face="sans-serif" size="71">That's good.</font>
+
+158
+00:12:14,129 --> 00:12:16,590
+<font face="sans-serif" size="71">I'm sure Maru wants to see you too.</font>
+
+159
+00:12:17,591 --> 00:12:18,508
+<font face="sans-serif" size="71">Yeah.</font>
+
+160
+00:12:21,052 --> 00:12:22,262
+<font face="sans-serif" size="71">Was that it?</font>
+
+161
+00:12:22,345 --> 00:12:24,264
+<font face="sans-serif" size="71">What do you mean?</font>
+
+162
+00:12:24,347 --> 00:12:28,351
+<font face="sans-serif" size="71">You didn't say, "I wanna
+see you too," or anything.</font>
+
+163
+00:12:28,435 --> 00:12:30,812
+<font face="sans-serif" size="71">I thought... you'd be the
+type to say that is all</font>
+
+164
+00:12:30,896 --> 00:12:33,315
+<font face="sans-serif" size="71">Well, I'm not!</font>
+
+165
+00:12:34,983 --> 00:12:36,860
+<font face="sans-serif" size="71">Today... is a great day.</font>
+
+166
+00:12:40,614 --> 00:12:45,285
+<font face="sans-serif" size="71">Not only do I have my friends
+over, I get to see Kazehaya too.</font>
+
+167
+00:12:51,041 --> 00:12:54,252
+<font face="sans-serif" size="71">Yo, finally.</font>
+
+168
+00:12:56,630 --> 00:13:01,676
+<font face="sans-serif" size="71">I'm... done for.</font>
+
+169
+00:13:03,929 --> 00:13:06,014
+<font face="sans-serif" size="71">- This place is disgusting.
+- This place is disgusting.</font>
+
+170
+00:13:13,188 --> 00:13:16,858
+<font face="sans-serif" size="71">Okay. Tell me. How are
+things looking, doc?</font>
+
+171
+00:13:16,942 --> 00:13:21,404
+<font face="sans-serif" size="71">Awful. Let's put these
+covers on you for starters.</font>
+
+172
+00:13:22,489 --> 00:13:23,323
+<font face="sans-serif" size="71">A cold.</font>
+
+173
+00:13:23,406 --> 00:13:26,910
+<font face="sans-serif" size="71">- It's a cold.
+- It's literally just a cold.</font>
+
+174
+00:13:26,993 --> 00:13:30,539
+<font face="sans-serif" size="71">For now, I kinda... brought
+you a variety of things.</font>
+
+175
+00:13:31,414 --> 00:13:32,833
+<font face="sans-serif" size="71">Exorcism tools?</font>
+
+176
+00:13:33,959 --> 00:13:40,006
+<font face="sans-serif" size="71">- I'll do it!
+- And also this... I can feed him!</font>
+
+177
+00:13:42,259 --> 00:13:43,468
+<font face="sans-serif" size="71">{\an8}This too...</font>
+
+178
+00:13:46,263 --> 00:13:47,597
+<font face="sans-serif" size="71">And...</font>
+
+179
+00:13:47,681 --> 00:13:52,269
+<font face="sans-serif" size="71">Oh, come on. Why am I taking
+care of Pin like we're dating?</font>
+
+180
+00:13:52,352 --> 00:13:53,895
+<font face="sans-serif" size="71">What a caretaker!</font>
+
+181
+00:13:54,437 --> 00:13:57,440
+<font face="sans-serif" size="71">Hey, you think I'm okay?</font>
+
+182
+00:14:00,193 --> 00:14:03,738
+<font face="sans-serif" size="71">- You think this room's okay?
+- The heck are you even growling at, Pedro?</font>
+
+183
+00:14:03,822 --> 00:14:07,367
+<font face="sans-serif" size="71">Just last night, I heard this
+high-pitched screech, like something was</font>
+
+184
+00:14:07,450 --> 00:14:10,328
+<font face="sans-serif" size="71">scratching.</font>
+
+185
+00:14:10,412 --> 00:14:13,331
+<font face="sans-serif" size="71">The fever's so bad, his ears are
+ringing! Don't worry. Please just relax</font>
+
+186
+00:14:13,415 --> 00:14:17,002
+<font face="sans-serif" size="71">{\an8}and get some sleep.</font>
+
+187
+00:14:17,085 --> 00:14:22,465
+<font face="sans-serif" size="71">This room... may take a little work, but
+I'll be sure to give it a proper cleaning</font>
+
+188
+00:14:22,549 --> 00:14:25,969
+<font face="sans-serif" size="71">while you rest. It's fine. I'm
+actually very good at this sort of thing.</font>
+
+189
+00:14:26,052 --> 00:14:29,472
+<font face="sans-serif" size="71">Warding off evil spirits?</font>
+
+190
+00:14:30,015 --> 00:14:31,683
+<font face="sans-serif" size="71">Cleaning... is fun.</font>
+
+191
+00:14:33,101 --> 00:14:35,896
+<font face="sans-serif" size="71">Hey, want me to tell you a
+bedtime story to lull you to sleep?</font>
+
+192
+00:14:35,979 --> 00:14:38,815
+<font face="sans-serif" size="71">Huh? Okay. Why not.</font>
+
+193
+00:14:42,444 --> 00:14:46,281
+<font face="sans-serif" size="71">Then here's one I just picked up
+recently. It's a true story, and it</font>
+
+194
+00:14:46,364 --> 00:14:50,201
+<font face="sans-serif" size="71">actually happened in this very
+neighborhood. It all started at this</font>
+
+195
+00:14:50,285 --> 00:14:54,039
+<font face="sans-serif" size="71">single guy's apartment, he would
+hear a knock on his door every night.</font>
+
+196
+00:14:54,122 --> 00:14:58,919
+<font face="sans-serif" size="71">But when he swung the door open, there was
+never anyone standing on the other side.</font>
+
+197
+00:14:59,002 --> 00:15:03,882
+<font face="sans-serif" size="71">And that's because, in reality,
+all along, at that very apartment...</font>
+
+198
+00:15:14,225 --> 00:15:17,270
+<font face="sans-serif" size="71">Despite getting all freaked
+out, he's sleeping like a baby.</font>
+
+199
+00:15:20,941 --> 00:15:23,109
+<font face="sans-serif" size="71">It's a miniature Kazehaya!</font>
+
+200
+00:15:23,818 --> 00:15:27,489
+<font face="sans-serif" size="71">That's my fault! I'm so
+sorry. I violated your privacy...</font>
+
+201
+00:15:27,572 --> 00:15:31,242
+<font face="sans-serif" size="71">No! it's just it's embarrassing!</font>
+
+202
+00:15:33,912 --> 00:15:38,166
+<font face="sans-serif" size="71">In that one... I was just
+frustrated that we lost the game.</font>
+
+203
+00:15:40,919 --> 00:15:44,089
+<font face="sans-serif" size="71">And Pin was making fun of me for crying.</font>
+
+204
+00:15:44,172 --> 00:15:45,507
+<font face="sans-serif" size="71">Just one more look?</font>
+
+205
+00:15:45,590 --> 00:15:49,636
+<font face="sans-serif" size="71">No! You can't! Oh! You haven't
+gotten to pet Maru yet, right?</font>
+
+206
+00:15:49,719 --> 00:15:53,807
+<font face="sans-serif" size="71">It's just I'd feel bad if I
+got between him and Sanada!</font>
+
+207
+00:15:53,890 --> 00:15:56,434
+<font face="sans-serif" size="71">- W-What about now then?
+- S-Sure!</font>
+
+208
+00:15:56,518 --> 00:15:59,729
+<font face="sans-serif" size="71">- Why don't they just get together already?
+- Why don't they just get together already?</font>
+
+209
+00:16:02,816 --> 00:16:04,985
+<font face="sans-serif" size="71">Sooo cuuuute!</font>
+
+210
+00:16:06,903 --> 00:16:08,655
+<font face="sans-serif" size="71">He's out cold, huh?</font>
+
+211
+00:16:08,738 --> 00:16:09,739
+<font face="sans-serif" size="71">Mmhm, sure is.</font>
+
+212
+00:16:11,825 --> 00:16:15,870
+<font face="sans-serif" size="71">- I feel lighter.
+- The medicine must've kicked in.</font>
+
+213
+00:16:15,954 --> 00:16:20,000
+<font face="sans-serif" size="71">- Even the air feels different now!
+- Because we ventilated the room.</font>
+
+214
+00:16:20,083 --> 00:16:23,628
+<font face="sans-serif" size="71">Because we ventilated the room.</font>
+
+215
+00:16:23,712 --> 00:16:27,674
+<font face="sans-serif" size="71">You're amazing! Next time I'm
+possessed, I'll count on you!</font>
+
+216
+00:16:27,757 --> 00:16:32,554
+<font face="sans-serif" size="71">{\an8}What? You guys're
+still loafing around here?</font>
+
+217
+00:16:32,637 --> 00:16:35,015
+<font face="sans-serif" size="71">{\an8}- Wha...
+- Wha...</font>
+
+218
+00:16:36,141 --> 00:16:39,144
+<font face="sans-serif" size="71">We're leavin' you for dead next time!</font>
+
+219
+00:16:39,227 --> 00:16:41,896
+<font face="sans-serif" size="71">- T- take care.
+- Unbelievable. Well</font>
+
+220
+00:16:41,980 --> 00:16:44,649
+<font face="sans-serif" size="71">- that was a total waste.
+- Hey, I know there's not much I can do to</font>
+
+221
+00:16:44,733 --> 00:16:47,360
+<font face="sans-serif" size="71">repay you, but if you need advice, come
+ask me.</font>
+
+222
+00:16:47,444 --> 00:16:50,488
+<font face="sans-serif" size="71">Just sayin' if it's about Shota or Ryu, I
+know it all. Wanna learn their weaknesses?</font>
+
+223
+00:16:50,572 --> 00:16:53,700
+<font face="sans-serif" size="71">I got you.</font>
+
+224
+00:16:55,452 --> 00:16:58,288
+<font face="sans-serif" size="71">That jerk better not be
+telling her anything about me.</font>
+
+225
+00:16:58,371 --> 00:17:01,249
+<font face="sans-serif" size="71">And Shota...</font>
+
+226
+00:17:01,875 --> 00:17:05,420
+<font face="sans-serif" size="71">- I-Is that true?
+- Completely! If you wanna thank him,</font>
+
+227
+00:17:05,503 --> 00:17:09,049
+<font face="sans-serif" size="71">that's the way. He'll be thrilled!</font>
+
+228
+00:17:09,716 --> 00:17:10,925
+<font face="sans-serif" size="71">He'd be thrilled?</font>
+
+229
+00:17:15,722 --> 00:17:20,060
+<font face="sans-serif" size="71">But, man, I feel light as a feather,
+this is the beeeest! What, did they forget</font>
+
+230
+00:17:20,143 --> 00:17:24,522
+<font face="sans-serif" size="71">something?</font>
+
+231
+00:17:46,628 --> 00:17:49,422
+<font face="sans-serif" size="71">Sawako, your cake was so freakin' yummy!</font>
+
+232
+00:17:49,506 --> 00:17:52,842
+<font face="sans-serif" size="71">Well, things didn't quite go
+as planned, But we'll try again!</font>
+
+233
+00:17:52,926 --> 00:17:56,221
+<font face="sans-serif" size="71">Yes please! Come again!</font>
+
+234
+00:17:56,304 --> 00:18:01,643
+<font face="sans-serif" size="71">You know... after being together pretty
+much all day, leaving's kinda hard.</font>
+
+235
+00:18:05,772 --> 00:18:08,942
+<font face="sans-serif" size="71">The more time we spend with one
+another, it becomes harder and harder to</font>
+
+236
+00:18:09,025 --> 00:18:12,195
+<font face="sans-serif" size="71">say goodbye.</font>
+
+237
+00:18:13,279 --> 00:18:17,659
+<font face="sans-serif" size="71">'Kay. I'll be going this way.
+See you guys. Get back safe.</font>
+
+238
+00:18:17,742 --> 00:18:20,411
+<font face="sans-serif" size="71">Well aren't you gonna walk her home?</font>
+
+239
+00:18:20,495 --> 00:18:23,665
+<font face="sans-serif" size="71">Yeah, that's right! It's
+dangerous when it's this dark out!</font>
+
+240
+00:18:23,748 --> 00:18:26,918
+<font face="sans-serif" size="71">It's fine! I-I'll make sure not to
+scare anyone on the way back. I'll be</font>
+
+241
+00:18:27,001 --> 00:18:30,130
+<font face="sans-serif" size="71">- extra careful!
+- I'll go.</font>
+
+242
+00:18:32,590 --> 00:18:33,508
+<font face="sans-serif" size="71">Okay?</font>
+
+243
+00:18:34,467 --> 00:18:35,385
+<font face="sans-serif" size="71">But I...</font>
+
+244
+00:18:35,468 --> 00:18:38,138
+<font face="sans-serif" size="71">No? If you don't want me to...</font>
+
+245
+00:18:38,221 --> 00:18:41,391
+<font face="sans-serif" size="71">It's not that I don't.</font>
+
+246
+00:18:46,229 --> 00:18:48,523
+<font face="sans-serif" size="71">If Shota's going, then I'll go.</font>
+
+247
+00:18:48,606 --> 00:18:53,653
+<font face="sans-serif" size="71">- Idiot! You're coming with us.
+- Pedro...</font>
+
+248
+00:18:55,530 --> 00:18:57,824
+<font face="sans-serif" size="71">- See ya!
+- Good night!</font>
+
+249
+00:18:57,907 --> 00:19:00,201
+<font face="sans-serif" size="71">- Give our regards to your mom and dad!
+- I- I will!</font>
+
+250
+00:19:02,370 --> 00:19:03,413
+<font face="sans-serif" size="71">Let's go.</font>
+
+251
+00:19:09,419 --> 00:19:13,631
+<font face="sans-serif" size="71">Of course I want this.
+There's no way I wouldn't.</font>
+
+252
+00:19:13,715 --> 00:19:16,593
+<font face="sans-serif" size="71">- The days are starting to get short.
+- Yeah...</font>
+
+253
+00:19:17,927 --> 00:19:18,970
+<font face="sans-serif" size="71">I'm happy.</font>
+
+254
+00:19:20,722 --> 00:19:24,559
+<font face="sans-serif" size="71">Maybe even too happy... to the point where
+I want to thank you so much, but I just</font>
+
+255
+00:19:24,642 --> 00:19:28,605
+<font face="sans-serif" size="71">can't find the words.</font>
+
+256
+00:19:28,688 --> 00:19:31,065
+<font face="sans-serif" size="71">Or even look you in the eyes.</font>
+
+257
+00:20:06,017 --> 00:20:10,605
+<font face="sans-serif" size="71">- Whoa!
+- Whoa!</font>
+
+258
+00:20:10,688 --> 00:20:15,276
+<font face="sans-serif" size="71">- You! I-I Uuuuh!
+- Uh- so- just now was that~ Huh?!</font>
+
+259
+00:20:15,360 --> 00:20:19,447
+<font face="sans-serif" size="71">Um, Mr. Arai said that if I wanted to
+thank you, I should grab you, then close</font>
+
+260
+00:20:19,530 --> 00:20:23,660
+<font face="sans-serif" size="71">- my eyes and count all the way up to five.
+- That rat bastard...</font>
+
+261
+00:20:26,955 --> 00:20:28,206
+<font face="sans-serif" size="71">Be careful, kay?</font>
+
+262
+00:20:30,291 --> 00:20:35,296
+<font face="sans-serif" size="71">It's just, if you try that again,
+I don't know how I might react.</font>
+
+263
+00:20:35,380 --> 00:20:37,632
+<font face="sans-serif" size="71">I really don't know what I'd do.</font>
+
+264
+00:20:43,221 --> 00:20:47,225
+<font face="sans-serif" size="71">The more... the more I hear his voice.</font>
+
+265
+00:20:48,226 --> 00:20:49,894
+<font face="sans-serif" size="71">Spend time with him...</font>
+
+266
+00:20:51,562 --> 00:20:53,731
+<font face="sans-serif" size="71">Catch glimpses of his face...</font>
+
+267
+00:20:56,818 --> 00:21:00,822
+<font face="sans-serif" size="71">I was right... the harder
+it becomes to say goodbye.</font>
+
+268
+00:21:00,905 --> 00:21:05,243
+<font face="sans-serif" size="71">- Just for a little, don't look at me 'kay?
+- Okay...</font>
+
+269
+00:21:07,412 --> 00:21:13,084
+<font face="sans-serif" size="71">One day... will I want to tell him
+the way I was feeling... on this night?</font>
+
+270
+00:22:27,116 --> 00:22:28,659
+<font face="sans-serif" size="71">Winter is coming.</font>
+
+271
+00:22:29,327 --> 00:22:31,204
+<font face="sans-serif" size="71">The footsteps of hope.</font>
+
+272
+00:22:32,163 --> 00:22:34,540
+<font face="sans-serif" size="71">Next time: "Chizuru's Love"</font>
