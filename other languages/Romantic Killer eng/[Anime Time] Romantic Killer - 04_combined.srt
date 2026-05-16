@@ -1,2186 +1,1922 @@
 1
-00:00:00,512 --> 00:00:01,388
-[sighs]
-
-2
-00:00:02,806 --> 00:00:03,640
-[groans]
-
-3
-00:00:04,808 --> 00:00:06,226
-[moans]
-
-4
-00:00:07,019 --> 00:00:09,521
+00:00:07,060 --> 00:00:09,563
 Yah-hoo!
 
-5
-00:00:09,604 --> 00:00:12,024
+2
+00:00:09,646 --> 00:00:12,065
 -Yay! Yay! Yay! Yay!
--[Tsukasa] Hey.
+-Hey.
 
-6
-00:00:12,107 --> 00:00:13,525
+3
+00:00:12,149 --> 00:00:13,567
 -Woo-hoo. Woo-hoo.
--[Junta] Um…
+-Um…
 
-7
-00:00:14,025 --> 00:00:14,901
+4
+00:00:14,067 --> 00:00:14,943
 Your friend?
 
-8
-00:00:15,527 --> 00:00:16,862
+5
+00:00:15,569 --> 00:00:16,903
 Great question.
 
-9
-00:00:16,945 --> 00:00:19,865
+6
+00:00:16,987 --> 00:00:19,906
 The name's Junta Hayami,
 we're childhood friends.
 
-10
-00:00:20,782 --> 00:00:22,951
+7
+00:00:20,824 --> 00:00:22,993
 Did-- Did you sleep here?
 
-11
-00:00:23,035 --> 00:00:26,496
+8
+00:00:23,076 --> 00:00:26,538
 This is my friend, Kazuki. Funny story,
 he has a string of back luck,
 
-12
-00:00:26,580 --> 00:00:28,957
+9
+00:00:26,621 --> 00:00:28,999
 so he's gonna be crashing here
 at my place for now.
 
-13
-00:00:29,750 --> 00:00:31,960
+10
+00:00:29,791 --> 00:00:32,002
 He's… crashing here?
 
-14
-00:00:32,044 --> 00:00:34,296
+11
+00:00:32,085 --> 00:00:34,337
 Yeah, it's a really long story.
 
-15
-00:00:34,379 --> 00:00:36,298
--I'm just gonna go.
--[Riri giggling, cheering]
+12
+00:00:34,421 --> 00:00:36,339
+I'm just gonna go.
 
-16
-00:00:36,381 --> 00:00:37,215
+13
+00:00:36,423 --> 00:00:37,257
 Yeah. Sure.
 
-17
-00:00:37,716 --> 00:00:39,634
-[groans]
+14
+00:00:37,758 --> 00:00:39,676
 I forgot my bag.
 
-18
-00:00:42,053 --> 00:00:43,013
+15
+00:00:42,095 --> 00:00:43,055
 Hmm.
 
-19
-00:00:44,765 --> 00:00:45,974
-[sighs]
+16
+00:00:48,143 --> 00:00:49,102
+He's tall.
 
-20
-00:00:48,101 --> 00:00:49,061
-[Tsukasa] He's tall.
+17
+00:00:49,603 --> 00:00:51,188
+He's really good-looking.
 
-21
-00:00:49,561 --> 00:00:51,146
-[Junta] He's really good-looking.
-
-22
-00:00:56,860 --> 00:00:58,862
-[theme music]
-
-23
-00:02:22,112 --> 00:02:23,113
--[grunts, roars]
--[yells]
-
-24
-00:02:23,196 --> 00:02:25,949
+18
+00:02:23,238 --> 00:02:25,991
 #4 THE CHILDHOOD FRIEND IS EASY MODE
 
-25
-00:02:26,032 --> 00:02:27,075
+19
+00:02:26,074 --> 00:02:27,117
 A victory!
 
-26
-00:02:28,201 --> 00:02:29,035
-[grunts]
-
-27
-00:02:29,119 --> 00:02:31,454
-[groans, yells]
-
-28
-00:02:33,665 --> 00:02:36,459
+20
+00:02:33,707 --> 00:02:36,501
 -Hey! Explain yourself, you devil!
--[Riri] Wait! I'm Riri!
+-Wait! I'm Riri!
 
-29
-00:02:36,543 --> 00:02:39,087
+21
+00:02:36,585 --> 00:02:39,129
 Your helpful wizard friend, not the devil!
 
-30
-00:02:40,380 --> 00:02:41,715
+22
+00:02:40,422 --> 00:02:41,756
 You're no friend of mine.
 
-31
-00:02:41,798 --> 00:02:45,969
+23
+00:02:41,840 --> 00:02:46,011
 And what's with that guy out there?
 He keeps saying we're childhood friends.
 
-32
-00:02:46,052 --> 00:02:48,471
+24
+00:02:46,094 --> 00:02:48,513
 Reuniting with a childhood friend.
 
-33
-00:02:48,555 --> 00:02:50,974
+25
+00:02:48,597 --> 00:02:51,016
 Another classic romance scenario.
 
-34
-00:02:51,057 --> 00:02:52,434
+26
+00:02:51,099 --> 00:02:52,475
 ROMANTIC THRILLER
 
-35
-00:02:52,517 --> 00:02:55,896
-[Riri] The two of you grew up together.
+27
+00:02:52,559 --> 00:02:55,937
+The two of you grew up together.
 You were inseparable.
 
-36
-00:02:55,979 --> 00:03:00,984
+28
+00:02:56,021 --> 00:03:01,026
 Before you know it, those feelings
 of friendship turned into sparks of love.
 
-37
-00:03:01,067 --> 00:03:02,485
+29
+00:03:01,109 --> 00:03:02,527
 -…the problem here.
 -Let me take a look at it.
 
-38
-00:03:03,320 --> 00:03:07,240
+30
+00:03:03,361 --> 00:03:07,282
 What? I don't remember having a friend
 like that, especially one that's so cute.
 
-39
-00:03:07,824 --> 00:03:10,160
+31
+00:03:07,866 --> 00:03:10,202
 Well, his name is Junta Hayami.
 
-40
-00:03:10,243 --> 00:03:12,954
+32
+00:03:10,285 --> 00:03:12,996
 And you've been besties
 since elementary school.
 
-41
-00:03:13,038 --> 00:03:14,748
+33
+00:03:13,079 --> 00:03:14,789
 But it's a lie. It's not true!
 
-42
-00:03:15,749 --> 00:03:19,127
+34
+00:03:15,790 --> 00:03:19,169
 Junta's the hottest rookie
 on the school's baseball team this year.
 
-43
-00:03:19,210 --> 00:03:21,254
+35
+00:03:19,252 --> 00:03:21,296
 After being separated
 for three long years,
 
-44
-00:03:21,338 --> 00:03:23,006
+36
+00:03:21,379 --> 00:03:23,048
 you've been reunited.
 
-45
-00:03:23,089 --> 00:03:25,008
-[Anzu] That's an oddly specific backstory.
+37
+00:03:23,131 --> 00:03:25,050
+That's an oddly specific backstory.
 
-46
-00:03:25,091 --> 00:03:27,260
+38
+00:03:25,133 --> 00:03:27,302
 I haven't even told you the best part yet.
 
-47
-00:03:27,844 --> 00:03:32,015
+39
+00:03:27,886 --> 00:03:32,057
 Junta's had a secret crush on you
 since elementary school!
 
-48
-00:03:32,098 --> 00:03:33,516
+40
+00:03:32,140 --> 00:03:33,558
 Don't do this to him!
 
-49
-00:03:33,600 --> 00:03:38,271
-[Riri] Do you get it? All you have to do
+41
+00:03:33,642 --> 00:03:38,313
+Do you get it? All you have to do
 to win the game is accept his feelings.
 
-50
-00:03:38,355 --> 00:03:42,359
+42
+00:03:38,396 --> 00:03:42,400
 I call it Easy Mode in Romantic Thriller.
 
-51
-00:03:42,442 --> 00:03:44,277
+43
+00:03:42,484 --> 00:03:44,319
 You call this "Easy Mode"!
 
-52
-00:03:44,361 --> 00:03:46,363
+44
+00:03:44,402 --> 00:03:46,404
 Just go away, devil.
 
-53
-00:03:46,863 --> 00:03:48,406
+45
+00:03:46,905 --> 00:03:48,448
 Now, begone, evil spirit!
 
-54
-00:03:48,490 --> 00:03:51,284
+46
+00:03:48,531 --> 00:03:51,326
 I've already told you
 I'm not the devil or an evil spirit.
 
-55
-00:03:52,244 --> 00:03:54,704
+47
+00:03:52,285 --> 00:03:54,746
 How did I end up
 in such a ridiculous spot?
 
-56
-00:03:54,788 --> 00:03:57,874
+48
+00:03:54,829 --> 00:03:57,916
 When you think about it,
 it's not all that ridiculous.
 
-57
-00:03:57,958 --> 00:04:01,628
+49
+00:03:57,999 --> 00:04:01,670
 Having a crush on your best friend
 is a classic scenario.
 
-58
-00:04:01,711 --> 00:04:04,089
+50
+00:04:01,753 --> 00:04:04,130
 Hey, stop putting
 these dumb thoughts into my head.
 
-59
-00:04:04,172 --> 00:04:05,799
+51
+00:04:04,214 --> 00:04:05,840
 You're cute when you're embarrassed.
 
-60
-00:04:05,882 --> 00:04:07,509
--Who you're calling cute?
--[groans]
+52
+00:04:05,924 --> 00:04:07,550
+Who you're calling cute?
 
-61
-00:04:07,592 --> 00:04:09,511
-[footsteps]
+53
+00:04:09,636 --> 00:04:12,639
+Crap, what was his name? Jun… Jo…
 
-62
-00:04:09,594 --> 00:04:12,597
-[Anzu] Crap, what was his name? Jun… Jo…
+54
+00:04:12,722 --> 00:04:14,057
+You mean Junta?
 
-63
-00:04:12,681 --> 00:04:14,015
--[Riri] You mean Junta?
--[door closes]
-
-64
-00:04:14,599 --> 00:04:18,019
+55
+00:04:14,641 --> 00:04:18,061
 Yeah, he's been out there
 for a while now, hasn't he?
 
-65
-00:04:18,103 --> 00:04:21,022
+56
+00:04:18,144 --> 00:04:21,064
 Oh, don't worry. I took care of that.
 
-66
-00:04:21,106 --> 00:04:26,027
+57
+00:04:21,147 --> 00:04:26,069
 He's in his own scenario, see? He's been
 chatting with you this whole time.
 
-67
-00:04:26,861 --> 00:04:28,530
+58
+00:04:26,903 --> 00:04:28,571
 -Kirarin!
--[Junta] Uh, sorry.
+-Uh, sorry.
 
-68
-00:04:29,114 --> 00:04:32,033
+59
+00:04:29,155 --> 00:04:32,075
 I'm not all that familiar
 with torture methods.
 
-69
-00:04:32,117 --> 00:04:34,411
-[Anzu] What the hell
+60
+00:04:32,158 --> 00:04:34,452
+What the hell
 were we talking about?
 
-70
-00:04:36,997 --> 00:04:40,375
+61
+00:04:37,038 --> 00:04:40,417
 I got to say I was surprised earlier.
 
-71
-00:04:41,042 --> 00:04:44,045
+62
+00:04:41,084 --> 00:04:44,087
 I swear I don't usually
 talk about torture.
 
-72
-00:04:44,129 --> 00:04:45,588
+63
+00:04:44,170 --> 00:04:45,630
 It wasn't about that.
 
-73
-00:04:47,173 --> 00:04:48,758
+64
+00:04:47,215 --> 00:04:48,800
 It was Kazuki.
 
-74
-00:04:49,426 --> 00:04:51,219
-[Anzu] Kazuki? What about him?
+65
+00:04:49,467 --> 00:04:51,261
+Kazuki? What about him?
 
-75
-00:04:51,303 --> 00:04:53,305
+66
+00:04:51,344 --> 00:04:53,346
 Look, I think it's great
 that you're helping a friend
 
-76
-00:04:53,388 --> 00:04:55,098
+67
+00:04:53,430 --> 00:04:55,140
 out of a bad situation,
 
-77
-00:04:55,181 --> 00:04:57,350
+68
+00:04:55,223 --> 00:04:57,392
 but it's rude of him
 to put you out like that.
 
-78
-00:04:57,934 --> 00:05:01,980
+69
+00:04:57,976 --> 00:05:02,022
 Put me out? Nah, doesn't bother me.
 The room was empty, anyway.
 
-79
-00:05:02,772 --> 00:05:05,734
+70
+00:05:02,814 --> 00:05:05,775
 Right, but… you sure it's a good idea?
 
-80
-00:05:05,817 --> 00:05:07,861
+71
+00:05:05,859 --> 00:05:07,902
 I mean, how well do you really know him?
 
-81
-00:05:07,944 --> 00:05:11,489
-[Anzu] Seriously, I know a lot more
+72
+00:05:07,986 --> 00:05:11,531
+Seriously, I know a lot more
 about him than I do about you.
 
-82
-00:05:12,198 --> 00:05:16,619
+73
+00:05:12,240 --> 00:05:16,661
 No worries. Kazuki's not great
 at first impressions, but he's a good guy.
 
-83
-00:05:16,703 --> 00:05:20,498
+74
+00:05:16,745 --> 00:05:20,540
 Besides, he's got so many fangirls,
 he's totally over the whole scene.
 
-84
-00:05:21,583 --> 00:05:23,668
-[Junta] I see, well, okay.
+75
+00:05:21,624 --> 00:05:23,710
+I see, well, okay.
 
-85
-00:05:23,752 --> 00:05:26,254
+76
+00:05:23,793 --> 00:05:26,296
 I guess if your parents were cool
 with him staying at your place,
 
-86
-00:05:26,338 --> 00:05:28,631
+77
+00:05:26,379 --> 00:05:28,673
 then I shouldn't be
 too worried about it, either.
 
-87
-00:05:29,215 --> 00:05:31,342
-[Anzu] Maybe you should try
+78
+00:05:29,257 --> 00:05:31,384
+Maybe you should try
 worrying less about him
 
-88
-00:05:31,426 --> 00:05:33,219
+79
+00:05:31,468 --> 00:05:33,261
 and worrying more
 about yourself there, buddy.
 
-89
-00:05:33,303 --> 00:05:34,637
+80
+00:05:33,345 --> 00:05:34,679
 MIND CONTROL BY THE DEVIL
 
-90
-00:05:34,721 --> 00:05:37,432
-[sighs]
+81
+00:05:34,763 --> 00:05:37,474
 This whole thing is my fault.
 
-91
-00:05:37,515 --> 00:05:38,349
+82
+00:05:37,557 --> 00:05:38,391
 What?
 
-92
-00:05:38,433 --> 00:05:40,143
+83
+00:05:38,475 --> 00:05:40,185
 Uh, nothing, really.
 
-93
-00:05:40,226 --> 00:05:42,145
-[wind whooshing]
+84
+00:05:42,771 --> 00:05:45,065
+Hey, what's going on in here?
 
-94
-00:05:42,729 --> 00:05:45,023
--[grunts]
--Hey, what's going on in here?
-
-95
-00:05:45,106 --> 00:05:46,900
+85
+00:05:45,148 --> 00:05:46,941
 -This wind is so strong.
 -Are you okay?
 
-96
-00:05:46,983 --> 00:05:48,234
-[grunts]
+86
+00:05:48,360 --> 00:05:49,319
+Yeah.
 
-97
-00:05:48,318 --> 00:05:49,277
-[Anzu] Yeah.
+87
+00:05:49,402 --> 00:05:50,612
+-Anzu.
+-Huh?
 
-98
-00:05:49,360 --> 00:05:50,570
--[Junta] Anzu.
--[Anzu] Huh?
+88
+00:05:53,865 --> 00:05:55,200
+H-- Hey…
 
-99
-00:05:51,237 --> 00:05:53,740
-[dreamy music]
-
-100
-00:05:53,823 --> 00:05:55,158
--[heart thumping]
--H-- Hey…
-
-101
-00:05:56,534 --> 00:05:57,660
+89
+00:05:56,576 --> 00:05:57,702
 Just hold still.
 
-102
-00:05:57,744 --> 00:06:00,038
--[thumping continues]
--[weak moan]
+90
+00:06:00,163 --> 00:06:01,206
+You've got…
 
-103
-00:06:00,121 --> 00:06:01,164
-[Junta] You've got…
-
-104
-00:06:01,247 --> 00:06:03,666
+91
+00:06:01,289 --> 00:06:03,708
 a Hercules beetle stuck in your hair.
 
-105
-00:06:04,751 --> 00:06:05,668
+92
+00:06:04,793 --> 00:06:05,710
 What?
 
-106
-00:06:05,752 --> 00:06:07,754
-[screams]
+93
+00:06:05,794 --> 00:06:07,796
 What the…
 
-107
-00:06:07,837 --> 00:06:10,256
+94
+00:06:07,879 --> 00:06:10,298
 What is that thing? It's freaking huge!
 
-108
-00:06:10,340 --> 00:06:12,342
--[Junta] Quit squirming.
--[Anzu] Ah, no, no, no, no. Ah!
+95
+00:06:10,382 --> 00:06:12,384
+-Quit squirming.
+-Ah, no, no, no, no. Ah!
 
-109
-00:06:12,425 --> 00:06:15,678
--[Junta] Oh, it's really tangled in there.
--[Anzu] Hurry up! Get it off me!
+96
+00:06:12,467 --> 00:06:15,720
+-Oh, it's really tangled in there.
+-Hurry up! Get it off me!
 
-110
-00:06:15,762 --> 00:06:16,805
-[Junta grunts]
-
-111
-00:06:18,264 --> 00:06:19,182
+97
+00:06:18,306 --> 00:06:19,224
 Ta-da!
 
-112
-00:06:19,265 --> 00:06:21,184
+98
+00:06:19,307 --> 00:06:21,226
 SINCE IT IS UNSIGHTLY,
 WE'VE CONVERTED IT TO A CREPE.
 
-113
-00:06:22,143 --> 00:06:23,686
+99
+00:06:22,185 --> 00:06:23,728
 Oh, gross! Get it away from me!
 
-114
-00:06:23,770 --> 00:06:25,814
+100
+00:06:23,812 --> 00:06:25,855
 -Get rid of that thing!
 -Uh, uh…
 
-115
-00:06:25,897 --> 00:06:26,898
+101
+00:06:25,939 --> 00:06:26,940
 My bad. Sorry.
 
-116
-00:06:28,233 --> 00:06:30,026
-[exclaims]
+102
+00:06:28,274 --> 00:06:30,068
 Look how big this one is.
 
-117
-00:06:30,110 --> 00:06:32,278
+103
+00:06:30,151 --> 00:06:32,320
 I'll bet you it's worth
 at least a hundred dollars.
 
-118
-00:06:32,362 --> 00:06:36,533
+104
+00:06:32,404 --> 00:06:36,574
 One hundred?
 That ugly beetle's worth that much?
 
-119
-00:06:36,616 --> 00:06:38,201
-[buzzing]
-
-120
-00:06:40,411 --> 00:06:41,830
+105
+00:06:40,453 --> 00:06:41,871
 Stop it!
 
-121
-00:06:41,913 --> 00:06:42,914
+106
+00:06:41,955 --> 00:06:42,956
 Catch it!
 
-122
-00:06:43,414 --> 00:06:45,333
--I think I can still reach it.
--[pants]
+107
+00:06:43,456 --> 00:06:45,375
+I think I can still reach it.
 
-123
-00:06:45,416 --> 00:06:46,334
+108
+00:06:45,458 --> 00:06:46,376
 Incoming!
 
-124
-00:06:47,001 --> 00:06:47,836
+109
+00:06:47,043 --> 00:06:47,877
 It's gonna hurt.
 
-125
-00:06:47,919 --> 00:06:49,337
-[yells]
-
-126
-00:06:49,420 --> 00:06:51,339
-[gasps]
+110
+00:06:49,462 --> 00:06:51,381
 Anzu!
 
-127
-00:06:56,302 --> 00:06:57,595
-[buzzing]
-
-128
-00:06:58,805 --> 00:07:00,682
+111
+00:06:58,847 --> 00:07:00,723
 I… got you.
 
-129
-00:07:01,683 --> 00:07:02,725
-[pants]
-
-130
-00:07:03,518 --> 00:07:06,604
+112
+00:07:03,560 --> 00:07:06,646
 Um, nice catch. Great reflexes.
 
-131
-00:07:07,355 --> 00:07:10,066
+113
+00:07:07,397 --> 00:07:10,108
 Oh, thanks. Just glad you're okay.
 
-132
-00:07:11,818 --> 00:07:14,154
-[Anzu] Ugh, damn it, Junta.
+114
+00:07:11,860 --> 00:07:14,195
+Ugh, damn it, Junta.
 Why do you have to be such a great guy?
 
-133
-00:07:14,237 --> 00:07:15,113
+115
+00:07:14,279 --> 00:07:15,155
 Uh…
 
-134
-00:07:15,697 --> 00:07:16,656
+116
+00:07:15,738 --> 00:07:16,698
 What?
 
-135
-00:07:17,240 --> 00:07:20,493
-[Junta] It's just that beetle
+117
+00:07:17,282 --> 00:07:20,535
+It's just that beetle
 really messed up your hair.
 
-136
-00:07:20,577 --> 00:07:22,620
+118
+00:07:20,618 --> 00:07:22,662
 What? My hair?
 
-137
-00:07:24,664 --> 00:07:25,748
+119
+00:07:24,706 --> 00:07:25,790
 You want me to fix it?
 
-138
-00:07:26,541 --> 00:07:27,417
+120
+00:07:26,583 --> 00:07:27,459
 Um…
 
-139
-00:07:28,543 --> 00:07:29,419
+121
+00:07:28,585 --> 00:07:29,461
 Could you?
 
-140
-00:07:32,130 --> 00:07:34,382
-[Junta] You know,
+122
+00:07:32,172 --> 00:07:34,424
+You know,
 I remember in elementary school,
 
-141
-00:07:34,466 --> 00:07:36,843
+123
+00:07:34,507 --> 00:07:36,885
 the kids used to call you
 "Frizzy" and "Annie"
 
-142
-00:07:36,926 --> 00:07:39,012
+124
+00:07:36,968 --> 00:07:39,053
 because your hair was so red and curly.
 
-143
-00:07:39,596 --> 00:07:41,931
-[Anzu] They implanted
+125
+00:07:39,637 --> 00:07:41,973
+They implanted
 that memory, too. Devil!
 
-144
-00:07:42,599 --> 00:07:43,725
+126
+00:07:42,640 --> 00:07:43,766
 I remember.
 
-145
-00:07:44,309 --> 00:07:45,935
+127
+00:07:44,350 --> 00:07:45,977
 Ryuya and his friends used to call me that
 
-146
-00:07:46,019 --> 00:07:47,979
+128
+00:07:46,060 --> 00:07:48,021
 because I constantly beat them at games.
 
-147
-00:07:49,731 --> 00:07:52,901
+129
+00:07:49,772 --> 00:07:52,942
 Hey, what was that one video game
 you used to play all the time?
 
-148
-00:07:52,984 --> 00:07:54,319
+130
+00:07:53,026 --> 00:07:54,360
 Cat Ranger?
 
-149
-00:07:54,402 --> 00:07:57,655
+131
+00:07:54,444 --> 00:07:57,697
 Yes! Cat Ranger! Oh, that was classic.
 
-150
-00:07:57,739 --> 00:08:00,867
+132
+00:07:57,780 --> 00:08:00,909
 It was such an obscure game,
 but it was so much fun to play.
 
-151
-00:08:00,950 --> 00:08:03,870
-[Junta] So, what sort of games
+133
+00:08:00,992 --> 00:08:03,912
+So, what sort of games
 are you playing now?
 
-152
-00:08:04,454 --> 00:08:07,749
+134
+00:08:04,496 --> 00:08:07,790
 Well, recently, they were all confiscated.
 
-153
-00:08:07,832 --> 00:08:09,375
+135
+00:08:07,874 --> 00:08:09,417
 Huh? But what happened?
 
-154
-00:08:09,459 --> 00:08:11,753
-[Anzu] I keep asking myself
+136
+00:08:09,501 --> 00:08:11,794
+I keep asking myself
 the same thing!
 
-155
-00:08:12,837 --> 00:08:14,464
+137
+00:08:12,879 --> 00:08:14,506
 How is it going back there?
 
-156
-00:08:14,547 --> 00:08:17,467
+138
+00:08:14,589 --> 00:08:17,509
 Uh, sorry, guess I'm not
 so good with my hands.
 
-157
-00:08:17,550 --> 00:08:18,760
-[Anzu] Not good with his hands?
+139
+00:08:17,592 --> 00:08:18,801
+Not good with his hands?
 
-158
-00:08:18,843 --> 00:08:20,136
--[Saki] Anzu!
--[both] Huh!
+140
+00:08:18,885 --> 00:08:20,178
+-Anzu!
+-Huh!
 
-159
-00:08:20,887 --> 00:08:21,971
+141
+00:08:20,929 --> 00:08:22,013
 Good morning.
 
-160
-00:08:22,055 --> 00:08:23,723
+142
+00:08:22,096 --> 00:08:23,765
 Hey! Morning, Saki.
 
-161
-00:08:23,806 --> 00:08:25,517
+143
+00:08:23,848 --> 00:08:25,558
 Hi, Junta. How are you?
 
-162
-00:08:25,600 --> 00:08:26,643
+144
+00:08:25,642 --> 00:08:26,684
 Morning.
 
-163
-00:08:26,726 --> 00:08:28,603
--[Anzu] Saki knows Junta?
--[giggles]
+145
+00:08:26,768 --> 00:08:28,645
+Saki knows Junta?
 
-164
-00:08:28,686 --> 00:08:31,481
+146
+00:08:28,728 --> 00:08:31,523
 That little devil got to her, too!
 
-165
-00:08:32,649 --> 00:08:35,401
+147
+00:08:32,690 --> 00:08:35,443
 Anzu, do you want me
 to help you with your hair?
 
-166
-00:08:35,485 --> 00:08:36,611
+148
+00:08:35,527 --> 00:08:36,653
 You wouldn't mind?
 
-167
-00:08:36,694 --> 00:08:38,029
+149
+00:08:36,736 --> 00:08:38,071
 That would be great.
 
-168
-00:08:38,112 --> 00:08:39,322
-[birds chirping]
+150
+00:08:40,949 --> 00:08:42,575
+There. Perfect.
 
-169
-00:08:40,907 --> 00:08:42,534
-[Saki] There. Perfect.
-
-170
-00:08:42,617 --> 00:08:44,160
+151
+00:08:42,659 --> 00:08:44,202
 You're the best.
 
-171
-00:08:44,244 --> 00:08:47,747
+152
+00:08:44,285 --> 00:08:47,789
 You know what? You should start
 wearing scrunchies. You look so cute.
 
-172
-00:08:47,830 --> 00:08:48,957
-[laughs]
-
-173
-00:08:49,040 --> 00:08:50,333
+153
+00:08:49,082 --> 00:08:50,375
 Junta, your thoughts?
 
-174
-00:08:50,416 --> 00:08:51,251
+154
+00:08:50,458 --> 00:08:51,292
 Me?
 
-175
-00:08:51,334 --> 00:08:52,252
-[exhales]
-
-176
-00:08:53,086 --> 00:08:54,003
+155
+00:08:53,127 --> 00:08:54,045
 Yeah.
 
-177
-00:08:55,213 --> 00:08:58,132
-[Anzu shrieks]
+156
+00:08:55,255 --> 00:08:58,174
 What's with that face?
 
-178
-00:08:59,008 --> 00:09:00,176
+157
+00:08:59,050 --> 00:09:00,218
 Oh, thanks.
 
-179
-00:09:00,760 --> 00:09:03,137
--She totally asked him on purpose.
--[giggles]
+158
+00:09:00,802 --> 00:09:03,179
+She totally asked him on purpose.
 
-180
-00:09:05,306 --> 00:09:09,644
+159
+00:09:05,348 --> 00:09:09,686
 Well, Junta's actually a really nice guy.
 I wasn't sure what to expect
 
-181
-00:09:09,727 --> 00:09:13,439
+160
+00:09:09,769 --> 00:09:13,481
 from my mysterious childhood friend
 showing up out of the blue,
 
-182
-00:09:13,523 --> 00:09:15,650
+161
+00:09:13,565 --> 00:09:15,692
 but it's kinda weird how comfortable it is
 
-183
-00:09:15,733 --> 00:09:18,653
+162
+00:09:15,775 --> 00:09:18,695
 -just hanging out with him and Saki.
 -She screams so loud.
 
-184
-00:09:18,736 --> 00:09:20,822
-[Anzu] It almost feels like
+163
+00:09:18,778 --> 00:09:20,863
+It almost feels like
 we really are old friends.
 
-185
-00:09:20,905 --> 00:09:22,156
-[laughter]
-
-186
-00:09:27,745 --> 00:09:29,205
--[Makoto] Tsukasa.
+164
+00:09:27,787 --> 00:09:29,247
+-Tsukasa.
 -Hm?
 
-187
-00:09:29,747 --> 00:09:32,667
+165
+00:09:29,789 --> 00:09:32,709
 Morning. Happy to see
 you're heading back to school today.
 
-188
-00:09:32,750 --> 00:09:34,419
+166
+00:09:32,792 --> 00:09:34,460
 Whoa, did you get a new phone?
 
-189
-00:09:35,128 --> 00:09:37,589
-[Tsukasa] Yeah, can't do anything
+167
+00:09:35,169 --> 00:09:37,630
+Yeah, can't do anything
 without one, so…
 
-190
-00:09:38,298 --> 00:09:39,799
--[Rena] Tsukasa!
+168
+00:09:38,339 --> 00:09:39,841
+-Tsukasa!
 -Huh?
 
-191
-00:09:41,175 --> 00:09:44,596
+169
+00:09:41,217 --> 00:09:44,637
 I can't believe
 you just abandoned us like that yesterday.
 
-192
-00:09:45,221 --> 00:09:47,807
+170
+00:09:45,263 --> 00:09:47,849
 And to make it worse,
 you totally ditched us
 
-193
-00:09:47,890 --> 00:09:50,351
--for a girl from another class.
--[sighs]
+171
+00:09:47,932 --> 00:09:50,393
+for a girl from another class.
 
-194
-00:09:50,435 --> 00:09:52,979
+172
+00:09:50,476 --> 00:09:53,021
 Wait! Were you really with a girl?
 
-195
-00:09:53,062 --> 00:09:54,564
+173
+00:09:53,104 --> 00:09:54,606
 That's different.
 
-196
-00:09:54,647 --> 00:09:56,232
+174
+00:09:54,689 --> 00:09:56,274
 Trust me. She's just a friend.
 
-197
-00:09:56,816 --> 00:09:58,818
-[gasps]
+175
+00:09:56,858 --> 00:09:58,860
 You got a new phone?
 
-198
-00:09:59,319 --> 00:10:01,529
+176
+00:09:59,360 --> 00:10:01,571
 Here, let's exchange our numbers.
 
-199
-00:10:02,572 --> 00:10:04,240
+177
+00:10:02,614 --> 00:10:04,282
 -I think I'll pass.
 -What--
 
-200
-00:10:04,324 --> 00:10:07,368
+178
+00:10:04,365 --> 00:10:07,410
 And find someone else to follow around.
 
-201
-00:10:09,329 --> 00:10:11,664
+179
+00:10:09,370 --> 00:10:11,706
 No way! Meanie.
 
-202
-00:10:12,248 --> 00:10:14,626
+180
+00:10:12,290 --> 00:10:14,667
 Would it kill you to be a little nicer?
 
-203
-00:10:14,709 --> 00:10:16,711
+181
+00:10:14,751 --> 00:10:16,753
 If I'm not plunged, she won't learn.
 
-204
-00:10:16,794 --> 00:10:18,504
+182
+00:10:16,836 --> 00:10:18,546
 Oh, let me get your number.
 
-205
-00:10:19,088 --> 00:10:21,299
--[Makoto] You're really gonna call?
--[Tsukasa sighs]
+183
+00:10:19,130 --> 00:10:21,341
+You're really gonna call?
 
-206
-00:10:21,966 --> 00:10:23,259
-[groans angrily]
-
-207
-00:10:23,885 --> 00:10:25,637
-[school bell dings]
-
-208
-00:10:25,720 --> 00:10:30,308
-[Makoto] Whose bright idea was it
+184
+00:10:25,762 --> 00:10:30,350
+Whose bright idea was it
 to put PE before lunch? I'm starving!
 
-209
-00:10:30,892 --> 00:10:33,436
+185
+00:10:30,933 --> 00:10:33,478
 Same. Looking forward
 to a home-cooked lunch.
 
-210
-00:10:33,519 --> 00:10:35,813
+186
+00:10:33,561 --> 00:10:35,855
 -You always cook for yourself?
 -Yeah.
 
-211
-00:10:36,481 --> 00:10:38,358
-[Makoto] Well,
+187
+00:10:36,522 --> 00:10:38,399
+Well,
 since you're already making food,
 
-212
-00:10:38,441 --> 00:10:40,568
+188
+00:10:38,483 --> 00:10:40,610
 how about you make a little extra for me?
 
-213
-00:10:40,652 --> 00:10:42,779
--[Tsukasa] No.
--[Makoto] Doesn't hurt to ask.
+189
+00:10:40,693 --> 00:10:42,820
+-No.
+-Doesn't hurt to ask.
 
-214
-00:10:43,363 --> 00:10:45,365
-[Tsukasa] I'm already making two lunches.
+190
+00:10:43,404 --> 00:10:45,406
+I'm already making two lunches.
 
-215
-00:10:45,865 --> 00:10:47,408
+191
+00:10:45,907 --> 00:10:47,450
 There's a quiz in Math.
 
-216
-00:10:47,492 --> 00:10:48,326
-[gasps]
-
-217
-00:10:49,577 --> 00:10:50,411
+192
+00:10:49,619 --> 00:10:50,453
 Hello.
 
-218
-00:10:51,120 --> 00:10:51,996
-[Tsukasa] Hm.
+193
+00:10:51,162 --> 00:10:52,038
+Hm.
 
-219
-00:10:53,498 --> 00:10:55,917
+194
+00:10:53,539 --> 00:10:55,958
 Hold up. Do you really know Junta Hayami?
 
-220
-00:10:56,000 --> 00:10:56,918
+195
+00:10:56,042 --> 00:10:56,959
 Do you know him?
 
-221
-00:10:57,502 --> 00:11:00,296
+196
+00:10:57,543 --> 00:11:00,338
 Only the star rookie
 of our baseball team this year.
 
-222
-00:11:00,380 --> 00:11:02,674
+197
+00:11:00,421 --> 00:11:02,715
 There are rumors that he'll even go pro.
 
-223
-00:11:03,299 --> 00:11:06,803
-[Tsukasa] I didn't realize Hoshino
+198
+00:11:03,341 --> 00:11:06,844
+I didn't realize Hoshino
 had such a popular childhood friend.
 
-224
-00:11:07,387 --> 00:11:09,389
+199
+00:11:07,428 --> 00:11:09,430
 How could you not have heard of him?
 
-225
-00:11:09,472 --> 00:11:13,059
+200
+00:11:09,514 --> 00:11:13,101
 He's out on the field practicing
 almost every free period there is.
 
-226
-00:11:13,684 --> 00:11:15,603
+201
+00:11:13,726 --> 00:11:15,645
 Plus, he's tall and good-looking, too.
 
-227
-00:11:16,604 --> 00:11:18,940
+202
+00:11:16,646 --> 00:11:18,981
 Don't be jealous.
 You're just as good-looking.
 
-228
-00:11:20,566 --> 00:11:22,819
--I am not jealous of that guy.
--[scoffs]
+203
+00:11:20,608 --> 00:11:22,860
+I am not jealous of that guy.
 
-229
-00:11:22,902 --> 00:11:24,821
+204
+00:11:22,944 --> 00:11:24,862
 -Did you stand us up? Hey.
 -Man!
 
-230
-00:11:24,904 --> 00:11:26,864
+205
+00:11:24,946 --> 00:11:26,906
 He's gonna be crashing here
 at my place for now.
 
-231
-00:11:26,948 --> 00:11:29,283
+206
+00:11:26,989 --> 00:11:29,325
 He's… crashing here?
 
-232
-00:11:29,867 --> 00:11:32,203
+207
+00:11:29,909 --> 00:11:32,245
 You said you don't wanna date
 anyone right now, right?
 
-233
-00:11:32,286 --> 00:11:34,205
+208
+00:11:32,328 --> 00:11:34,247
 Oh, great! 'Cause me, too.
 
-234
-00:11:37,959 --> 00:11:39,168
+209
+00:11:38,000 --> 00:11:39,210
 Yeah, we'll see.
 
-235
-00:11:42,046 --> 00:11:47,135
+210
+00:11:42,088 --> 00:11:47,176
 So, hey, what do you guys know
 about that guy? His name is Kazuki.
 
-236
-00:11:47,218 --> 00:11:48,302
+211
+00:11:47,260 --> 00:11:48,344
 Oh, I thought you knew him.
 
-237
-00:11:48,386 --> 00:11:50,471
+212
+00:11:48,428 --> 00:11:50,513
 No, I just met him this morning.
 
-238
-00:11:51,055 --> 00:11:53,057
+213
+00:11:51,097 --> 00:11:53,099
 I've heard of him.
 I think he's in Class 7.
 
-239
-00:11:53,141 --> 00:11:55,601
+214
+00:11:53,182 --> 00:11:55,643
 I always hear the girls
 whispering about him.
 
-240
-00:11:55,685 --> 00:11:57,603
+215
+00:11:55,727 --> 00:11:57,645
 So he's pretty popular then.
 
-241
-00:11:57,687 --> 00:11:59,480
+216
+00:11:57,729 --> 00:11:59,522
 What? Does that make him your enemy?
 
-242
-00:12:00,064 --> 00:12:04,569
+217
+00:12:00,106 --> 00:12:04,610
 He's popular and smart.
 He's placed top ten in the midterms.
 
-243
-00:12:04,652 --> 00:12:05,486
-[Junta] Top ten?
+218
+00:12:04,694 --> 00:12:05,528
+Top ten?
 
-244
-00:12:06,195 --> 00:12:08,072
-[friend 1] That guy's
+219
+00:12:06,237 --> 00:12:08,114
+That guy's
 on a whole different level.
 
-245
-00:12:08,156 --> 00:12:09,365
--[friends] Agreed.
--[sighs]
+220
+00:12:08,197 --> 00:12:09,407
+Agreed.
 
-246
-00:12:09,907 --> 00:12:11,993
-[team manager] What's with this
+221
+00:12:09,949 --> 00:12:12,034
+What's with this
 slow march down the hall?
 
-247
-00:12:12,076 --> 00:12:13,161
+222
+00:12:12,118 --> 00:12:13,202
 Mind if we join?
 
-248
-00:12:13,703 --> 00:12:15,663
+223
+00:12:13,745 --> 00:12:15,705
 Oh, hey, guys, look who it is.
 
-249
-00:12:15,746 --> 00:12:16,581
+224
+00:12:15,788 --> 00:12:16,622
 Hm.
 
-250
-00:12:17,874 --> 00:12:20,209
+225
+00:12:17,915 --> 00:12:20,251
 Do either of you know Tsukasa Kazuki?
 
-251
-00:12:20,960 --> 00:12:24,297
+226
+00:12:21,002 --> 00:12:24,338
 Kazuki? You mean
 the really hot from Class 7?
 
-252
-00:12:24,380 --> 00:12:26,174
+227
+00:12:24,422 --> 00:12:26,215
 Did you know he's friends with Junta?
 
-253
-00:12:26,257 --> 00:12:27,258
+228
+00:12:26,299 --> 00:12:27,300
 Jealous!
 
-254
-00:12:27,341 --> 00:12:29,010
+229
+00:12:27,383 --> 00:12:29,051
 Well, more like a friend of a friend.
 
-255
-00:12:29,719 --> 00:12:33,431
+230
+00:12:29,761 --> 00:12:33,473
 Uh, question. If he asked to,
 I don't know, sleepover at your place,
 
-256
-00:12:33,514 --> 00:12:34,515
+231
+00:12:33,556 --> 00:12:34,557
 would you guys let him?
 
-257
-00:12:34,599 --> 00:12:37,518
+232
+00:12:34,640 --> 00:12:37,560
 -Oh, my gosh. Yes, of course, I would.
 -Mm-hm.
 
-258
-00:12:38,102 --> 00:12:41,022
-[team manager] Then we fall in love
+233
+00:12:38,144 --> 00:12:41,063
+Then we fall in love
 and live happily ever after.
 
-259
-00:12:41,606 --> 00:12:42,648
+234
+00:12:41,647 --> 00:12:42,690
 I figured.
 
-260
-00:12:42,732 --> 00:12:44,734
-[friend 2] What's up?
+235
+00:12:42,774 --> 00:12:44,776
+What's up?
 You're just as popular as him.
 
-261
-00:12:44,817 --> 00:12:46,027
+236
+00:12:44,859 --> 00:12:46,068
 -Hell yeah.
 -Hell yeah.
 
-262
-00:12:46,110 --> 00:12:50,448
+237
+00:12:46,152 --> 00:12:50,490
 Don't deny it, we all saw you flirting
 with that cute girl you grew up with.
 
-263
-00:12:50,531 --> 00:12:51,908
+238
+00:12:50,573 --> 00:12:51,949
 You even walked her to school.
 
-264
-00:12:53,117 --> 00:12:57,622
+239
+00:12:53,159 --> 00:12:57,663
 Flirt? No, Anzu's just an old friend.
 That's all it is, though…
 
-265
-00:12:57,705 --> 00:12:59,207
-[friends] "Though"? Though what?
+240
+00:12:57,747 --> 00:12:59,248
+"Though"? Though what?
 
-266
-00:12:59,290 --> 00:13:01,542
--I mean… Never mind.
--[friends grunting]
+241
+00:12:59,332 --> 00:13:01,584
+I mean… Never mind.
 
-267
-00:13:03,044 --> 00:13:05,379
-[Junta] They're right, though.
+242
+00:13:03,085 --> 00:13:05,421
+They're right, though.
 Anzu is really cute.
 
-268
-00:13:05,463 --> 00:13:07,131
+243
+00:13:05,505 --> 00:13:07,173
 Her hair, her smile…
 
-269
-00:13:07,632 --> 00:13:09,926
+244
+00:13:07,673 --> 00:13:09,967
 No, I can't be thinking this stuff!
 
-270
-00:13:10,009 --> 00:13:12,762
+245
+00:13:10,051 --> 00:13:12,804
 Hey, uh, is that really helping anything?
 
-271
-00:13:12,845 --> 00:13:14,680
-[birds chirping]
-
-272
-00:13:18,351 --> 00:13:19,894
+246
+00:13:18,392 --> 00:13:19,936
 I'm sorry, Anzu.
 
-273
-00:13:20,394 --> 00:13:22,688
+247
+00:13:20,436 --> 00:13:22,730
 I've got a broadcast club meeting
 during lunch today.
 
-274
-00:13:23,356 --> 00:13:25,775
+248
+00:13:23,397 --> 00:13:25,817
 Yeah, um-hm, it's all good.
 
-275
-00:13:26,943 --> 00:13:28,069
--Bye!
--[Anzu chuckles softly]
+249
+00:13:26,984 --> 00:13:28,110
+Bye!
 
-276
-00:13:28,152 --> 00:13:30,655
-[classmate] It's really him,
+250
+00:13:28,194 --> 00:13:30,696
+It's really him,
 the hottest boy in Class 7.
 
-277
-00:13:31,948 --> 00:13:32,782
+251
+00:13:31,989 --> 00:13:32,824
 Hoshino.
 
-278
-00:13:33,407 --> 00:13:34,242
-[Anzu] Hm?
+252
+00:13:33,449 --> 00:13:34,283
+Hm?
 
-279
-00:13:35,284 --> 00:13:36,244
+253
+00:13:35,326 --> 00:13:36,285
 Come here.
 
-280
-00:13:37,411 --> 00:13:38,246
+254
+00:13:37,453 --> 00:13:38,287
 What?
 
-281
-00:13:39,080 --> 00:13:43,084
-[Saki] Wait. Are those two friends now?
+255
+00:13:39,121 --> 00:13:43,125
+Wait. Are those two friends now?
 I am so curious.
 
-282
-00:13:43,167 --> 00:13:45,378
+256
+00:13:43,209 --> 00:13:45,419
 Ugh, but I'm gonna be late.
 
-283
-00:13:48,881 --> 00:13:51,217
-[grunts]
+257
+00:13:48,923 --> 00:13:51,259
 You mixed up our lunches.
 
-284
-00:13:51,801 --> 00:13:54,720
+258
+00:13:51,843 --> 00:13:54,762
 Yeah, sorry.
 I'm not really a morning person.
 
-285
-00:13:56,222 --> 00:13:57,974
--[Makoto] Hey, what's up?
--[Tsukasa] Hm?
+259
+00:13:56,264 --> 00:13:58,015
+-Hey, what's up?
+-Hm?
 
-286
-00:13:58,057 --> 00:13:59,392
+260
+00:13:58,099 --> 00:13:59,433
 Tsukasa.
 
-287
-00:14:00,059 --> 00:14:01,852
+261
+00:14:00,101 --> 00:14:01,894
 Wait, is that…
 
-288
-00:14:03,854 --> 00:14:04,814
+262
+00:14:03,896 --> 00:14:04,856
 Hmm.
 
-289
-00:14:04,897 --> 00:14:05,731
+263
+00:14:04,939 --> 00:14:05,773
 Lunches?
 
-290
-00:14:06,399 --> 00:14:10,611
+264
+00:14:06,440 --> 00:14:10,653
 She helped me out yesterday
 when my place flooded. That's all it is.
 
-291
-00:14:11,445 --> 00:14:12,697
+265
+00:14:11,487 --> 00:14:12,738
 Whatever you say.
 
-292
-00:14:12,780 --> 00:14:14,198
-[Anzu] It's not untrue.
+266
+00:14:12,822 --> 00:14:14,240
+It's not untrue.
 
-293
-00:14:14,282 --> 00:14:15,116
+267
+00:14:14,323 --> 00:14:15,157
 DOESN'T SUSPECT A THING
 
-294
-00:14:15,199 --> 00:14:17,493
--Keep this quiet.
--[laughs]
+268
+00:14:15,241 --> 00:14:17,535
+Keep this quiet.
 
-295
-00:14:17,577 --> 00:14:20,121
+269
+00:14:17,618 --> 00:14:20,162
 I got you.
 Don't want your fans overreacting.
 
-296
-00:14:21,205 --> 00:14:22,707
+270
+00:14:21,247 --> 00:14:22,748
 And you are?
 
-297
-00:14:22,790 --> 00:14:24,709
+271
+00:14:22,832 --> 00:14:24,750
 I'm Anzu Hoshino.
 
-298
-00:14:24,792 --> 00:14:26,335
+272
+00:14:24,834 --> 00:14:26,377
 How's Hosshi sound?
 
-299
-00:14:26,419 --> 00:14:27,587
+273
+00:14:26,460 --> 00:14:27,628
 I'm Makoto.
 
-300
-00:14:28,713 --> 00:14:31,966
+274
+00:14:28,754 --> 00:14:32,008
 So this must be the girl
 Rena was talking about, huh?
 
-301
-00:14:32,049 --> 00:14:33,509
+275
+00:14:32,091 --> 00:14:33,551
 What? Not me.
 
-302
-00:14:33,593 --> 00:14:35,970
-[Makoto] She said
+276
+00:14:33,634 --> 00:14:36,012
+She said
 Tsukasa ditched her for you.
 
-303
-00:14:36,053 --> 00:14:37,555
-[Anzu] Oh, right.
+277
+00:14:36,095 --> 00:14:37,597
+Oh, right.
 
-304
-00:14:38,598 --> 00:14:39,557
+278
+00:14:38,639 --> 00:14:39,599
 Well, let's go.
 
-305
-00:14:42,184 --> 00:14:44,395
+279
+00:14:42,226 --> 00:14:44,437
 This is the perfect place for lunch.
 
-306
-00:14:44,478 --> 00:14:45,521
+280
+00:14:44,520 --> 00:14:45,563
 Right, Hosshi?
 
-307
-00:14:45,605 --> 00:14:47,899
+281
+00:14:45,646 --> 00:14:47,940
 Oh, okay. Makoto's great.
 
-308
-00:14:47,982 --> 00:14:50,026
+282
+00:14:48,024 --> 00:14:50,067
 -He's this nice with everyone?
 -Yup.
 
-309
-00:14:50,943 --> 00:14:54,113
+283
+00:14:50,985 --> 00:14:54,155
 In case it comes up,
 I told them I was staying with family.
 
-310
-00:14:54,196 --> 00:14:55,031
-[Anzu] Got it.
+284
+00:14:54,238 --> 00:14:55,072
+Got it.
 
-311
-00:14:55,114 --> 00:14:57,658
-[light music]
-
-312
-00:14:57,742 --> 00:15:01,913
-[Makoto] Not fair! That looks delicious.
+285
+00:14:57,783 --> 00:15:01,954
+Not fair! That looks delicious.
 He refused to make me lunch.
 
-313
-00:15:01,996 --> 00:15:03,039
-[Tsukasa] Just returning a favor.
+286
+00:15:02,038 --> 00:15:03,080
+Just returning a favor.
 
-314
-00:15:03,122 --> 00:15:06,208
+287
+00:15:03,164 --> 00:15:06,250
 Kazuki is a great cook.
 He's way better than I am.
 
-315
-00:15:06,292 --> 00:15:08,044
+288
+00:15:06,334 --> 00:15:08,085
 That bar's set pretty low.
 
-316
-00:15:08,753 --> 00:15:13,215
+289
+00:15:08,794 --> 00:15:13,257
 How about you come over and teach
 my mom and sisters how to cook?
 
-317
-00:15:13,299 --> 00:15:15,551
+290
+00:15:13,341 --> 00:15:15,593
 Oh, you have a lot of sisters?
 
-318
-00:15:16,469 --> 00:15:19,055
+291
+00:15:16,510 --> 00:15:19,096
 Wandering the house in robes, hair a mess…
 
-319
-00:15:19,138 --> 00:15:21,515
+292
+00:15:19,180 --> 00:15:21,557
 It's completely jaded to me
 when it comes to girls.
 
-320
-00:15:21,599 --> 00:15:22,850
-[laughs]
-
-321
-00:15:22,934 --> 00:15:25,728
+293
+00:15:22,975 --> 00:15:25,770
 Got to say I'm a little jealous.
 I'm an only child.
 
-322
-00:15:26,312 --> 00:15:28,105
+294
+00:15:26,354 --> 00:15:28,147
 You've got a sister. You know what I mean.
 
-323
-00:15:28,189 --> 00:15:30,733
+295
+00:15:28,230 --> 00:15:30,775
 Oh, I didn't know that.
 You've never even mentioned her.
 
-324
-00:15:31,317 --> 00:15:33,069
-[Makoto] Hey, let's see a picture of her.
+296
+00:15:31,359 --> 00:15:33,110
+Hey, let's see a picture of her.
 
-325
-00:15:33,736 --> 00:15:35,071
+297
+00:15:33,778 --> 00:15:35,112
 I don't have one.
 
-326
-00:15:36,948 --> 00:15:40,660
+298
+00:15:36,989 --> 00:15:40,701
 Hm. Makoto, is that all
 you're eating for lunch?
 
-327
-00:15:40,743 --> 00:15:41,744
+299
+00:15:40,785 --> 00:15:41,786
 Heck, yeah.
 
-328
-00:15:41,827 --> 00:15:43,245
-[gasps]
-
-329
-00:15:43,329 --> 00:15:44,664
+300
+00:15:43,371 --> 00:15:44,705
 Chocolate!
 
-330
-00:15:44,747 --> 00:15:45,581
+301
+00:15:44,789 --> 00:15:45,623
 CHOCOLATE CORNET
 
-331
-00:15:46,165 --> 00:15:48,084
-[Makoto] You want some?
+302
+00:15:46,207 --> 00:15:48,125
+You want some?
 I'll split it with you.
 
-332
-00:15:48,167 --> 00:15:50,586
+303
+00:15:48,209 --> 00:15:50,628
 -Really?
 -Way to be cool.
 
-333
-00:15:51,212 --> 00:15:52,755
-[Makoto] Here, take as much as you want.
+304
+00:15:51,253 --> 00:15:52,797
+Here, take as much as you want.
 
-334
-00:15:52,838 --> 00:15:54,715
--[Anzu] Uh, thanks…
--[Riri] Denied!
+305
+00:15:52,880 --> 00:15:54,757
+-Uh, thanks…
+-Denied!
 
-335
-00:15:54,799 --> 00:15:57,468
-[screams, cries]
-
-336
-00:15:57,551 --> 00:15:58,594
+306
+00:15:57,593 --> 00:15:58,636
 You okay?
 
-337
-00:15:59,220 --> 00:16:01,973
+307
+00:15:59,261 --> 00:16:02,014
 Fine. Just remembered, I'm on a diet.
 
-338
-00:16:02,056 --> 00:16:04,183
-[Anzu] I can't believe I just said that.
+308
+00:16:02,098 --> 00:16:04,225
+I can't believe I just said that.
 
-339
-00:16:04,266 --> 00:16:05,267
+309
+00:16:04,308 --> 00:16:05,309
 A diet? Since when?
 
-340
-00:16:05,351 --> 00:16:07,728
+310
+00:16:05,393 --> 00:16:07,770
 I get it. Nothing to be ashamed of.
 
-341
-00:16:11,315 --> 00:16:12,316
+311
+00:16:11,357 --> 00:16:12,358
 Hm?
 
-342
-00:16:13,025 --> 00:16:14,735
+312
+00:16:13,067 --> 00:16:14,777
 Rena, check it out.
 
-343
-00:16:14,819 --> 00:16:16,404
+313
+00:16:14,860 --> 00:16:16,445
 -No joke…
--[Makoto] Yeah.
+-Yeah.
 
-344
-00:16:16,487 --> 00:16:17,822
+314
+00:16:16,529 --> 00:16:17,863
 …you should have seen his face.
 
-345
-00:16:17,905 --> 00:16:19,281
--Hilarious!
--[Makoto laughs]
+315
+00:16:17,947 --> 00:16:19,323
+Hilarious!
 
-346
-00:16:20,324 --> 00:16:22,243
-[school bell dings]
+316
+00:16:24,870 --> 00:16:26,539
+Time to head home.
 
-347
-00:16:22,326 --> 00:16:24,245
-[indistinct chatter]
-
-348
-00:16:24,829 --> 00:16:26,497
-[Anzu] Time to head home.
-
-349
-00:16:26,580 --> 00:16:30,835
+317
+00:16:26,622 --> 00:16:30,876
 And be bored out of my mind
 without any of my games to play.
 
-350
-00:16:30,918 --> 00:16:33,587
+318
+00:16:30,960 --> 00:16:33,629
 Guess I could start
 looking for a part-time job.
 
-351
-00:16:33,671 --> 00:16:35,256
--[Rena] Hoshino.
+319
+00:16:33,713 --> 00:16:35,297
+-Hoshino.
 -Hm?
 
-352
-00:16:35,840 --> 00:16:36,966
+320
+00:16:35,881 --> 00:16:37,008
 Got a minute?
 
-353
-00:16:38,968 --> 00:16:39,927
+321
+00:16:39,010 --> 00:16:39,969
 Sure?
 
-354
-00:16:42,388 --> 00:16:45,558
+322
+00:16:42,430 --> 00:16:45,599
 I'm looking forward to
 an afternoon without practice.
 
-355
-00:16:45,641 --> 00:16:46,976
+323
+00:16:45,683 --> 00:16:47,018
 Wanna hit the arcade?
 
-356
-00:16:47,059 --> 00:16:50,813
+324
+00:16:47,101 --> 00:16:50,855
 Wait, you probably wanna catch up
 with your girlfriend, don't ya?
 
-357
-00:16:50,896 --> 00:16:53,858
+325
+00:16:50,938 --> 00:16:53,899
 -I told you she's just a friend.
 -Yeah, whatever.
 
-358
-00:16:53,941 --> 00:16:57,570
+326
+00:16:53,983 --> 00:16:57,611
 Call it what you want, but we know
 you want to hang out with her. Go on!
 
-359
-00:16:59,196 --> 00:17:00,239
+327
+00:16:59,238 --> 00:17:00,281
 Thanks.
 
-360
-00:17:02,324 --> 00:17:03,159
+328
+00:17:02,366 --> 00:17:03,200
 Hey!
 
-361
-00:17:04,326 --> 00:17:05,745
-[both chuckle]
-
-362
-00:17:05,828 --> 00:17:07,955
+329
+00:17:05,870 --> 00:17:07,997
 -You're right.
 -Hm, oh…
 
-363
-00:17:08,914 --> 00:17:09,749
+330
+00:17:08,956 --> 00:17:09,790
 Junta?
 
-364
-00:17:10,416 --> 00:17:13,252
+331
+00:17:10,458 --> 00:17:13,294
 If you're looking for Anzu,
 I think she went home already.
 
-365
-00:17:13,335 --> 00:17:15,796
+332
+00:17:13,377 --> 00:17:15,838
 Oh, really? She must have missed my text.
 
-366
-00:17:16,297 --> 00:17:17,965
+333
+00:17:16,338 --> 00:17:18,007
 You can try calling her.
 
-367
-00:17:18,049 --> 00:17:20,551
+334
+00:17:18,090 --> 00:17:20,593
 I've got to run out
 to a meeting now. Sorry.
 
-368
-00:17:20,634 --> 00:17:22,261
+335
+00:17:20,676 --> 00:17:22,303
 Cool. Have fun.
 
-369
-00:17:22,845 --> 00:17:25,097
+336
+00:17:22,887 --> 00:17:25,139
 -Anzu is such a lucky girl.
 -Um-hm.
 
-370
-00:17:25,181 --> 00:17:27,266
+337
+00:17:25,222 --> 00:17:27,308
 Surrounded by hotties.
 
-371
-00:17:29,602 --> 00:17:30,770
-[both gasp]
-
-372
-00:17:31,395 --> 00:17:32,521
+338
+00:17:31,437 --> 00:17:32,563
 -Hm.
 -Hm.
 
-373
-00:17:34,899 --> 00:17:38,194
+339
+00:17:34,940 --> 00:17:38,235
 Hey, hang on. Have you seen Anzu?
 
-374
-00:17:38,861 --> 00:17:41,197
+340
+00:17:38,903 --> 00:17:41,238
 I can't seem to get a hold of her.
 
-375
-00:17:41,280 --> 00:17:42,364
+341
+00:17:41,322 --> 00:17:42,406
 No, I haven't.
 
-376
-00:17:43,365 --> 00:17:45,534
+342
+00:17:43,407 --> 00:17:45,576
 Okay, sorry to bother you.
 
-377
-00:17:47,244 --> 00:17:48,829
--[Tsukasa gasps]
--[Junta] Huh?
+343
+00:17:47,286 --> 00:17:48,871
+Huh?
 
-378
-00:17:51,165 --> 00:17:54,335
+344
+00:17:51,207 --> 00:17:54,376
 Hm, I found her. This way.
 
-379
-00:17:58,672 --> 00:18:01,092
+345
+00:17:58,714 --> 00:18:01,133
 So, uh, you wanted to talk?
 
-380
-00:18:01,675 --> 00:18:03,594
+346
+00:18:01,717 --> 00:18:03,636
 I don't think we should be here.
 
-381
-00:18:03,677 --> 00:18:06,597
+347
+00:18:03,719 --> 00:18:06,639
 -It looks like a private conversation.
 -Hm.
 
-382
-00:18:07,431 --> 00:18:08,724
+348
+00:18:07,473 --> 00:18:08,766
 Tell me something.
 
-383
-00:18:08,808 --> 00:18:11,227
+349
+00:18:08,849 --> 00:18:11,268
 Do you have a thing for Tsukasa?
 
-384
-00:18:11,310 --> 00:18:14,230
+350
+00:18:11,352 --> 00:18:14,271
 What?
-[gasping]
 
-385
-00:18:14,313 --> 00:18:16,857
+351
+00:18:14,355 --> 00:18:16,899
 Not at all. We're just good friends.
 
-386
-00:18:16,941 --> 00:18:18,400
+352
+00:18:16,982 --> 00:18:18,442
 Oh, really?
 
-387
-00:18:18,484 --> 00:18:21,445
+353
+00:18:18,526 --> 00:18:21,487
 You say that but you totes have a crush.
 
-388
-00:18:21,946 --> 00:18:23,739
+354
+00:18:21,987 --> 00:18:23,781
 No, that's not true.
 
-389
-00:18:23,823 --> 00:18:25,533
+355
+00:18:23,864 --> 00:18:25,574
 Do you expect us to believe
 
-390
-00:18:25,616 --> 00:18:28,661
+356
+00:18:25,658 --> 00:18:28,702
 you could be just friends with him
 when he's that hot?
 
-391
-00:18:29,328 --> 00:18:32,206
+357
+00:18:29,370 --> 00:18:32,248
 Of course I do. Believe me.
 
-392
-00:18:33,332 --> 00:18:37,753
+358
+00:18:33,374 --> 00:18:37,795
 I am not interested.
 I have no interest in dating Tsukasa.
 
-393
-00:18:37,837 --> 00:18:39,296
+359
+00:18:37,878 --> 00:18:39,338
 Or anyone else, either.
 
-394
-00:18:39,839 --> 00:18:42,091
+360
+00:18:39,880 --> 00:18:42,133
 So you've got nothing to worry about.
 
-395
-00:18:42,883 --> 00:18:45,094
+361
+00:18:42,925 --> 00:18:45,136
 My desires are set on
 much more important places.
 
-396
-00:18:45,177 --> 00:18:46,011
+362
+00:18:45,219 --> 00:18:46,053
 LIFE
 
-397
-00:18:47,096 --> 00:18:51,517
+363
+00:18:47,138 --> 00:18:51,559
 What if I was going after him?
 It's a free country, you know.
 
-398
-00:18:52,101 --> 00:18:53,519
+364
+00:18:52,143 --> 00:18:53,561
 -You're right.
 -Mm-hm.
 
-399
-00:18:53,602 --> 00:18:54,895
-[Anzu] That was easy.
+365
+00:18:53,644 --> 00:18:54,937
+That was easy.
 
-400
-00:18:55,855 --> 00:18:56,856
-[Rena] So…
+366
+00:18:55,896 --> 00:18:56,897
+So…
 
-401
-00:18:57,857 --> 00:19:00,901
+367
+00:18:57,898 --> 00:19:00,943
 Will you help me get his attention
 since he's your friend?
 
-402
-00:19:01,485 --> 00:19:02,903
+368
+00:19:01,527 --> 00:19:02,945
 You need help?
 
-403
-00:19:02,987 --> 00:19:04,238
+369
+00:19:03,028 --> 00:19:04,280
 Duh!
 
-404
-00:19:04,321 --> 00:19:07,950
+370
+00:19:04,363 --> 00:19:07,992
 No matter how many times
 I ask him out, Tsukasa always says no.
 
-405
-00:19:09,118 --> 00:19:12,121
+371
+00:19:09,160 --> 00:19:12,163
 We thought you could set them up.
 What do you say?
 
-406
-00:19:12,204 --> 00:19:13,831
--[Anzu] Uh…
+372
+00:19:12,246 --> 00:19:13,873
+-Uh…
 -You're the best.
 
-407
-00:19:15,249 --> 00:19:17,418
--Here. Take my number, okay?
--[phone tapping]
+373
+00:19:15,291 --> 00:19:17,459
+Here. Take my number, okay?
 
-408
-00:19:18,002 --> 00:19:19,253
-[Rena] Talk soon.
+374
+00:19:18,043 --> 00:19:19,295
+Talk soon.
 
-409
-00:19:19,879 --> 00:19:20,754
-[sighs]
+375
+00:19:21,547 --> 00:19:24,258
+Be sure to ask him his type, okay?
 
-410
-00:19:21,505 --> 00:19:24,216
-[Rena] Be sure to ask him his type, okay?
-
-411
-00:19:24,300 --> 00:19:25,176
-[gasps]
-
-412
-00:19:26,343 --> 00:19:28,971
+376
+00:19:26,385 --> 00:19:29,013
 I'm so over it, seriously.
 
-413
-00:19:29,054 --> 00:19:30,806
+377
+00:19:29,096 --> 00:19:30,848
 I'm not interested in dating.
 
-414
-00:19:31,390 --> 00:19:32,808
-[exhales deeply]
-
-415
-00:19:33,517 --> 00:19:35,311
+378
+00:19:33,559 --> 00:19:35,352
 Sorry, can't.
 
-416
-00:19:35,394 --> 00:19:36,312
-[both gasp]
-
-417
-00:19:37,021 --> 00:19:37,897
+379
+00:19:37,062 --> 00:19:37,938
 Huh?
 
-418
-00:19:39,899 --> 00:19:40,983
-[Rena] Excuse me?
+380
+00:19:39,940 --> 00:19:41,025
+Excuse me?
 
-419
-00:19:41,066 --> 00:19:44,570
+381
+00:19:41,108 --> 00:19:44,612
 Kazuki told me
 he's not looking to date right now.
 
-420
-00:19:46,071 --> 00:19:49,408
+382
+00:19:46,113 --> 00:19:49,450
 Out of respect for my friend,
 I can't help.
 
-421
-00:19:51,327 --> 00:19:52,369
-[exhales]
+383
+00:19:52,995 --> 00:19:54,914
+She's so cool.
 
-422
-00:19:52,953 --> 00:19:54,872
-[Junta] She's so cool.
-
-423
-00:19:55,623 --> 00:19:57,374
+384
+00:19:55,664 --> 00:19:57,416
 What? Seriously?
 
-424
-00:19:57,958 --> 00:19:59,376
-[Anzu] Crap. Is she mad?
+385
+00:19:58,000 --> 00:19:59,418
+Crap. Is she mad?
 
-425
-00:20:00,336 --> 00:20:02,880
--[girl] Anzu!
--[sighs, gasps]
+386
+00:20:00,377 --> 00:20:02,922
+Anzu!
 
-426
-00:20:02,963 --> 00:20:05,049
+387
+00:20:03,005 --> 00:20:05,090
 Hey, there you are!
 
-427
-00:20:05,132 --> 00:20:07,426
+388
+00:20:05,174 --> 00:20:07,468
 I've been looking everywhere for you.
 
-428
-00:20:08,469 --> 00:20:09,386
+389
+00:20:08,510 --> 00:20:09,428
 Huh?
 
-429
-00:20:09,470 --> 00:20:12,389
-[Anzu] Who's she?
+390
+00:20:09,511 --> 00:20:12,431
+Who's she?
 Oh, come on. Not another one.
 
-430
-00:20:12,473 --> 00:20:14,308
+391
+00:20:12,514 --> 00:20:14,350
 -Are you ready to go home?
 -Uh…
 
-431
-00:20:14,391 --> 00:20:16,310
+392
+00:20:14,433 --> 00:20:16,352
 Oh, yeah, were you able to find Junta?
 
-432
-00:20:16,393 --> 00:20:18,145
+393
+00:20:16,435 --> 00:20:18,187
 He's been looking all over for you.
 
-433
-00:20:18,646 --> 00:20:19,897
-[growls]
-
-434
-00:20:19,980 --> 00:20:23,817
-[Anzu] What's going on? Is she supposed
+394
+00:20:20,022 --> 00:20:23,859
+What's going on? Is she supposed
 to be another long-lost friend?
 
-435
-00:20:25,110 --> 00:20:28,405
+395
+00:20:25,152 --> 00:20:28,447
 Anzu, you never told me
 you were hanging out with these two girls.
 
-436
-00:20:28,989 --> 00:20:31,325
+396
+00:20:29,031 --> 00:20:31,367
 They're only the cutest girls in Class 7!
 
-437
-00:20:31,408 --> 00:20:32,409
-[both] Huh?
+397
+00:20:31,450 --> 00:20:32,451
+Huh?
 
-438
-00:20:32,493 --> 00:20:35,079
+398
+00:20:32,534 --> 00:20:35,120
 -Cute! Long lashes!
 -Oh…
 
-439
-00:20:35,162 --> 00:20:39,500
+399
+00:20:35,204 --> 00:20:39,541
 That pixie nose, and your hair…
 You are just so pretty!
 
-440
-00:20:39,583 --> 00:20:40,918
+400
+00:20:39,625 --> 00:20:40,960
 T-- Thank you!
 
-441
-00:20:41,001 --> 00:20:43,754
+401
+00:20:41,043 --> 00:20:43,796
 Wow, such a great figure!
 
-442
-00:20:44,380 --> 00:20:45,923
+402
+00:20:44,421 --> 00:20:45,965
 You've gotta tell me
 
-443
-00:20:46,006 --> 00:20:48,968
+403
+00:20:46,048 --> 00:20:49,009
 the secret for making
 your boobs look so thick.
 
-444
-00:20:49,051 --> 00:20:51,804
+404
+00:20:49,093 --> 00:20:51,845
 -Wha--
 -It's not easy to make little boobs
 
-445
-00:20:51,887 --> 00:20:54,723
+405
+00:20:51,929 --> 00:20:54,765
 push up so high and natural like that.
 How do you do it?
 
-446
-00:20:54,807 --> 00:20:55,933
+406
+00:20:54,848 --> 00:20:55,975
 -I'm super impressed!
 -Hey…
 
-447
-00:20:56,517 --> 00:20:59,687
-[girl] You can tell me. I get it.
+407
+00:20:56,558 --> 00:20:59,728
+You can tell me. I get it.
 I'm self-conscious about mine, too.
 
-448
-00:20:59,770 --> 00:21:02,106
+408
+00:20:59,812 --> 00:21:02,147
 But with yours, you worked magic,
 
-449
-00:21:02,189 --> 00:21:05,192
+409
+00:21:02,231 --> 00:21:05,234
 they look like a full C cup,
 not like Anzu's at all.
 
-450
-00:21:05,276 --> 00:21:08,195
-[Anzu] What? Is she saying
+410
+00:21:05,317 --> 00:21:08,237
+What? Is she saying
 I can make mine look like that, too?
 
-451
-00:21:08,279 --> 00:21:11,240
-[girl] I'm so jealous
+411
+00:21:08,320 --> 00:21:11,282
+I'm so jealous
 of your push-up C cup size!
 
-452
-00:21:11,323 --> 00:21:12,199
+412
+00:21:11,365 --> 00:21:12,241
 -So huge!
 -C cup?
 
-453
-00:21:12,283 --> 00:21:13,867
+413
+00:21:12,324 --> 00:21:13,909
 Lovin'!
 
-454
-00:21:13,951 --> 00:21:15,494
+414
+00:21:13,993 --> 00:21:15,536
 So perky!
 
-455
-00:21:15,577 --> 00:21:17,705
+415
+00:21:15,619 --> 00:21:17,746
 That's enough already, give it a rest!
 
-456
-00:21:18,414 --> 00:21:21,417
+416
+00:21:18,455 --> 00:21:21,458
 But I don't think Kazuki
 is the kind of guy who'd fall for that,
 
-457
-00:21:21,500 --> 00:21:23,711
+417
+00:21:21,542 --> 00:21:23,752
 so you really don't have to work so hard.
 
-458
-00:21:23,794 --> 00:21:25,212
-[groans]
-
-459
-00:21:25,796 --> 00:21:28,924
+418
+00:21:25,838 --> 00:21:28,966
 You are rude!
 And you're wrong about everything.
 
-460
-00:21:29,008 --> 00:21:30,467
+419
+00:21:29,049 --> 00:21:30,509
 Let's go, Yukka.
 
-461
-00:21:30,551 --> 00:21:31,719
+420
+00:21:30,592 --> 00:21:31,760
 Coming.
 
-462
-00:21:31,802 --> 00:21:34,596
-[Yukika] Yeah,
+421
+00:21:31,844 --> 00:21:34,638
+Yeah,
 I knew they couldn't be real.
 
-463
-00:21:36,015 --> 00:21:38,100
+422
+00:21:36,056 --> 00:21:38,142
 Another job well done! Mm-hm!
 
-464
-00:21:38,183 --> 00:21:41,103
-[gasps]
+423
+00:21:38,225 --> 00:21:41,145
 Wait a second.
 
-465
-00:21:41,687 --> 00:21:44,106
+424
+00:21:41,729 --> 00:21:44,148
 Your cutesy little baby voice.
 
-466
-00:21:44,690 --> 00:21:47,651
+425
+00:21:44,732 --> 00:21:47,693
 Your ultra annoying blunt way of speaking.
 
-467
-00:21:48,193 --> 00:21:51,071
+426
+00:21:48,235 --> 00:21:51,113
 That oddly familiar star
 hanging on your bag.
 
-468
-00:21:51,155 --> 00:21:53,782
--[Riri] Kirarin!
--[Anzu] It's you!
+427
+00:21:51,196 --> 00:21:53,824
+-Kirarin!
+-It's you!
 
-469
-00:21:55,367 --> 00:21:57,953
+428
+00:21:55,409 --> 00:21:57,995
 -The devil!
 -You're wrong.
 
-470
-00:21:58,037 --> 00:21:59,621
+429
+00:21:58,078 --> 00:21:59,663
 No devil. Riri.
 
-471
-00:21:59,705 --> 00:22:02,249
-[Anzu] You're a girl now!
+430
+00:21:59,747 --> 00:22:02,291
+You're a girl now!
 
-472
-00:22:02,333 --> 00:22:05,085
--[giggles]
--[Anzu groans]
-
-473
-00:22:06,670 --> 00:22:08,255
+431
+00:22:06,712 --> 00:22:08,297
 A fanfare, please!
 
-474
-00:22:08,339 --> 00:22:10,382
+432
+00:22:08,380 --> 00:22:10,424
 And a big congratulations!
 
-475
-00:22:10,466 --> 00:22:12,509
+433
+00:22:10,507 --> 00:22:12,551
 Did you fall for my little trick?
 
-476
-00:22:12,593 --> 00:22:15,971
+434
+00:22:12,634 --> 00:22:16,013
 I bet now you don't feel like
 skipping the ending, right?
 
-477
-00:22:16,055 --> 00:22:19,558
+435
+00:22:16,096 --> 00:22:19,600
 In today's world, you can watch
 whatever you want at your own convenience.
 
-478
-00:22:19,641 --> 00:22:22,311
+436
+00:22:19,683 --> 00:22:22,353
 But don't you think in that process
 we've also lost something?
 
-479
-00:22:22,394 --> 00:22:24,688
-[sighs]
+437
+00:22:22,436 --> 00:22:24,730
 Don't just let things be! Come on!
 
-480
-00:22:24,772 --> 00:22:27,357
+438
+00:22:24,813 --> 00:22:27,399
 Let's go on a super-duper happy adventure!
 
-481
-00:22:27,441 --> 00:22:29,359
+439
+00:22:27,483 --> 00:22:29,401
 So I can make sure I get paid.
-
-482
-00:22:29,443 --> 00:22:31,612
-[closing theme music]
-
-483
-00:22:31,695 --> 00:22:32,529
-♪ Ah, yeah! ♪
-
-484
-00:22:35,157 --> 00:22:35,991
-♪ Let's go! ♪
-
-485
-00:22:38,535 --> 00:22:39,661
-♪ Lo-love! ♪
-
-486
-00:22:41,747 --> 00:22:42,581
-♪ Here we go! ♪
-
-487
-00:00:01,605 --> 00:00:05,108
-In today's world, you can watch
-whatever you want at your own convenience.
-
-488
-00:00:05,191 --> 00:00:07,861
-But don't you think in that process
-we've also lost something?
-
-489
-00:00:07,944 --> 00:00:10,238
-[sighs]
-Don't just let things be! Come on!
-
-490
-00:00:10,322 --> 00:00:12,907
-Let's go on a super-duper happy adventure!
-
-491
-00:00:12,991 --> 00:00:14,909
-So I can make sure I get paid.
-
-492
-00:00:14,993 --> 00:00:17,162
-[closing theme music]
-
-493
-00:00:17,245 --> 00:00:18,079
-♪ Ah, yeah! ♪
-
-494
-00:00:20,707 --> 00:00:21,541
-♪ Let's go! ♪
-
-495
-00:00:24,085 --> 00:00:25,211
-♪ Lo-love! ♪
-
-496
-00:00:27,297 --> 00:00:28,131
-♪ Here we go! ♪
 
