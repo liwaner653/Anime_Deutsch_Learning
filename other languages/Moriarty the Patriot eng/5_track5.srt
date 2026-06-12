@@ -1,0 +1,1652 @@
+1
+00:00:11,268 --> 00:00:17,691
+[FRIDA humming]
+
+2
+00:00:25,157 --> 00:00:31,121
+[FRIDA humming]
+
+3
+00:00:45,051 --> 00:00:47,471
+[gasps]
+
+4
+00:02:34,119 --> 00:02:37,873
+Before we go on, are there
+any questions up to this point?
+
+5
+00:02:37,915 --> 00:02:41,919
+Hm? Appears Lucian's
+absent again today.
+
+6
+00:02:41,961 --> 00:02:42,544
+Has anyone seen him?
+
+7
+00:02:42,586 --> 00:02:44,880
+[TATE gasps]
+Professor!
+
+8
+00:02:44,922 --> 00:02:46,673
+Yes? What is it, Tate?
+
+9
+00:02:46,715 --> 00:02:49,718
+[TATE]
+Lucian's-- Well, you see, uh...
+
+10
+00:02:49,760 --> 00:02:50,970
+He has a cold.
+
+11
+00:02:51,011 --> 00:02:53,472
+A cold? I'm sorry to hear.
+
+12
+00:02:53,513 --> 00:02:56,433
+Right. After the lecture,
+I think I'll pay him a visit.
+
+13
+00:02:56,475 --> 00:02:58,310
+No! You don't have to do that!
+
+14
+00:02:58,351 --> 00:03:01,229
+You see, Lucian and I share
+the same dormitory room,
+
+15
+00:03:01,271 --> 00:03:04,357
+so I'm looking after him.
+
+16
+00:03:04,399 --> 00:03:08,821
+Interesting. Well,
+that's a relief to hear.
+
+17
+00:03:10,948 --> 00:03:13,784
+[CLERK 05A]
+Tate Percival and Lucian Atwood?
+
+18
+00:03:13,826 --> 00:03:17,329
+I'll find the information
+for you right away, sir.
+
+19
+00:03:31,760 --> 00:03:35,055
+[WILLIAM] Lucian is the heir
+to the Atwood viscountcy.
+
+20
+00:03:35,097 --> 00:03:37,891
+A lineage that goes
+back over two centuries.
+
+21
+00:03:37,933 --> 00:03:40,602
+Similar to Tate's.
+
+22
+00:03:40,644 --> 00:03:44,064
+So both of them are heirs
+to aristocratic families.
+
+23
+00:03:50,236 --> 00:03:52,698
+[TATE] I can't cover
+for you much longer.
+
+24
+00:03:52,739 --> 00:03:54,950
+Honestly, where'd
+you disappear to?
+
+25
+00:03:54,992 --> 00:03:58,495
+[sneezes]
+
+26
+00:03:58,537 --> 00:04:01,081
+On top of everything,
+now I've got a cold.
+
+27
+00:04:01,123 --> 00:04:03,125
+[knocking]
+
+28
+00:04:04,751 --> 00:04:05,794
+[TATE]
+Yes?
+
+29
+00:04:05,836 --> 00:04:09,297
+[gasps] Professor Moriarty!
+Why're you here?
+
+30
+00:04:09,339 --> 00:04:11,925
+That was an
+impressive sneeze, Tate.
+
+31
+00:04:11,967 --> 00:04:15,012
+I heard it clearly
+through the door.
+
+32
+00:04:15,054 --> 00:04:17,806
+Then again, you've been
+looking after Lucian.
+
+33
+00:04:17,848 --> 00:04:19,766
+Perhaps you caught his cold?
+
+34
+00:04:19,808 --> 00:04:21,101
+Uhh...
+
+35
+00:04:21,143 --> 00:04:23,854
+[TATE stammers]
+Th-That's probably it.
+
+36
+00:04:23,896 --> 00:04:25,064
+Professor!
+
+37
+00:04:25,105 --> 00:04:26,982
+Wait. I wouldn't--
+
+38
+00:04:27,024 --> 00:04:29,442
+There's no need for that!
+
+39
+00:04:29,484 --> 00:04:30,736
+[TATE gasps]
+
+40
+00:04:30,777 --> 00:04:32,905
+[WILLIAM] This bed hasn't
+been slept in for some time.
+
+41
+00:04:32,946 --> 00:04:34,406
+[TATE]
+Well...
+
+42
+00:04:35,490 --> 00:04:38,118
+I suggest you start
+talking, and quickly.
+
+43
+00:04:38,160 --> 00:04:39,285
+[TATE yelps]
+
+44
+00:04:41,163 --> 00:04:42,581
+Despite my demeanor,
+
+45
+00:04:42,622 --> 00:04:46,376
+at this moment, I'm more cross
+than you could possibly imagine.
+
+46
+00:04:46,418 --> 00:04:49,046
+[whimpers]
+
+47
+00:04:50,589 --> 00:04:52,549
+[TATE sighs]
+
+48
+00:04:52,591 --> 00:04:53,759
+Do you mean to tell me that
+
+49
+00:04:53,800 --> 00:04:56,553
+Lucian hasn't been to the
+dormitory in three days?
+
+50
+00:04:56,595 --> 00:04:57,846
+Sneaking out of the dorms and
+
+51
+00:04:57,888 --> 00:05:00,265
+being gone all night
+isn't anything new.
+
+52
+00:05:00,306 --> 00:05:02,475
+But he's always back
+the next morning.
+
+53
+00:05:02,517 --> 00:05:04,895
+He should've returned by now.
+
+54
+00:05:04,937 --> 00:05:08,356
+I was worried, so I went
+down to check at the pub.
+
+55
+00:05:08,398 --> 00:05:10,316
+There's a waitress
+there named Frida
+
+56
+00:05:10,358 --> 00:05:13,779
+who Lucian is
+absolutely mad about.
+
+57
+00:05:13,820 --> 00:05:16,240
+If he was spending
+the night anywhere,
+
+58
+00:05:16,281 --> 00:05:20,577
+I would've expected it
+to be at her place.
+
+59
+00:05:20,619 --> 00:05:22,913
+- -[TATE gasps]
+- -[HOSTESS 05A] Piss off!
+
+60
+00:05:25,624 --> 00:05:29,169
+[WILLIAM] That explains it--
+at least how you got your cold.
+
+61
+00:05:29,211 --> 00:05:32,798
+However, such a harsh welcome
+and without warning is odd.
+
+62
+00:05:32,839 --> 00:05:33,882
+Leads me to believe
+
+63
+00:05:33,924 --> 00:05:36,384
+there may have been
+some trouble beforehand.
+
+64
+00:05:38,678 --> 00:05:42,474
+[TATE] Look, Professor,
+he may be a foolhardy gadabout,
+
+65
+00:05:42,515 --> 00:05:44,893
+but he has a good heart.
+
+66
+00:05:44,935 --> 00:05:46,478
+I'll say this,
+
+67
+00:05:46,519 --> 00:05:50,356
+it doesn't matter what
+he's got himself mixed up in,
+
+68
+00:05:50,398 --> 00:05:54,027
+I just want to bring him home.
+
+69
+00:05:54,069 --> 00:05:56,155
+It sounds to me like
+you're very concerned
+
+70
+00:05:56,196 --> 00:05:57,906
+about Lucian's wellbeing.
+
+71
+00:05:57,948 --> 00:06:00,075
+Of course, I am, sir!
+
+72
+00:06:00,117 --> 00:06:01,743
+Why say "of course"?
+
+73
+00:06:01,785 --> 00:06:05,038
+[TATE]
+I mean, because...
+
+74
+00:06:05,080 --> 00:06:07,373
+...Lucian is my friend!
+
+75
+00:06:12,963 --> 00:06:14,089
+[WILLIAM]
+From here on,
+
+76
+00:06:14,131 --> 00:06:17,383
+I think it's best if you
+stay out of the matter.
+
+77
+00:06:17,425 --> 00:06:20,345
+Leave this to me;
+I'll deal with Lucian.
+
+78
+00:06:20,386 --> 00:06:22,472
+Uh, yes, sir.
+
+79
+00:06:23,515 --> 00:06:24,349
+[WILLIAM]
+And Tate...
+
+80
+00:06:24,390 --> 00:06:25,600
+[TATE]
+Hm?
+
+81
+00:06:27,811 --> 00:06:31,648
+No fortune's greater than the
+bond shared between friends.
+
+82
+00:06:39,781 --> 00:06:42,408
+[DUDLEY]
+Professor Moriarty, I presume?
+
+83
+00:06:42,450 --> 00:06:43,743
+[WILLIAM]
+And you are?
+
+84
+00:06:43,785 --> 00:06:45,037
+The name's Dudley Bale,
+
+85
+00:06:45,078 --> 00:06:48,581
+a humble administrative
+assistant for the university.
+
+86
+00:06:48,623 --> 00:06:50,042
+I've seen you from time-to-time
+
+87
+00:06:50,083 --> 00:06:52,169
+strolling about
+the campus grounds.
+
+88
+00:06:52,211 --> 00:06:54,254
+Please, forgive my manners.
+
+89
+00:06:54,296 --> 00:06:56,631
+Introductions are past due.
+
+90
+00:06:56,673 --> 00:06:59,009
+I noticed you coming
+from the dormitories.
+
+91
+00:06:59,051 --> 00:07:01,553
+Is something amiss
+with one of your students?
+
+92
+00:07:01,594 --> 00:07:04,973
+[WILLIAM] Possibly. I went
+to pay Lucian Atwood a visit.
+
+93
+00:07:05,015 --> 00:07:07,642
+He's been absent from my
+lectures for several days,
+
+94
+00:07:07,684 --> 00:07:09,936
+so I wanted to check up on him.
+
+95
+00:07:09,978 --> 00:07:12,522
+Did you catch the
+rogue nursing a hangover?
+
+96
+00:07:12,564 --> 00:07:14,816
+The issue is
+finding him actually.
+
+97
+00:07:14,858 --> 00:07:16,526
+According to his roommate,
+
+98
+00:07:16,568 --> 00:07:19,029
+he hasn't shown his
+face for three days.
+
+99
+00:07:19,071 --> 00:07:21,698
+Staying out overnight
+without permission?
+
+100
+00:07:21,740 --> 00:07:25,077
+Not uncommon for these boys,
+but rules are rules.
+
+101
+00:07:25,118 --> 00:07:28,830
+Then again, why don't we look
+the other way this one time?
+
+102
+00:07:28,872 --> 00:07:30,999
+Don't want to
+come down too hard.
+
+103
+00:07:31,041 --> 00:07:34,211
+Otherwise, we're bound
+to start a rebellion.
+
+104
+00:07:34,253 --> 00:07:35,420
+But still,
+
+105
+00:07:35,461 --> 00:07:38,882
+we can agree that three days
+is slightly irregular.
+
+106
+00:07:38,924 --> 00:07:40,717
+Perhaps we should
+notify the police.
+
+107
+00:07:40,759 --> 00:07:42,427
+Normally, I would agree,
+
+108
+00:07:42,468 --> 00:07:45,555
+but this could be
+a very delicate situation.
+
+109
+00:07:45,597 --> 00:07:47,974
+See, Lucian is
+the son of nobility,
+
+110
+00:07:48,016 --> 00:07:48,975
+and any brush with the law
+
+111
+00:07:49,017 --> 00:07:51,853
+would reflect poorly on
+the family name.
+
+112
+00:07:51,895 --> 00:07:54,356
+[WILLIAM] Then what?
+You'd have us drop the matter?
+
+113
+00:07:54,398 --> 00:07:56,316
+Don't misunderstand me.
+
+114
+00:07:56,358 --> 00:07:57,984
+I have connections
+with the local police
+
+115
+00:07:58,026 --> 00:08:01,321
+and could ask them to look into
+his disappearance discreetly.
+
+116
+00:08:01,363 --> 00:08:03,282
+Please, allow me to handle this
+
+117
+00:08:03,323 --> 00:08:06,201
+to avoid damaging
+the family's name.
+
+118
+00:08:06,243 --> 00:08:07,744
+So, that settles it?
+
+119
+00:08:07,786 --> 00:08:10,205
+There's no need to be concerned.
+
+120
+00:08:11,539 --> 00:08:12,457
+[WILLIAM]
+This is the pub where
+
+121
+00:08:12,498 --> 00:08:15,127
+Tate received his
+not-so-warm welcome.
+
+122
+00:08:15,168 --> 00:08:16,795
+[door opens]
+
+123
+00:08:19,672 --> 00:08:21,633
+We're closed. Come back later.
+
+124
+00:08:21,674 --> 00:08:24,177
+[WILLIAM]
+I realize it's early.
+
+125
+00:08:24,219 --> 00:08:26,846
+However, I'm not
+here to buy a drink.
+
+126
+00:08:26,888 --> 00:08:28,556
+I'd like to have
+a word with you.
+
+127
+00:08:28,598 --> 00:08:29,766
+[HOSTESS 05A]
+Hmm.
+
+128
+00:08:31,726 --> 00:08:34,229
+[HOSTESS 05A] Just for
+talkin' about a dead girl?
+
+129
+00:08:34,271 --> 00:08:36,273
+This is quite the tip.
+
+130
+00:08:36,315 --> 00:08:38,775
+You a newspaper
+reporter or what?
+
+131
+00:08:38,817 --> 00:08:40,235
+Nothing like that.
+
+132
+00:08:40,277 --> 00:08:42,612
+My name's William James Moriarty
+
+133
+00:08:42,654 --> 00:08:45,573
+and I teach at
+Dunham University.
+
+134
+00:08:45,615 --> 00:08:47,451
+You're a college professor?
+
+135
+00:08:47,492 --> 00:08:49,661
+If there's an issue
+with a student's conduct,
+
+136
+00:08:49,702 --> 00:08:53,373
+it's my duty as an educator
+to set things right.
+
+137
+00:08:53,415 --> 00:08:55,167
+In order to do that, first,
+
+138
+00:08:55,208 --> 00:08:59,129
+I must collect all the necessary
+facts pertaining to the matter.
+
+139
+00:08:59,171 --> 00:09:00,797
+[HOSTESS 05A]
+Mm.
+
+140
+00:09:01,965 --> 00:09:06,052
+[HOSTESS 05A] What can I say?
+Frida was a wonderful girl.
+
+141
+00:09:06,094 --> 00:09:07,804
+She loved dancing.
+
+142
+00:09:07,846 --> 00:09:12,434
+And when she smiled,
+the entire room would light up.
+
+143
+00:09:12,476 --> 00:09:15,395
+A real flower, that one.
+
+144
+00:09:15,437 --> 00:09:18,273
+Which makes what happened
+all the more tragic.
+
+145
+00:09:20,566 --> 00:09:23,069
+According to the old man
+who lived under the bridge,
+
+146
+00:09:23,111 --> 00:09:24,529
+last thing she was doing was
+
+147
+00:09:24,570 --> 00:09:27,949
+singin' and dancin' before
+she fell into the river.
+
+148
+00:09:27,991 --> 00:09:31,995
+I wonder what she
+was singin' about.
+
+149
+00:09:36,166 --> 00:09:37,501
+See, Professor,
+
+150
+00:09:37,542 --> 00:09:41,754
+Frida and this missing student
+of yours had fallen in love.
+
+151
+00:09:41,796 --> 00:09:44,674
+Thing is, he's a
+big-shot aristocrat.
+
+152
+00:09:44,716 --> 00:09:47,177
+Not the same class as us.
+
+153
+00:09:47,219 --> 00:09:48,470
+I'm sure she thought
+
+154
+00:09:48,512 --> 00:09:52,391
+he was just looking for
+a good time at the beginning.
+
+155
+00:09:52,432 --> 00:09:56,228
+But then, he proposed
+marriage to her.
+
+156
+00:09:56,269 --> 00:09:57,645
+[FRIDA gasps]
+
+157
+00:09:57,687 --> 00:10:02,401
+I want to spend the rest of my
+days dancing with one person.
+
+158
+00:10:02,442 --> 00:10:04,236
+You, Frida.
+
+159
+00:10:04,277 --> 00:10:06,988
+Would you mind being
+my dance partner
+
+160
+00:10:07,030 --> 00:10:08,823
+forever?
+
+161
+00:10:08,865 --> 00:10:11,284
+[FRIDA giggles]
+
+162
+00:10:12,911 --> 00:10:15,080
+Not one bit.
+
+163
+00:10:16,456 --> 00:10:20,043
+[HOSTESS 05A] I tried to talk
+her out of it... at first.
+
+164
+00:10:20,085 --> 00:10:23,755
+Then she told me that
+she was with child.
+
+165
+00:10:23,796 --> 00:10:27,050
+And after seeing that blissful
+expression on her face,
+
+166
+00:10:27,092 --> 00:10:30,262
+I couldn't raise any objections.
+
+167
+00:10:30,303 --> 00:10:35,016
+However, before long,
+he entered the picture.
+
+168
+00:10:35,058 --> 00:10:39,896
+I don't know exactly what
+he said to Frida that night.
+
+169
+00:10:39,938 --> 00:10:41,189
+But...
+
+170
+00:10:43,483 --> 00:10:45,735
+[HOSTESS 05A]
+...it was at that moment I knew.
+
+171
+00:10:45,777 --> 00:10:48,238
+She'd been abandoned.
+
+172
+00:10:48,280 --> 00:10:51,283
+Even so, she
+gathered herself up,
+
+173
+00:10:51,324 --> 00:10:54,702
+said she would raise
+the child by herself.
+
+174
+00:10:54,744 --> 00:10:57,122
+And then...
+
+175
+00:10:57,163 --> 00:10:59,707
+I just asked you to
+recount a harrowing tale.
+
+176
+00:10:59,749 --> 00:11:01,626
+Please forgive me.
+
+177
+00:11:01,667 --> 00:11:03,002
+Thanks to your assistance,
+
+178
+00:11:03,044 --> 00:11:06,590
+I'm now fully aware
+of what must be done.
+
+179
+00:11:06,631 --> 00:11:09,384
+Though, sadly, I'm unable
+to bring the girl back.
+
+180
+00:11:09,426 --> 00:11:12,262
+I can promise you this:
+The matter will be resolved
+
+181
+00:11:12,304 --> 00:11:14,598
+in a way that I hope
+brings you closure.
+
+182
+00:11:14,639 --> 00:11:16,682
+[HOSTESS 05A]
+You forgot something.
+
+183
+00:11:18,768 --> 00:11:20,228
+[HOSTESS 05A]
+In case you're curious,
+
+184
+00:11:20,270 --> 00:11:22,939
+Frida's buried
+in a potter's field.
+
+185
+00:11:22,981 --> 00:11:25,525
+Unfortunately, even if the
+girls and I pooled our earnings,
+
+186
+00:11:25,567 --> 00:11:28,987
+we still couldn't afford
+a proper headstone for her.
+
+187
+00:11:29,028 --> 00:11:32,365
+Listen, mate. If you
+feel any pity for the girl,
+
+188
+00:11:32,407 --> 00:11:36,328
+use that money. Place some
+flowers on her grave.
+
+189
+00:12:21,122 --> 00:12:23,625
+[DUDLEY] You have the
+package I entrusted to you?
+
+190
+00:12:23,667 --> 00:12:26,545
+Yes, and as for the quality
+of the newest shipment,
+
+191
+00:12:26,586 --> 00:12:29,297
+it appears to be quite potent.
+
+192
+00:12:29,339 --> 00:12:32,258
+He's resting comfortably inside.
+
+193
+00:12:40,266 --> 00:12:43,395
+[DUDLEY] Are we feeling more
+composed today, Lucian?
+
+194
+00:12:45,938 --> 00:12:48,816
+[LUCIAN]
+Frida?
+
+195
+00:12:48,858 --> 00:12:52,070
+Unfortunately, the girl had a
+slight accident and perished.
+
+196
+00:12:52,111 --> 00:12:54,030
+Plunged right into the river.
+
+197
+00:12:54,072 --> 00:12:56,658
+Wait, what? I don't understand.
+
+198
+00:12:56,700 --> 00:12:58,535
+I made her a promise.
+
+199
+00:12:58,577 --> 00:13:01,079
+[DUDLEY] I know you're having
+difficulty processing this.
+
+200
+00:13:01,120 --> 00:13:02,706
+I think it's best if you stay
+
+201
+00:13:02,747 --> 00:13:05,625
+until your emotional
+wounds are healed.
+
+202
+00:13:05,667 --> 00:13:09,128
+Please, there's
+no need to be hasty.
+
+203
+00:13:11,339 --> 00:13:13,550
+[LUCIAN grunts]
+
+204
+00:13:16,761 --> 00:13:18,304
+[WILLIAM]
+Louis.
+
+205
+00:13:20,014 --> 00:13:23,226
+I'd like you to send
+those two a telegram for me.
+
+206
+00:13:23,268 --> 00:13:24,810
+Then you mean...
+
+207
+00:13:26,229 --> 00:13:29,399
+[WILLIAM] The time has come
+for us to make our move.
+
+208
+00:13:54,591 --> 00:13:56,593
+- -[knocking]
+- -[MORAN groans]
+
+209
+00:13:56,635 --> 00:13:59,721
+[FRED]
+Excuse me, sir. A telegram.
+
+210
+00:14:09,439 --> 00:14:11,065
+[MORAN chuckles]
+
+211
+00:14:24,120 --> 00:14:27,707
+The brothers came all the way
+down to the station to greet me.
+
+212
+00:14:27,749 --> 00:14:31,127
+It's been far too long,
+Colonel Moran.
+
+213
+00:14:31,169 --> 00:14:33,004
+So we finally getting started?
+
+214
+00:14:33,045 --> 00:14:35,507
+That's the reason you
+sent me the telegram, innit?
+
+215
+00:14:35,548 --> 00:14:37,759
+Now, now, all in good time.
+
+216
+00:14:37,801 --> 00:14:40,094
+There's an order
+to these things.
+
+217
+00:14:40,136 --> 00:14:44,766
+On that note, I trust your
+skills are as sharp as ever.
+
+218
+00:14:44,808 --> 00:14:47,852
+You have to ask? Hm?
+
+219
+00:14:47,893 --> 00:14:50,313
+If it isn't Fred!
+
+220
+00:14:50,355 --> 00:14:52,898
+Haven't lost that
+sunny disposition, I see.
+
+221
+00:14:52,940 --> 00:14:54,526
+I requested that
+he come before you
+
+222
+00:14:54,567 --> 00:14:56,068
+to handle a certain errand.
+
+223
+00:14:56,110 --> 00:14:58,112
+Did you locate what I asked for?
+
+224
+00:14:58,154 --> 00:15:00,281
+[FRED]
+Mm. I checked the hospital
+
+225
+00:15:00,323 --> 00:15:03,201
+and found him in the
+brothel two doors down.
+
+226
+00:15:03,242 --> 00:15:08,414
+Thanks to the opium, he's not in
+his right mind, least not yet.
+
+227
+00:15:08,456 --> 00:15:11,250
+[WILLIAM] It appears the
+stage is ready to be set.
+
+228
+00:15:12,293 --> 00:15:16,422
+Now this job wasn't requested
+by a client, but still...
+
+229
+00:15:27,099 --> 00:15:30,936
+[WILLIAM] Gentlemen,
+let's deliver some punishment.
+
+230
+00:15:37,485 --> 00:15:39,945
+[MORAN]
+Sadly, tonight's not your night.
+
+231
+00:15:39,987 --> 00:15:43,032
+Wow! You're so good,
+Mister Moran!
+
+232
+00:15:43,074 --> 00:15:46,494
+What can I say, chaps? Looks
+like I'm on a winning streak.
+
+233
+00:15:46,536 --> 00:15:47,620
+No one's that lucky!
+
+234
+00:15:47,662 --> 00:15:50,248
+Unless they've been
+cheatin' this whole time!
+
+235
+00:15:53,125 --> 00:15:56,588
+Fools all say the same thing
+when they're down on their luck.
+
+236
+00:15:56,629 --> 00:16:01,133
+And they were the blokes who
+died first on the battlefield.
+
+237
+00:16:01,175 --> 00:16:03,469
+So, Mister Moran, sir,
+
+238
+00:16:03,511 --> 00:16:05,680
+now that you've made
+all that money at cards,
+
+239
+00:16:05,722 --> 00:16:07,849
+would you care to have
+a different sort of fun?
+
+240
+00:16:07,891 --> 00:16:11,060
+Sounds smashing. Your
+room on the second floor?
+
+241
+00:16:11,102 --> 00:16:13,813
+[BARMAID 05B] That's right. You
+were quick to catch my meaning.
+
+242
+00:16:13,855 --> 00:16:15,398
+[MORAN] And you were
+quick to catch my eye
+
+243
+00:16:15,440 --> 00:16:16,691
+when I stepped through the door.
+
+244
+00:16:16,733 --> 00:16:19,360
+[BARMAID 05B]
+Right this way, Romeo.
+
+245
+00:16:31,706 --> 00:16:33,708
+[LUCIAN grunts]
+
+246
+00:16:35,919 --> 00:16:37,211
+How'd I get here?
+
+247
+00:16:37,253 --> 00:16:39,255
+[DUDLEY]
+There you are, Lucian!
+
+248
+00:16:39,297 --> 00:16:42,842
+[DUDLEY panting]
+
+249
+00:16:42,884 --> 00:16:45,970
+Sir Dudley?
+
+250
+00:16:46,011 --> 00:16:48,431
+Now wait. Let's discuss this.
+
+251
+00:16:48,473 --> 00:16:51,309
+You could've asked us
+to meet somewhere closer!
+
+252
+00:16:51,350 --> 00:16:53,185
+What was the meaning
+of that letter?!
+
+253
+00:16:53,227 --> 00:16:55,354
+You're not actually going
+to confess your crime!
+
+254
+00:16:55,396 --> 00:16:56,522
+That's ludicrous!
+
+255
+00:16:56,564 --> 00:16:59,233
+And after everything
+I did to clean up after you!
+
+256
+00:16:59,275 --> 00:17:02,445
+For that matter, how did you
+even get out of your room?
+
+257
+00:17:02,487 --> 00:17:04,614
+You cleaned up after me?
+
+258
+00:17:04,656 --> 00:17:06,115
+[DUDLEY]
+Of course!
+
+259
+00:17:06,157 --> 00:17:07,700
+Why'd you have to
+be so bloody careless
+
+260
+00:17:07,742 --> 00:17:10,244
+and get that common
+barmaid pregnant?
+
+261
+00:17:10,286 --> 00:17:14,540
+Can you even imagine
+the effort I went through?!
+
+262
+00:17:14,582 --> 00:17:17,752
+[LUCIAN gasps]
+Frida?
+
+263
+00:17:17,794 --> 00:17:19,921
+[DUDLEY]
+You are a nobleman!
+
+264
+00:17:19,963 --> 00:17:21,255
+You shouldn't have
+gotten involved
+
+265
+00:17:21,297 --> 00:17:24,383
+with some backwater dishrag
+like her in the first place!
+
+266
+00:17:24,425 --> 00:17:26,135
+Surely you can see that!
+
+267
+00:17:26,177 --> 00:17:27,261
+When the pen slips,
+
+268
+00:17:27,303 --> 00:17:29,305
+you throw out the paper,
+not the pen!
+
+269
+00:17:29,347 --> 00:17:32,266
+It's the same way for people!
+There's no changing it!
+
+270
+00:17:32,308 --> 00:17:35,186
+That's the way the
+aristocratic world operates!
+
+271
+00:17:35,227 --> 00:17:39,190
+But I was supposed
+to marry Frida.
+
+272
+00:17:39,231 --> 00:17:40,775
+[DUDLEY]
+That'll be quite enough of that!
+
+273
+00:17:40,817 --> 00:17:43,945
+Now hold your tongue
+and do exactly as I say!
+
+274
+00:17:43,987 --> 00:17:46,238
+[FRIDA humming]
+
+275
+00:17:46,280 --> 00:17:48,240
+[LUCIAN gasps]
+
+276
+00:17:51,828 --> 00:17:54,038
+My love...
+
+277
+00:17:54,079 --> 00:17:56,374
+[screams] It's impossible!
+
+278
+00:17:56,415 --> 00:17:58,334
+You're dead!
+
+279
+00:17:58,376 --> 00:18:00,712
+I killed you! I pumped
+you full of opium,
+
+280
+00:18:00,753 --> 00:18:02,881
+then you plunged to
+your death in the river!
+
+281
+00:18:02,922 --> 00:18:04,298
+What?
+
+282
+00:18:06,801 --> 00:18:09,888
+At last, the truth from
+the culprit's own mouth.
+
+283
+00:18:09,929 --> 00:18:13,933
+The confession of
+an unpardonable sin.
+
+284
+00:18:13,975 --> 00:18:17,186
+[DUDLEY]
+What? Professor Moriarty?
+
+285
+00:18:17,228 --> 00:18:19,480
+Right, Fred. That'll do.
+
+286
+00:18:19,522 --> 00:18:21,148
+Very well.
+
+287
+00:18:24,360 --> 00:18:26,111
+You're a man.
+
+288
+00:18:26,153 --> 00:18:28,364
+The fog is especially
+heavy this evening.
+
+289
+00:18:28,406 --> 00:18:29,782
+Combined with his slight build,
+
+290
+00:18:29,824 --> 00:18:31,993
+he pulled off the illusion
+spectacularly.
+
+291
+00:18:32,035 --> 00:18:33,369
+Hold on,
+
+292
+00:18:33,411 --> 00:18:36,581
+you wrote me that letter asking
+to meet here, not Lucian!
+
+293
+00:18:36,622 --> 00:18:38,082
+Guilty as charged.
+
+294
+00:18:38,123 --> 00:18:41,544
+I'm the architect responsible
+for designing this plot.
+
+295
+00:18:41,586 --> 00:18:43,671
+But introductions are past due.
+
+296
+00:18:43,713 --> 00:18:47,967
+I'm William James Moriarty,
+Crime Consultant.
+
+297
+00:18:48,009 --> 00:18:50,011
+[DUDLEY] What do you
+mean "Crime Consultant"?
+
+298
+00:18:50,053 --> 00:18:51,888
+And why are you
+dressed like that?!
+
+299
+00:18:51,930 --> 00:18:55,307
+[WILLIAM] Mister Bale,
+I've done some research on you.
+
+300
+00:18:55,349 --> 00:18:57,393
+In addition to working
+for the university,
+
+301
+00:18:57,435 --> 00:18:59,938
+you're also the owner
+of several hospitals
+
+302
+00:18:59,979 --> 00:19:02,732
+or should I say brothels?
+
+303
+00:19:02,774 --> 00:19:05,359
+And is there a crime
+against being a businessman?
+
+304
+00:19:05,401 --> 00:19:07,111
+Is that what you're calling it?
+
+305
+00:19:07,152 --> 00:19:08,863
+Your hospitals
+served as a front,
+
+306
+00:19:08,905 --> 00:19:11,115
+which allowed you to order
+large quantities of opiates
+
+307
+00:19:11,156 --> 00:19:13,868
+without arousing
+anyone's suspicions.
+
+308
+00:19:13,910 --> 00:19:15,912
+After you were fully supplied,
+
+309
+00:19:15,954 --> 00:19:19,874
+you transformed the cellars of
+your brothels into opium dens.
+
+310
+00:19:19,916 --> 00:19:23,127
+You lure the sons of
+aristocrats into vice and sin,
+
+311
+00:19:23,168 --> 00:19:25,755
+then demand their parents
+purchase your silence
+
+312
+00:19:25,797 --> 00:19:29,008
+unless they want those deeds to
+become public knowledge.
+
+313
+00:19:29,050 --> 00:19:31,886
+Like a fire brigade that
+goes around creating blazes,
+
+314
+00:19:31,928 --> 00:19:33,554
+then offering your services.
+
+315
+00:19:33,596 --> 00:19:36,099
+You are a different
+class of despicable.
+
+316
+00:19:36,140 --> 00:19:38,726
+Hah! You have all
+the answers, don't you?
+
+317
+00:19:38,768 --> 00:19:40,853
+Then go ahead and
+turn me over to the police
+
+318
+00:19:40,895 --> 00:19:42,187
+and see what happens.
+
+319
+00:19:42,229 --> 00:19:44,231
+[WILLIAM]
+I have no intention of that.
+
+320
+00:19:44,273 --> 00:19:45,524
+Your claim of having influence
+
+321
+00:19:45,566 --> 00:19:48,486
+with the local authorities
+was not entirely unfounded.
+
+322
+00:19:48,527 --> 00:19:51,363
+So then what are
+you going to do?
+
+323
+00:19:51,405 --> 00:19:53,032
+[WILLIAM]
+I won't do anything.
+
+324
+00:19:53,074 --> 00:19:56,869
+But you, overcome with the guilt
+of Miss Macaulay's death,
+
+325
+00:19:56,911 --> 00:19:58,871
+will dance yourself
+into a frenzy
+
+326
+00:19:58,913 --> 00:20:00,915
+before taking your own life.
+
+327
+00:20:00,957 --> 00:20:03,292
+What?! Me, take my own life?!
+
+328
+00:20:03,334 --> 00:20:05,086
+You're a bit
+touched in the head.
+
+329
+00:20:05,128 --> 00:20:06,838
+Why would I ever?
+
+330
+00:20:06,879 --> 00:20:08,798
+[DUDLEY squeaks]
+
+331
+00:20:08,840 --> 00:20:10,883
+Huh?! What the--?!
+
+332
+00:20:13,302 --> 00:20:14,637
+[MORAN chuckles]
+
+333
+00:20:16,305 --> 00:20:20,977
+[DUDLEY yelping]
+
+334
+00:20:21,019 --> 00:20:22,937
+You've got quite
+the lively step there.
+
+335
+00:20:22,979 --> 00:20:24,563
+I've no doubt you'll prove to be
+
+336
+00:20:24,605 --> 00:20:26,983
+an adequate match for
+your dance partner.
+
+337
+00:20:27,025 --> 00:20:27,817
+[shrieks]
+
+338
+00:20:27,859 --> 00:20:31,403
+[DUDLEY panting]
+
+339
+00:20:33,489 --> 00:20:36,159
+[WILLIAM] I don't think
+you need any introduction.
+
+340
+00:20:36,200 --> 00:20:39,411
+Who are you?!
+Stop! Get away from me!
+
+341
+00:20:39,453 --> 00:20:41,372
+[yelps]
+
+342
+00:20:43,875 --> 00:20:45,626
+[gasps]
+
+343
+00:20:49,672 --> 00:20:51,757
+[gasps]
+
+344
+00:20:51,799 --> 00:20:55,678
+[screams]
+
+345
+00:20:59,807 --> 00:21:03,102
+[LUCIAN cries]
+
+346
+00:21:23,998 --> 00:21:25,416
+[MORAN]
+Good on him.
+
+347
+00:21:25,457 --> 00:21:28,044
+The kid erected
+a fine tombstone.
+
+348
+00:21:28,086 --> 00:21:30,671
+A love deemed impossible
+because of class.
+
+349
+00:21:30,713 --> 00:21:34,092
+Yeah. In a word, tragedy.
+
+350
+00:21:34,133 --> 00:21:35,801
+Both Frida and he were victims
+
+351
+00:21:35,843 --> 00:21:38,262
+of the country's
+societal structure.
+
+352
+00:21:38,303 --> 00:21:39,680
+But in a different world,
+
+353
+00:21:39,722 --> 00:21:43,308
+the two of them would
+have found happiness.
+
+354
+00:21:43,350 --> 00:21:45,561
+A tragedy, indeed...
+
+355
+00:21:47,312 --> 00:21:49,607
+[WILLIAM]
+...and avoidable.
+
+356
+00:21:49,648 --> 00:21:52,777
+Which is why we must
+dismantle the system.
+
+357
+00:23:34,086 --> 00:23:37,089
+[MORAN] Next time
+on Moriarty the Patriot  .
+
+358
+00:23:37,131 --> 00:23:39,217
+"The NOAHTIC Act 1."

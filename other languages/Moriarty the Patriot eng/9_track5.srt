@@ -1,0 +1,1770 @@
+1
+00:00:05,173 --> 00:00:07,051
+[GREGSON]
+Hey! Watch him! He's running!
+
+2
+00:00:07,092 --> 00:00:08,844
+[HOLMES]
+Quiet, Gregson!
+
+3
+00:00:08,886 --> 00:00:13,181
+Give me some warning next time.
+Did you find another clue?
+
+4
+00:00:13,223 --> 00:00:14,600
+Perhaps.
+
+5
+00:00:15,976 --> 00:00:18,103
+[HOLMES]
+How curious.
+
+6
+00:00:19,730 --> 00:00:21,941
+[HOLMES] Lestrade, listen.
+
+7
+00:00:21,982 --> 00:00:25,444
+To solve this...
+I need to escape.
+
+8
+00:00:25,485 --> 00:00:26,862
+[LESTRADE gasps]
+
+9
+00:00:28,822 --> 00:00:30,490
+[HOLMES]
+Hmm.
+
+10
+00:02:03,083 --> 00:02:07,046
+[GREGSON] The best consulting
+detective, indeed!
+
+11
+00:02:07,087 --> 00:02:11,383
+Hah. We're getting a menace
+off the streets for good.
+
+12
+00:02:15,095 --> 00:02:19,766
+To solve this...
+I need to escape.
+
+13
+00:02:19,808 --> 00:02:22,352
+I can't find the true
+culprit behind bars.
+
+14
+00:02:22,394 --> 00:02:24,063
+When this mystery's concluded,
+
+15
+00:02:24,104 --> 00:02:26,773
+you and the Yard can
+take credit for solving it.
+
+16
+00:02:26,815 --> 00:02:30,527
+But first, I'm going to need
+you to do me this favour.
+
+17
+00:02:32,196 --> 00:02:34,114
+[LESTRADE]
+The true culprit, huh?
+
+18
+00:02:34,156 --> 00:02:36,867
+You'd better make sure
+you do catch them.
+
+19
+00:02:36,909 --> 00:02:39,912
+Ugh, fine.
+
+20
+00:02:39,953 --> 00:02:41,538
+[GREGSON yelps]
+
+21
+00:02:41,580 --> 00:02:42,539
+[GREGSON groans]
+
+22
+00:02:42,581 --> 00:02:44,249
+- -[POLICE 8A] Get him!
+- -[POLICE 8B] Oi!
+
+23
+00:02:44,290 --> 00:02:46,626
+[gasps] Come back here!
+
+24
+00:02:46,668 --> 00:02:47,753
+Inspector!
+
+25
+00:02:47,794 --> 00:02:50,505
+Don't blame me!
+Something startled the horse!
+
+26
+00:03:00,057 --> 00:03:02,017
+[HOLMES]
+Sorry to keep you waiting.
+
+27
+00:03:04,603 --> 00:03:05,938
+[WATSON]
+Sherlock!
+
+28
+00:03:08,314 --> 00:03:11,068
+I'm relieved you managed
+to slip away from them.
+
+29
+00:03:13,612 --> 00:03:15,572
+[WATSON]
+The inspector took the risk.
+
+30
+00:03:15,614 --> 00:03:18,200
+Exactly as you
+said in your note.
+
+31
+00:03:18,242 --> 00:03:19,910
+Smart chap. Although,
+
+32
+00:03:19,952 --> 00:03:22,996
+I'm a wanted man with
+Scotland Yard hunting me.
+
+33
+00:03:23,038 --> 00:03:24,123
+So, John.
+
+34
+00:03:24,164 --> 00:03:26,666
+Do you still want to get
+involved in this case?
+
+35
+00:03:26,708 --> 00:03:29,628
+Yes, of course.
+After all, if you go to prison,
+
+36
+00:03:29,669 --> 00:03:30,879
+who do you think's
+going to end up
+
+37
+00:03:30,921 --> 00:03:32,631
+having to pay
+your half of the rent?
+
+38
+00:03:32,672 --> 00:03:34,299
+To avoid such a heinous crime,
+
+39
+00:03:34,340 --> 00:03:35,675
+we must settle this quickly.
+
+40
+00:03:35,717 --> 00:03:37,136
+[WATSON grunts]
+Wait.
+
+41
+00:03:37,177 --> 00:03:39,805
+Do you already know
+who the culprit is?
+
+42
+00:03:39,846 --> 00:03:42,682
+As to their
+specific identity, no.
+
+43
+00:03:42,724 --> 00:03:44,309
+Not yet.
+
+44
+00:03:44,350 --> 00:03:47,604
+But after laying a trap
+with this, we'll lure them in.
+
+45
+00:03:47,646 --> 00:03:49,231
+Someone's ring.
+
+46
+00:03:49,273 --> 00:03:50,523
+[WATSON gasps]
+
+47
+00:03:50,565 --> 00:03:53,485
+[WATSON]
+You found it by the desk?
+
+48
+00:03:53,526 --> 00:03:56,613
+What can I say? I have a rare
+talent for pilfering things.
+
+49
+00:03:56,655 --> 00:03:59,199
+[WATSON]
+Mm. Do me a favor.
+
+50
+00:03:59,241 --> 00:04:00,533
+Going forward,
+
+51
+00:04:00,575 --> 00:04:03,328
+will you only use these
+abilities for the greater good?
+
+52
+00:04:04,955 --> 00:04:07,791
+[FRED] So, you left
+your ring at the scene.
+
+53
+00:04:07,833 --> 00:04:09,751
+[HOPE]
+I'm sorry.
+
+54
+00:04:09,793 --> 00:04:13,379
+Listen. I need to get it back,
+whatever it takes.
+
+55
+00:04:13,421 --> 00:04:17,926
+It's more precious to me
+than my life! [groans]
+
+56
+00:04:17,968 --> 00:04:19,845
+I'll do my best.
+
+57
+00:04:27,519 --> 00:04:29,688
+"I found a golden ring
+
+58
+00:04:29,729 --> 00:04:34,318
+in Three, Lauriston Gardens
+off the Brixton Road.
+
+59
+00:04:34,359 --> 00:04:38,155
+If you might be the owner,
+contact Doctor John H. Watson.
+
+60
+00:04:38,197 --> 00:04:41,366
+Two, two, one, B,
+Baker Street?"
+
+61
+00:04:41,407 --> 00:04:42,951
+Well?
+
+62
+00:04:42,993 --> 00:04:45,370
+He's setting a trap for us.
+
+63
+00:04:47,664 --> 00:04:50,458
+Are you sure we
+should send Fred then?
+
+64
+00:04:50,500 --> 00:04:53,419
+[WILLIAM] Improvisation
+is part of theatre.
+
+65
+00:04:53,461 --> 00:04:57,841
+And not to mention, there's
+Hope's final wish to consider.
+
+66
+00:04:57,883 --> 00:04:59,926
+No harm in granting it.
+
+67
+00:05:01,094 --> 00:05:04,014
+[HOLMES]
+Good. The carrot is dangled.
+
+68
+00:05:04,056 --> 00:05:06,266
+Now that's done,
+what's our next step?
+
+69
+00:05:06,308 --> 00:05:08,143
+So glad you asked.
+
+70
+00:05:08,185 --> 00:05:10,645
+[WIGGINS]
+Ready. I've rounded 'em all up.
+
+71
+00:05:10,687 --> 00:05:12,438
+And you are?
+
+72
+00:05:13,439 --> 00:05:16,235
+I am the captain of the infamous
+Baker Street Irregulars.
+
+73
+00:05:16,276 --> 00:05:17,777
+Name's Wiggins.
+
+74
+00:05:17,819 --> 00:05:21,323
+They don't work for you, right?
+They're only children.
+
+75
+00:05:21,365 --> 00:05:24,910
+To the untrained eye,
+a band of grimy street urchins.
+
+76
+00:05:24,951 --> 00:05:27,371
+You didn't have to
+call us grimy, guv.
+
+77
+00:05:27,412 --> 00:05:28,830
+[HOLMES]
+They do everything,
+
+78
+00:05:28,872 --> 00:05:31,250
+from finding lost goods
+to running errands.
+
+79
+00:05:31,291 --> 00:05:33,626
+After all, the whole
+city is their home.
+
+80
+00:05:33,668 --> 00:05:36,046
+They're far more
+helpful than the police.
+
+81
+00:05:36,088 --> 00:05:37,047
+[WIGGINS grunts]
+
+82
+00:05:37,089 --> 00:05:39,216
+[HOLMES]
+Consider them my eyes and ears.
+
+83
+00:05:39,258 --> 00:05:40,884
+[WIGGINS]
+Hm?
+
+84
+00:05:40,926 --> 00:05:42,427
+We ain't your minions, you know!
+
+85
+00:05:42,468 --> 00:05:45,597
+And don't expect us to
+work for free none either!
+
+86
+00:05:45,638 --> 00:05:47,307
+Please, you know me.
+
+87
+00:05:47,349 --> 00:05:50,185
+You will receive your reward,
+after you finish the job.
+
+88
+00:05:50,227 --> 00:05:54,314
+I'm confused. What exactly
+are these lads going to do?
+
+89
+00:05:54,356 --> 00:05:56,775
+Just provide a
+little assistance.
+
+90
+00:06:02,906 --> 00:06:05,200
+[WATSON]
+Lucy, hmm?
+
+91
+00:06:05,242 --> 00:06:07,119
+So it's a women's wedding band.
+
+92
+00:06:07,160 --> 00:06:11,581
+And judging by the design,
+not an aristocratic union.
+
+93
+00:06:11,623 --> 00:06:13,208
+By Sherlock's deduction,
+
+94
+00:06:13,250 --> 00:06:15,794
+the culprit dropped this
+at the crime scene.
+
+95
+00:06:15,835 --> 00:06:18,297
+Basically, it's
+our only evidence.
+
+96
+00:06:18,338 --> 00:06:20,506
+If it belongs to the killer,
+
+97
+00:06:20,548 --> 00:06:23,927
+they're certain to
+come looking for it.
+
+98
+00:06:23,969 --> 00:06:26,763
+[HOLMES] It would be
+the most logical answer.
+
+99
+00:06:26,805 --> 00:06:31,476
+The real killer was much
+larger in stature than Drebber.
+
+100
+00:06:31,517 --> 00:06:35,855
+[WATSON]
+In person he must be a giant.
+
+101
+00:06:35,897 --> 00:06:36,982
+[WATSON grunts]
+
+102
+00:06:40,319 --> 00:06:41,111
+[knocking]
+
+103
+00:06:41,153 --> 00:06:42,446
+[WATSON gasps]
+
+104
+00:06:43,822 --> 00:06:47,075
+[WATSON]
+Yes? How may I... help... you?
+
+105
+00:06:47,117 --> 00:06:49,202
+[OLD WOMAN] I'm here
+regarding the missing ring
+
+106
+00:06:49,244 --> 00:06:51,997
+you posted about
+in the newspaper.
+
+107
+00:06:52,038 --> 00:06:53,706
+Thank you for the advert.
+
+108
+00:06:53,748 --> 00:06:56,876
+Otherwise, my Lucy might
+have lost it for good.
+
+109
+00:06:56,918 --> 00:06:58,337
+[WATSON]
+An old woman?
+
+110
+00:06:58,378 --> 00:06:59,879
+[OLD WOMAN]
+My daughter's name should be
+
+111
+00:06:59,921 --> 00:07:02,674
+inscribed on the inside
+of the ring, yes?
+
+112
+00:07:02,715 --> 00:07:04,009
+[WATSON]
+Uh, it is.
+
+113
+00:07:04,050 --> 00:07:05,718
+[OLD WOMAN]
+She believes she dropped it
+
+114
+00:07:05,760 --> 00:07:07,637
+somewhere near Number Three.
+
+115
+00:07:07,679 --> 00:07:11,683
+She only just got married
+last year. It's tragic.
+
+116
+00:07:11,724 --> 00:07:14,978
+If her husband finds out
+she lost her precious ring,
+
+117
+00:07:15,020 --> 00:07:18,482
+he would be terribly
+angry with her.
+
+118
+00:07:18,523 --> 00:07:19,941
+[WATSON grunts]
+
+119
+00:07:21,860 --> 00:07:25,071
+Well, we can't have that.
+Here you are.
+
+120
+00:07:57,854 --> 00:08:00,399
+[gasps]
+
+121
+00:08:00,440 --> 00:08:03,193
+Spry for a little old lady!
+
+122
+00:08:08,323 --> 00:08:10,033
+[HOLMES]
+Hmm.
+
+123
+00:08:25,965 --> 00:08:32,305
+- -[OLD WOMAN gasps]
+- -[HOLMES grunts]
+
+124
+00:08:32,347 --> 00:08:34,057
+[HOLMES yells]
+
+125
+00:08:35,058 --> 00:08:38,311
+[FRED groans]
+
+126
+00:08:38,353 --> 00:08:40,730
+Now, to find out
+who you really are--
+
+127
+00:08:40,772 --> 00:08:42,982
+[HOLMES gasps, shouts]
+
+128
+00:08:44,067 --> 00:08:45,860
+You there, stop!
+
+129
+00:08:57,372 --> 00:08:59,207
+Damn! I should've
+known they wouldn't
+
+130
+00:08:59,249 --> 00:09:01,460
+let themselves get
+caught so easily.
+
+131
+00:09:01,501 --> 00:09:03,587
+They got one over on me.
+
+132
+00:09:05,797 --> 00:09:07,591
+[WATSON]
+That man just now,
+
+133
+00:09:07,632 --> 00:09:10,676
+was he the mastermind
+we're searching for?
+
+134
+00:09:10,718 --> 00:09:13,346
+[HOLMES] No. Probably just
+one of his associates.
+
+135
+00:09:13,388 --> 00:09:16,558
+[WATSON] Meaning there
+are more. In that case,
+
+136
+00:09:16,600 --> 00:09:19,561
+you believe they're some
+sort of organization?
+
+137
+00:09:19,603 --> 00:09:21,687
+More than likely, yes.
+
+138
+00:09:21,729 --> 00:09:23,523
+But that'll have
+to wait for the moment
+
+139
+00:09:23,565 --> 00:09:26,192
+as finding Drebber's
+killer comes first.
+
+140
+00:09:26,234 --> 00:09:27,486
+But how?
+
+141
+00:09:27,527 --> 00:09:29,946
+That ring was the only lead
+we had and now it's gone.
+
+142
+00:09:29,988 --> 00:09:32,907
+What? No need to be so gloomy.
+
+143
+00:09:32,949 --> 00:09:35,994
+At this point, John,
+the crime is all but solved.
+
+144
+00:09:36,035 --> 00:09:37,287
+[gasps]
+
+145
+00:09:37,329 --> 00:09:40,373
+Are you telling me you know
+who murdered Lord Drebber?
+
+146
+00:09:40,415 --> 00:09:41,333
+Sure.
+
+147
+00:09:41,374 --> 00:09:43,835
+Well then, who on
+earth is the killer?
+
+148
+00:09:44,919 --> 00:09:47,297
+[HOLMES]
+Perfect.
+
+149
+00:09:47,339 --> 00:09:50,383
+Why don't you wait
+for me in there?
+
+150
+00:09:50,425 --> 00:09:52,344
+I shan't be long.
+
+151
+00:09:52,385 --> 00:09:54,304
+But, Sherlock.
+
+152
+00:09:54,346 --> 00:09:56,306
+Wait! Where're you...?
+
+153
+00:10:06,774 --> 00:10:08,610
+[WATSON]
+Unbelievable.
+
+154
+00:10:08,652 --> 00:10:11,988
+Did he really discover
+who the killer is?
+
+155
+00:10:12,030 --> 00:10:14,907
+Why'd he have to
+keep me in suspense?
+
+156
+00:10:14,949 --> 00:10:16,951
+[WATSON]
+Hm?
+
+157
+00:10:16,993 --> 00:10:19,663
+All done. Let's go.
+
+158
+00:10:22,582 --> 00:10:25,126
+[HOLMES]
+This arrived from Lestrade.
+
+159
+00:10:25,168 --> 00:10:26,545
+Take a look.
+
+160
+00:10:28,547 --> 00:10:30,674
+[HOLMES]
+Lord Drebber's past.
+
+161
+00:10:30,715 --> 00:10:33,677
+I asked the inspector
+to check into it for me.
+
+162
+00:10:33,718 --> 00:10:36,429
+The man was a
+philanderer without equal.
+
+163
+00:10:36,471 --> 00:10:37,805
+With a particular fondness for
+
+164
+00:10:37,847 --> 00:10:40,642
+molesting women
+of lower standing.
+
+165
+00:10:40,684 --> 00:10:43,811
+We can't begin to imagine
+what they were forced to endure.
+
+166
+00:10:43,853 --> 00:10:45,188
+If a victim threatened to talk,
+
+167
+00:10:45,230 --> 00:10:48,525
+he usually settled
+the matter with money.
+
+168
+00:10:48,567 --> 00:10:49,859
+Unfortunately,
+
+169
+00:10:49,901 --> 00:10:53,279
+there was one who proved to be
+an exception to this rule.
+
+170
+00:10:53,321 --> 00:10:55,031
+Lucy Ferrier.
+
+171
+00:10:55,073 --> 00:10:57,450
+She had recently
+married a local farmer
+
+172
+00:10:57,492 --> 00:11:00,286
+by the name of Jefferson Hope.
+
+173
+00:11:00,328 --> 00:11:04,832
+When her body was discovered,
+her remains were returned home.
+
+174
+00:11:04,874 --> 00:11:07,502
+Sadly, there were
+a significant number
+
+175
+00:11:07,544 --> 00:11:10,505
+of horrifying
+bruises to the body.
+
+176
+00:11:13,007 --> 00:11:17,554
+[WATSON grunts] This is a
+positively tragic story.
+
+177
+00:11:17,596 --> 00:11:20,056
+You're saying,
+the true killer is--
+
+178
+00:11:20,098 --> 00:11:22,767
+[HOLMES] The man who
+took Lord Drebber's life,
+
+179
+00:11:22,808 --> 00:11:26,605
+is the same Jefferson
+Hope, murderer...
+
+180
+00:11:26,646 --> 00:11:29,941
+...and our driver, oddly enough.
+
+181
+00:11:29,982 --> 00:11:31,192
+[gasps]
+
+182
+00:11:31,234 --> 00:11:35,405
+Isn't that right,
+Jefferson Hope?
+
+183
+00:11:37,115 --> 00:11:41,703
+I must say, I'm surprised you
+investigated so thoroughly.
+
+184
+00:11:41,745 --> 00:11:43,622
+You know, having
+your carriage driven
+
+185
+00:11:43,663 --> 00:11:46,583
+by a murderer isn't something
+many people get to experience.
+
+186
+00:11:46,625 --> 00:11:48,585
+Look, I'm not doubting
+your methods, Holmes,
+
+187
+00:11:48,627 --> 00:11:50,378
+but even if the
+inscription on the ring
+
+188
+00:11:50,420 --> 00:11:52,046
+is connected to
+this Jefferson Hope,
+
+189
+00:11:52,088 --> 00:11:54,173
+that's still not
+enough evidence to prove
+
+190
+00:11:54,215 --> 00:11:56,718
+that he's the same man
+as our cab driver!
+
+191
+00:11:56,760 --> 00:12:00,179
+You raise a good point.
+I arrived at my conclusion from
+
+192
+00:12:00,221 --> 00:12:02,348
+two different lines
+of reasoning.
+
+193
+00:12:02,390 --> 00:12:06,185
+The first one was
+the ring that we found.
+
+194
+00:12:06,227 --> 00:12:09,397
+The second was a set
+of wheel tracks.
+
+195
+00:12:09,439 --> 00:12:11,857
+Thanks to some rain earlier
+that evening at the scene,
+
+196
+00:12:11,899 --> 00:12:14,110
+they were quite visible.
+
+197
+00:12:14,152 --> 00:12:16,613
+All the houses
+belonged to noblemen,
+
+198
+00:12:16,655 --> 00:12:20,866
+who own four-wheeled carriages,
+driven by two-horses.
+
+199
+00:12:20,908 --> 00:12:23,787
+However, in front of
+the Earl's manor,
+
+200
+00:12:23,828 --> 00:12:27,165
+there were smaller tracks
+belonging to a narrower cab.
+
+201
+00:12:28,667 --> 00:12:30,001
+No killer would
+be foolish enough
+
+202
+00:12:30,042 --> 00:12:32,044
+to arrive in a carriage,
+commit the murder,
+
+203
+00:12:32,086 --> 00:12:34,589
+hop back in the cab,
+then return home.
+
+204
+00:12:34,631 --> 00:12:36,048
+Otherwise,
+the driver would have had
+
+205
+00:12:36,090 --> 00:12:39,177
+a clear view of
+whoever the killer was.
+
+206
+00:12:39,218 --> 00:12:40,637
+Which means...
+
+207
+00:12:40,679 --> 00:12:44,683
+...the culprit was someone who
+bore no risk of that happening.
+
+208
+00:12:44,724 --> 00:12:46,601
+What remains?
+
+209
+00:12:46,643 --> 00:12:50,146
+He would have had to
+drive himself there.
+
+210
+00:12:50,188 --> 00:12:52,398
+In response,
+I sent the Irregulars off
+
+211
+00:12:52,440 --> 00:12:55,694
+in search of someone who
+met the following criteria:
+
+212
+00:12:55,735 --> 00:12:57,445
+A driver of a hansom cab,
+
+213
+00:12:57,487 --> 00:12:59,989
+who was a large man
+with pudgy fingers.
+
+214
+00:13:00,031 --> 00:13:02,158
+Additionally, they would have
+gone to Number Three
+
+215
+00:13:02,200 --> 00:13:03,785
+the day of the crime.
+
+216
+00:13:03,827 --> 00:13:06,037
+One person came up right away.
+
+217
+00:13:06,078 --> 00:13:08,748
+[WATSON]
+Let me guess, Jefferson Hope.
+
+218
+00:13:09,833 --> 00:13:12,502
+Despite not knowing the
+contents of Lestrade's report,
+
+219
+00:13:12,544 --> 00:13:15,839
+the Irregulars
+turned up the same man.
+
+220
+00:13:15,880 --> 00:13:17,006
+[HOLMES]
+In short,
+
+221
+00:13:17,048 --> 00:13:20,176
+It wasn't difficult to
+put a name to the shooter.
+
+222
+00:13:20,218 --> 00:13:22,178
+Case closed.
+
+223
+00:13:22,220 --> 00:13:23,555
+One question.
+
+224
+00:13:23,596 --> 00:13:25,931
+The manner in which
+you killed Drebber--
+
+225
+00:13:25,973 --> 00:13:27,726
+why so coarse?
+
+226
+00:13:27,767 --> 00:13:30,311
+The plan demanded
+precision on all levels.
+
+227
+00:13:30,353 --> 00:13:33,939
+Elegance, yet your
+execution was sloppy.
+
+228
+00:13:35,859 --> 00:13:37,151
+[HOPE]
+It's true.
+
+229
+00:13:37,193 --> 00:13:39,945
+Though his death was to be
+carried out with more finesse,
+
+230
+00:13:39,987 --> 00:13:42,824
+I couldn't help myself!
+
+231
+00:13:42,866 --> 00:13:46,285
+Not when I came
+face to face with Drebber.
+
+232
+00:13:55,587 --> 00:13:58,089
+You expected me to
+remain level-headed?
+
+233
+00:13:58,130 --> 00:14:00,007
+Seeing that monster?
+
+234
+00:14:00,049 --> 00:14:03,177
+The man who killed my wife?
+
+235
+00:14:03,219 --> 00:14:06,806
+[HOPE]
+Well, Sherlock Holmes...
+
+236
+00:14:06,848 --> 00:14:09,851
+...how about making
+a deal with me?
+
+237
+00:14:24,949 --> 00:14:26,200
+Be smart, Mister Hope.
+
+238
+00:14:26,242 --> 00:14:28,327
+You've already achieved
+your goal, haven't you?
+
+239
+00:14:28,369 --> 00:14:31,997
+Is that not enough?
+Turn yourself into the police.
+
+240
+00:14:32,039 --> 00:14:33,666
+Turn myself in?
+
+241
+00:14:33,708 --> 00:14:34,751
+[groans]
+
+242
+00:14:34,793 --> 00:14:37,503
+[HOPE coughs]
+
+243
+00:14:40,924 --> 00:14:45,052
+A futile gesture. You see,
+I don't have much time left.
+
+244
+00:14:45,094 --> 00:14:48,264
+At this stage of the game,
+I may as well be dead.
+
+245
+00:14:48,306 --> 00:14:52,310
+All's lost. I gave all
+I had to my benefactor.
+
+246
+00:14:52,351 --> 00:14:55,271
+This deal--and what,
+pray tell, are the terms?
+
+247
+00:14:55,313 --> 00:14:57,857
+It's a simple matter, gentlemen.
+
+248
+00:14:59,150 --> 00:15:00,526
+[WATSON gasps]
+
+249
+00:15:02,862 --> 00:15:04,405
+[HOPE]
+My life has been destroyed
+
+250
+00:15:04,447 --> 00:15:07,241
+by the corruption
+of aristocrats.
+
+251
+00:15:07,283 --> 00:15:12,664
+My tale's at an end, and
+I want you to close the book.
+
+252
+00:15:12,705 --> 00:15:17,168
+In other words, pick up the
+gun and end this suffering.
+
+253
+00:15:17,209 --> 00:15:18,294
+[grunts]
+
+254
+00:15:18,336 --> 00:15:21,422
+[HOPE] Since you uncovered
+Drebber's vile sins,
+
+255
+00:15:21,464 --> 00:15:25,134
+it's only fitting
+that I die by your hand.
+
+256
+00:15:27,136 --> 00:15:28,262
+[HOLMES]
+Hm?
+
+257
+00:15:29,639 --> 00:15:31,182
+[HOLMES]
+And who's that?
+
+258
+00:15:31,223 --> 00:15:34,727
+[HOPE] The one who got
+Lucy's ring back for me.
+
+259
+00:15:38,063 --> 00:15:40,024
+[HOPE] Events have
+been carefully arranged
+
+260
+00:15:40,065 --> 00:15:41,526
+after I'm dead.
+
+261
+00:15:41,567 --> 00:15:46,280
+Kill me and he'll reveal the
+identity of my benefactor.
+
+262
+00:15:46,322 --> 00:15:47,532
+[HOLMES]
+Tending to your affairs before
+
+263
+00:15:47,573 --> 00:15:51,661
+you're even gone from this
+world. How very thorough.
+
+264
+00:15:51,703 --> 00:15:53,287
+Yes, indeed.
+
+265
+00:15:53,329 --> 00:15:56,290
+He truly is an incredible
+person.
+
+266
+00:15:57,333 --> 00:15:59,293
+[HOPE] When I arrived
+at Drebber's mansion
+
+267
+00:15:59,335 --> 00:16:02,839
+at the appointed time,
+the door opened as if by magic,
+
+268
+00:16:02,881 --> 00:16:05,717
+and there was nary a soul
+around to interfere.
+
+269
+00:16:05,758 --> 00:16:09,303
+The man is a true
+criminal genius.
+
+270
+00:16:09,345 --> 00:16:12,473
+My benefactor holds
+you in high regard.
+
+271
+00:16:12,515 --> 00:16:14,141
+Enough to want your name
+
+272
+00:16:14,183 --> 00:16:18,145
+left at the scene to see
+if you could solve the case.
+
+273
+00:16:18,187 --> 00:16:20,147
+But to what end, though?
+
+274
+00:16:20,189 --> 00:16:23,067
+Why engineer such
+an elaborate scheme?
+
+275
+00:16:23,108 --> 00:16:25,444
+[HOPE]
+You wanna know?
+
+276
+00:16:25,486 --> 00:16:30,783
+Pull the trigger and
+all will be revealed.
+
+277
+00:16:30,825 --> 00:16:32,535
+Tempting,
+
+278
+00:16:32,577 --> 00:16:36,706
+but seeing how I'm considered
+a murder suspect on the run,
+
+279
+00:16:36,748 --> 00:16:37,790
+I don't think killing you
+
+280
+00:16:37,832 --> 00:16:40,752
+would do much in the
+way of clearing my name.
+
+281
+00:16:40,793 --> 00:16:42,545
+Don't worry about that.
+
+282
+00:16:42,587 --> 00:16:46,090
+Once you shoot me, he'll arrange
+for a witness to come forward,
+
+283
+00:16:46,131 --> 00:16:50,720
+providing testimony that'll all
+but guarantee your freedom.
+
+284
+00:16:50,762 --> 00:16:54,682
+You see? The arrangement
+benefits you as well.
+
+285
+00:16:54,724 --> 00:16:58,770
+Kill me and both of us
+will get exactly what we desire.
+
+286
+00:16:59,729 --> 00:17:02,273
+Make your decision, sir.
+
+287
+00:17:12,283 --> 00:17:13,826
+[HOLMES]
+You're right.
+
+288
+00:17:13,868 --> 00:17:16,746
+It would prove a great
+relief to the both of us.
+
+289
+00:17:19,498 --> 00:17:21,084
+I can't let you do that!
+
+290
+00:17:21,125 --> 00:17:23,086
+You know that this is wrong!
+
+291
+00:17:24,629 --> 00:17:26,005
+[HOLMES]
+How so?
+
+292
+00:17:26,047 --> 00:17:27,423
+He gets a quick death
+
+293
+00:17:27,465 --> 00:17:29,884
+and I get the identity
+of the mastermind.
+
+294
+00:17:29,926 --> 00:17:31,260
+That may be true.
+
+295
+00:17:31,302 --> 00:17:34,221
+But shoot that gun,
+and there's no going back!
+
+296
+00:17:34,263 --> 00:17:36,557
+[HOPE]
+Don't listen to him!
+
+297
+00:17:36,599 --> 00:17:39,226
+You're a man who
+seeks out mysteries.
+
+298
+00:17:39,268 --> 00:17:42,271
+There's no satisfaction
+without a solution.
+
+299
+00:17:42,313 --> 00:17:43,689
+And you want to know who
+
+300
+00:17:43,731 --> 00:17:46,484
+created the ultimate
+mystery, don't you?
+
+301
+00:17:46,525 --> 00:17:50,362
+So, shoot me and
+you'll have your answer!
+
+302
+00:17:50,404 --> 00:17:52,031
+[HOLMES grunts]
+
+303
+00:17:55,200 --> 00:17:58,704
+No, Sherlock, please!
+Put it down!
+
+304
+00:17:58,746 --> 00:18:00,748
+Don't do it!
+
+305
+00:18:01,124 --> 00:18:03,208
+[gun fires]
+
+306
+00:18:08,089 --> 00:18:11,092
+[HOPE grunts]
+
+307
+00:18:12,844 --> 00:18:15,138
+[gasps]
+
+308
+00:18:15,179 --> 00:18:19,183
+[HOLMES laughing]
+
+309
+00:18:19,224 --> 00:18:21,352
+So sorry. I won't kill you.
+
+310
+00:18:21,393 --> 00:18:22,979
+[HOPE] You're a fool if you
+don't!
+
+311
+00:18:23,021 --> 00:18:25,690
+Their identity will stay a
+secret!
+
+312
+00:18:25,731 --> 00:18:27,399
+[HOLMES] I'll have to figure it
+out on my own?
+
+313
+00:18:27,441 --> 00:18:29,234
+Huh. Now imagine that.
+
+314
+00:18:29,276 --> 00:18:32,571
+Please, enough insults,
+you daft bastard.
+
+315
+00:18:32,613 --> 00:18:33,865
+See here!
+
+316
+00:18:33,906 --> 00:18:36,617
+The satisfaction is finding
+the solution on your own!
+
+317
+00:18:36,659 --> 00:18:37,660
+There's always some sod
+
+318
+00:18:37,702 --> 00:18:39,996
+that comes along and
+tries spoiling my fun!
+
+319
+00:18:40,038 --> 00:18:41,914
+I'll have none of it!
+
+320
+00:18:43,332 --> 00:18:45,376
+[WATSON]
+Oh, thank God.
+
+321
+00:18:46,919 --> 00:18:49,881
+Seriously, thank God.
+
+322
+00:18:49,922 --> 00:18:52,591
+- -[HOLMES] John?
+- -[WATSON] I'm so sorry!
+
+323
+00:18:52,633 --> 00:18:54,343
+[HOLMES]
+Just pull yourself together!
+
+324
+00:18:54,385 --> 00:18:56,220
+[WATSON] Please forgive me
+for doubting you!
+
+325
+00:18:56,261 --> 00:18:57,346
+Even for a moment!
+
+326
+00:18:57,388 --> 00:19:00,641
+[HOLMES] You're forgiven.
+Just get off of me!
+
+327
+00:19:02,351 --> 00:19:03,435
+[HOLMES]
+Truly,
+
+328
+00:19:03,477 --> 00:19:06,271
+I'm sorry I wasn't able
+to grant your request.
+
+329
+00:19:06,313 --> 00:19:07,815
+Your final wish.
+
+330
+00:19:07,857 --> 00:19:09,400
+[HOPE gasps]
+
+331
+00:19:17,491 --> 00:19:19,952
+[inhales]
+
+332
+00:19:19,994 --> 00:19:21,620
+Ah, Scotland Yard!
+
+333
+00:19:21,662 --> 00:19:24,082
+Have you bungled
+any cases, lately?
+
+334
+00:19:24,123 --> 00:19:26,333
+I'd like you to meet someone.
+
+335
+00:19:26,375 --> 00:19:30,379
+Allow me to present the actual
+killer of Lord Enoch J. Drebber,
+
+336
+00:19:30,421 --> 00:19:32,048
+Jefferson Hope!
+
+337
+00:19:32,090 --> 00:19:34,425
+Sherlock Holmes?! Why is...?!
+
+338
+00:19:35,885 --> 00:19:37,386
+You caught him!
+
+339
+00:19:39,138 --> 00:19:42,266
+I kept my end of
+the bargain as promised.
+
+340
+00:19:45,686 --> 00:19:49,356
+[WILLIAM] Consulting
+detective, Sherlock Holmes.
+
+341
+00:19:50,942 --> 00:19:52,902
+[WILLIAM]
+Somehow, he managed to slip away
+
+342
+00:19:52,944 --> 00:19:55,529
+from Scotland Yard
+and solve the case.
+
+343
+00:19:55,571 --> 00:19:56,697
+Thoughts?
+
+344
+00:19:56,739 --> 00:19:59,117
+Very impressive the way
+he discerned the murder
+
+345
+00:19:59,158 --> 00:20:01,535
+was planned by
+a separate individual.
+
+346
+00:20:01,577 --> 00:20:03,704
+I would say his
+competency as a detective
+
+347
+00:20:03,746 --> 00:20:05,831
+appears to be quite genuine.
+
+348
+00:20:05,873 --> 00:20:07,208
+The audition provided us
+
+349
+00:20:07,250 --> 00:20:09,877
+with all the answers
+we had hoped it would.
+
+350
+00:20:09,919 --> 00:20:11,837
+We knew what sort
+of mind he had,
+
+351
+00:20:11,879 --> 00:20:14,506
+but nothing of his heart.
+
+352
+00:20:14,548 --> 00:20:15,841
+My goal
+
+353
+00:20:15,883 --> 00:20:17,927
+was to see whether
+he'd resort to any means
+
+354
+00:20:17,969 --> 00:20:21,847
+in order to achieve his,
+and he won't.
+
+355
+00:20:21,889 --> 00:20:22,932
+Even after we offered him
+
+356
+00:20:22,974 --> 00:20:25,810
+all the answers on
+a silver platter, no dice.
+
+357
+00:20:25,851 --> 00:20:28,187
+He still didn't go
+for Hope's proposal.
+
+358
+00:20:28,229 --> 00:20:30,397
+[LOUIS]
+According to William's analysis,
+
+359
+00:20:30,439 --> 00:20:33,358
+Holmes has a keen interest
+in finding the mastermind.
+
+360
+00:20:33,400 --> 00:20:36,320
+The one pulling the
+strings from the dark.
+
+361
+00:20:36,361 --> 00:20:39,657
+And yet he refused to kill Hope.
+
+362
+00:20:39,698 --> 00:20:41,284
+When it comes to
+accomplishing his goals,
+
+363
+00:20:41,325 --> 00:20:44,245
+he has limits, making
+him different from us.
+
+364
+00:20:44,287 --> 00:20:46,205
+Then he's worthy, right,
+
+365
+00:20:46,247 --> 00:20:48,666
+this man, Holmes?
+
+366
+00:20:49,708 --> 00:20:51,627
+From here on out,
+
+367
+00:20:51,669 --> 00:20:54,005
+there will be a new character
+in this crime drama
+
+368
+00:20:54,046 --> 00:20:55,173
+we've been staging.
+
+369
+00:20:55,214 --> 00:20:58,259
+A detective striving
+to solve the case.
+
+370
+00:21:00,011 --> 00:21:04,765
+[WILLIAM] I believe
+we have found our leading man.
+
+371
+00:21:04,807 --> 00:21:08,435
+A beacon in a dark world.
+
+372
+00:21:12,857 --> 00:21:14,984
+[WILLIAM]
+Sherlock Holmes.
+
+373
+00:21:26,871 --> 00:21:29,165
+[WATSON]
+Is it morning already?
+
+374
+00:21:32,376 --> 00:21:35,379
+I think I'll go downstairs
+and make some tea.
+
+375
+00:21:37,131 --> 00:21:41,010
+[HOLMES snoring]
+
+376
+00:21:44,263 --> 00:21:47,058
+[WATSON] As long as
+I'm living here with you,
+
+377
+00:21:47,099 --> 00:21:50,811
+I'll never be in want
+of writing material.
+
+378
+00:21:50,853 --> 00:21:52,855
+I'm sure of it.
+
+379
+00:23:33,372 --> 00:23:36,459
+[WILLIAM] Next time
+on Moriarty the Patriot  .
+
+380
+00:23:36,500 --> 00:23:39,211
+"The Two Detectives. Act One."
