@@ -1,0 +1,2012 @@
+1
+00:00:00,000 --> 00:00:10,800
+All right, so while you guys were off doing dumb things like being a rock, getting nosebleeds, or messing with ingredients, I managed to find some patterns in the dungeon's changes.
+
+2
+00:00:11,080 --> 00:00:13,500
+You make it sound like I wanted to turn to stone!
+
+3
+00:00:13,740 --> 00:00:14,820
+Yeah, give us a break.
+
+4
+00:00:14,960 --> 00:00:16,820
+Those three days were very productive.
+
+5
+00:00:17,400 --> 00:00:17,900
+Uh-huh.
+
+6
+00:00:18,920 --> 00:00:21,720
+When one place gets blocked, another opens up.
+
+7
+00:00:22,020 --> 00:00:23,500
+And that happens over and over.
+
+8
+00:00:23,940 --> 00:00:27,460
+The number of doors, furniture, and building types doesn't change.
+
+9
+00:00:27,460 --> 00:00:30,200
+The houses won't become cemeteries.
+
+10
+00:00:30,740 --> 00:00:33,740
+The walls move in a clockwise spiral at set intervals.
+
+11
+00:00:34,380 --> 00:00:36,780
+And all the statues are in a fixed position.
+
+12
+00:00:37,440 --> 00:00:39,560
+And then, based on other things.
+
+13
+00:00:42,880 --> 00:00:44,720
+I recognize this road!
+
+14
+00:00:45,160 --> 00:00:47,500
+I'm pretty sure that's the house where we ate the dragon.
+
+15
+00:00:48,160 --> 00:00:49,520
+Chill, Chuck, you're incredible!
+
+16
+00:00:50,180 --> 00:00:52,140
+Hey, just doing my job.
+
+17
+00:00:53,560 --> 00:00:55,460
+Hey, wait, isn't this road...
+
+18
+00:00:55,460 --> 00:00:57,620
+So she remembers it.
+
+19
+00:00:57,980 --> 00:01:00,200
+We got separated from Fallon here.
+
+20
+00:01:00,800 --> 00:01:02,800
+Only a trail of blood's been left behind.
+
+21
+00:01:03,420 --> 00:01:05,900
+If they notice the trail, they'll get worked up.
+
+22
+00:01:06,640 --> 00:01:08,120
+How am I gonna handle that?
+
+23
+00:01:08,460 --> 00:01:09,600
+Laios, look there!
+
+24
+00:01:10,680 --> 00:01:11,700
+Wait a second.
+
+25
+00:01:12,180 --> 00:01:13,000
+Listen, you guys!
+
+26
+00:01:13,200 --> 00:01:17,220
+I know there are lots of things to worry about, but for now, we should probably return to the surface?
+
+27
+00:01:17,220 --> 00:01:27,060
+This was where the dragon's corpse was supposed to be, wasn't it?
+
+28
+00:01:27,600 --> 00:01:30,040
+Yeah, but it's been cleared away with no remains.
+
+29
+00:01:30,600 --> 00:01:32,160
+That hole in the wall over there.
+
+30
+00:01:32,560 --> 00:01:35,860
+Pretty sure it's from when the red dragon fell down after we got the best of it.
+
+31
+00:01:36,440 --> 00:01:38,660
+It looks almost completely sealed up now.
+
+32
+00:01:38,660 --> 00:01:45,020
+The eye of the mage is quickly approaching.
+
+33
+00:01:47,500 --> 00:01:49,260
+Don't just yell all of a sudden!
+
+34
+00:01:49,820 --> 00:01:51,240
+But I just saw...
+
+35
+00:01:51,240 --> 00:01:51,440
+Huh?
+
+36
+00:01:52,000 --> 00:01:52,440
+Uh...
+
+37
+00:01:53,820 --> 00:01:54,120
+Huh?
+
+38
+00:01:54,340 --> 00:01:56,060
+Mahana's sickness again, maybe?
+
+39
+00:01:56,520 --> 00:01:57,040
+Again?
+
+40
+00:01:57,500 --> 00:02:01,820
+Ever since I used that healing magic, I've been hallucinating and hearing things.
+
+41
+00:02:02,320 --> 00:02:03,140
+Hearing things?
+
+42
+00:02:03,140 --> 00:02:04,920
+I'm not sure if that's a symptom.
+
+43
+00:02:05,560 --> 00:02:06,580
+What was it you heard?
+
+44
+00:02:06,900 --> 00:02:09,360
+Oh, it said the eye of the mage approaches.
+
+45
+00:02:09,860 --> 00:02:11,380
+The eye of the mage, huh?
+
+46
+00:02:12,560 --> 00:02:14,140
+That must mean...
+
+47
+00:02:17,080 --> 00:02:19,500
+I'm hearing wings.
+
+48
+00:02:19,700 --> 00:02:20,720
+That small dragon.
+
+49
+00:02:20,980 --> 00:02:22,060
+We need to go and hide.
+
+50
+00:02:22,340 --> 00:02:23,460
+Hide where exactly?
+
+51
+00:02:23,720 --> 00:02:25,300
+Yeah, there's nowhere for us to take cover.
+
+52
+00:02:25,880 --> 00:02:26,820
+We've gotta run, Marcel.
+
+53
+00:02:27,560 --> 00:02:28,240
+Not yet.
+
+54
+00:02:28,500 --> 00:02:30,140
+If we need to hide...
+
+55
+00:02:30,800 --> 00:02:32,440
+We go in the wall!
+
+56
+00:02:33,140 --> 00:02:36,540
+Come on!
+
+57
+00:02:36,700 --> 00:02:37,680
+Hurry up, you two!
+
+58
+00:02:38,020 --> 00:02:39,020
+What is she?
+
+59
+00:02:39,180 --> 00:02:40,840
+It's another one of her magic spells?
+
+60
+00:02:55,600 --> 00:02:56,920
+Tell me, Marcel.
+
+61
+00:02:57,320 --> 00:02:59,320
+That magic you used...
+
+62
+00:02:59,320 --> 00:03:00,720
+What the hell was that?
+
+63
+00:03:00,720 --> 00:03:01,160
+Huh?
+
+64
+00:03:03,140 --> 00:03:05,820
+Wait, cleaners?
+
+65
+00:03:06,120 --> 00:03:06,880
+Excuse me?
+
+66
+00:03:07,560 --> 00:03:08,520
+Dungeon cleaners.
+
+67
+00:03:08,920 --> 00:03:10,620
+They're vital creatures to the dungeon.
+
+68
+00:03:11,000 --> 00:03:13,960
+Basically, they clean trash and repair places that have been destroyed.
+
+69
+00:03:14,540 --> 00:03:14,960
+Uh-huh.
+
+70
+00:03:15,340 --> 00:03:18,800
+The wall wasn't fully restored, so I assumed it hadn't hardened yet.
+
+71
+00:03:18,800 --> 00:03:21,480
+This part is the original wall.
+
+72
+00:03:21,480 --> 00:03:23,560
+And the cleaners start down here!
+
+73
+00:03:23,960 --> 00:03:24,720
+And the floor.
+
+74
+00:03:25,020 --> 00:03:28,340
+They've even reconstructed it with the wear and tear a normal road would have.
+
+75
+00:03:28,980 --> 00:03:30,720
+You'd never be able to tell the difference.
+
+76
+00:03:32,140 --> 00:03:32,520
+Huh?
+
+77
+00:03:32,520 --> 00:03:37,500
+What the hell are these gross little things crawling all over the ground?
+
+78
+00:03:38,300 --> 00:03:38,780
+Disgusting.
+
+79
+00:03:38,780 --> 00:03:41,160
+These are also cleaners.
+
+80
+00:03:41,160 --> 00:03:44,480
+Any dungeon that didn't have these little guys would fall apart immediately.
+
+81
+00:03:44,940 --> 00:03:46,440
+And thankfully, they're harmless.
+
+82
+00:03:47,400 --> 00:03:48,240
+No, they're not.
+
+83
+00:03:48,620 --> 00:03:51,780
+These pesky little critters are always trying to chew up my tent.
+
+84
+00:03:52,840 --> 00:03:55,640
+They start destroying whatever they feel is in the way.
+
+85
+00:03:56,000 --> 00:03:57,580
+Guess that includes your tent, Senshi.
+
+86
+00:03:57,580 --> 00:04:01,420
+But they're here to eat the dragon's corpse and the rubble from the blast.
+
+87
+00:04:02,320 --> 00:04:04,160
+They appear when the dungeon receives damage
+
+88
+00:04:04,160 --> 00:04:07,420
+and use their secretions to stop any further damage.
+
+89
+00:04:07,860 --> 00:04:10,480
+Then they proceed to eat the debris around the area.
+
+90
+00:04:10,980 --> 00:04:11,920
+They're not picky.
+
+91
+00:04:12,980 --> 00:04:16,300
+After that, they use more secretions to cover up holes they find
+
+92
+00:04:16,300 --> 00:04:18,720
+and restore the dungeon to its original form.
+
+93
+00:04:19,560 --> 00:04:21,760
+It's the same way living beings heal themselves.
+
+94
+00:04:22,200 --> 00:04:23,380
+To put it another way,
+
+95
+00:04:23,520 --> 00:04:26,180
+think of it like how our immune system removes bacteria.
+
+96
+00:04:26,180 --> 00:04:27,760
+Yeah, I'd rather not.
+
+97
+00:04:28,060 --> 00:04:30,540
+The way all that works sure feels like some type of magic.
+
+98
+00:04:30,680 --> 00:04:31,560
+Amazing, right?
+
+99
+00:04:32,320 --> 00:04:32,840
+Criminy.
+
+100
+00:04:33,380 --> 00:04:34,260
+What the hell's next?
+
+101
+00:04:34,320 --> 00:04:35,860
+A magical digestive system?
+
+102
+00:04:36,180 --> 00:04:37,420
+If that was really a thing,
+
+103
+00:04:37,500 --> 00:04:39,060
+I wonder what food a dungeon would eat.
+
+104
+00:04:41,360 --> 00:04:43,680
+I'm glad the blood trail wasn't there anymore.
+
+105
+00:04:44,340 --> 00:04:47,740
+Hey, let's continue on before another change happens.
+
+106
+00:04:56,180 --> 00:05:04,900
+It's the stairs! Yay!
+
+107
+00:05:06,680 --> 00:05:08,800
+Finally, we can get out of this place.
+
+108
+00:05:09,300 --> 00:05:09,840
+All right.
+
+109
+00:05:10,100 --> 00:05:12,480
+Now's about the time we should start doing that thing.
+
+110
+00:05:12,860 --> 00:05:13,780
+Yeah, good point.
+
+111
+00:05:14,200 --> 00:05:15,120
+Let's do that.
+
+112
+00:05:15,500 --> 00:05:16,180
+What the...
+
+113
+00:05:16,960 --> 00:05:17,820
+Oh, right.
+
+114
+00:05:17,940 --> 00:05:18,660
+Now I get it.
+
+115
+00:05:18,660 --> 00:05:28,820
+Wait, you guys meant preparing a meal?
+
+116
+00:05:29,060 --> 00:05:31,600
+I really don't think there are any tentacles on these stairs.
+
+117
+00:05:31,760 --> 00:05:32,580
+Say that sooner!
+
+118
+00:05:33,320 --> 00:05:35,020
+You just like wearing that, don't you?
+
+119
+00:05:35,080 --> 00:05:35,620
+Hell no!
+
+120
+00:05:35,620 --> 00:05:40,060
+We've got tons of different ingredients.
+
+121
+00:05:40,320 --> 00:05:42,280
+I'm having a hard time deciding what to make.
+
+122
+00:05:43,540 --> 00:05:45,220
+Maybe I'll use that new thing.
+
+123
+00:05:45,960 --> 00:05:46,700
+Cook the barley.
+
+124
+00:05:47,180 --> 00:05:49,400
+Is that what we picked up from the third floor?
+
+125
+00:05:49,700 --> 00:05:52,960
+I've been holding on to it in case we ran out of food since it keeps well.
+
+126
+00:05:53,880 --> 00:05:55,160
+The cockatrice meat,
+
+127
+00:05:55,920 --> 00:05:57,060
+the dryad fruit,
+
+128
+00:05:57,180 --> 00:05:59,200
+and the mandrake along with its leaves.
+
+129
+00:05:59,920 --> 00:06:01,800
+Chop up the depetrification herb.
+
+130
+00:06:02,880 --> 00:06:04,580
+Season all that and fry it.
+
+131
+00:06:05,620 --> 00:06:08,480
+Now, stuff some barley rice into the hollowed-out brick.
+
+132
+00:06:09,000 --> 00:06:11,540
+Top it with the rest and put the brick over the fire.
+
+133
+00:06:12,580 --> 00:06:13,940
+And then...
+
+134
+00:06:13,940 --> 00:06:15,400
+What is that thing?
+
+135
+00:06:15,720 --> 00:06:17,400
+This here's a cockatrice egg.
+
+136
+00:06:19,720 --> 00:06:21,760
+I'm glad I brought it along with us,
+
+137
+00:06:21,920 --> 00:06:24,120
+but it's pretty dang difficult to use.
+
+138
+00:06:26,680 --> 00:06:28,920
+Finally, add the egg sauce over top,
+
+139
+00:06:29,020 --> 00:06:30,800
+and it's ready.
+
+140
+00:06:33,880 --> 00:06:35,480
+Whoa, what is this?
+
+141
+00:06:35,480 --> 00:06:36,420
+This looks tasty.
+
+142
+00:06:37,060 --> 00:06:39,100
+If I had stayed petrified longer,
+
+143
+00:06:39,400 --> 00:06:41,340
+would Senshi have used me to make this?
+
+144
+00:06:43,860 --> 00:06:48,300
+I love this barley rice.
+
+145
+00:06:48,780 --> 00:06:50,920
+Go on and try stabbing the spoon into the bowl.
+
+146
+00:06:50,920 --> 00:06:57,880
+I took a couple bricks made by dungeon cleaners and carved them out.
+
+147
+00:06:58,520 --> 00:07:00,520
+Then does that mean the bowl's edible, too?
+
+148
+00:07:01,900 --> 00:07:03,020
+This is great.
+
+149
+00:07:03,140 --> 00:07:03,900
+Thanks, Senshi.
+
+150
+00:07:03,900 --> 00:07:04,860
+What's it taste like?
+
+151
+00:07:04,860 --> 00:07:09,820
+What's it taste like?
+
+152
+00:07:10,160 --> 00:07:12,080
+At first, it just tasted like dirt.
+
+153
+00:07:12,680 --> 00:07:14,100
+But now that it's settling in,
+
+154
+00:07:14,160 --> 00:07:17,300
+it's like a magical mixture of cabbage worm, iron, and lemon.
+
+155
+00:07:17,660 --> 00:07:19,700
+Those are very different things, Laios.
+
+156
+00:07:20,240 --> 00:07:22,440
+It's pretty hard to describe it properly.
+
+157
+00:07:22,440 --> 00:07:25,500
+Are you sure it's okay to be eating magical creatures?
+
+158
+00:07:25,800 --> 00:07:27,900
+You'll hear things and get nosebleeds again.
+
+159
+00:07:28,660 --> 00:07:30,300
+What are those hallucinations?
+
+160
+00:07:30,940 --> 00:07:31,420
+Hmm.
+
+161
+00:07:32,400 --> 00:07:34,480
+When we make it back, you should see a doctor.
+
+162
+00:07:34,920 --> 00:07:35,600
+Or a shrink.
+
+163
+00:07:35,860 --> 00:07:36,300
+Why?
+
+164
+00:07:36,700 --> 00:07:38,660
+Do you think this is some kind of illness?
+
+165
+00:07:38,660 --> 00:07:47,400
+Wait, is this a hallucination, too?
+
+166
+00:07:47,520 --> 00:07:48,940
+Can you guys see this thing?
+
+167
+00:07:49,640 --> 00:07:51,600
+Yeah, I can see it.
+
+168
+00:07:52,540 --> 00:07:54,460
+Hey, uh, not to interrupt.
+
+169
+00:07:55,060 --> 00:07:56,640
+But we're under attack here!
+
+170
+00:08:01,640 --> 00:08:02,120
+Ew.
+
+171
+00:08:02,440 --> 00:08:03,380
+What are you wearing?
+
+172
+00:08:03,960 --> 00:08:05,340
+Is it the skin of a frog?
+
+173
+00:08:05,340 --> 00:08:08,660
+You know, I think the horns on this one's helmet
+
+174
+00:08:08,660 --> 00:08:09,820
+are just for decoration.
+
+175
+00:08:10,860 --> 00:08:11,720
+A child, huh?
+
+176
+00:08:13,600 --> 00:08:16,260
+They could be demons in disguise.
+
+177
+00:08:17,320 --> 00:08:19,280
+Shall we discover their true nature?
+
+178
+00:08:19,940 --> 00:08:21,540
+How about we kill one and see if...
+
+179
+00:08:21,540 --> 00:08:23,080
+Mizaru, that's enough.
+
+180
+00:08:24,900 --> 00:08:28,020
+I know them.
+
+181
+00:08:28,460 --> 00:08:28,940
+Shuro!
+
+182
+00:08:30,360 --> 00:08:31,800
+It's so good to see you!
+
+183
+00:08:31,840 --> 00:08:32,620
+It's been a while!
+
+184
+00:08:32,620 --> 00:08:35,220
+I never thought we'd meet in a situation like this!
+
+185
+00:08:35,340 --> 00:08:36,660
+What a sprawl world!
+
+186
+00:08:37,120 --> 00:08:38,160
+Did you lose weight?
+
+187
+00:08:44,040 --> 00:08:47,360
+I appreciate it, Shuro.
+
+188
+00:08:48,580 --> 00:08:50,620
+I'm relieved to see you're doing well, buddy.
+
+189
+00:08:50,880 --> 00:08:52,360
+How overly familiar!
+
+190
+00:08:53,040 --> 00:08:53,600
+Oh, yeah!
+
+191
+00:08:53,800 --> 00:08:54,540
+Before I forget.
+
+192
+00:08:55,380 --> 00:08:56,940
+First up, Senshi.
+
+193
+00:08:57,280 --> 00:08:58,080
+This is Shuro.
+
+194
+00:08:58,240 --> 00:08:59,740
+He used to be a member of our party.
+
+195
+00:09:00,100 --> 00:09:01,240
+Who is this Shuro?
+
+196
+00:09:01,240 --> 00:09:02,040
+One of the best fighters I've ever seen.
+
+197
+00:09:02,040 --> 00:09:03,680
+Is he referring to Lord Toshiro?
+
+198
+00:09:03,680 --> 00:09:05,720
+Not to mention he's about the only person who'd call me a friend.
+
+199
+00:09:05,720 --> 00:09:05,900
+Toshiro!
+
+200
+00:09:08,840 --> 00:09:09,960
+That's enough standing.
+
+201
+00:09:10,100 --> 00:09:10,880
+Come sit with us.
+
+202
+00:09:11,540 --> 00:09:12,780
+You caught us while we were eating.
+
+203
+00:09:13,860 --> 00:09:16,020
+You and your friend should...
+
+204
+00:09:16,020 --> 00:09:19,380
+That's quite the large group you have.
+
+205
+00:09:20,700 --> 00:09:22,020
+Hey, Kabru.
+
+206
+00:09:22,020 --> 00:09:23,360
+Kabru, aren't they?
+
+207
+00:09:25,800 --> 00:09:26,780
+Nice to meet you.
+
+208
+00:09:27,960 --> 00:09:29,900
+I believe your name is Laios, right?
+
+209
+00:09:31,960 --> 00:09:32,360
+Yeah.
+
+210
+00:09:33,000 --> 00:09:33,780
+Nice to meet you.
+
+211
+00:09:33,780 --> 00:09:39,380
+I wonder just how long it's been.
+
+212
+00:09:41,220 --> 00:09:42,220
+Hey, Kabru.
+
+213
+00:09:42,780 --> 00:09:42,980
+Hmm?
+
+214
+00:09:43,200 --> 00:09:44,180
+It's them, isn't it?
+
+215
+00:09:44,400 --> 00:09:45,820
+They're the ones who stole our things.
+
+216
+00:09:46,500 --> 00:09:47,300
+What do we do?
+
+217
+00:09:48,060 --> 00:09:48,540
+Hmm.
+
+218
+00:09:49,460 --> 00:09:50,600
+We don't do anything.
+
+219
+00:09:50,800 --> 00:09:51,080
+Huh?
+
+220
+00:09:51,340 --> 00:09:53,440
+Then why did we bother coming all this way?
+
+221
+00:09:53,440 --> 00:09:53,560
+Hmm.
+
+222
+00:09:58,160 --> 00:09:59,740
+I wanted to meet him in person.
+
+223
+00:10:00,560 --> 00:10:00,900
+Huh?
+
+224
+00:10:00,900 --> 00:10:04,380
+I doubt there's any point in asking about the jewels.
+
+225
+00:10:05,300 --> 00:10:07,880
+There wasn't any guilt on his face when he saw us.
+
+226
+00:10:08,720 --> 00:10:11,640
+So either he forgot, we blamed the wrong people,
+
+227
+00:10:12,040 --> 00:10:14,160
+the jewels themselves were a trap from the beginning,
+
+228
+00:10:14,780 --> 00:10:15,960
+or all of the above.
+
+229
+00:10:16,260 --> 00:10:17,680
+Did we come here for nothing?
+
+230
+00:10:18,200 --> 00:10:19,020
+Not at all.
+
+231
+00:10:19,540 --> 00:10:20,820
+Give me more time to observe.
+
+232
+00:10:21,620 --> 00:10:24,040
+Aren't you curious about how their party got this far?
+
+233
+00:10:24,420 --> 00:10:26,280
+Or what they might be planning to do next?
+
+234
+00:10:26,740 --> 00:10:27,580
+Because I am.
+
+235
+00:10:27,580 --> 00:10:32,060
+So, I'm assuming you guys have been on this floor for a while now, huh?
+
+236
+00:10:32,400 --> 00:10:33,100
+That's right.
+
+237
+00:10:33,820 --> 00:10:35,980
+We've been going in circles trying to get out,
+
+238
+00:10:36,220 --> 00:10:37,680
+but we keep getting turned around.
+
+239
+00:10:38,180 --> 00:10:40,060
+We got pretty lost in this place, too.
+
+240
+00:10:40,820 --> 00:10:43,540
+Lucky for us, Chilchuk discovered a pattern to the changes,
+
+241
+00:10:43,860 --> 00:10:45,740
+and that's how we managed to make it this far.
+
+242
+00:10:46,180 --> 00:10:46,840
+That's so.
+
+243
+00:10:47,360 --> 00:10:49,480
+This is unrelated, but...
+
+244
+00:10:49,480 --> 00:10:50,120
+Wow, Cheryl.
+
+245
+00:10:50,120 --> 00:10:54,560
+You're more depraved than I thought.
+
+246
+00:10:54,760 --> 00:10:55,980
+Are they your other plans?
+
+247
+00:10:56,120 --> 00:10:57,220
+You've been busy, huh?
+
+248
+00:10:58,860 --> 00:11:00,220
+They're merely family,
+
+249
+00:11:01,020 --> 00:11:02,320
+but they're skilled at fighting.
+
+250
+00:11:03,920 --> 00:11:05,680
+I'm sorry I left the party.
+
+251
+00:11:06,680 --> 00:11:09,620
+You see, once I realized she wasn't on the surface,
+
+252
+00:11:10,300 --> 00:11:12,320
+I did what I thought would be the best way
+
+253
+00:11:12,320 --> 00:11:13,840
+for me to get back into the dungeon,
+
+254
+00:11:14,260 --> 00:11:15,960
+so I could start searching for her.
+
+255
+00:11:15,960 --> 00:11:17,800
+My apologies.
+
+256
+00:11:18,240 --> 00:11:18,900
+It's fine.
+
+257
+00:11:19,220 --> 00:11:20,020
+We understand.
+
+258
+00:11:20,660 --> 00:11:23,880
+Although, I'm surprised that you went back in immediately.
+
+259
+00:11:24,580 --> 00:11:26,220
+Don't you think that was a bit rash?
+
+260
+00:11:26,560 --> 00:11:28,120
+What if somebody were to get hurt again?
+
+261
+00:11:28,360 --> 00:11:29,680
+It must have crossed your mind.
+
+262
+00:11:31,400 --> 00:11:33,000
+Well, for your information,
+
+263
+00:11:33,380 --> 00:11:36,860
+the four of us were able to defeat the Red Dragon.
+
+264
+00:11:38,820 --> 00:11:40,200
+Wait, the Red Dragon?
+
+265
+00:11:41,260 --> 00:11:43,480
+And where... where is...
+
+266
+00:11:43,480 --> 00:11:46,860
+Cheryl!
+
+267
+00:11:47,340 --> 00:11:48,140
+My lord!
+
+268
+00:11:48,880 --> 00:11:50,140
+My lord, I'm begging you,
+
+269
+00:11:50,220 --> 00:11:52,060
+please eat a meal and get proper sleep.
+
+270
+00:11:52,360 --> 00:11:54,580
+At this rate, your body will not last long.
+
+271
+00:11:54,780 --> 00:11:56,420
+You've been pushing yourself that hard?
+
+272
+00:11:56,760 --> 00:11:59,640
+Elias, anyone with eyes can see that he's not doing well.
+
+273
+00:12:00,200 --> 00:12:02,980
+Eating a good meal and getting rest is really important.
+
+274
+00:12:03,700 --> 00:12:06,680
+I have no time for such things.
+
+275
+00:12:07,200 --> 00:12:10,560
+Cheryl, you shouldn't just eat food when you have the time.
+
+276
+00:12:10,560 --> 00:12:13,300
+To have the energy to do what you want to do,
+
+277
+00:12:13,480 --> 00:12:16,740
+you need to eat and sleep when your body tells you that you need it.
+
+278
+00:12:18,800 --> 00:12:19,860
+Let's eat something.
+
+279
+00:12:20,540 --> 00:12:22,760
+While we do, I can fill you in on what's happened.
+
+280
+00:12:24,920 --> 00:12:25,840
+All right, then.
+
+281
+00:12:26,700 --> 00:12:29,580
+Can you prepare a meal for us, Maizaru?
+
+282
+00:12:29,580 --> 00:12:33,800
+It's mealtime!
+
+283
+00:12:34,200 --> 00:12:35,480
+Let us begin preparing!
+
+284
+00:12:36,060 --> 00:12:37,960
+Tade, you go fetch some water.
+
+285
+00:12:38,480 --> 00:12:38,900
+Okay.
+
+286
+00:12:39,360 --> 00:12:42,640
+Hien, Benichidori, you two start preparing the rice.
+
+287
+00:12:43,400 --> 00:12:45,300
+And Ausebi, your job is...
+
+288
+00:12:45,300 --> 00:12:48,700
+To protect our lord from harm.
+
+289
+00:12:49,100 --> 00:12:51,560
+Can't have you adding strange things to the food.
+
+290
+00:12:52,020 --> 00:12:54,140
+I'll go start lighting a fire for you all.
+
+291
+00:12:54,620 --> 00:12:56,100
+Oh my, so thoughtful.
+
+292
+00:12:56,100 --> 00:12:58,320
+I'll leave that to you then, Dwarf.
+
+293
+00:12:58,800 --> 00:13:00,220
+Food time, yummy, but...
+
+294
+00:13:00,220 --> 00:13:02,880
+There sure are a lot of people here.
+
+295
+00:13:03,760 --> 00:13:06,460
+It's not good to have this many people all in one place.
+
+296
+00:13:06,980 --> 00:13:08,740
+We should split into three groups.
+
+297
+00:13:09,460 --> 00:13:09,700
+Hmm.
+
+298
+00:13:10,400 --> 00:13:11,280
+Very well.
+
+299
+00:13:12,200 --> 00:13:12,540
+Oren!
+
+300
+00:13:12,840 --> 00:13:13,120
+Huh?
+
+301
+00:13:13,360 --> 00:13:13,880
+Dwarf!
+
+302
+00:13:14,020 --> 00:13:14,260
+Huh?
+
+303
+00:13:14,640 --> 00:13:15,280
+Frog girl!
+
+304
+00:13:15,520 --> 00:13:15,820
+Frog!
+
+305
+00:13:15,820 --> 00:13:19,600
+If you're capable of magic, then provide us with a barrier.
+
+306
+00:13:20,320 --> 00:13:23,100
+It's to prevent monsters from disturbing our lord's meal.
+
+307
+00:13:23,100 --> 00:13:27,220
+Well, pleasure to meet you, Miss Frog.
+
+308
+00:13:27,500 --> 00:13:27,680
+Oh.
+
+309
+00:13:28,460 --> 00:13:28,980
+Same.
+
+310
+00:13:30,720 --> 00:13:31,480
+All right.
+
+311
+00:13:31,680 --> 00:13:32,820
+Let's step away from the group.
+
+312
+00:13:33,460 --> 00:13:35,040
+Ben will tell you everything we've been up to.
+
+313
+00:13:35,720 --> 00:13:36,640
+Let me help.
+
+314
+00:13:37,100 --> 00:13:37,480
+Thanks.
+
+315
+00:13:38,660 --> 00:13:39,640
+Thanks so much, James.
+
+316
+00:13:39,640 --> 00:13:40,740
+So what I'll tell you.
+
+317
+00:13:40,740 --> 00:13:44,100
+In this situation, I think the person in the most danger is...
+
+318
+00:13:44,640 --> 00:13:46,040
+Monsters are yummy.
+
+319
+00:13:46,280 --> 00:13:47,420
+They're the best!
+
+320
+00:13:48,100 --> 00:13:49,720
+Monsters cooking food.
+
+321
+00:13:49,860 --> 00:13:50,600
+Yum, yum.
+
+322
+00:13:50,720 --> 00:13:51,500
+Eat a lot.
+
+323
+00:13:51,500 --> 00:13:53,400
+I'll kill you.
+
+324
+00:13:54,080 --> 00:13:54,680
+Senshi!
+
+325
+00:13:55,180 --> 00:13:56,460
+I'll come out for the fire!
+
+326
+00:14:09,280 --> 00:14:11,920
+Hey, aren't you overdoing it a little bit?
+
+327
+00:14:12,340 --> 00:14:13,420
+So much smoke.
+
+328
+00:14:13,420 --> 00:14:17,120
+They must have him take a bath after his meal.
+
+329
+00:14:17,820 --> 00:14:18,260
+Here?
+
+330
+00:14:18,760 --> 00:14:20,840
+Why don't you have a seat right over there?
+
+331
+00:14:21,240 --> 00:14:21,600
+Fine.
+
+332
+00:14:22,040 --> 00:14:23,520
+Now hurry and tell me what's happened.
+
+333
+00:14:24,080 --> 00:14:27,380
+Well, after you and Namari left the group, the rest of us...
+
+334
+00:14:27,380 --> 00:14:28,640
+Stick to the main points.
+
+335
+00:14:28,640 --> 00:14:33,440
+We defeated the Red Dragon, then retrieved Falon and brought her back to life.
+
+336
+00:14:33,820 --> 00:14:37,540
+But then we were attacked by the Mad Mage, and we got separated.
+
+337
+00:14:38,340 --> 00:14:44,580
+We decided that we couldn't do this on our own, so we were going back to the surface to ask around for some help.
+
+338
+00:14:45,060 --> 00:14:46,240
+But we got lost.
+
+339
+00:14:46,240 --> 00:14:47,880
+You see?
+
+340
+00:14:48,400 --> 00:14:50,200
+That's why I'm glad we ran into you!
+
+341
+00:14:50,500 --> 00:14:51,960
+Please, lend us your strength, Shuro!
+
+342
+00:14:53,700 --> 00:14:57,200
+Mind if I ask a few questions?
+
+343
+00:14:58,060 --> 00:15:02,160
+The one who created this place is the Mad Mage you mentioned just now, is that correct?
+
+344
+00:15:02,960 --> 00:15:07,380
+There's only been rumors of his existence, and whoever actually saw him never returned.
+
+345
+00:15:08,240 --> 00:15:10,320
+How'd you know it was the Mad Mage you saw?
+
+346
+00:15:10,320 --> 00:15:14,520
+Well, I guess I thought he talked like he fit the part.
+
+347
+00:15:14,760 --> 00:15:17,380
+And how'd you manage to get away from that dangerous situation?
+
+348
+00:15:17,900 --> 00:15:19,140
+That was all Marcille.
+
+349
+00:15:19,620 --> 00:15:22,860
+Oh, she's our magic user, and she held him off.
+
+350
+00:15:23,080 --> 00:15:23,880
+Can you elaborate?
+
+351
+00:15:24,380 --> 00:15:26,400
+Well, uh...
+
+352
+00:15:26,400 --> 00:15:29,340
+Magic isn't really my thing, so I couldn't say.
+
+353
+00:15:30,460 --> 00:15:31,540
+Oh, I see.
+
+354
+00:15:33,540 --> 00:15:35,480
+May I ask something too, Lyos?
+
+355
+00:15:35,480 --> 00:15:35,880
+Hmm?
+
+356
+00:15:35,880 --> 00:15:45,120
+Did I see you eating a brick earlier?
+
+357
+00:15:45,840 --> 00:15:46,000
+No!
+
+358
+00:15:46,380 --> 00:15:47,980
+Ah, no, no, no!
+
+359
+00:15:48,320 --> 00:15:49,460
+It wasn't a brick.
+
+360
+00:15:49,620 --> 00:15:52,380
+We were eating part of a wall that was made of dungeon cleaners.
+
+361
+00:15:52,620 --> 00:15:56,060
+We left almost everything behind, including food and money, remember?
+
+362
+00:15:56,460 --> 00:16:01,260
+So for us to traverse the dungeon faster, we've been eating monsters this entire time!
+
+363
+00:16:01,260 --> 00:16:06,980
+Ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha
+
+364
+00:16:09,220 --> 00:16:09,260
+That's...
+
+365
+00:16:09,360 --> 00:16:09,800
+Hmm?
+
+366
+00:16:11,540 --> 00:16:13,360
+That's actually really interesting.
+
+367
+00:16:13,960 --> 00:16:16,600
+Well, what's the most delicious thing you've had so far?
+
+368
+00:16:16,660 --> 00:16:17,840
+Man, I don't know.
+
+369
+00:16:18,000 --> 00:16:19,080
+That's a hard one.
+
+370
+00:16:19,780 --> 00:16:21,040
+Kelpie, Living Armour.
+
+371
+00:16:21,400 --> 00:16:22,900
+You know, it might be the red dragon.
+
+372
+00:16:23,160 --> 00:16:23,960
+No way!
+
+373
+00:16:24,120 --> 00:16:26,060
+You ate the red dragon that ate your sister?
+
+374
+00:16:26,420 --> 00:16:26,680
+Yeah.
+
+375
+00:16:27,280 --> 00:16:28,420
+You said living armor.
+
+376
+00:16:28,720 --> 00:16:29,920
+What's even edible on it?
+
+377
+00:16:30,100 --> 00:16:31,420
+That's an excellent question.
+
+378
+00:16:31,820 --> 00:16:34,800
+It's actually a mollusk creature that uses the armor as a shell,
+
+379
+00:16:34,980 --> 00:16:36,060
+just like this sword.
+
+380
+00:16:36,600 --> 00:16:36,960
+Whoa!
+
+381
+00:16:37,220 --> 00:16:38,620
+The cleaners are eating Kensuke!
+
+382
+00:16:39,060 --> 00:16:40,300
+Can't be too careful.
+
+383
+00:16:41,140 --> 00:16:43,560
+By the way, if you're interested in monster meals,
+
+384
+00:16:43,560 --> 00:16:44,840
+we can talk about it whenever.
+
+385
+00:16:45,560 --> 00:16:47,300
+Wow, I appreciate that.
+
+386
+00:16:47,660 --> 00:16:48,380
+Oh, no.
+
+387
+00:16:48,640 --> 00:16:50,720
+He's actually serious about this.
+
+388
+00:16:51,040 --> 00:16:57,040
+Anyway, you had mentioned that you had resurrected Fallon.
+
+389
+00:16:57,480 --> 00:16:59,300
+Was she safe the last time you saw her?
+
+390
+00:16:59,960 --> 00:17:01,100
+Uh, yeah.
+
+391
+00:17:01,460 --> 00:17:02,660
+Do you know where she might be?
+
+392
+00:17:03,300 --> 00:17:05,600
+There are many places where you can hide on this floor,
+
+393
+00:17:05,820 --> 00:17:07,920
+but most of them are in orcs' territory.
+
+394
+00:17:08,340 --> 00:17:08,800
+Oh, yeah.
+
+395
+00:17:09,240 --> 00:17:10,440
+The orcs shouldn't be an issue.
+
+396
+00:17:11,160 --> 00:17:11,420
+Oh?
+
+397
+00:17:13,800 --> 00:17:14,780
+What'd they taste like?
+
+398
+00:17:14,820 --> 00:17:15,720
+We didn't eat them.
+
+399
+00:17:15,820 --> 00:17:16,860
+There were some things that happened,
+
+400
+00:17:16,940 --> 00:17:18,600
+and now we're in a cooperative relationship.
+
+401
+00:17:18,600 --> 00:17:19,600
+Mm-hmm.
+
+402
+00:17:19,600 --> 00:17:21,800
+Co-operative relationship?
+
+403
+00:17:22,360 --> 00:17:25,440
+Technically, it's an adventurous duty to kill any orcs.
+
+404
+00:17:26,040 --> 00:17:27,440
+Regarding where she is,
+
+405
+00:17:27,820 --> 00:17:30,600
+it's possible she's on a much deeper floor of the dungeon.
+
+406
+00:17:31,400 --> 00:17:33,860
+The one who kidnapped her may have taken her there.
+
+407
+00:17:34,320 --> 00:17:35,360
+Wait, kidnapped?
+
+408
+00:17:35,700 --> 00:17:36,460
+But why her?
+
+409
+00:17:36,740 --> 00:17:38,040
+Uh, well...
+
+410
+00:17:38,040 --> 00:17:41,360
+I think telling Shuro would be fine.
+
+411
+00:17:42,360 --> 00:17:44,520
+Sorry, but could I talk with him privately?
+
+412
+00:17:44,940 --> 00:17:45,380
+Sure.
+
+413
+00:17:45,580 --> 00:17:46,740
+That's not a problem at all.
+
+414
+00:17:55,040 --> 00:17:55,560
+So?
+
+415
+00:17:55,560 --> 00:18:04,240
+It's not that field ration pellets are bad,
+
+416
+00:18:04,400 --> 00:18:05,640
+but having them every day,
+
+417
+00:18:06,060 --> 00:18:09,620
+I just think you need to have something warm in your belly from time to time.
+
+418
+00:18:09,820 --> 00:18:10,560
+Cheers to that.
+
+419
+00:18:11,020 --> 00:18:13,060
+Meals should do a lot more than fill your stomach
+
+420
+00:18:13,060 --> 00:18:14,620
+until the next chance you get to eat.
+
+421
+00:18:15,000 --> 00:18:17,220
+You know, you're quite sensible for a dwarf.
+
+422
+00:18:17,780 --> 00:18:20,000
+Our lord's been sickly ever since childhood.
+
+423
+00:18:20,000 --> 00:18:21,880
+His appetite was lacking,
+
+424
+00:18:22,240 --> 00:18:24,140
+and it made everyone around him worry.
+
+425
+00:18:25,100 --> 00:18:26,820
+However, no matter the situation,
+
+426
+00:18:27,000 --> 00:18:29,360
+he would always eat the food I prepared for him.
+
+427
+00:18:30,180 --> 00:18:33,000
+Sometimes I'd be summoned to the kitchen in the middle of an assignment.
+
+428
+00:18:33,880 --> 00:18:35,960
+He was such an obedient child growing up
+
+429
+00:18:35,960 --> 00:18:37,180
+that it made me anxious.
+
+430
+00:18:38,040 --> 00:18:40,220
+The only selfish request he's ever made
+
+431
+00:18:40,220 --> 00:18:41,840
+was the one that brought us here.
+
+432
+00:18:41,840 --> 00:18:43,460
+Please, Maizuru.
+
+433
+00:18:44,180 --> 00:18:46,020
+There's someone that I wish to save.
+
+434
+00:18:47,040 --> 00:18:48,020
+Lend me your strength.
+
+435
+00:18:48,920 --> 00:18:49,340
+Oh.
+
+436
+00:18:50,880 --> 00:18:53,600
+To think some northern girl would steal his heart
+
+437
+00:18:53,600 --> 00:18:54,860
+during his training journey.
+
+438
+00:18:55,400 --> 00:18:57,500
+What can I even say to dissuade him?
+
+439
+00:18:57,980 --> 00:18:59,780
+You really want him to give up?
+
+440
+00:19:00,220 --> 00:19:02,100
+The head of the family bestowed me
+
+441
+00:19:02,100 --> 00:19:04,160
+with the task of looking after the young lord,
+
+442
+00:19:04,580 --> 00:19:06,660
+so I cannot act based on emotion.
+
+443
+00:19:07,340 --> 00:19:08,120
+In that case,
+
+444
+00:19:08,200 --> 00:19:09,900
+then what do you think you're doing right now?
+
+445
+00:19:09,900 --> 00:19:11,820
+If you have preserved foods,
+
+446
+00:19:11,920 --> 00:19:13,400
+there's no need to go through the trouble
+
+447
+00:19:13,400 --> 00:19:14,680
+of preparing a fresh meal.
+
+448
+00:19:15,620 --> 00:19:15,940
+Hmm?
+
+449
+00:19:16,720 --> 00:19:18,140
+Why do you reckon he ate up
+
+450
+00:19:18,140 --> 00:19:19,980
+all the things you personally made for him?
+
+451
+00:19:20,500 --> 00:19:22,280
+Maybe you didn't realize at the time,
+
+452
+00:19:22,460 --> 00:19:23,880
+but I know what you put in there.
+
+453
+00:19:24,120 --> 00:19:28,000
+A little ingredient called love.
+
+454
+00:19:30,100 --> 00:19:31,400
+What are you saying?
+
+455
+00:19:31,780 --> 00:19:33,600
+Are you proud of yourself for that one?
+
+456
+00:19:35,740 --> 00:19:37,480
+Although, at this point,
+
+457
+00:19:37,480 --> 00:19:38,860
+I just might give in.
+
+458
+00:19:38,860 --> 00:19:41,520
+So, depending on how things turn out,
+
+459
+00:19:41,820 --> 00:19:43,960
+perhaps I'll put in a good word for those, too.
+
+460
+00:19:49,540 --> 00:19:51,540
+Why did the art style change so much?
+
+461
+00:19:51,780 --> 00:19:53,940
+This depiction might be a bit of a stretch,
+
+462
+00:19:54,020 --> 00:19:54,580
+don't you think?
+
+463
+00:19:55,700 --> 00:19:56,140
+Yes.
+
+464
+00:19:56,560 --> 00:19:57,500
+This will suffice.
+
+465
+00:19:58,000 --> 00:19:58,900
+It's ready!
+
+466
+00:20:01,780 --> 00:20:02,560
+Hurry, dwarf!
+
+467
+00:20:02,560 --> 00:20:04,480
+It's important we have my lord eat this
+
+468
+00:20:04,480 --> 00:20:05,540
+while it's still warm!
+
+469
+00:20:06,920 --> 00:20:07,100
+Oh?
+
+470
+00:20:07,740 --> 00:20:08,460
+You two.
+
+471
+00:20:08,860 --> 00:20:10,100
+Why are you outside?
+
+472
+00:20:10,460 --> 00:20:12,320
+They said they wanted to speak in private.
+
+473
+00:20:13,400 --> 00:20:15,360
+My lord, I'm coming in.
+
+474
+00:20:16,980 --> 00:20:17,780
+My lord!
+
+475
+00:20:19,420 --> 00:20:20,720
+What is going on?
+
+476
+00:20:22,160 --> 00:20:23,560
+Did this man do something?
+
+477
+00:20:23,560 --> 00:20:26,320
+Tell me!
+
+478
+00:20:26,520 --> 00:20:27,840
+I need to know what happened here!
+
+479
+00:20:27,900 --> 00:20:29,900
+Sorry, but we couldn't hear from there.
+
+480
+00:20:31,440 --> 00:20:32,540
+It's black magic.
+
+481
+00:20:33,200 --> 00:20:34,320
+This man and the others
+
+482
+00:20:34,320 --> 00:20:36,180
+used black magic and monster flesh
+
+483
+00:20:36,180 --> 00:20:37,560
+to revive the northern girl.
+
+484
+00:20:38,120 --> 00:20:38,560
+What?
+
+485
+00:20:38,560 --> 00:20:42,640
+How could you do such a thing?
+
+486
+00:20:43,380 --> 00:20:45,040
+Do you even know what you have done?
+
+487
+00:20:45,560 --> 00:20:47,400
+People who deal with black magic,
+
+488
+00:20:47,960 --> 00:20:49,840
+the reasons that they have matter not.
+
+489
+00:20:50,100 --> 00:20:51,360
+They are nothing but criminals!
+
+490
+00:20:51,880 --> 00:20:54,440
+They get locked in dark cells until they die,
+
+491
+00:20:54,740 --> 00:20:56,480
+and their corpses are never returned.
+
+492
+00:20:56,960 --> 00:20:58,680
+If the western elves find out,
+
+493
+00:20:58,900 --> 00:21:00,620
+then who knows what they'll do to her?
+
+494
+00:21:01,280 --> 00:21:03,780
+That's assuming this leaves the dungeon, Shuro.
+
+495
+00:21:04,580 --> 00:21:06,380
+And you won't tell another soul
+
+496
+00:21:06,380 --> 00:21:07,500
+about any of this happening.
+
+497
+00:21:09,020 --> 00:21:09,580
+Right?
+
+498
+00:21:14,700 --> 00:21:16,540
+We had no other options.
+
+499
+00:21:17,600 --> 00:21:18,780
+Please understand.
+
+500
+00:21:21,540 --> 00:21:22,660
+Black magic.
+
+501
+00:21:23,200 --> 00:21:25,080
+This is crazier than I imagined.
+
+502
+00:21:25,760 --> 00:21:27,540
+How's this gonna turn out?
+
+503
+00:21:30,620 --> 00:21:57,320
+I must locate you as soon as possible.
+
